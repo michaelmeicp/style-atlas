@@ -1,15 +1,15 @@
 {
-  "galleryImages": 48,
+  "galleryImages": 49,
   "referenceOnly": 51,
   "stats": {
-    "verifiedPairs": 99,
+    "verifiedPairs": 100,
     "byPlatform": {
       "note": 49,
       "linkedin": 1,
       "substack": 1,
       "taste": 6,
       "monigarr": 1,
-      "budgetpixel": 25,
+      "budgetpixel": 26,
       "commons": 6,
       "venustai": 3,
       "pixmind": 2,
@@ -18,9 +18,9 @@
     },
     "rights": {
       "link-only": 51,
-      "displayable": 48
+      "displayable": 49
     },
-    "distinctStyles": 83,
+    "distinctStyles": 84,
     "repeatCreators": [
       "Tatiana Tsiguleva",
       "リンファ (Rinfa)",
@@ -2119,6 +2119,35 @@
       "imageAudit": "Native second-image PNG 864×1152 downloaded, decoded and visually checked; exact adjacent prompt and whole-post CC0 verified.",
       "classification": "art",
       "creatorStyleSource": "https://justrobstyles.com/s/gothic-engravure"
+    },
+    {
+      "id": "budgetpixel-justrob-fogged-glass-lacquer",
+      "creator": "@justrob via BudgetPixel AI",
+      "platform": "budgetpixel",
+      "channel": "creator-social",
+      "sourceDate": "2026-10-03",
+      "dateBasis": "posted",
+      "verifiedDate": "2026-11-19",
+      "source": "https://budgetpixel.com/p/89390",
+      "promptLocator": "原帖首張，人物穿桃紅緞裙站在濕街中央；主 Prompt 段落對應此幅，不是第二幅的幾何色塊裙。",
+      "styleLabel": "仿雜誌攝影：濕玻璃前景、冷灰街景與單一亮色",
+      "resultObservation": "雨滴和水痕分布成一層近景，人物前方也有少量水痕；她的臉和高亮桃紅緞裙比遠街清楚。灰藍建築、濕路和車燈在後方漸糊，底部帶仿印刷頁腳。",
+      "distinctStyleKey": "foreground-wet-pane-low-chroma-editorial-accent",
+      "distinctReason": "焦點不是濕路倒影或被街燈照亮的空中雨絲，而是在畫面前疊一層有水痕的透明面，同時保留可讀的人物，並以單一飽和色對比低彩背景。",
+      "method": "保持主角輪廓與眼睛清楚，把清晰水滴放在前層；先暫時拿掉這層做對照，測試畫面是否只剩普通的雨街倒影。",
+      "limitation": "生成的時尚編輯風格圖，不是 1974 年巴黎照片或實際雜誌刊頁；底部日期與小字是生成結果。雨痕和明暗只能支持視覺觀察，不能證明真的用了玻璃、長焦、閃燈、底片或四色印刷。未獨立確認提示文字起草者。",
+      "model": "Muse Image 1.0",
+      "rights": "displayable",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0（原帖標示）",
+      "rightsSource": "https://budgetpixel.com/p/89390",
+      "modification": "原始 PNG 位元組未改。",
+      "credit": "仿雜誌攝影：濕玻璃前景、冷灰街景與單一亮色 · @justrob via BudgetPixel AI · CC BY 4.0",
+      "copyPolicy": "僅展示可轉載成圖；完整提示見作者原帖。",
+      "asset": "assets/budgetpixel-justrob-fogged-glass-lacquer.png",
+      "imageAudit": "Native first PNG 1344×1792 decoded and inspected; SHA pinned against source transfer; exact adjacent prompt and whole-post grant checked.",
+      "classification": "photo",
+      "creatorStyleSource": "https://justrobstyles.com/s/fogged-glass-lacquer"
     }
   ]
 }
