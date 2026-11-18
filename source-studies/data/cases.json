@@ -8260,6 +8260,441 @@
           ]
         }
       }
+    },
+    {
+      "id": "photo11-ogawa-color-press",
+      "library": "photo",
+      "title": "小川一真蓮花：珂羅版主版加彩色石版",
+      "titleEn": "Ogawa lotus in collotype and color lithography",
+      "creator": "小川一真（Kazumasa Ogawa）",
+      "date": "約 1890 至 1895 年或以前",
+      "technique": "珂羅版影調底 × 色彩石版印刷",
+      "familySuggestion": "collotype-color-lithography",
+      "visual": "粉白花瓣與厚綠葉呈柔調，淺青藍色襯底延伸到有紙邊的版面內。",
+      "method": "荷蘭國家博物館逐件記錄把小川一真列為攝影與製版者，工藝是珂羅版主版配合彩色石版。",
+      "why": "先讀花瓣的攝影連續調，再看不同印刷工序承擔的色彩。它不是直接彩色拍攝，也不同於完成後用筆手塗。",
+      "unknown": "館方未公布各色版數、套準方式、紙張／墨組或此掃描的色彩校正，不可臆測。",
+      "prompt": "原創蓮科花卉的老式植物圖譜印張，以攝影灰階保住花瓣起伏，淡粉與青色分區疊印、略啞面紙邊，避免硬向量邊或手工筆刷紋全覆蓋。",
+      "promptEn": "Original turned-century botanical print of a fictional lotus-like bloom: continuous-tone photographic petals, restrained pale pink and cyan printed color zones, matte paper margins, no hard vector contours or blanket hand-brushed texture.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.rijksmuseum.nl/en/collection/object/Nelumbo-nucifera-of-Heilige-lotus--947043523a6955759df1811a9331bde2",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Nelumbo_nucifera_of_Heilige_lotus%2C_RP-F-2001-7-1575-2.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Nelumbo_nucifera_of_Heilige_lotus%2C_RP-F-2001-7-1575-2.jpg",
+        "publisher": "Rijksmuseum（藏品及工藝）；Wikimedia Commons（同項原檔）",
+        "credit": "Kazumasa Ogawa / Rijksmuseum, RP-F-2001-7-1575-2",
+        "checked": "2026-11-18",
+        "creditUrl": "https://www.rijksmuseum.nl/en/collection/object/Nelumbo-nucifera-of-Heilige-lotus--947043523a6955759df1811a9331bde2"
+      },
+      "license": {
+        "label": "CC0 1.0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "image": {
+        "src": "assets/photo11-ogawa-color-press.webp",
+        "alt": "小川一真蓮花：珂羅版主版加彩色石版，小川一真（Kazumasa Ogawa）",
+        "modification": "以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。",
+        "width": 935,
+        "height": 1400,
+        "sourceWidth": 4746,
+        "sourceHeight": 7104,
+        "sha256": "44b6488e9d3c95baf6c203ed203d45a3b7cee338b1d883c2c265cd4dad81d9d4",
+        "sourceFileSha256": "434dcdcc8078c2a42d0676afd32c050acef89e949ba9be4e7e4435fd9559f040",
+        "webpFileSha256": "44b6488e9d3c95baf6c203ed203d45a3b7cee338b1d883c2c265cd4dad81d9d4"
+      },
+      "family": {
+        "id": "collotype-color-lithography",
+        "zh": "珂羅版與彩色石版合印",
+        "en": "Collotype and color lithography composite",
+        "aliases": [
+          "collotype",
+          "珂羅版",
+          "彩色石版"
+        ],
+        "bucket": {
+          "id": "photo-paper",
+          "zh": "感光紙、暗房與印相",
+          "en": "Photosensitive media, darkroom and printing",
+          "aliases": [
+            "銀鹽",
+            "印相",
+            "暗房",
+            "print",
+            "film"
+          ]
+        }
+      }
+    },
+    {
+      "id": "photo11-gnd-split",
+      "library": "photo",
+      "title": "漸層減光鏡：保住天空，不把地面一起壓暗",
+      "titleEn": "Split-frame diagnostic for a graduated ND filter",
+      "creator": "Simon A. Eugster",
+      "date": "2010-06-21",
+      "technique": "前置灰漸層 · 同景濾鏡有無對照",
+      "familySuggestion": "graduated-neutral-density",
+      "visual": "相同山坡和屋頂的上方，左側天空保留灰雲結構，右側天空接近純白。中間可見濾鏡邊界，非畫面成品式的無縫處理。",
+      "method": "作者做左右同框示範：左邊有灰漸層減光鏡，右邊沒覆蓋濾鏡，雲部過曝。",
+      "why": "把持續亮度範圍在曝光前壓下，像是只減少天空光量；和偏光旋轉改善反射、包圍曝光後合成是不同手段。",
+      "unknown": "濾鏡強度及漸層高度未列；示範不能當作特定檔數的測量。",
+      "prompt": "原創山村景的實驗對照，屋頂和地面自然亮度維持，左半天空有灰雲細節，右半高光稍溢，清楚標示有與無灰漸層，不套色彩偏振。",
+      "promptEn": "Original country-village filter diagnostic: keep natural roof and ground brightness; left sky holds gray cloud texture, right sky is partly clipped. Mark graduated neutral density on/off, without adding a color-polarization look.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:GND_filter_difference.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:GND_filter_difference.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/GND_filter_difference.jpg",
+        "publisher": "Wikimedia Commons（作者或原始作品檔案）",
+        "credit": "Simon A. Eugster",
+        "checked": "2026-11-18"
+      },
+      "license": {
+        "label": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      "image": {
+        "src": "assets/photo11-gnd-split.webp",
+        "alt": "漸層減光鏡：保住天空，不把地面一起壓暗，Simon A. Eugster",
+        "modification": "以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。 轉檔沿用原授權。",
+        "width": 1400,
+        "height": 1111,
+        "sourceWidth": 3212,
+        "sourceHeight": 2548,
+        "sha256": "e01ed33d1dd6b49e9ffac1d4710837fb76f2d69700c17822beb5016ec1d50e08",
+        "sourceFileSha256": "db21bf52024ad6f99933e65886df6a47b8a4b411be653895ae845f21bc7494f0",
+        "webpFileSha256": "e01ed33d1dd6b49e9ffac1d4710837fb76f2d69700c17822beb5016ec1d50e08"
+      },
+      "displayKind": "technique",
+      "family": {
+        "id": "graduated-neutral-density",
+        "zh": "漸層減光與亮度平衡",
+        "en": "Graduated neutral density",
+        "aliases": [
+          "GND",
+          "graduated ND",
+          "減光漸層"
+        ],
+        "bucket": {
+          "id": "photo-spectral",
+          "zh": "光譜與光學對比",
+          "en": "Spectral and optical contrast",
+          "aliases": [
+            "濾鏡",
+            "波長",
+            "optical contrast",
+            "spectral"
+          ]
+        }
+      }
+    },
+    {
+      "id": "photo11-diffraction-architecture",
+      "library": "photo",
+      "title": "建築細節：四檔光圈辨識繞射",
+      "titleEn": "Four-aperture diffraction comparison on architecture",
+      "creator": "Javier Perez Montes",
+      "date": "2024-03-23",
+      "technique": "小光圈繞射 · 四張同部位裁切對照",
+      "familySuggestion": "aperture-diffraction",
+      "visual": "四格展示同一座亮石門：遠看相似，但細石紋和輪廓線寬度要用等尺寸檢視。",
+      "method": "作者用 f/8、f/11、f/16、f/22 四張照片比較，展示區域各約為原照的 13.81%。",
+      "why": "鎖同物距與輸出比例，辨識縮小光圈雖增加景深，衍射仍可降低特定平面上的細節。不是增加曝光補償就可恢復。",
+      "unknown": "原頁不足以控制所有混因，未提供 RAW、對焦實錄或重複次數，不能推出所有鏡頭的通用最佳光圈。",
+      "prompt": "原創夜間石材建築細節四格，同角度、焦點和裁切，從 f/8 到 f/22 比較同一門框石縫微對比；小光圈差別克制，不讓畫面變成手震拖影。",
+      "promptEn": "Original four-panel architectural masonry crop at night, identical angle, focus and crop; compare microcontrast in the same stone joints from f/8 through f/22. Keep the small-aperture effects subtle, no motion trails.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Example_of_difraction_in_photography_01.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Example_of_difraction_in_photography_01.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Example_of_difraction_in_photography_01.jpg",
+        "publisher": "Wikimedia Commons（作者或原始作品檔案）",
+        "credit": "Javier Perez Montes",
+        "checked": "2026-11-18"
+      },
+      "license": {
+        "label": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "image": {
+        "src": "assets/photo11-diffraction-architecture.webp",
+        "alt": "建築細節：四檔光圈辨識繞射，Javier Perez Montes",
+        "modification": "以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。 轉檔沿用原授權。",
+        "width": 1400,
+        "height": 933,
+        "sourceWidth": 2400,
+        "sourceHeight": 1600,
+        "sha256": "26e7e28eff57418de67fbe41070c494ffaca0750b256093f4dd34cfef9ad9835",
+        "sourceFileSha256": "c60021461df61da3a76af8dc9f315302655858f7d0486951162d50ae4fe84a39",
+        "webpFileSha256": "26e7e28eff57418de67fbe41070c494ffaca0750b256093f4dd34cfef9ad9835"
+      },
+      "displayKind": "technique",
+      "family": {
+        "id": "aperture-diffraction",
+        "zh": "光圈繞射與細節對照",
+        "en": "Aperture diffraction comparison",
+        "aliases": [
+          "繞射",
+          "diffraction",
+          "f-stop comparison"
+        ],
+        "bucket": {
+          "id": "photo-optic",
+          "zh": "光學取景、投影及透視",
+          "en": "Optical capture, projection and perspective",
+          "aliases": [
+            "鏡頭",
+            "視角",
+            "projection",
+            "optics"
+          ]
+        }
+      }
+    },
+    {
+      "id": "photo11-tokyo-diy-tilt",
+      "library": "photo",
+      "title": "丸之內夜街：自製傾角鏡頭保留局部焦帶",
+      "titleEn": "Marunouchi lights through a handmade tilt lens",
+      "creator": "Takashi Hososhima",
+      "date": "2013-12-01",
+      "technique": "現場使用自製傾角鏡頭 · 夜景局部焦帶",
+      "familySuggestion": "tilted-focus-plane",
+      "visual": "近端燈串變成大圓光斑，右側斜向延伸的樹枝仍有局部細線，人物只是遠處小型剪影，不是拍攝主體。",
+      "method": "攝影者說把自製傾角鏡裝在二手 Sony NEX-C3，去東京丸之內拍節慶燈飾測試。來源沒有列鏡頭傾轉量。",
+      "why": "這張先看焦內枝椏和漫漶燈點如何並存，與只靠後製條帶模糊不同。傾角能改變焦平面的走向，並不必然產生玩具化效果。",
+      "unknown": "作者未列鏡頭結構、光圈值與角度；不單憑燈點形狀推定所有模糊的成因。",
+      "prompt": "原創冬季夜街，燈樹從近左延至遠右，偏斜方向有一段枝椏留在焦內，近端暖光拉成自然圓光斑；遠行人只留不辨識剪影，不做仿建築。",
+      "promptEn": "Original winter night street with illuminated trees receding diagonally, short branch stretch stays in focus, closer warm bulbs form natural round blur. Any distant passer-by is an unrecognizable silhouette, no imitation of a particular building.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Light_decoration_in_Marunouchi%2C_Tokyo_(11153842966).jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Light_decoration_in_Marunouchi%2C_Tokyo_(11153842966).jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Light_decoration_in_Marunouchi%2C_Tokyo_(11153842966).jpg",
+        "publisher": "Wikimedia Commons（作者或原始作品檔案）",
+        "credit": "Takashi Hososhima",
+        "checked": "2026-11-18",
+        "creatorUrl": "https://www.flickr.com/photos/46151146@N04/11153842966"
+      },
+      "license": {
+        "label": "CC BY-SA 2.0",
+        "url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "note": "Commons 於 2015-05-30 驗證 Flickr 同檔為 CC BY-SA 2.0。"
+      },
+      "image": {
+        "src": "assets/photo11-tokyo-diy-tilt.webp",
+        "alt": "丸之內夜街：自製傾角鏡頭保留局部焦帶，Takashi Hososhima",
+        "modification": "以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。 轉檔沿用原授權。",
+        "width": 930,
+        "height": 1400,
+        "sourceWidth": 3264,
+        "sourceHeight": 4912,
+        "sha256": "a62da0f9b718c04d7c686469aa25e3bf72fa873cb81be7b37b6e23cb560c4271",
+        "sourceFileSha256": "71d266c59eba78821c9a8f2bd57ceb050ae0d7ee1cd5b81414b1d0432b7f4493",
+        "webpFileSha256": "a62da0f9b718c04d7c686469aa25e3bf72fa873cb81be7b37b6e23cb560c4271"
+      },
+      "family": {
+        "id": "tilted-focus-plane",
+        "zh": "傾轉焦平面",
+        "en": "Tilting the focus plane",
+        "aliases": [
+          "傾斜焦平面",
+          "tilt lens",
+          "focus plane"
+        ],
+        "bucket": {
+          "id": "photo-optic",
+          "zh": "光學取景、投影及透視",
+          "en": "Optical capture, projection and perspective",
+          "aliases": [
+            "鏡頭",
+            "視角",
+            "projection",
+            "optics"
+          ]
+        }
+      }
+    },
+    {
+      "id": "photo11-autochrome-kahn-a19",
+      "library": "photo",
+      "title": "海岸村落彩色玻璃片：白屋與海灣保持色階差",
+      "titleEn": "Sidi Bou Saïd coast on original Autochrome glass",
+      "creator": "Jules Gervais-Courtellemont",
+      "date": "1909 或 1910 年",
+      "technique": "奧托克羅姆彩色玻璃片 · 加色濾粒",
+      "familySuggestion": "autochrome-additive-screen",
+      "visual": "白色房群靠近海岸，天海是低飽和灰藍，較暗山坡包圍城鎮，板邊保留黑框與側沿字樣。",
+      "method": "同檔玻璃片 A19 題記與館方館藏資料可互相定位。檔案資料列攝影者 Jules Gervais-Courtellemont、Autochrome 及玻璃承載。收錄的確切館藏檔案標 CC0；館方單件頁本輪未直接讀到。",
+      "why": "這是由有色微粒助成彩色記錄的玻璃正片，不是後期上色，也不是 Lippmann 干涉彩片。用建築白牆與自然灰藍天海檢查歷史色版的可讀關係。",
+      "unknown": "數位檔不能給出原作用相機和曝光條件，也不代表原玻璃片在任何光源下的絕對色值。博物館的獨立物件網址未成功讀回。",
+      "prompt": "原創沿岸白屋小鎮的早期彩色玻璃片。低飽和灰藍海面和遠山，中景淡色房屋清楚可分，暗山坡層次仍存；薄黑玻璃片邊，不加假手寫、泛黃污點或重飽和。",
+      "promptEn": "Original early-color glass plate of pale houses above a coastal bay. Subdued blue-gray sea and distant hills, clear pale buildings against darker slopes, a thin black glass border, no fake handwriting, yellow stains or heavy saturation.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Vue_du_village_donnant_sur_la_mer_-_A19.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Vue_du_village_donnant_sur_la_mer_-_A19.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Vue_du_village_donnant_sur_la_mer_-_A19.jpg",
+        "publisher": "Wikimedia Commons（作者或原始作品檔案）",
+        "credit": "Jules Gervais-Courtellemont / Musée Albert-Kahn, A19",
+        "checked": "2026-11-18",
+        "institutionUrl": "https://collections.albert-kahn.hauts-de-seine.fr/document/vue-du-village-donnant-sur-la-mer/617a7a39cf8b8968b333acc4"
+      },
+      "license": {
+        "label": "CC0 1.0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": "檔案與物件資訊標示明確；可另查館方 Archives de la Planète 開放資料入口。單件入口本輪無法讀取，不改稱已核對直接讀頁。"
+      },
+      "image": {
+        "src": "assets/photo11-autochrome-kahn-a19.webp",
+        "alt": "海岸村落彩色玻璃片：白屋與海灣保持色階差，Jules Gervais-Courtellemont",
+        "modification": "以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。",
+        "width": 1400,
+        "height": 1038,
+        "sourceWidth": 2560,
+        "sourceHeight": 1898,
+        "sha256": "de4fe6cec84fbddfb314ac541b87c902878d73de1d95461a3471de22a84f4a12",
+        "sourceFileSha256": "59bf1a9d09489a375092183cbadf5cd243e079325b49de05ec8fbaa98c99c7ee",
+        "webpFileSha256": "de4fe6cec84fbddfb314ac541b87c902878d73de1d95461a3471de22a84f4a12"
+      },
+      "family": {
+        "id": "autochrome-additive-screen",
+        "zh": "Autochrome 加色彩屏",
+        "en": "Autochrome additive color screen",
+        "aliases": [
+          "Autochrome",
+          "澱粉加色",
+          "玻璃彩片"
+        ],
+        "bucket": {
+          "id": "photo-paper",
+          "zh": "感光紙、暗房與印相",
+          "en": "Photosensitive media, darkroom and printing",
+          "aliases": [
+            "銀鹽",
+            "印相",
+            "暗房",
+            "print",
+            "film"
+          ]
+        }
+      }
+    },
+    {
+      "id": "met-cros-pate-de-verre",
+      "library": "art",
+      "title": "Henry Cros｜花飾牛像玻璃粉鑄浮雕",
+      "creator": "César-Isidore-Henry Cros",
+      "date": "1891–1907 年",
+      "technique": "玻璃粉入模（pâte-de-verre）・以浮雕轉折和霧色共同造型",
+      "familyId": "glass-paste-mold-forming",
+      "visual": "偏白的人像上身及手臂往上伸，旁邊較深的動物和背景紋理有錯開的高低，整件厚邊略不規則；圖中表面多為柔霧亮點而不是均勻鏡光。",
+      "method": "館方記錄 pâte-de-verre 為色玻璃粉在泥模中成形並燒製，本件用於浮雕而非薄片彩窗。安全比較可用既有可觸摸樣品或照片，以相同掠光比較邊、底和凸面，並與均質吹玻璃表面的高光走向對照。",
+      "why": "浮雕陰影和玻璃自身的淡色差把主形與背景分開，不必靠高飽和描線。表面差異比從照片追猜模溫更有用。",
+      "unknown": "作品的粉粒大小、配方、原模與燒製曲線未列；不是手邊做玻璃製程指南，在此不從照片判透光率或填模壓力。",
+      "prompt": "原創淡煙灰玻璃粉鑄浮雕視覺，虛構兩株植物由低起伏底圖轉到較高葉片，霧質與凸面掠光分開，留不規則邊緣，不模仿原題材或人物。",
+      "promptEn": "Original pale smoky pâte-de-verre relief concept with two invented plants emerging from a low textured ground toward higher leaves. Distinguish ground haze from raking highlights on high points and retain a softly uneven edge without copying the original subject.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.metmuseum.org/art/collection/search/195144",
+        "publisher": "The Metropolitan Museum of Art",
+        "credit": "César-Isidore-Henry Cros. The Metropolitan Museum of Art, Purchase, Edward C. Moore Jr. Gift, 1924 (24.131.1), CC0 archive supplied by The Met.",
+        "checked": "2026-11-18",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Pasipha%C3%AB_Adorning_the_Bull_with_Flowers_MET_ES6021.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Pasipha%C3%AB_Adorning_the_Bull_with_Flowers_MET_ES6021.jpg"
+      },
+      "license": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "image": {
+        "src": "assets/met-cros-pate-de-verre.webp",
+        "width": 1280,
+        "height": 929,
+        "alt": "偏白的人像上身及手臂往上伸，旁邊較深的動物和背景紋理有錯開的高低，整件厚邊略不規則；圖中表面多為柔霧亮點而不是均勻鏡光。",
+        "modification": "等比例縮小並轉存 WebP，未裁切或調色。",
+        "sha256": "8644bd2b5323d5ed339339821ce85eb3cafaa78fe5ce1f1e47bc36354e018743"
+      },
+      "family": {
+        "id": "glass-paste-mold-forming",
+        "zh": "玻璃粉入模造型",
+        "en": "Mold-forming with glass paste",
+        "aliases": [
+          "玻璃粉",
+          "玻璃浮雕",
+          "pâte-de-verre",
+          "glass paste"
+        ],
+        "bucket": {
+          "id": "art-object",
+          "zh": "立體材料與工藝",
+          "en": "Objects and crafted materials",
+          "aliases": [
+            "材料",
+            "工藝",
+            "craft",
+            "object"
+          ]
+        }
+      }
+    },
+    {
+      "id": "met-haring-jacquard-doublecloth",
+      "library": "art",
+      "title": "David Daniel Haring｜雙層提花蓋毯",
+      "creator": "David Daniel Haring",
+      "date": "1834 年",
+      "technique": "手織機提花裝置・雙層織物的邊飾及中縫",
+      "familyId": "jacquard-doublecloth",
+      "visual": "黑白館藏照裡，多排亮花、星樣和窄邊紋從深底浮出，四側邊飾的圖樣有方向。上下短邊與兩側寬窄連續花紋很容易分辨。",
+      "method": "館方記錄以有提花附件的手織機織棉及毛雙層布，成品兩幅從中央縫合。安全比較可翻看權利允許的現代雙層織樣或館方正背照：以同位置對比經緯和顏色翻轉，再用尺在圖上檢單元間隔。",
+      "why": "重複圖案來自紗線結構，不是蓋毯織成以後才印上；「兩幅縫成」和「兩層互織」是不同尺度的事。",
+      "unknown": "館方說原布深藍羊毛與未染棉；本卡用的是館方歷史黑白檔，不補染。此檔未展示背面，不由正面推算完整重複距離、提花卡條或換梭順序。",
+      "prompt": "原創雙層手織毯構成圖，靛藍和奶白雙色，自創菱葉及星形單元有固定節距，長邊加稀疏小波紋，中心只淡示兩片接合；不模仿館藏邊飾或題字。",
+      "promptEn": "Original indigo-and-cream doublecloth foot blanket study with invented diamond leaves and star forms set at consistent intervals, a sparse wave border and a restrained suggestion of a central join. No copied museum border or lettering.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.metmuseum.org/art/collection/search/13646",
+        "publisher": "The Metropolitan Museum of Art",
+        "credit": "David Daniel Haring. The Metropolitan Museum of Art, Mrs. Roger F. Brunschwig Fund, 1988 (1988.127), CC0 black-and-white image archive supplied by The Met.",
+        "checked": "2026-11-18",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Coverlet_MET_244673.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Coverlet_MET_244673.jpg"
+      },
+      "license": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "image": {
+        "src": "assets/met-haring-jacquard-doublecloth.webp",
+        "width": 982,
+        "height": 1280,
+        "alt": "黑白館藏照裡，多排亮花、星樣和窄邊紋從深底浮出，四側邊飾的圖樣有方向。上下短邊與兩側寬窄連續花紋很容易分辨。",
+        "modification": "等比例縮小並轉存 WebP，未裁切或調色。",
+        "sha256": "9a1074fe28eed77e3c4b0b9afcbefc293b3f334f2c42f16fbbc26a74b49b03c7"
+      },
+      "family": {
+        "id": "jacquard-doublecloth",
+        "zh": "提花雙層布織造",
+        "en": "Jacquard doublecloth weaving",
+        "aliases": [
+          "Jacquard",
+          "doublecloth",
+          "雙層布",
+          "提花"
+        ],
+        "bucket": {
+          "id": "art-object",
+          "zh": "立體材料與工藝",
+          "en": "Objects and crafted materials",
+          "aliases": [
+            "材料",
+            "工藝",
+            "craft",
+            "object"
+          ]
+        }
+      }
     }
   ]
 }

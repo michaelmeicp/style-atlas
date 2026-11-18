@@ -1089,3 +1089,61 @@
 - 展示權利：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
 - 權利依據：https://commons.wikimedia.org/wiki/File:Printing_in_a_letterpress.webm#Licensing
 - 檔案調整：從作者約 27 秒錄影在約 1、13、21、25 秒擷取四個完整畫幅，等比例並排、加英文時間標籤、轉成靜態 WebP；不帶音軌，色彩未主動修改。轉檔圖維持 CC BY-SA 4.0，不代表原作者背書。
+
+## 小川一真蓮花：珂羅版主版加彩色石版
+- 檔案：assets/photo11-ogawa-color-press.webp
+- 署名：Kazumasa Ogawa / Rijksmuseum, RP-F-2001-7-1575-2
+- 來源：https://www.rijksmuseum.nl/en/collection/object/Nelumbo-nucifera-of-Heilige-lotus--947043523a6955759df1811a9331bde2
+- 展示權利：CC0 1.0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Nelumbo_nucifera_of_Heilige_lotus%2C_RP-F-2001-7-1575-2.jpg
+- 檔案調整：以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。
+
+## 漸層減光鏡：保住天空，不把地面一起壓暗
+- 檔案：assets/photo11-gnd-split.webp
+- 署名：Simon A. Eugster
+- 來源：https://commons.wikimedia.org/wiki/File:GND_filter_difference.jpg
+- 展示權利：CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:GND_filter_difference.jpg
+- 檔案調整：以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。 轉檔沿用原授權。
+
+## 建築細節：四檔光圈辨識繞射
+- 檔案：assets/photo11-diffraction-architecture.webp
+- 署名：Javier Perez Montes
+- 來源：https://commons.wikimedia.org/wiki/File:Example_of_difraction_in_photography_01.jpg
+- 展示權利：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Example_of_difraction_in_photography_01.jpg
+- 檔案調整：以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。 轉檔沿用原授權。
+
+## 丸之內夜街：自製傾角鏡頭保留局部焦帶
+- 檔案：assets/photo11-tokyo-diy-tilt.webp
+- 署名：Takashi Hososhima
+- 來源：https://commons.wikimedia.org/wiki/File:Light_decoration_in_Marunouchi%2C_Tokyo_(11153842966).jpg
+- 展示權利：CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Light_decoration_in_Marunouchi%2C_Tokyo_(11153842966).jpg
+- 補充：Commons 於 2015-05-30 驗證 Flickr 同檔為 CC BY-SA 2.0。
+- 檔案調整：以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。 轉檔沿用原授權。
+
+## 海岸村落彩色玻璃片：白屋與海灣保持色階差
+- 檔案：assets/photo11-autochrome-kahn-a19.webp
+- 署名：Jules Gervais-Courtellemont / Musée Albert-Kahn, A19
+- 來源：https://commons.wikimedia.org/wiki/File:Vue_du_village_donnant_sur_la_mer_-_A19.jpg
+- 展示權利：CC0 1.0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Vue_du_village_donnant_sur_la_mer_-_A19.jpg
+- 補充：檔案與物件資訊標示明確；可另查館方 Archives de la Planète 開放資料入口。單件入口本輪無法讀取，不改稱已核對直接讀頁。
+- 檔案調整：以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。
+
+## Henry Cros｜花飾牛像玻璃粉鑄浮雕
+- 檔案：assets/met-cros-pate-de-verre.webp
+- 署名：César-Isidore-Henry Cros. The Metropolitan Museum of Art, Purchase, Edward C. Moore Jr. Gift, 1924 (24.131.1), CC0 archive supplied by The Met.
+- 來源：https://www.metmuseum.org/art/collection/search/195144
+- 展示權利：CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Pasipha%C3%AB_Adorning_the_Bull_with_Flowers_MET_ES6021.jpg
+- 檔案調整：等比例縮小並轉存 WebP，未裁切或調色。
+
+## David Daniel Haring｜雙層提花蓋毯
+- 檔案：assets/met-haring-jacquard-doublecloth.webp
+- 署名：David Daniel Haring. The Metropolitan Museum of Art, Mrs. Roger F. Brunschwig Fund, 1988 (1988.127), CC0 black-and-white image archive supplied by The Met.
+- 來源：https://www.metmuseum.org/art/collection/search/13646
+- 展示權利：CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Coverlet_MET_244673.jpg
+- 檔案調整：等比例縮小並轉存 WebP，未裁切或調色。

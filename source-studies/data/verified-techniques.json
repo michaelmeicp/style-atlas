@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "goal": 500,
-  "verifiedTechniques": 16,
+  "verifiedTechniques": 20,
   "byLibrary": {
-    "art": 6,
-    "photo": 10
+    "art": 8,
+    "photo": 12
   },
   "entries": [
     {
@@ -325,6 +325,86 @@
         "control": "比較獲許可的裝幀樣張或館方不同角度圖與普通黃墨描邊。",
         "comparison": "相同主題或光位條件下，與 無墨紙面壓印 對照。",
         "passSignal": "金紋亮度隨光位變而不靠線稿灰階；裝飾組合仍可辨識。"
+      }
+    },
+    {
+      "id": "mold-fired-glass-powder",
+      "library": "art",
+      "name": {
+        "zh": "玻璃粉入模燒製",
+        "en": "Mold-fired pâte de verre"
+      },
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/195144",
+      "parentFamily": "glass-paste-mold-forming",
+      "observed": "館方描述玻璃粉和泥模，成品凸部與薄邊在圖中有不同色層和明暗。",
+      "method": "館方記錄 pâte-de-verre 為色玻璃粉在泥模中成形並燒製，本件用於浮雕而非薄片彩窗。安全比較可用既有可觸摸樣品或照片，以相同掠光比較邊、底和凸面，並與均質吹玻璃表面的高光走向對照。",
+      "limits": "未知本件配比、燒成曲線和修邊方法。",
+      "nearest": "均質吹玻璃",
+      "difference": "玻璃粉先按模形成浮雕與局部色料，並非吹製時拉出均質薄壳。",
+      "comparison": {
+        "control": "保留題材及觀看光線等可控條件",
+        "comparison": "用已成型合法樣品或來源照片看同角度掠光，對照凸面與邊部色層。",
+        "passSignal": "玻璃粉先按模形成浮雕與局部色料，並非吹製時拉出均質薄壳。"
+      }
+    },
+    {
+      "id": "jacquard-doublecloth-loom",
+      "library": "art",
+      "name": {
+        "zh": "提花雙層布織造",
+        "en": "Jacquard-controlled doublecloth weaving"
+      },
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/13646",
+      "parentFamily": "jacquard-doublecloth",
+      "observed": "同一紋樣在舊黑白照片可辨，館方確認兩層紋面和中央縫合。",
+      "method": "館方記錄以有提花附件的手織機織棉及毛雙層布，成品兩幅從中央縫合。安全比較可翻看權利允許的現代雙層織樣或館方正背照：以同位置對比經緯和顏色翻轉，再用尺在圖上檢單元間隔。",
+      "limits": "黑白圖不能證實紗線實際顏色；反面未從這張圖驗證。",
+      "nearest": "單層布面印花",
+      "difference": "圖案靠經緯與兩層結構形成，不是後印在單層布上。",
+      "comparison": {
+        "control": "保留題材及觀看光線等可控條件",
+        "comparison": "以合法示例或另有正背照的清楚樣本，查同位置是否有兩層結構／相反紋面，再與印花背面對照。",
+        "passSignal": "圖案靠經緯與兩層結構形成，不是後印在單層布上。"
+      }
+    },
+    {
+      "id": "camera-autochrome-additive-glass",
+      "library": "photo",
+      "name": {
+        "zh": "Autochrome 單片加色彩屏",
+        "en": "Autochrome additive screen on one glass plate"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vue_du_village_donnant_sur_la_mer_-_A19.jpg",
+      "parentFamily": "autochrome-additive-screen",
+      "observed": "A19 是玻璃片 Autochrome；原檔可看到村落色層，館藏料號可對應。",
+      "method": "同檔玻璃片 A19 題記與館方館藏資料可互相定位。檔案資料列攝影者 Jules Gervais-Courtellemont、Autochrome 及玻璃承載。收錄的確切館藏檔案標 CC0；館方單件頁本輪未直接讀到。",
+      "limits": "不從縮圖認定每粒色篩或推斷個別顯影配方。",
+      "nearest": "手工上色蛋白印相",
+      "difference": "靠相機記下同一片材的顏色關係，不是相紙印成後逐區手上色。",
+      "comparison": {
+        "control": "保留題材及觀看光線等可控條件",
+        "comparison": "以館方非破壞放大影像查彩篩，和手上色相紙的邊緣/反射圖對照。",
+        "passSignal": "靠相機記下同一片材的顏色關係，不是相紙印成後逐區手上色。"
+      }
+    },
+    {
+      "id": "photomechanical-collotype-color-matrices",
+      "library": "photo",
+      "name": {
+        "zh": "珂羅版主版結合彩色石版",
+        "en": "Collotype key plus lithographic color matrices"
+      },
+      "sourceUrl": "https://www.rijksmuseum.nl/en/collection/object/Nelumbo-nucifera-of-Heilige-lotus--947043523a6955759df1811a9331bde2",
+      "parentFamily": "collotype-color-lithography",
+      "observed": "館方記錄小川一真攝影與製版，珂羅版主版配彩色石版；柔分層影調與局部色塊可辨。",
+      "method": "荷蘭國家博物館逐件記錄把小川一真列為攝影與製版者，工藝是珂羅版主版配合彩色石版。",
+      "limits": "印序、色版數及原版墨色未核實。",
+      "nearest": "純分色套印石版",
+      "difference": "有獨立攝影機械製得的影調主版，不是單純多石分色以每塊石版共同承擔全部形。",
+      "comparison": {
+        "control": "保留題材及觀看光線等可控條件",
+        "comparison": "在館方放大圖或合法質感樣中，比灰階影調區與色塊邊緣定位，找主版影調與彩色版的不同作用。",
+        "passSignal": "有獨立攝影機械製得的影調主版，不是單純多石分色以每塊石版共同承擔全部形。"
       }
     }
   ]
