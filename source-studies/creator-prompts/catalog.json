@@ -1,15 +1,15 @@
 {
-  "galleryImages": 47,
+  "galleryImages": 48,
   "referenceOnly": 51,
   "stats": {
-    "verifiedPairs": 98,
+    "verifiedPairs": 99,
     "byPlatform": {
       "note": 49,
       "linkedin": 1,
       "substack": 1,
       "taste": 6,
       "monigarr": 1,
-      "budgetpixel": 24,
+      "budgetpixel": 25,
       "commons": 6,
       "venustai": 3,
       "pixmind": 2,
@@ -18,9 +18,9 @@
     },
     "rights": {
       "link-only": 51,
-      "displayable": 47
+      "displayable": 48
     },
-    "distinctStyles": 82,
+    "distinctStyles": 83,
     "repeatCreators": [
       "Tatiana Tsiguleva",
       "リンファ (Rinfa)",
@@ -2090,6 +2090,35 @@
       "imageAudit": "Original PNG 1344×1792 downloaded, decoded and visually checked; correct per-output prompt and license verified.",
       "classification": "photo",
       "creatorStyleSource": "https://justrobstyles.com/s/wartime-documentary"
+    },
+    {
+      "id": "budgetpixel-justrob-gothic-engravure",
+      "creator": "@justrob via BudgetPixel AI",
+      "platform": "budgetpixel",
+      "channel": "creator-social",
+      "sourceDate": "2026-11-14",
+      "dateBasis": "posted",
+      "verifiedDate": "2026-11-19",
+      "source": "https://budgetpixel.com/p/107587",
+      "promptLocator": "原帖第二張：戴花冠坐在城堡石欄旁的人像。使用圖下對應的 Prompt，不是首圖的黑色短裙指令。",
+      "styleLabel": "仿雕版插畫：用細密交叉排線塑造明暗",
+      "resultObservation": "斗篷、襪面和石牆依曲面各有不同方向的細線；深陰影疊加密線，亮處留淺紙色。右上幾何格線只作背景。",
+      "distinctStyleKey": "engraved-directional-crosshatch-density",
+      "distinctReason": "重點是順著形體調整微細交叉線的方向和密度，讓衣褶、石材和皮膚各有層次；不同於仿木刻缺墨斷紋，也不是讓製圖格線和半透明色塊穿過人物。",
+      "method": "先用疏線描亮面，再沿衣褶增加第二層不同方向的排線；對照不加第二層時，陰影是否仍能交代形體，格線可暫時移除以免混淆。",
+      "limitation": "AI 模擬舊書版畫的觀感，並非實物雕版、蝕刻或古籍。圖中有花枝及格線，但沒有指令描寫的鮮明花園光色；不把每個細節都說成有做到。未獨立確認提示文字起草者。",
+      "model": "Flux 1.1 Pro",
+      "rights": "displayable",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseLabel": "CC0 1.0（原帖標示）",
+      "rightsSource": "https://budgetpixel.com/p/107587",
+      "modification": "原始 PNG 位元組未改。",
+      "credit": "仿雕版插畫：用細密交叉排線塑造明暗 · @justrob via BudgetPixel AI · CC0 1.0",
+      "copyPolicy": "僅展示可轉載的成圖；完整提示見作者原帖。",
+      "asset": "assets/budgetpixel-justrob-gothic-engravure.png",
+      "imageAudit": "Native second-image PNG 864×1152 downloaded, decoded and visually checked; exact adjacent prompt and whole-post CC0 verified.",
+      "classification": "art",
+      "creatorStyleSource": "https://justrobstyles.com/s/gothic-engravure"
     }
   ]
 }
