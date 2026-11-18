@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#f8f6f1">
+<meta name="description" content="風格圖鑑：探索美術與攝影風格，對照原創示意與中英提示詞。">
+<title>風格圖鑑 · Style Atlas</title>
+<link rel="icon" type="image/svg+xml" href="./mark.svg">
+<link rel="stylesheet" href="./styles.css">
+<script type="module" src="./app.mjs"></script>
+</head>
+<body>
+<a class="skip" href="#gallery">跳到風格圖庫</a>
+<header class="mast">
+ <div class="mast-inner">
+  <a href="./" class="logo" aria-label="風格圖鑑首頁"><img width="32" height="32" src="./mark.svg" alt=""><span>STYLE ATLAS<small>風格圖鑑</small></span></a>
+  <nav class="toplinks" aria-label="網站導覽"><button class="quiet" type="button" id="saved" aria-pressed="false"><span aria-hidden="true">♡</span> 收藏 <span id="favorite-count">0</span></button><button class="quiet" id="about" type="button">關於圖庫</button></nav>
+ </div>
+</header>
+<main>
+ <section class="hero" aria-labelledby="hero-title">
+  <div class="hero-copy">
+   <p class="eyebrow"><span></span> THE VISUAL REFERENCE INDEX</p>
+   <h1 id="hero-title">風格<span>圖鑑</span></h1>
+   <p class="hero-desc">從筆觸到光線，一格一種視覺方向。<br>先看效果，再把提示詞帶進你的下一張圖。</p>
+   <p class="hero-stats"><span id="art-count">1,008</span> 美術配方 <i aria-hidden="true"></i> <span id="photo-count">1,008</span> 攝影配方</p>
+  </div>
+  <div class="hero-art" id="hero-art" aria-label="圖庫選集">
+    <div class="hero-frame hero-frame-primary"><div class="hero-pattern" aria-hidden="true"></div><div class="hero-image" id="hero-image"></div><em>01 / VISUAL STUDIES</em></div>
+    <div class="hero-frame hero-frame-secondary"><div class="hero-pattern" aria-hidden="true"></div><div class="hero-image" id="hero-image-2"></div><em>02 / CAMERA STUDIES</em></div>
+  </div>
+ </section>
+ <section class="workspace" id="gallery" tabindex="-1" aria-label="風格圖庫">
+  <nav class="libraries" aria-label="風格圖庫選擇">
+   <button class="library selected" type="button" data-library="art" aria-pressed="true"><span class="serial">01</span><span>美術</span><small>ART</small></button>
+   <button class="library" type="button" data-library="photo" aria-pressed="false"><span class="serial">02</span><span>攝影</span><small>PHOTO</small></button>
+  </nav>
+  <div class="workspace-head">
+   <div><p id="section-kicker" class="eyebrow">01 / ART LIBRARY</p><h2 id="library-heading">探索美術</h2><p class="section-caption" id="section-caption">先選一種媒材、筆觸或構圖。每格都是可直接調整的創作配方。</p></div>
+   <label class="search"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="10.25" cy="10.25" r="5.25"/><path d="m14 14 5 5"/></svg><input id="search" type="search" placeholder="試試：水墨、soft light" autocomplete="off" aria-label="搜尋中英文風格、標籤與用途"><kbd aria-hidden="true">/</kbd></label>
+  </div>
+  <div class="facets" id="facets">
+   <label>分類<select id="category" aria-label="分類"><option value="">所有分類</option></select></label>
+   <label>用途或標籤<select id="use" aria-label="用途或標籤"><option value="">全部用途</option></select></label>
+   <button type="button" class="text-button" id="clear" hidden>清除篩選</button>
+  </div>
+  <div class="results-head"><p id="result-count" role="status">正在載入圖鑑…</p><button class="text-button" type="button" id="compare-link" disabled>比較 <span id="compare-count">0</span> / 2</button></div>
+  <div class="cards" id="cards"><div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div></div>
+  <div class="more-wrap" id="pagination" hidden><button class="text-button" id="previous" type="button">← 上一頁</button><span id="page-label"></span><button class="pill" id="more" type="button">下一頁 <span aria-hidden="true">→</span></button></div>
+ </section>
+</main>
+<footer class="footer"><div><strong>STYLE ATLAS</strong><p>原創示意圖與提示詞配方。圖像是風格示意，不是提示詞在特定模型中的輸出保證。</p></div><button type="button" class="text-button" id="back-top">回頂端 ↑</button></footer>
+<dialog id="details" aria-labelledby="dialog-title"><div id="dialog-content"></div></dialog>
+<dialog id="comparison" aria-labelledby="compare-title"><div id="compare-content"></div></dialog>
+<dialog id="about-dialog" aria-labelledby="about-title"><div class="dialog-shell"><div class="dialog-top"><h2 id="about-title">關於風格圖鑑</h2><button type="button" data-close aria-label="關閉">×</button></div><p>風格家族是媒材、技法或攝影語彙的分類。「配方」則是依主體、構圖或照明變化設計的可用方案，不等同一種獨立藝術流派。</p><p>預覽是原創風格示意。攝影區使用合成場景，不是實拍；主要展示光線、色彩與取景，畫面物件未必逐一對應提示詞。所有提示詞可按你的主題調整。</p><p>收藏只留在目前的瀏覽器。這個網站不需要帳號，不會上傳你的收藏或提示詞。</p><p><a id="sources" href="./research/sources.html">參考與編輯說明 ↗</a></p></div></dialog>
+<p id="toast" role="status" aria-live="polite" hidden></p>
+</body></html>
