@@ -33,6 +33,31 @@
         "width": 599,
         "height": 477,
         "sha256": "a6e5e2a07a8ae35ed7aa3115a1d4da79ce81694159a0bfb445d5e290ac8e30e5"
+      },
+      "family": {
+        "id": "oil-painting",
+        "zh": "油彩繪畫",
+        "en": "Oil painting",
+        "aliases": [
+          "厚塗",
+          "筆觸",
+          "立體派",
+          "oil on canvas",
+          "impasto",
+          "Cubism"
+        ],
+        "bucket": {
+          "id": "art-2d",
+          "zh": "平面原畫與字形",
+          "en": "Two-dimensional art and lettering",
+          "aliases": [
+            "畫稿",
+            "書法",
+            "illustration",
+            "painting",
+            "lettering"
+          ]
+        }
       }
     },
     {
@@ -68,6 +93,31 @@
         "width": 1013,
         "height": 1200,
         "sha256": "b23bbcf0b7cd2eda65536b1422400cd239e03d5a5e4cf55c1d113b7abecd27a2"
+      },
+      "family": {
+        "id": "contact-exposure-cameraless",
+        "zh": "無鏡頭接觸曝光",
+        "en": "Lensless contact exposure",
+        "aliases": [
+          "藍曬",
+          "銀鹽接觸",
+          "物影",
+          "photogram",
+          "cyanotype",
+          "contact print"
+        ],
+        "bucket": {
+          "id": "photo-paper",
+          "zh": "感光紙、暗房與印相",
+          "en": "Photosensitive media, darkroom and printing",
+          "aliases": [
+            "銀鹽",
+            "印相",
+            "暗房",
+            "print",
+            "film"
+          ]
+        }
       }
     },
     {
@@ -103,6 +153,33 @@
         "width": 600,
         "height": 410,
         "sha256": "86e2f21c23c54747a5c866f7209cda526e83933a2dd02315c91a02695ad0b057"
+      },
+      "family": {
+        "id": "relief-matrix-printing",
+        "zh": "凸版印刷",
+        "en": "Relief printing",
+        "aliases": [
+          "浮世繪",
+          "木刻",
+          "木口木刻",
+          "凸版蝕刻",
+          "活字",
+          "letterpress",
+          "woodcut",
+          "wood engraving",
+          "relief etching"
+        ],
+        "bucket": {
+          "id": "art-print",
+          "zh": "版畫與圖案製作",
+          "en": "Printmaking and pattern construction",
+          "aliases": [
+            "印製",
+            "版式",
+            "press",
+            "pattern"
+          ]
+        }
       }
     },
     {
@@ -138,6 +215,31 @@
         "width": 1280,
         "height": 1042,
         "sha256": "8688c471ad1e838282eccfa9b7e510adb9c2a616f21b9fa3540cb1abbd1724c5"
+      },
+      "family": {
+        "id": "analog-combination-print",
+        "zh": "類比疊印與多重曝光",
+        "en": "Analog combination printing and multiple exposure",
+        "aliases": [
+          "雙底片",
+          "多重曝光",
+          "暗房疊影",
+          "combination print",
+          "double negative",
+          "multiple exposure"
+        ],
+        "bucket": {
+          "id": "photo-paper",
+          "zh": "感光紙、暗房與印相",
+          "en": "Photosensitive media, darkroom and printing",
+          "aliases": [
+            "銀鹽",
+            "印相",
+            "暗房",
+            "print",
+            "film"
+          ]
+        }
       }
     },
     {
@@ -173,6 +275,33 @@
         "width": 1200,
         "height": 864,
         "sha256": "616d189d9d76a9763a415190c76562881815240327bf2f5470aa9b831bef3864"
+      },
+      "family": {
+        "id": "waterborne-paper-painting",
+        "zh": "紙本水性繪畫",
+        "en": "Waterborne painting on paper",
+        "aliases": [
+          "水彩",
+          "水粉",
+          "水墨",
+          "自然史插畫",
+          "gouache",
+          "watercolor",
+          "ink wash",
+          "scientific illustration"
+        ],
+        "bucket": {
+          "id": "art-2d",
+          "zh": "平面原畫與字形",
+          "en": "Two-dimensional art and lettering",
+          "aliases": [
+            "畫稿",
+            "書法",
+            "illustration",
+            "painting",
+            "lettering"
+          ]
+        }
       }
     },
     {
@@ -208,6 +337,29 @@
         "width": 866,
         "height": 1200,
         "sha256": "29a8706733cf9d0cdb546176f37986f7906fe94cc95e2543133e2d04ff7baf61"
+      },
+      "family": {
+        "id": "albumen-negative-printing",
+        "zh": "蛋白紙負片印相",
+        "en": "Albumen printing from negatives",
+        "aliases": [
+          "蛋白相紙",
+          "玻璃負片",
+          "albumen",
+          "glass negative"
+        ],
+        "bucket": {
+          "id": "photo-paper",
+          "zh": "感光紙、暗房與印相",
+          "en": "Photosensitive media, darkroom and printing",
+          "aliases": [
+            "銀鹽",
+            "印相",
+            "暗房",
+            "print",
+            "film"
+          ]
+        }
       }
     },
     {
@@ -243,6 +395,29 @@
         "width": 551,
         "height": 625,
         "sha256": "ddc4d69052d10163824e4f87bd05a1b499256469c17b630f6ccd2c997c636892"
+      },
+      "family": {
+        "id": "dry-paper-drawing",
+        "zh": "乾媒材紙本素描",
+        "en": "Dry-media drawing on paper",
+        "aliases": [
+          "粉彩",
+          "黑色粉筆",
+          "pastel",
+          "chalk"
+        ],
+        "bucket": {
+          "id": "art-2d",
+          "zh": "平面原畫與字形",
+          "en": "Two-dimensional art and lettering",
+          "aliases": [
+            "畫稿",
+            "書法",
+            "illustration",
+            "painting",
+            "lettering"
+          ]
+        }
       }
     },
     {
@@ -278,6 +453,29 @@
         "width": 466,
         "height": 624,
         "sha256": "6aadb0296cbc4c27841d924c6cfa06a732faf935578f9f6d45d2986d4ac34f3b"
+      },
+      "family": {
+        "id": "albumen-negative-printing",
+        "zh": "蛋白紙負片印相",
+        "en": "Albumen printing from negatives",
+        "aliases": [
+          "蛋白相紙",
+          "玻璃負片",
+          "albumen",
+          "glass negative"
+        ],
+        "bucket": {
+          "id": "photo-paper",
+          "zh": "感光紙、暗房與印相",
+          "en": "Photosensitive media, darkroom and printing",
+          "aliases": [
+            "銀鹽",
+            "印相",
+            "暗房",
+            "print",
+            "film"
+          ]
+        }
       }
     },
     {
@@ -313,6 +511,34 @@
         "width": 956,
         "height": 1200,
         "sha256": "2f5bf22fb1e4af684e4d5d536af15212e62bd57e8fbf528589b96aebbf2d3113"
+      },
+      "family": {
+        "id": "intaglio-matrix-printing",
+        "zh": "藝術凹版印刷",
+        "en": "Artist-drawn intaglio printing",
+        "aliases": [
+          "蝕刻",
+          "乾刻",
+          "點刻",
+          "飛塵腐蝕",
+          "美柔汀",
+          "etching",
+          "drypoint",
+          "aquatint",
+          "mezzotint",
+          "stipple"
+        ],
+        "bucket": {
+          "id": "art-print",
+          "zh": "版畫與圖案製作",
+          "en": "Printmaking and pattern construction",
+          "aliases": [
+            "印製",
+            "版式",
+            "press",
+            "pattern"
+          ]
+        }
       }
     },
     {
@@ -348,6 +574,30 @@
         "width": 960,
         "height": 541,
         "sha256": "9fbcab28789ad982390412134bf60ad05d2dd5cb825e318195af12927267c1f6"
+      },
+      "family": {
+        "id": "stack-compositing",
+        "zh": "同範圍堆疊合成",
+        "en": "Stack-based composite assembly",
+        "aliases": [
+          "焦點堆疊",
+          "時間堆疊",
+          "最大值",
+          "focus stack",
+          "temporal stack",
+          "max blend"
+        ],
+        "bucket": {
+          "id": "photo-compute",
+          "zh": "計算合成與重投影",
+          "en": "Computational assembly and reprojection",
+          "aliases": [
+            "堆疊",
+            "數位後製",
+            "computational",
+            "stacking"
+          ]
+        }
       }
     },
     {
@@ -383,6 +633,29 @@
         "width": 942,
         "height": 1200,
         "sha256": "a384789c9c96052cd6cfe133c03374aa521440a914d5b999e648b7deb1c6a001"
+      },
+      "family": {
+        "id": "planographic-lithography",
+        "zh": "石版平版印刷",
+        "en": "Planographic lithography",
+        "aliases": [
+          "石版",
+          "海報",
+          "石印",
+          "lithography",
+          "poster"
+        ],
+        "bucket": {
+          "id": "art-print",
+          "zh": "版畫與圖案製作",
+          "en": "Printmaking and pattern construction",
+          "aliases": [
+            "印製",
+            "版式",
+            "press",
+            "pattern"
+          ]
+        }
       }
     },
     {
@@ -418,6 +691,30 @@
         "width": 960,
         "height": 640,
         "sha256": "4187ffbc43a8cb2d1823d28be5140421ccea6a3e50c13ae25966365755968821"
+      },
+      "family": {
+        "id": "telephoto-depth-separation",
+        "zh": "長焦取景與景深分離",
+        "en": "Telephoto framing and depth separation",
+        "aliases": [
+          "背景分離",
+          "野鳥",
+          "長焦",
+          "telephoto",
+          "bokeh",
+          "wildlife"
+        ],
+        "bucket": {
+          "id": "photo-optic",
+          "zh": "光學取景、投影及透視",
+          "en": "Optical capture, projection and perspective",
+          "aliases": [
+            "鏡頭",
+            "視角",
+            "projection",
+            "optics"
+          ]
+        }
       }
     },
     {
@@ -453,6 +750,33 @@
         "width": 599,
         "height": 385,
         "sha256": "078b4d12de585ea93b8055eb494d08981cebacac461a51298639f07954ae48ed"
+      },
+      "family": {
+        "id": "waterborne-paper-painting",
+        "zh": "紙本水性繪畫",
+        "en": "Waterborne painting on paper",
+        "aliases": [
+          "水彩",
+          "水粉",
+          "水墨",
+          "自然史插畫",
+          "gouache",
+          "watercolor",
+          "ink wash",
+          "scientific illustration"
+        ],
+        "bucket": {
+          "id": "art-2d",
+          "zh": "平面原畫與字形",
+          "en": "Two-dimensional art and lettering",
+          "aliases": [
+            "畫稿",
+            "書法",
+            "illustration",
+            "painting",
+            "lettering"
+          ]
+        }
       }
     },
     {
@@ -488,6 +812,28 @@
         "width": 1280,
         "height": 733,
         "sha256": "b9a2e7d63682fe13d7b9d61271d9384cde7e29bdece855fd2098a87ea3b0367c"
+      },
+      "family": {
+        "id": "field-mosaic-stitching",
+        "zh": "不同視野的馬賽克拼接",
+        "en": "Cross-field mosaic stitching",
+        "aliases": [
+          "天區拼接",
+          "馬賽克",
+          "panorama stitching",
+          "mosaic"
+        ],
+        "bucket": {
+          "id": "photo-compute",
+          "zh": "計算合成與重投影",
+          "en": "Computational assembly and reprojection",
+          "aliases": [
+            "堆疊",
+            "數位後製",
+            "computational",
+            "stacking"
+          ]
+        }
       }
     },
     {
@@ -523,6 +869,33 @@
         "width": 581,
         "height": 1200,
         "sha256": "fc641209b19b7513518ad36014a095e5a32e92e77159a911d5a26cb53f04876f"
+      },
+      "family": {
+        "id": "waterborne-paper-painting",
+        "zh": "紙本水性繪畫",
+        "en": "Waterborne painting on paper",
+        "aliases": [
+          "水彩",
+          "水粉",
+          "水墨",
+          "自然史插畫",
+          "gouache",
+          "watercolor",
+          "ink wash",
+          "scientific illustration"
+        ],
+        "bucket": {
+          "id": "art-2d",
+          "zh": "平面原畫與字形",
+          "en": "Two-dimensional art and lettering",
+          "aliases": [
+            "畫稿",
+            "書法",
+            "illustration",
+            "painting",
+            "lettering"
+          ]
+        }
       }
     },
     {
@@ -561,6 +934,32 @@
         "sourceWidth": 5154,
         "sourceHeight": 3436,
         "sha256": "149867345df770d54685440533d7bcdc904b3c75e6d1bd7e776af96a489c19c9"
+      },
+      "family": {
+        "id": "long-exposure-stationary",
+        "zh": "固定視點長曝光",
+        "en": "Long exposure from a fixed viewpoint",
+        "aliases": [
+          "長曝",
+          "慢快門",
+          "光跡",
+          "生物發光",
+          "靜機",
+          "long exposure",
+          "bioluminescence",
+          "fixed camera"
+        ],
+        "bucket": {
+          "id": "photo-time",
+          "zh": "快門、時間取樣與相機動作",
+          "en": "Shutter, time sampling and camera motion",
+          "aliases": [
+            "曝光",
+            "慢快門",
+            "time",
+            "movement"
+          ]
+        }
       }
     },
     {
@@ -596,6 +995,31 @@
         "width": 885,
         "height": 1096,
         "sha256": "6ac5b1edd7315169afdc72d4c18e6f21d4bc51ef4653a0f5f4a7bb9a7630302a"
+      },
+      "family": {
+        "id": "repeat-pattern-design",
+        "zh": "連續圖案設計",
+        "en": "Repeat pattern design",
+        "aliases": [
+          "壁紙",
+          "織品",
+          "模板",
+          "版印重複",
+          "wallpaper",
+          "stencil",
+          "textile repeat"
+        ],
+        "bucket": {
+          "id": "art-print",
+          "zh": "版畫與圖案製作",
+          "en": "Printmaking and pattern construction",
+          "aliases": [
+            "印製",
+            "版式",
+            "press",
+            "pattern"
+          ]
+        }
       }
     },
     {
@@ -634,6 +1058,30 @@
         "sourceWidth": 4969,
         "sourceHeight": 3365,
         "sha256": "826e5cf0ac1a4a1a37fa9383c37322ecbd71cbdba292fe3b08b8e57eef393e6d"
+      },
+      "family": {
+        "id": "film-spectral-response",
+        "zh": "底片感色與高光反應",
+        "en": "Film spectral and highlight response",
+        "aliases": [
+          "鎢光底片",
+          "高光暈",
+          "halation",
+          "color negative",
+          "tungsten film"
+        ],
+        "bucket": {
+          "id": "photo-paper",
+          "zh": "感光紙、暗房與印相",
+          "en": "Photosensitive media, darkroom and printing",
+          "aliases": [
+            "銀鹽",
+            "印相",
+            "暗房",
+            "print",
+            "film"
+          ]
+        }
       }
     },
     {
@@ -669,6 +1117,31 @@
         "width": 567,
         "height": 625,
         "sha256": "f19b8f4f263f7fa07719aab65ea20ee8d1e7acf0e44392d03b81f555ed7fd1db"
+      },
+      "family": {
+        "id": "oil-painting",
+        "zh": "油彩繪畫",
+        "en": "Oil painting",
+        "aliases": [
+          "厚塗",
+          "筆觸",
+          "立體派",
+          "oil on canvas",
+          "impasto",
+          "Cubism"
+        ],
+        "bucket": {
+          "id": "art-2d",
+          "zh": "平面原畫與字形",
+          "en": "Two-dimensional art and lettering",
+          "aliases": [
+            "畫稿",
+            "書法",
+            "illustration",
+            "painting",
+            "lettering"
+          ]
+        }
       }
     },
     {
@@ -707,6 +1180,32 @@
         "sourceWidth": 3691,
         "sourceHeight": 2080,
         "sha256": "d30ee42c9aa861314d2db6c731795c9adb276783b3763cefd1cf340d6a4c0e67"
+      },
+      "family": {
+        "id": "long-exposure-stationary",
+        "zh": "固定視點長曝光",
+        "en": "Long exposure from a fixed viewpoint",
+        "aliases": [
+          "長曝",
+          "慢快門",
+          "光跡",
+          "生物發光",
+          "靜機",
+          "long exposure",
+          "bioluminescence",
+          "fixed camera"
+        ],
+        "bucket": {
+          "id": "photo-time",
+          "zh": "快門、時間取樣與相機動作",
+          "en": "Shutter, time sampling and camera motion",
+          "aliases": [
+            "曝光",
+            "慢快門",
+            "time",
+            "movement"
+          ]
+        }
       }
     },
     {
@@ -742,6 +1241,33 @@
         "width": 1200,
         "height": 854,
         "sha256": "eed31eb20d5d333587a364d1f03a9ecb1c5fca887d903c55ce2864f7d0e4c732"
+      },
+      "family": {
+        "id": "relief-matrix-printing",
+        "zh": "凸版印刷",
+        "en": "Relief printing",
+        "aliases": [
+          "浮世繪",
+          "木刻",
+          "木口木刻",
+          "凸版蝕刻",
+          "活字",
+          "letterpress",
+          "woodcut",
+          "wood engraving",
+          "relief etching"
+        ],
+        "bucket": {
+          "id": "art-print",
+          "zh": "版畫與圖案製作",
+          "en": "Printmaking and pattern construction",
+          "aliases": [
+            "印製",
+            "版式",
+            "press",
+            "pattern"
+          ]
+        }
       }
     },
     {
@@ -780,6 +1306,30 @@
         "sourceWidth": 4790,
         "sourceHeight": 3173,
         "sha256": "70104af58841ddb4f3224da7734ffc62a61eedcd0878fb01d9c13e3e542a3e70"
+      },
+      "family": {
+        "id": "camera-motion-exposure",
+        "zh": "曝光中的相機動作",
+        "en": "Camera movement during exposure",
+        "aliases": [
+          "追拍",
+          "搖攝",
+          "平移追拍",
+          "相機移動",
+          "panning",
+          "ICM"
+        ],
+        "bucket": {
+          "id": "photo-time",
+          "zh": "快門、時間取樣與相機動作",
+          "en": "Shutter, time sampling and camera motion",
+          "aliases": [
+            "曝光",
+            "慢快門",
+            "time",
+            "movement"
+          ]
+        }
       }
     },
     {
@@ -815,6 +1365,33 @@
       "license": {
         "label": "館方 Open Access・CC0",
         "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "family": {
+        "id": "relief-matrix-printing",
+        "zh": "凸版印刷",
+        "en": "Relief printing",
+        "aliases": [
+          "浮世繪",
+          "木刻",
+          "木口木刻",
+          "凸版蝕刻",
+          "活字",
+          "letterpress",
+          "woodcut",
+          "wood engraving",
+          "relief etching"
+        ],
+        "bucket": {
+          "id": "art-print",
+          "zh": "版畫與圖案製作",
+          "en": "Printmaking and pattern construction",
+          "aliases": [
+            "印製",
+            "版式",
+            "press",
+            "pattern"
+          ]
+        }
       }
     },
     {
@@ -853,6 +1430,28 @@
         "sourceWidth": 2048,
         "sourceHeight": 1365,
         "sha256": "e7e1dc21756c05c8fd7edfecb8297be87f145882e3504f84d9966730c4c07191"
+      },
+      "family": {
+        "id": "pinhole-projection",
+        "zh": "針孔投影",
+        "en": "Pinhole projection",
+        "aliases": [
+          "無鏡頭",
+          "街頭",
+          "pinhole",
+          "lensless"
+        ],
+        "bucket": {
+          "id": "photo-optic",
+          "zh": "光學取景、投影及透視",
+          "en": "Optical capture, projection and perspective",
+          "aliases": [
+            "鏡頭",
+            "視角",
+            "projection",
+            "optics"
+          ]
+        }
       }
     },
     {
@@ -888,6 +1487,30 @@
       "license": {
         "label": "館方 Open Access・CC0",
         "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "family": {
+        "id": "vitreous-surface-craft",
+        "zh": "玻璃與玻璃質表面工藝",
+        "en": "Glass and vitreous surface craft",
+        "aliases": [
+          "虹彩",
+          "銅胎畫琺瑯",
+          "鍍金",
+          "Favrile",
+          "enamel",
+          "iridescence"
+        ],
+        "bucket": {
+          "id": "art-object",
+          "zh": "立體材料與工藝",
+          "en": "Objects and crafted materials",
+          "aliases": [
+            "材料",
+            "工藝",
+            "craft",
+            "object"
+          ]
+        }
       }
     },
     {
@@ -926,6 +1549,30 @@
         "sourceWidth": 5184,
         "sourceHeight": 3456,
         "sha256": "8bd307309eaf5d1d574be13657438b0cd54ba4cd5fec63bbce07143443ed9e2c"
+      },
+      "family": {
+        "id": "camera-motion-exposure",
+        "zh": "曝光中的相機動作",
+        "en": "Camera movement during exposure",
+        "aliases": [
+          "追拍",
+          "搖攝",
+          "平移追拍",
+          "相機移動",
+          "panning",
+          "ICM"
+        ],
+        "bucket": {
+          "id": "photo-time",
+          "zh": "快門、時間取樣與相機動作",
+          "en": "Shutter, time sampling and camera motion",
+          "aliases": [
+            "曝光",
+            "慢快門",
+            "time",
+            "movement"
+          ]
+        }
       }
     },
     {
@@ -961,6 +1608,31 @@
       "license": {
         "label": "館方 Open Access・CC0",
         "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "family": {
+        "id": "oil-painting",
+        "zh": "油彩繪畫",
+        "en": "Oil painting",
+        "aliases": [
+          "厚塗",
+          "筆觸",
+          "立體派",
+          "oil on canvas",
+          "impasto",
+          "Cubism"
+        ],
+        "bucket": {
+          "id": "art-2d",
+          "zh": "平面原畫與字形",
+          "en": "Two-dimensional art and lettering",
+          "aliases": [
+            "畫稿",
+            "書法",
+            "illustration",
+            "painting",
+            "lettering"
+          ]
+        }
       }
     },
     {
@@ -997,6 +1669,29 @@
         "width": 1280,
         "height": 853,
         "sha256": "3a2c51e7f6d802fc709cf1830e9828d9a5e733ae6a3f30c0e6fc504e9f9e8bb5"
+      },
+      "family": {
+        "id": "flash-lighting",
+        "zh": "閃光塑形與凝結",
+        "en": "Flash lighting and motion freezing",
+        "aliases": [
+          "凝結水冠",
+          "環形閃光",
+          "flash",
+          "strobe",
+          "ring flash",
+          "splash"
+        ],
+        "bucket": {
+          "id": "photo-light",
+          "zh": "照明、光源與材質表現",
+          "en": "Illumination and material depiction",
+          "aliases": [
+            "打燈",
+            "閃光",
+            "studio light"
+          ]
+        }
       }
     },
     {
@@ -1033,6 +1728,28 @@
         "width": 1100,
         "height": 551,
         "sha256": "29c98be6025f1808f957080ac6dd7471d291c89b84b49c41c7c8d4b233baf677"
+      },
+      "family": {
+        "id": "animation-visual-development",
+        "zh": "動畫視覺開發",
+        "en": "Animation visual development",
+        "aliases": [
+          "概念圖",
+          "場景景深",
+          "concept art",
+          "Blender",
+          "environment design"
+        ],
+        "bucket": {
+          "id": "art-digital",
+          "zh": "數位製作與像素造型",
+          "en": "Digital production and pixel design",
+          "aliases": [
+            "game art",
+            "原型",
+            "視覺開發"
+          ]
+        }
       }
     },
     {
@@ -1069,6 +1786,30 @@
         "width": 1280,
         "height": 842,
         "sha256": "3aaa5ef71f33a6bd96a0472b9f572092585c876264d1fc4919bf8111743c50d6"
+      },
+      "family": {
+        "id": "lens-geometry-and-perspective",
+        "zh": "取景幾何與透視",
+        "en": "Framing geometry and perspective",
+        "aliases": [
+          "移軸",
+          "消失點",
+          "低地平線",
+          "tilt shift",
+          "lens shift",
+          "vanishing point"
+        ],
+        "bucket": {
+          "id": "photo-optic",
+          "zh": "光學取景、投影及透視",
+          "en": "Optical capture, projection and perspective",
+          "aliases": [
+            "鏡頭",
+            "視角",
+            "projection",
+            "optics"
+          ]
+        }
       }
     },
     {
@@ -1104,6 +1845,34 @@
       "license": {
         "label": "NGA Open Access・CC0",
         "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "family": {
+        "id": "intaglio-matrix-printing",
+        "zh": "藝術凹版印刷",
+        "en": "Artist-drawn intaglio printing",
+        "aliases": [
+          "蝕刻",
+          "乾刻",
+          "點刻",
+          "飛塵腐蝕",
+          "美柔汀",
+          "etching",
+          "drypoint",
+          "aquatint",
+          "mezzotint",
+          "stipple"
+        ],
+        "bucket": {
+          "id": "art-print",
+          "zh": "版畫與圖案製作",
+          "en": "Printmaking and pattern construction",
+          "aliases": [
+            "印製",
+            "版式",
+            "press",
+            "pattern"
+          ]
+        }
       }
     },
     {
@@ -1140,6 +1909,30 @@
         "width": 1280,
         "height": 1238,
         "sha256": "a80d627315e0be373f64f59459492b5dbcbdf6765a4af1dc102ae40d22923579"
+      },
+      "family": {
+        "id": "refractive-and-scattering-contrast",
+        "zh": "折射梯度與散射對比",
+        "en": "Refractive-gradient and scattering contrast",
+        "aliases": [
+          "彩色紋影",
+          "暗場",
+          "顯微",
+          "schlieren",
+          "darkfield",
+          "scattering"
+        ],
+        "bucket": {
+          "id": "photo-spectral",
+          "zh": "光譜與光學對比",
+          "en": "Spectral and optical contrast",
+          "aliases": [
+            "濾鏡",
+            "波長",
+            "optical contrast",
+            "spectral"
+          ]
+        }
       }
     },
     {
@@ -1176,6 +1969,29 @@
         "width": 918,
         "height": 515,
         "sha256": "63c0582273224266a0861f739027399a0b2e914cc4e447f2b446275615b490ae"
+      },
+      "family": {
+        "id": "pixel-grid-construction",
+        "zh": "像素網格造型",
+        "en": "Pixel-grid construction",
+        "aliases": [
+          "像素美術",
+          "遊戲場景",
+          "限色",
+          "pixel art",
+          "tileset",
+          "tilemap"
+        ],
+        "bucket": {
+          "id": "art-digital",
+          "zh": "數位製作與像素造型",
+          "en": "Digital production and pixel design",
+          "aliases": [
+            "game art",
+            "原型",
+            "視覺開發"
+          ]
+        }
       }
     },
     {
@@ -1212,6 +2028,37 @@
         "width": 1280,
         "height": 1110,
         "sha256": "a501454ab4fe62379542280ddc3f33ebf0a46f89b169594551eb0caeabf33614"
+      },
+      "family": {
+        "id": "polarized-contrast",
+        "zh": "偏光對比與反射控制",
+        "en": "Polarized optical contrast and reflection control",
+        "aliases": [
+          "偏振",
+          "光彈",
+          "應力紋",
+          "polarisers",
+          "birefringence",
+          "photoelasticity",
+          "反射控制",
+          "水面倒影",
+          "非金屬反射",
+          "reflection suppression",
+          "nonmetallic reflections",
+          "偏光對比與應力成像",
+          "Polarized contrast and photoelastic imaging"
+        ],
+        "bucket": {
+          "id": "photo-spectral",
+          "zh": "光譜與光學對比",
+          "en": "Spectral and optical contrast",
+          "aliases": [
+            "濾鏡",
+            "波長",
+            "optical contrast",
+            "spectral"
+          ]
+        }
       }
     },
     {
@@ -1248,6 +2095,29 @@
         "width": 1280,
         "height": 508,
         "sha256": "c20b24f88f986eb30888c223a49990f9ca4f201cd9ce2104f0062b205a45588e"
+      },
+      "family": {
+        "id": "pixel-grid-construction",
+        "zh": "像素網格造型",
+        "en": "Pixel-grid construction",
+        "aliases": [
+          "像素美術",
+          "遊戲場景",
+          "限色",
+          "pixel art",
+          "tileset",
+          "tilemap"
+        ],
+        "bucket": {
+          "id": "art-digital",
+          "zh": "數位製作與像素造型",
+          "en": "Digital production and pixel design",
+          "aliases": [
+            "game art",
+            "原型",
+            "視覺開發"
+          ]
+        }
       }
     },
     {
@@ -1283,6 +2153,31 @@
         "alt": "灰藍相紙上有清楚淺圓影，照片右下另有實物硬幣可比對。這是一張記錄技法結果與遮擋物的相片，不是把銀鹽紙掃成正片。",
         "modification": "由來源的全幅影像等比例縮放並轉為 WebP；未裁切或調色。 轉檔仍按同一授權提供，不代表作者背書。",
         "sha256": "7c5fde393ce6e6ad31377dfa9cec49613247e2a7f65d248c86d594cbd811b2d3"
+      },
+      "family": {
+        "id": "contact-exposure-cameraless",
+        "zh": "無鏡頭接觸曝光",
+        "en": "Lensless contact exposure",
+        "aliases": [
+          "藍曬",
+          "銀鹽接觸",
+          "物影",
+          "photogram",
+          "cyanotype",
+          "contact print"
+        ],
+        "bucket": {
+          "id": "photo-paper",
+          "zh": "感光紙、暗房與印相",
+          "en": "Photosensitive media, darkroom and printing",
+          "aliases": [
+            "銀鹽",
+            "印相",
+            "暗房",
+            "print",
+            "film"
+          ]
+        }
       }
     },
     {
@@ -1318,6 +2213,28 @@
         "alt": "瓶身是一個鉛直、平穩的卵形，暗色口緣卻折成不規則的薄片；褐色釉面點紋延伸到較光滑的肩部。",
         "modification": "由來源的全幅影像等比例縮放並轉為 WebP；未裁切或調色。",
         "sha256": "8cac13a408aeb1bbe95c3590b43af876f853ff563d7ab9a6a051472f57ad3b89"
+      },
+      "family": {
+        "id": "fired-clay-forming",
+        "zh": "陶土造型與燒成",
+        "en": "Clay forming and firing",
+        "aliases": [
+          "土陶",
+          "釉面",
+          "earthenware",
+          "ceramic"
+        ],
+        "bucket": {
+          "id": "art-object",
+          "zh": "立體材料與工藝",
+          "en": "Objects and crafted materials",
+          "aliases": [
+            "材料",
+            "工藝",
+            "craft",
+            "object"
+          ]
+        }
       }
     },
     {
@@ -1354,6 +2271,30 @@
         "width": 1280,
         "height": 960,
         "sha256": "d28040bff9565d785676476ab7a6550e71b0aa9f93c35b2eaafbc3e28d757d57"
+      },
+      "family": {
+        "id": "refractive-and-scattering-contrast",
+        "zh": "折射梯度與散射對比",
+        "en": "Refractive-gradient and scattering contrast",
+        "aliases": [
+          "彩色紋影",
+          "暗場",
+          "顯微",
+          "schlieren",
+          "darkfield",
+          "scattering"
+        ],
+        "bucket": {
+          "id": "photo-spectral",
+          "zh": "光譜與光學對比",
+          "en": "Spectral and optical contrast",
+          "aliases": [
+            "濾鏡",
+            "波長",
+            "optical contrast",
+            "spectral"
+          ]
+        }
       }
     },
     {
@@ -1389,6 +2330,28 @@
         "alt": "淺灰天空與迷霧山廓沒有硬線；青綠斜坡從棕紫岩層間溢開，幾條乾而淺的色線看起來比大色塊更清楚。",
         "modification": "由來源的全幅影像等比例縮放並轉為 WebP；未裁切或調色。",
         "sha256": "030b9f0d0061717d8a518b0abb5019aefac7232bf1e2ae12f3afddaf1d841937"
+      },
+      "family": {
+        "id": "monotype-transfer-printing",
+        "zh": "單刷轉印",
+        "en": "Monotype transfer printing",
+        "aliases": [
+          "單刷",
+          "單次轉印",
+          "monotype",
+          "monoprint"
+        ],
+        "bucket": {
+          "id": "art-print",
+          "zh": "版畫與圖案製作",
+          "en": "Printmaking and pattern construction",
+          "aliases": [
+            "印製",
+            "版式",
+            "press",
+            "pattern"
+          ]
+        }
       }
     },
     {
@@ -1425,6 +2388,29 @@
         "width": 1280,
         "height": 798,
         "sha256": "7b1e30831012452a8b27a1f47b35632bbc3ac481a255f338ba2464f5da1f9c2c"
+      },
+      "family": {
+        "id": "sequential-frame-capture",
+        "zh": "依序多幀擷取",
+        "en": "Sequential frame capture",
+        "aliases": [
+          "分時",
+          "多機快照",
+          "時間序列",
+          "motion study",
+          "sequential photography"
+        ],
+        "bucket": {
+          "id": "photo-time",
+          "zh": "快門、時間取樣與相機動作",
+          "en": "Shutter, time sampling and camera motion",
+          "aliases": [
+            "曝光",
+            "慢快門",
+            "time",
+            "movement"
+          ]
+        }
       }
     },
     {
@@ -1460,6 +2446,34 @@
         "alt": "棕灰天空、黑帽與外套從深色底浮起，領口與長襪只用少量薄亮灰，整體明暗不是以平滑電腦漸層塗出。",
         "modification": "由來源的全幅影像等比例縮放並轉為 WebP；未裁切或調色。",
         "sha256": "f8a00b7871656640e02344c11630e763445415ca50019b8e12ede8f0e09beee2"
+      },
+      "family": {
+        "id": "intaglio-matrix-printing",
+        "zh": "藝術凹版印刷",
+        "en": "Artist-drawn intaglio printing",
+        "aliases": [
+          "蝕刻",
+          "乾刻",
+          "點刻",
+          "飛塵腐蝕",
+          "美柔汀",
+          "etching",
+          "drypoint",
+          "aquatint",
+          "mezzotint",
+          "stipple"
+        ],
+        "bucket": {
+          "id": "art-print",
+          "zh": "版畫與圖案製作",
+          "en": "Printmaking and pattern construction",
+          "aliases": [
+            "印製",
+            "版式",
+            "press",
+            "pattern"
+          ]
+        }
       }
     },
     {
@@ -1496,6 +2510,29 @@
         "width": 854,
         "height": 1280,
         "sha256": "3308215883fba648ab6484e7e455b7dcac6d81597807aa9009ee39feecc6b912"
+      },
+      "family": {
+        "id": "lit-subject-and-surface",
+        "zh": "主體及表面照明",
+        "en": "Subject and surface lighting",
+        "aliases": [
+          "倫勃朗光",
+          "掠射側光",
+          "高調",
+          "Rembrandt light",
+          "raking light",
+          "high key"
+        ],
+        "bucket": {
+          "id": "photo-light",
+          "zh": "照明、光源與材質表現",
+          "en": "Illumination and material depiction",
+          "aliases": [
+            "打燈",
+            "閃光",
+            "studio light"
+          ]
+        }
       }
     },
     {
@@ -1531,6 +2568,30 @@
         "alt": "圓形框內，穿長衣的兩位寓意人物以暖灰方式浮在雲上，赭粉底像薄石灰層，遠看近似浮雕但非真正雕刻。",
         "modification": "由來源的全幅影像等比例縮放並轉為 WebP；未裁切或調色。",
         "sha256": "9c421b5ecc3d0a660d471f49c7abefb1a55384c987264ec288835255d4660ba2"
+      },
+      "family": {
+        "id": "wall-painting-fresco",
+        "zh": "濕壁畫",
+        "en": "Fresco painting",
+        "aliases": [
+          "灰泥",
+          "天花",
+          "壁畫",
+          "plaster",
+          "wall painting"
+        ],
+        "bucket": {
+          "id": "art-2d",
+          "zh": "平面原畫與字形",
+          "en": "Two-dimensional art and lettering",
+          "aliases": [
+            "畫稿",
+            "書法",
+            "illustration",
+            "painting",
+            "lettering"
+          ]
+        }
       }
     },
     {
@@ -1567,6 +2628,30 @@
         "width": 1036,
         "height": 532,
         "sha256": "8a23a83e4ff54d4597528cf0022e8d0820643af97c0de5ca540cda53f7e33ee6"
+      },
+      "family": {
+        "id": "stereoscopic-imaging",
+        "zh": "雙視點立體成像",
+        "en": "Stereoscopic imaging",
+        "aliases": [
+          "左右視點",
+          "立體",
+          "雙目",
+          "stereo pair",
+          "binocular",
+          "stereoscopy"
+        ],
+        "bucket": {
+          "id": "photo-optic",
+          "zh": "光學取景、投影及透視",
+          "en": "Optical capture, projection and perspective",
+          "aliases": [
+            "鏡頭",
+            "視角",
+            "projection",
+            "optics"
+          ]
+        }
       }
     },
     {
@@ -1602,6 +2687,33 @@
         "alt": "旅人位於峽谷水上，深墨林地壓住兩邊。水面反光以短白線連成斷裂的亮帶，細樹枝也從黑底先被辨認。",
         "modification": "由來源的全幅影像等比例縮放並轉為 WebP；未裁切或調色。",
         "sha256": "301fdfe3bb1019e87d2973da5abe57a05c4207a871bc494902c7dd4d8eb4a825"
+      },
+      "family": {
+        "id": "relief-matrix-printing",
+        "zh": "凸版印刷",
+        "en": "Relief printing",
+        "aliases": [
+          "浮世繪",
+          "木刻",
+          "木口木刻",
+          "凸版蝕刻",
+          "活字",
+          "letterpress",
+          "woodcut",
+          "wood engraving",
+          "relief etching"
+        ],
+        "bucket": {
+          "id": "art-print",
+          "zh": "版畫與圖案製作",
+          "en": "Printmaking and pattern construction",
+          "aliases": [
+            "印製",
+            "版式",
+            "press",
+            "pattern"
+          ]
+        }
       }
     },
     {
@@ -1638,6 +2750,29 @@
         "width": 576,
         "height": 447,
         "sha256": "dc31d2fd8f51668b23b0d5cda502b5d11bd43df9c9c9a44aca08819291a43636"
+      },
+      "family": {
+        "id": "partial-darkroom-reversal",
+        "zh": "暗房部分反轉",
+        "en": "Partial darkroom reversal",
+        "aliases": [
+          "薩巴捷",
+          "假日光化",
+          "Sabattier",
+          "pseudo-solarization"
+        ],
+        "bucket": {
+          "id": "photo-paper",
+          "zh": "感光紙、暗房與印相",
+          "en": "Photosensitive media, darkroom and printing",
+          "aliases": [
+            "銀鹽",
+            "印相",
+            "暗房",
+            "print",
+            "film"
+          ]
+        }
       }
     },
     {
@@ -1674,6 +2809,31 @@
         "width": 1280,
         "height": 454,
         "sha256": "822c8aeb1c3e1336df6264a52414a7be87f40b48fca5e5ed4a2bf15a9eb270c9"
+      },
+      "family": {
+        "id": "infrared-spectral-remapping",
+        "zh": "紅外感光與可見色重映",
+        "en": "Infrared imaging and visible-color remapping",
+        "aliases": [
+          "近紅外",
+          "假色",
+          "760 nm",
+          "720 nm",
+          "IR",
+          "false color",
+          "near infrared"
+        ],
+        "bucket": {
+          "id": "photo-spectral",
+          "zh": "光譜與光學對比",
+          "en": "Spectral and optical contrast",
+          "aliases": [
+            "濾鏡",
+            "波長",
+            "optical contrast",
+            "spectral"
+          ]
+        }
       }
     },
     {
@@ -1710,6 +2870,29 @@
         "width": 345,
         "height": 1600,
         "sha256": "d2debd18f585724e78daab40abfb869db54ab6c77d5a372af13b18698f195314"
+      },
+      "family": {
+        "id": "spherical-stereographic-reprojection",
+        "zh": "球面全景重投影",
+        "en": "Spherical panorama reprojection",
+        "aliases": [
+          "球極投影",
+          "小星球",
+          "360度",
+          "little planet",
+          "stereographic projection"
+        ],
+        "bucket": {
+          "id": "photo-compute",
+          "zh": "計算合成與重投影",
+          "en": "Computational assembly and reprojection",
+          "aliases": [
+            "堆疊",
+            "數位後製",
+            "computational",
+            "stacking"
+          ]
+        }
       }
     },
     {
@@ -1746,6 +2929,30 @@
         "width": 1280,
         "height": 960,
         "sha256": "ff5104056aa7215abf3db0e2bfa987ac5ad8878eeca733f68c8485693759801a"
+      },
+      "family": {
+        "id": "lens-geometry-and-perspective",
+        "zh": "取景幾何與透視",
+        "en": "Framing geometry and perspective",
+        "aliases": [
+          "移軸",
+          "消失點",
+          "低地平線",
+          "tilt shift",
+          "lens shift",
+          "vanishing point"
+        ],
+        "bucket": {
+          "id": "photo-optic",
+          "zh": "光學取景、投影及透視",
+          "en": "Optical capture, projection and perspective",
+          "aliases": [
+            "鏡頭",
+            "視角",
+            "projection",
+            "optics"
+          ]
+        }
       }
     },
     {
@@ -1782,6 +2989,29 @@
         "width": 951,
         "height": 1280,
         "sha256": "b56c1f089b9e7c1ff438833120cc3e7d746bb87c8dede252659455892d188212"
+      },
+      "family": {
+        "id": "flash-lighting",
+        "zh": "閃光塑形與凝結",
+        "en": "Flash lighting and motion freezing",
+        "aliases": [
+          "凝結水冠",
+          "環形閃光",
+          "flash",
+          "strobe",
+          "ring flash",
+          "splash"
+        ],
+        "bucket": {
+          "id": "photo-light",
+          "zh": "照明、光源與材質表現",
+          "en": "Illumination and material depiction",
+          "aliases": [
+            "打燈",
+            "閃光",
+            "studio light"
+          ]
+        }
       }
     },
     {
@@ -1818,6 +3048,29 @@
         "alt": "淺赭色石面的小凹孔和細裂紋有短暗影；柱槽投出較深且方向一致的影。大塊直線與局部細紋同時可辨。",
         "modification": "等比例縮小並轉為 WebP；未裁切或調色。 轉檔圖像沿用同一授權，不代表作者背書。",
         "sha256": "14c5dc50e7ba4c41624dbc2583fdec221942a86001418b2b3b101395921c3e05"
+      },
+      "family": {
+        "id": "lit-subject-and-surface",
+        "zh": "主體及表面照明",
+        "en": "Subject and surface lighting",
+        "aliases": [
+          "倫勃朗光",
+          "掠射側光",
+          "高調",
+          "Rembrandt light",
+          "raking light",
+          "high key"
+        ],
+        "bucket": {
+          "id": "photo-light",
+          "zh": "照明、光源與材質表現",
+          "en": "Illumination and material depiction",
+          "aliases": [
+            "打燈",
+            "閃光",
+            "studio light"
+          ]
+        }
       }
     },
     {
@@ -1854,6 +3107,31 @@
         "alt": "右側躺著的人是暗調，左上窗格另有一個明亮坐姿；兩區在窗框邊緣形成界面，近看並非兩隻透明人互穿。",
         "modification": "等比例縮小並轉為 WebP；未裁切或調色。 轉檔圖像沿用同一授權，不代表作者背書。",
         "sha256": "4ce4f9d109df679c6a6e47441cc5b8b4042fd49f3100804e918c7be11c160f35"
+      },
+      "family": {
+        "id": "analog-combination-print",
+        "zh": "類比疊印與多重曝光",
+        "en": "Analog combination printing and multiple exposure",
+        "aliases": [
+          "雙底片",
+          "多重曝光",
+          "暗房疊影",
+          "combination print",
+          "double negative",
+          "multiple exposure"
+        ],
+        "bucket": {
+          "id": "photo-paper",
+          "zh": "感光紙、暗房與印相",
+          "en": "Photosensitive media, darkroom and printing",
+          "aliases": [
+            "銀鹽",
+            "印相",
+            "暗房",
+            "print",
+            "film"
+          ]
+        }
       }
     },
     {
@@ -1892,6 +3170,30 @@
         "sourceWidth": 548,
         "sourceHeight": 800,
         "sha256": "80f6c1ae4b3e76c8ed7c7093ec38b793829853f8dd25d47adcc9cf3507923081"
+      },
+      "family": {
+        "id": "photomechanical-intaglio-printing",
+        "zh": "攝影轉製凹版",
+        "en": "Photomechanical intaglio printing",
+        "aliases": [
+          "攝影凹版",
+          "照相凹版",
+          "影刻",
+          "photogravure",
+          "photomechanical"
+        ],
+        "bucket": {
+          "id": "photo-paper",
+          "zh": "感光紙、暗房與印相",
+          "en": "Photosensitive media, darkroom and printing",
+          "aliases": [
+            "銀鹽",
+            "印相",
+            "暗房",
+            "print",
+            "film"
+          ]
+        }
       }
     },
     {
@@ -1930,6 +3232,30 @@
         "sourceWidth": 447,
         "sourceHeight": 625,
         "sha256": "4ebfc1d556cbc51475373ed87f01711499feba9d470219734738c9dd37410e9f"
+      },
+      "family": {
+        "id": "pigment-photographic-printing",
+        "zh": "顏料照相印相",
+        "en": "Pigment-based photographic printing",
+        "aliases": [
+          "重鉻酸膠",
+          "碳素印相",
+          "gum bichromate",
+          "carbon transfer",
+          "pigment print"
+        ],
+        "bucket": {
+          "id": "photo-paper",
+          "zh": "感光紙、暗房與印相",
+          "en": "Photosensitive media, darkroom and printing",
+          "aliases": [
+            "銀鹽",
+            "印相",
+            "暗房",
+            "print",
+            "film"
+          ]
+        }
       }
     },
     {
@@ -1968,6 +3294,29 @@
         "sourceWidth": 2519,
         "sourceHeight": 3845,
         "sha256": "bcd3b70b1d3ae4d2d3f494af1815a10e716748edbf8fa50cfa0256fabdde4c55"
+      },
+      "family": {
+        "id": "platinum-photographic-printing",
+        "zh": "鉑金照相印相",
+        "en": "Platinum photographic printing",
+        "aliases": [
+          "鉑金灰階",
+          "金屬鹽",
+          "platinotype",
+          "platinum print"
+        ],
+        "bucket": {
+          "id": "photo-paper",
+          "zh": "感光紙、暗房與印相",
+          "en": "Photosensitive media, darkroom and printing",
+          "aliases": [
+            "銀鹽",
+            "印相",
+            "暗房",
+            "print",
+            "film"
+          ]
+        }
       }
     },
     {
@@ -2006,6 +3355,30 @@
         "sourceWidth": 970,
         "sourceHeight": 1200,
         "sha256": "fbfd4e1b166eb7768a5428e957b12138499e431865620e5a4507c4db54edde9c"
+      },
+      "family": {
+        "id": "pigment-photographic-printing",
+        "zh": "顏料照相印相",
+        "en": "Pigment-based photographic printing",
+        "aliases": [
+          "重鉻酸膠",
+          "碳素印相",
+          "gum bichromate",
+          "carbon transfer",
+          "pigment print"
+        ],
+        "bucket": {
+          "id": "photo-paper",
+          "zh": "感光紙、暗房與印相",
+          "en": "Photosensitive media, darkroom and printing",
+          "aliases": [
+            "銀鹽",
+            "印相",
+            "暗房",
+            "print",
+            "film"
+          ]
+        }
       }
     },
     {
@@ -2044,6 +3417,29 @@
         "sourceWidth": 960,
         "sourceHeight": 315,
         "sha256": "7581276a29b07ec81165d2ab9e0d5d305a96248131eea0d17322ba5c09954a21"
+      },
+      "family": {
+        "id": "lit-subject-and-surface",
+        "zh": "主體及表面照明",
+        "en": "Subject and surface lighting",
+        "aliases": [
+          "倫勃朗光",
+          "掠射側光",
+          "高調",
+          "Rembrandt light",
+          "raking light",
+          "high key"
+        ],
+        "bucket": {
+          "id": "photo-light",
+          "zh": "照明、光源與材質表現",
+          "en": "Illumination and material depiction",
+          "aliases": [
+            "打燈",
+            "閃光",
+            "studio light"
+          ]
+        }
       }
     },
     {
@@ -2082,6 +3478,30 @@
         "sourceWidth": 4888,
         "sourceHeight": 3268,
         "sha256": "7833908fd63dc1a33dc4fe66447b6a771ed29d4099c334d3d20d3faa0163636b"
+      },
+      "family": {
+        "id": "stack-compositing",
+        "zh": "同範圍堆疊合成",
+        "en": "Stack-based composite assembly",
+        "aliases": [
+          "焦點堆疊",
+          "時間堆疊",
+          "最大值",
+          "focus stack",
+          "temporal stack",
+          "max blend"
+        ],
+        "bucket": {
+          "id": "photo-compute",
+          "zh": "計算合成與重投影",
+          "en": "Computational assembly and reprojection",
+          "aliases": [
+            "堆疊",
+            "數位後製",
+            "computational",
+            "stacking"
+          ]
+        }
       }
     },
     {
@@ -2118,6 +3538,33 @@
         "alt": "不同尺寸的高彩字母橫縱相疊，套墨交界出現暗色，部分大面保留不均勻印壓造成的斑駁。遠看是幾何靜物，近看仍能讀到字形。",
         "modification": "等比例縮小並轉為 WebP；未裁切或調色。",
         "sha256": "ffe6c63e86e2cebc8f16f84bb30d2fc08cba5d6a2aa4b543dd8bc0eafa93c152"
+      },
+      "family": {
+        "id": "relief-matrix-printing",
+        "zh": "凸版印刷",
+        "en": "Relief printing",
+        "aliases": [
+          "浮世繪",
+          "木刻",
+          "木口木刻",
+          "凸版蝕刻",
+          "活字",
+          "letterpress",
+          "woodcut",
+          "wood engraving",
+          "relief etching"
+        ],
+        "bucket": {
+          "id": "art-print",
+          "zh": "版畫與圖案製作",
+          "en": "Printmaking and pattern construction",
+          "aliases": [
+            "印製",
+            "版式",
+            "press",
+            "pattern"
+          ]
+        }
       }
     },
     {
@@ -2154,6 +3601,30 @@
         "alt": "金屬框裡，拉犁動物的淺色輪廓站在深田景前，丘坡和天空保有不同灰度；本站這張館方影像是黑白，不能拿來重建原件色彩。",
         "modification": "等比例縮小並轉為 WebP；未裁切或調色。",
         "sha256": "16063154d22d0acd94204ba6b607d11c0ccb6de498bc75a7c6d425217ca9edfa"
+      },
+      "family": {
+        "id": "vitreous-surface-craft",
+        "zh": "玻璃與玻璃質表面工藝",
+        "en": "Glass and vitreous surface craft",
+        "aliases": [
+          "虹彩",
+          "銅胎畫琺瑯",
+          "鍍金",
+          "Favrile",
+          "enamel",
+          "iridescence"
+        ],
+        "bucket": {
+          "id": "art-object",
+          "zh": "立體材料與工藝",
+          "en": "Objects and crafted materials",
+          "aliases": [
+            "材料",
+            "工藝",
+            "craft",
+            "object"
+          ]
+        }
       }
     },
     {
@@ -2190,6 +3661,31 @@
         "alt": "深藍階梯形沿桃粉色橫條重複，粉藍梳齒和曲鉤穿插上下，留底色的形狀同每個色塊一樣清楚。畫的是布料設計稿，不是成品織物。",
         "modification": "等比例縮小並轉為 WebP；未裁切或調色。",
         "sha256": "abcd209a63b70f19bce89489a4a04ba8d20542225de3b1ef4f6a4e93b3db7c21"
+      },
+      "family": {
+        "id": "repeat-pattern-design",
+        "zh": "連續圖案設計",
+        "en": "Repeat pattern design",
+        "aliases": [
+          "壁紙",
+          "織品",
+          "模板",
+          "版印重複",
+          "wallpaper",
+          "stencil",
+          "textile repeat"
+        ],
+        "bucket": {
+          "id": "art-print",
+          "zh": "版畫與圖案製作",
+          "en": "Printmaking and pattern construction",
+          "aliases": [
+            "印製",
+            "版式",
+            "press",
+            "pattern"
+          ]
+        }
       }
     },
     {
@@ -2226,6 +3722,33 @@
         "alt": "側面的魚身以背鰭細刺、條帶和較淺腹部建立辨識，正側面剪影下有簡短的棲境素描。底紙大部分乾淨。",
         "modification": "等比例縮小並轉為 WebP；未裁切或調色。 轉檔圖像沿用同一授權，不代表作者背書。",
         "sha256": "0c766b2ae90ea41a5d0949a70e4af1f684514636ce4becb0e5a53a6882bb18a0"
+      },
+      "family": {
+        "id": "waterborne-paper-painting",
+        "zh": "紙本水性繪畫",
+        "en": "Waterborne painting on paper",
+        "aliases": [
+          "水彩",
+          "水粉",
+          "水墨",
+          "自然史插畫",
+          "gouache",
+          "watercolor",
+          "ink wash",
+          "scientific illustration"
+        ],
+        "bucket": {
+          "id": "art-2d",
+          "zh": "平面原畫與字形",
+          "en": "Two-dimensional art and lettering",
+          "aliases": [
+            "畫稿",
+            "書法",
+            "illustration",
+            "painting",
+            "lettering"
+          ]
+        }
       }
     },
     {
@@ -2262,6 +3785,31 @@
         "alt": "紅首字母伸進左邊窄留白；內文黑墨筆勢有粗細轉換，換行不強配到齊右。下方短行收住第二段，書頁的視覺層級由兩色和筆畫節奏控制。",
         "modification": "等比例縮小並轉為 WebP；未裁切或調色。",
         "sha256": "bc942c7836e4732ea53a17ae6c31e55b52460d250efac0a7f9edf099fd0d1a77"
+      },
+      "family": {
+        "id": "broad-nib-hand-lettering",
+        "zh": "寬筆書法與段首設計",
+        "en": "Broad-nib calligraphy and rubrication",
+        "aliases": [
+          "書法",
+          "紅色首字母",
+          "段首",
+          "calligraphy",
+          "drop cap",
+          "manuscript"
+        ],
+        "bucket": {
+          "id": "art-2d",
+          "zh": "平面原畫與字形",
+          "en": "Two-dimensional art and lettering",
+          "aliases": [
+            "畫稿",
+            "書法",
+            "illustration",
+            "painting",
+            "lettering"
+          ]
+        }
       }
     },
     {
@@ -2298,6 +3846,34 @@
         "alt": "人物外形以很細的灰線結束，袖口和面部的亮面不是留著全白輪廓，更多由小密度逐步轉入褲邊深暗。密點近看可和長流暢的外形線分開。",
         "modification": "等比例縮小並轉為 WebP；未裁切或調色。",
         "sha256": "4f8910e1c7282778f99163ff5556ee0795a85b66b592375f07480601dc36a121"
+      },
+      "family": {
+        "id": "intaglio-matrix-printing",
+        "zh": "藝術凹版印刷",
+        "en": "Artist-drawn intaglio printing",
+        "aliases": [
+          "蝕刻",
+          "乾刻",
+          "點刻",
+          "飛塵腐蝕",
+          "美柔汀",
+          "etching",
+          "drypoint",
+          "aquatint",
+          "mezzotint",
+          "stipple"
+        ],
+        "bucket": {
+          "id": "art-print",
+          "zh": "版畫與圖案製作",
+          "en": "Printmaking and pattern construction",
+          "aliases": [
+            "印製",
+            "版式",
+            "press",
+            "pattern"
+          ]
+        }
       }
     },
     {
@@ -2334,6 +3910,515 @@
         "alt": "窗框、板凳等扁面有清楚階差；下方兩個行李形的內部分別用多個捲紙環和彎曲藍紙條，上方日形放射出短邊。高彩玫紅是底，不是卷紙本身的陰影。",
         "modification": "等比例縮小並轉為 WebP；未裁切或調色。 轉檔圖像沿用同一授權，不代表作者背書。",
         "sha256": "681de14fbce87f6c879630068d879133f82e136d0b3fad1007dc310d22fa89f9"
+      },
+      "family": {
+        "id": "paper-strip-construction",
+        "zh": "立邊卷紙造型",
+        "en": "Paper-strip construction",
+        "aliases": [
+          "卷紙",
+          "紙工",
+          "quilling",
+          "curled paper"
+        ],
+        "bucket": {
+          "id": "art-object",
+          "zh": "立體材料與工藝",
+          "en": "Objects and crafted materials",
+          "aliases": [
+            "材料",
+            "工藝",
+            "craft",
+            "object"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-inkscape-vector",
+      "library": "art",
+      "title": "Dessin vectoriel réalisé avec Inkscape｜開源軟體宣傳圖",
+      "creator": "Cyrille R W Chaussepied",
+      "date": "2020-11-07",
+      "technique": "向量宣傳設計・高彩畫面與分層字框",
+      "familyId": "vector-composited-graphic-design",
+      "visual": "大量高飽和色形由斜帶切開，但中央標題仍清晰；文字以粗白填色、厚暗藍襯底及窄亮粉邊反覆建層。四角紋樣比標題小，視覺不搶同一層。",
+      "method": "作者公開用 Inkscape 製作的原始向量圖並說明用於自己製作的開源軟體宣傳片。做新的版面可以先把主標與數組斜向片形分成不同群組，再替頭標設一條足夠暗的外框，縮小畫面檢查字是否仍清楚。",
+      "why": "中央深淺反差能支撐高彩背景，式樣密集時維持單一視覺焦點。這是物件分組和對比層級，不是透過網格漸層產生色流。",
+      "unknown": "未核實字體、混合模式、遮罩及動畫時間；其 SVG 來源和檔案授權不代表裡面的形象可拿來製造第三方背書。",
+      "prompt": "原創向量活動海報，大斜帶切分數個虛構幾何紋樣，熱粉、薄荷藍和深紫；中心的一個自訂簡短標題用厚白色與暗邊襯托，背景不蓋主字；不複製原角色、字詞或標誌。",
+      "promptEn": "Original vector event poster with large diagonals dividing new geometric motifs, hot pink, cyan and deep purple; one short invented headline uses thick white lettering with a dark outline, background shapes do not cross the lettering, no existing characters, text or logo.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Dessin_vectoriel_r%C3%A9alis%C3%A9_avec_Inkscape.svg",
+        "publisher": "Wikimedia Commons",
+        "credit": "Cyrille R W Chaussepied",
+        "checked": "2026-11-18",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dessin_vectoriel_r%C3%A9alis%C3%A9_avec_Inkscape.svg/1280px-Dessin_vectoriel_r%C3%A9alis%C3%A9_avec_Inkscape.svg.png",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Dessin_vectoriel_r%C3%A9alis%C3%A9_avec_Inkscape.svg"
+      },
+      "license": {
+        "label": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "image": {
+        "src": "assets/wc-inkscape-vector.webp",
+        "width": 1280,
+        "height": 720,
+        "alt": "大量高飽和色形由斜帶切開，但中央標題仍清晰；文字以粗白填色、厚暗藍襯底及窄亮粉邊反覆建層。四角紋樣比標題小，視覺不搶同一層。",
+        "modification": "將來源的完整 1280 px SVG 點陣預覽轉為 WebP，不裁切、不調色。 轉檔圖像沿用同一授權，不代表作者背書。",
+        "sha256": "e38578826de49689c955914932d7fe8c1c0ac6b6d976c92b47a60a92d370387c"
+      },
+      "family": {
+        "id": "vector-composited-graphic-design",
+        "zh": "向量圖形合成與字形層級",
+        "en": "Vector graphic compositing and type hierarchy",
+        "aliases": [
+          "向量排版",
+          "字框",
+          "宣傳畫",
+          "Inkscape",
+          "vector poster",
+          "object grouping",
+          "type outline"
+        ],
+        "bucket": {
+          "id": "art-digital",
+          "zh": "數位製作與像素造型",
+          "en": "Digital production and pixel design",
+          "aliases": [
+            "game art",
+            "原型",
+            "視覺開發"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-spivak-linocut",
+      "library": "art",
+      "title": "City-Net 2｜城市網絡三色亞麻版",
+      "creator": "Marina Spivak",
+      "date": "2019",
+      "technique": "凸版印刷・三色亞麻油氈套印",
+      "familyId": "relief-matrix-printing",
+      "visual": "鮮黃底域、青灰和深墨交錯；取去的紙白維持兩側人物輪廓及中間對話，刀痕斷續而明顯。跨圖斜線使畫面像城市交談網絡。",
+      "method": "作者記錄本人印製三色亞麻油氈版畫、共有三個配色版本。練習時為每個色域準備可對位的紙稿，先以最深色測試輪廓，逐版校準留白處。此處只使用作者的一個圖檔，不以配色版本分成多件。",
+      "why": "薄淺色被深線壓住時構圖仍可讀；刀痕和保留紙白都算圖形，不要全用軟透明漸層取代。",
+      "unknown": "來源沒有說明是多塊版或減版、實際油墨、印刷順序和定位工具，不推斷具體流程。",
+      "prompt": "原創三色亞麻油氈凸版的虛構市集交流場景，由深靛、暖黃及霧青畫分幾何空間，保留紙白及物理刻除的間隙；粗斜線串起物件，保留偶然鋸齒，不用現成文字或美術角色。",
+      "promptEn": "Original three-color linocut of a fictional market exchange, deep indigo, warm yellow and muted aqua divide geometric space; reserve paper whites and carved gaps, connect objects through strong diagonals, retain occasional nicked edges, no existing text or characters.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Marina_Spivak_City-Net_2.jpg",
+        "publisher": "Wikimedia Commons",
+        "credit": "Marina Spivak",
+        "checked": "2026-11-18",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Marina_Spivak_City-Net_2.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Marina_Spivak_City-Net_2.jpg"
+      },
+      "license": {
+        "label": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "image": {
+        "src": "assets/wc-spivak-linocut.webp",
+        "width": 1280,
+        "height": 918,
+        "alt": "鮮黃底域、青灰和深墨交錯；取去的紙白維持兩側人物輪廓及中間對話，刀痕斷續而明顯。跨圖斜線使畫面像城市交談網絡。",
+        "modification": "等比例縮小並轉為 WebP；未裁切或調色。 轉檔圖像沿用同一授權，不代表作者背書。",
+        "sha256": "66a5c641eaeb8324758ab03228dd2412e590827c6733e3fc59e0ababa84ce554"
+      },
+      "family": {
+        "id": "relief-matrix-printing",
+        "zh": "凸版印刷",
+        "en": "Relief printing",
+        "aliases": [
+          "浮世繪",
+          "木刻",
+          "木口木刻",
+          "凸版蝕刻",
+          "活字",
+          "letterpress",
+          "woodcut",
+          "wood engraving",
+          "relief etching"
+        ],
+        "bucket": {
+          "id": "art-print",
+          "zh": "版畫與圖案製作",
+          "en": "Printmaking and pattern construction",
+          "aliases": [
+            "印製",
+            "版式",
+            "press",
+            "pattern"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-goss-aquatic-wide",
+      "library": "photo",
+      "title": "淺水廣角與雙水下閃燈",
+      "titleEn": "Lemon shark at Tiger Beach",
+      "creator": "Terry Goss",
+      "date": "2009-02-02",
+      "technique": "水下生態・廣角雙閃補光",
+      "visual": "淺色沙床與鯊身保留細節，背景從偏白淺藍轉為深藍。近處主體橫跨視野，遠處水域仍向後打開。",
+      "method": "作者明示於巴哈馬 Tiger Beach 使用 Nikon D300、Nikkor 12–24 mm，Aquatica AD300 防水殼及兩支 Sea & Sea YS90 水下閃燈。",
+      "why": "同一張要保留遠處環境光和較近的生物細節，可讓廣角框取水域、將補光限於前景。這與靠近前景而取消遠景的超微距不同。",
+      "unknown": "未核實燈距、燈臂角度、拍攝距離與防水殼是何種前罩，不把雙燈照明說成對稱。",
+      "prompt": "原創淺海廣角生態照，水下生物在一側低空游過淡色沙床，體表與沙面清楚，深藍遠水主要保留環境光；兩側的受控補光不要讓懸浮粒子成為滿版白點。不模仿原作物種或構圖。",
+      "promptEn": "Original wide-angle shallow-water wildlife photograph: a creature crossing low over pale sand. Detailed body and nearby seabed, deep blue distance largely ambient-lit; controlled two-sided fill without turning suspended particles into a frame full of dots. Different species and composition from the reference.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Wikilemon_Nbrevirostris1_TerryGoss.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/Wikilemon_Nbrevirostris1_TerryGoss.jpg",
+        "publisher": "Wikimedia Commons",
+        "credit": "Terry Goss",
+        "checked": "2026-11-18",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Wikilemon_Nbrevirostris1_TerryGoss.jpg#Licensing"
+      },
+      "license": {
+        "label": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      "image": {
+        "src": "assets/wc-goss-aquatic-wide.webp",
+        "alt": "一尾檸檬鯊游過淡色沙床後方的藍色水域。",
+        "modification": "轉為 WebP；未裁切或調色。此圖像檔沿用 CC BY-SA 3.0。",
+        "width": 1000,
+        "height": 664,
+        "sha256": "9ca42a9906d16721d4bfbb0bfe6e9c621e4f52fbb7aea47f096f07a3ac9cd7f5"
+      },
+      "family": {
+        "id": "flash-lighting",
+        "zh": "閃光塑形與凝結",
+        "en": "Flash lighting and motion freezing",
+        "aliases": [
+          "凝結水冠",
+          "環形閃光",
+          "flash",
+          "strobe",
+          "ring flash",
+          "splash"
+        ],
+        "bucket": {
+          "id": "photo-light",
+          "zh": "照明、光源與材質表現",
+          "en": "Illumination and material depiction",
+          "aliases": [
+            "打燈",
+            "閃光",
+            "studio light"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-kunaver-cave-strobes",
+      "library": "photo",
+      "title": "五支閃燈照出的洞室水窪",
+      "titleEn": "Copacabana beach and Matt’s sump, Renee’s Abyss",
+      "creator": "Uroš Kunaver",
+      "date": "2019-12-29",
+      "technique": "建境紀實・廣角多點分區閃光",
+      "visual": "崎嶇岩壁占了大部分畫幅，斜向裂紋與岩層把視線導向畫面深處。水池兩處藍綠能分辨，黑暗洞緣不被抹成同一明度。",
+      "method": "作者稱照片攝於地表下 1,240 公尺。用 Nikon D750、Tamron 15–30 mm 設於 18 mm，f/5.6、1/80 秒，五支閃燈照亮。",
+      "why": "用不同位置的光分別交代前壁、通道、底部；保留暗縫會比一盞強燈把整個大空間照平更能看出層次。可在安全的室內場景練習，不是進洞指南。",
+      "unknown": "未核實每支燈功率、擺法、同步方式與團隊具體職務分工。",
+      "prompt": "原創地下室景深紀實，廣角看入安全的仿岩展場，近處岩紋用斜光，下方石階與遠景薄水面各有獨立一級亮度，暗縫自然。避免暖色統一補成同一層、避免假霧遮蔽幾何。",
+      "promptEn": "Original wide-angle depth study in a safe simulated cavern set. Rake light across the near stone, light the lower steps and distant shallow water separately, and retain the seams as restrained shadow. No uniform floodlighting or fog that hides the geometry.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:A_view_of_Copacabana_beach_and_Matt%27s_sump_at_the_bottom_of_Renejevo_brezno_%28Renee%27s_Abyss%29_at_Mt._Kanin.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/A_view_of_Copacabana_beach_and_Matt%27s_sump_at_the_bottom_of_Renejevo_brezno_%28Renee%27s_Abyss%29_at_Mt._Kanin.jpg",
+        "publisher": "Wikimedia Commons",
+        "credit": "Uroš Kunaver with Jaka Flis, Klemen Kramar and Nika Pišek Szillich",
+        "checked": "2026-11-18",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:A_view_of_Copacabana_beach_and_Matt%27s_sump_at_the_bottom_of_Renejevo_brezno_%28Renee%27s_Abyss%29_at_Mt._Kanin.jpg#Licensing"
+      },
+      "license": {
+        "label": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "image": {
+        "src": "assets/wc-kunaver-cave-strobes.webp",
+        "alt": "不規則洞室岩壁、底部砂地與兩處青綠色池水。",
+        "modification": "等比例縮小並轉為 WebP；未裁切或調色。此圖像檔沿用 CC BY-SA 4.0。",
+        "width": 1280,
+        "height": 846,
+        "sha256": "dd1c71cfc83059f81c7a8ea19292b46e2cfc8bfe5fbf874cac7dad71b38f8b0d"
+      },
+      "family": {
+        "id": "flash-lighting",
+        "zh": "閃光塑形與凝結",
+        "en": "Flash lighting and motion freezing",
+        "aliases": [
+          "凝結水冠",
+          "環形閃光",
+          "flash",
+          "strobe",
+          "ring flash",
+          "splash"
+        ],
+        "bucket": {
+          "id": "photo-light",
+          "zh": "照明、光源與材質表現",
+          "en": "Illumination and material depiction",
+          "aliases": [
+            "打燈",
+            "閃光",
+            "studio light"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-doble-moving-night",
+      "library": "photo",
+      "title": "從車內記錄夜路的八秒曝光",
+      "titleEn": "Highway at night, slow shutter speed 02",
+      "creator": "Rick Doble",
+      "date": "2002-11-18",
+      "technique": "動態長曝光・移動視點光徑",
+      "visual": "整片藍夜並非清楚的靜止風景；青白、黃綠光線從遠點向近處散開，有些形成曲線。路面和光源有不同程度的延伸。",
+      "method": "攝影者記錄：另一人開車，他從乘車前擋風玻璃拍攝夜間公路，曝光八秒。這是移動平台的長曝光，不是路旁上腳架拍下來車。",
+      "why": "相機與環境同時相對移動，路燈的位置可以被拉成近似透視方向的線；曝光一段時間內轉向會改變光徑。只觀察已知影像或從安全乘客位置拍攝。",
+      "unknown": "未核實相機是否固定、車速、轉彎與手持震動各自的影響，也不從顏色逆推底片。",
+      "prompt": "原創運動視點夜景，從安全乘客視點以多秒曝光記錄彎曲路徑，靜止燈在畫面中從遠端延伸成不同曲率的青白和琥珀光徑；大面積深藍底，不加玩家視角或光速字樣。",
+      "promptEn": "Original moving-viewpoint night photograph from a safe passenger position, seconds-long exposure of a curved route. Stationary lights smear into cyan-white and amber paths of varied curvature against a deep-blue field, no game cockpit or speed lettering.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Highway_at_night_slow_shutter_speed_photography_02.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Highway_at_night_slow_shutter_speed_photography_02.jpg",
+        "publisher": "Wikimedia Commons",
+        "credit": "Rick Doble",
+        "checked": "2026-11-18",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Highway_at_night_slow_shutter_speed_photography_02.jpg#Licensing"
+      },
+      "license": {
+        "label": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "image": {
+        "src": "assets/wc-doble-moving-night.webp",
+        "alt": "藍色夜景中彎曲的黃綠和青白光徑向遠處收束。",
+        "modification": "等比例縮小並轉為 WebP；未裁切或調色。此圖像檔沿用 CC BY-SA 4.0。",
+        "width": 1280,
+        "height": 960,
+        "sha256": "e0a6c839d81277df1639958f49a82d0a238e06e6a4ca92e995f6b84a7b23297c"
+      },
+      "family": {
+        "id": "camera-motion-exposure",
+        "zh": "曝光中的相機動作",
+        "en": "Camera movement during exposure",
+        "aliases": [
+          "追拍",
+          "搖攝",
+          "平移追拍",
+          "相機移動",
+          "panning",
+          "ICM"
+        ],
+        "bucket": {
+          "id": "photo-time",
+          "zh": "快門、時間取樣與相機動作",
+          "en": "Shutter, time sampling and camera motion",
+          "aliases": [
+            "曝光",
+            "慢快門",
+            "time",
+            "movement"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-gophi-rear-sync",
+      "library": "photo",
+      "title": "暗室演奏的後簾慢速同步",
+      "titleEn": "Slow flash synchronization",
+      "creator": "Gophi",
+      "date": "2007-10-20（作品頁）",
+      "technique": "混合曝光・後簾慢速閃光同步",
+      "visual": "演奏者與吉他相對可辨，畫面下方音響與右側偏橙環境燈保留；某些設備燈光有短模糊，局部偏亮。",
+      "method": "來源明示 Canon EOS 350D E‑TTL II 後簾同步，原檔列 1/5 秒、18 mm、f/3.5、ISO 200。",
+      "why": "慢快門讓室內燈在曝光期間留在畫面，後簾閃光在曝光結束之際建立清楚主體。在練習中，可拍運動物件並對比前、後簾模糊與終點位置，而非假定每張後簾作品都有清楚長尾。",
+      "unknown": "未核實燈頭、閃光方向、確切功率、機身時鐘及 EXIF 日期與檔案頁日期差異；本圖沒足夠線索還原每一條模糊的移動方向。",
+      "prompt": "原創地下排練室的演奏照片，保留橙色環境角燈，袖口動作稍模糊，移動末端以一次短閃凝出可辨手勢。避免前景與背景全都同樣亮，不附任何人的身分。",
+      "promptEn": "Original dim rehearsal-room photograph with a warm corner lamp, a little ambient movement blur in the sleeve, and one short end-of-exposure flash that records a distinct final gesture. Keep foreground and background light separate, no copied performer identity.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:2007-10-20_Slow_flash_synchronization.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/2007-10-20_Slow_flash_synchronization.jpg",
+        "publisher": "Wikimedia Commons",
+        "credit": "Gophi",
+        "checked": "2026-11-18",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:2007-10-20_Slow_flash_synchronization.jpg#Licensing"
+      },
+      "license": {
+        "label": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      "image": {
+        "src": "assets/wc-gophi-rear-sync.webp",
+        "alt": "低光室內有持吉他的演奏者、音響與一盞橙色環境燈。",
+        "modification": "等比例縮小並轉為 WebP；未裁切或調色。此圖像檔沿用 CC BY-SA 3.0。",
+        "width": 853,
+        "height": 1280,
+        "sha256": "9f76cf7cf5280298ef1489bb274c0f63a04ea5242dc80ea5ef3c45e60379be02"
+      },
+      "family": {
+        "id": "flash-lighting",
+        "zh": "閃光塑形與凝結",
+        "en": "Flash lighting and motion freezing",
+        "aliases": [
+          "凝結水冠",
+          "環形閃光",
+          "flash",
+          "strobe",
+          "ring flash",
+          "splash"
+        ],
+        "bucket": {
+          "id": "photo-light",
+          "zh": "照明、光源與材質表現",
+          "en": "Illumination and material depiction",
+          "aliases": [
+            "打燈",
+            "閃光",
+            "studio light"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-amith-polar-reflection",
+      "library": "photo",
+      "title": "一片偏光鏡如何改變水面",
+      "titleEn": "Reflection Polarizer 2",
+      "creator": "Amithshs",
+      "date": "2009-06-29",
+      "technique": "光學濾鏡・偏光抑制非金屬倒影",
+      "visual": "左側可見偏白的雲倒影，右側倒影降下後，水底石粒成為畫面主要紋理。同一類光可被減弱而不是把畫面所有亮部都壓低。",
+      "method": "作者將這個並排示範標記為用偏光濾鏡移除水面雲倒影。",
+      "why": "偏光濾鏡可以控制部分來自水或玻璃表面的偏振反射；它與靠兩片偏光片顯示塑料應力的光彈攝影不同。某些產品照也要保留少許高光來交代物體形狀。",
+      "unknown": "未核實兩幅精確拍攝參數、濾鏡角度或偏光鏡型號。不是所有觀看角度、金屬表面都可同樣消反。",
+      "prompt": "原創透明玻璃器物的偏光對照：固定相機和燈，只旋轉偏光濾鏡。第一幅保留柔和的表面倒影，第二幅降低非金屬表面眩光、露出底部紋理，別用更換燈光或人工擦除反光冒充。",
+      "promptEn": "Original polarization comparison on a clear glass vessel. Lock camera and lamps; rotate only the polarizer. First image retains soft surface reflection, second suppresses the nonmetallic glare and reveals texture beneath. Do not substitute different lighting or painted-out reflections.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Reflection_Polarizer2.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Reflection_Polarizer2.jpg",
+        "publisher": "Wikimedia Commons",
+        "credit": "Amithshs",
+        "checked": "2026-11-18",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Reflection_Polarizer2.jpg#Licensing"
+      },
+      "license": {
+        "label": "公有領域（作者明示）",
+        "url": "https://commons.wikimedia.org/wiki/File:Reflection_Polarizer2.jpg#Licensing"
+      },
+      "image": {
+        "src": "assets/wc-amith-polar-reflection.webp",
+        "alt": "左側水面有淺色雲影，右側雲影較弱而露出石粒。",
+        "modification": "轉為 WebP；未裁切或調色。",
+        "width": 1024,
+        "height": 384,
+        "sha256": "11759ab02913e2c203170be6983a440d859c43fe1498162ee99df77bb2cdc738"
+      },
+      "family": {
+        "id": "polarized-contrast",
+        "zh": "偏光對比與反射控制",
+        "en": "Polarized optical contrast and reflection control",
+        "aliases": [
+          "偏振",
+          "光彈",
+          "應力紋",
+          "polarisers",
+          "birefringence",
+          "photoelasticity",
+          "反射控制",
+          "水面倒影",
+          "非金屬反射",
+          "reflection suppression",
+          "nonmetallic reflections",
+          "偏光對比與應力成像",
+          "Polarized contrast and photoelastic imaging"
+        ],
+        "bucket": {
+          "id": "photo-spectral",
+          "zh": "光譜與光學對比",
+          "en": "Spectral and optical contrast",
+          "aliases": [
+            "濾鏡",
+            "波長",
+            "optical contrast",
+            "spectral"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-gilbert-anamorphic",
+      "library": "photo",
+      "title": "演出前的變形鏡頭黑白人像",
+      "titleEn": "Suicide, Martin Rev and Alan Vega, before concert",
+      "creator": "Jeremy Gilbert（Canada Jack）",
+      "date": "1988",
+      "technique": "光學鏡頭・變形鏡頭的肖像取景",
+      "visual": "直幅中兩位人物集中在中下部，暗背景幾乎沒有可見紋理。衣領與帽沿受光形成一條斜線，把人像從黑塊中分開。",
+      "method": "攝影者明示這張多倫多演出前的兩人合照用變形鏡頭拍攝。作品本身是直幅黑白影像，並非所有變形鏡頭照片都需寬螢幕。",
+      "why": "變形鏡頭對兩個方向使用不等的光學放大率。重拍時先確認變形量及反變形流程，再按預期留空；橫向光暈或橢圓散景並非這張圖可證實的特徵。",
+      "unknown": "未核實型號、擠壓倍率、方向、底片、印相或掃描時是否已校正；不把近面部受光推定成機頂閃。",
+      "prompt": "原創低調雙人紀實肖像，黑白，兩人避開完全對稱、直幅留出暗部負空間，光沿帽子和外套邊緣畫出方向；使用有明確反變形校正的光學造型，不加入原作無從證實的大片藍色鏡頭光暈。",
+      "promptEn": "Original low-key black-and-white documentary portrait of two different people, asymmetric upright framing with dark negative space and a light cue across hat and coat edges. Correct a known anamorphic squeeze rather than adding unverified blue flare or copying the subjects.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:SuicideMartinRevAlanVega.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/SuicideMartinRevAlanVega.jpg",
+        "publisher": "Wikimedia Commons",
+        "credit": "Jeremy Gilbert（Canada Jack）",
+        "checked": "2026-11-18",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:SuicideMartinRevAlanVega.jpg#Licensing"
+      },
+      "license": {
+        "label": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      "image": {
+        "src": "assets/wc-gilbert-anamorphic.webp",
+        "alt": "暗背景中的黑白雙人演出前肖像。",
+        "modification": "等比例縮小並轉為 WebP；未裁切或調色。此圖像檔沿用 CC BY-SA 3.0。",
+        "width": 842,
+        "height": 1280,
+        "sha256": "6c9bcee701004f3db6ce46d9d934083e1767f85bc27f32981f603e8587d82853"
+      },
+      "family": {
+        "id": "lens-geometry-and-perspective",
+        "zh": "取景幾何與透視",
+        "en": "Framing geometry and perspective",
+        "aliases": [
+          "移軸",
+          "消失點",
+          "低地平線",
+          "tilt shift",
+          "lens shift",
+          "vanishing point"
+        ],
+        "bucket": {
+          "id": "photo-optic",
+          "zh": "光學取景、投影及透視",
+          "en": "Optical capture, projection and perspective",
+          "aliases": [
+            "鏡頭",
+            "視角",
+            "projection",
+            "optics"
+          ]
+        }
       }
     }
   ]

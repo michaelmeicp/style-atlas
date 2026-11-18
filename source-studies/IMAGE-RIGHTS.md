@@ -521,3 +521,67 @@
 - 展示權利：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
 - 權利依據：https://commons.wikimedia.org/wiki/File:Paper_art_2.jpg
 - 檔案調整：等比例縮小並轉為 WebP；未裁切或調色。 轉檔圖像沿用同一授權，不代表作者背書。
+
+## Dessin vectoriel réalisé avec Inkscape｜開源軟體宣傳圖
+- 檔案：assets/wc-inkscape-vector.webp
+- 署名：Cyrille R W Chaussepied
+- 來源：https://commons.wikimedia.org/wiki/File:Dessin_vectoriel_r%C3%A9alis%C3%A9_avec_Inkscape.svg
+- 展示權利：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Dessin_vectoriel_r%C3%A9alis%C3%A9_avec_Inkscape.svg
+- 檔案調整：將來源的完整 1280 px SVG 點陣預覽轉為 WebP，不裁切、不調色。 轉檔圖像沿用同一授權，不代表作者背書。
+
+## City-Net 2｜城市網絡三色亞麻版
+- 檔案：assets/wc-spivak-linocut.webp
+- 署名：Marina Spivak
+- 來源：https://commons.wikimedia.org/wiki/File:Marina_Spivak_City-Net_2.jpg
+- 展示權利：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Marina_Spivak_City-Net_2.jpg
+- 檔案調整：等比例縮小並轉為 WebP；未裁切或調色。 轉檔圖像沿用同一授權，不代表作者背書。
+
+## 淺水廣角與雙水下閃燈
+- 檔案：assets/wc-goss-aquatic-wide.webp
+- 署名：Terry Goss
+- 來源：https://commons.wikimedia.org/wiki/File:Wikilemon_Nbrevirostris1_TerryGoss.jpg
+- 展示權利：CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Wikilemon_Nbrevirostris1_TerryGoss.jpg#Licensing
+- 檔案調整：轉為 WebP；未裁切或調色。此圖像檔沿用 CC BY-SA 3.0。
+
+## 五支閃燈照出的洞室水窪
+- 檔案：assets/wc-kunaver-cave-strobes.webp
+- 署名：Uroš Kunaver with Jaka Flis, Klemen Kramar and Nika Pišek Szillich
+- 來源：https://commons.wikimedia.org/wiki/File:A_view_of_Copacabana_beach_and_Matt%27s_sump_at_the_bottom_of_Renejevo_brezno_%28Renee%27s_Abyss%29_at_Mt._Kanin.jpg
+- 展示權利：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:A_view_of_Copacabana_beach_and_Matt%27s_sump_at_the_bottom_of_Renejevo_brezno_%28Renee%27s_Abyss%29_at_Mt._Kanin.jpg#Licensing
+- 檔案調整：等比例縮小並轉為 WebP；未裁切或調色。此圖像檔沿用 CC BY-SA 4.0。
+
+## 從車內記錄夜路的八秒曝光
+- 檔案：assets/wc-doble-moving-night.webp
+- 署名：Rick Doble
+- 來源：https://commons.wikimedia.org/wiki/File:Highway_at_night_slow_shutter_speed_photography_02.jpg
+- 展示權利：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Highway_at_night_slow_shutter_speed_photography_02.jpg#Licensing
+- 檔案調整：等比例縮小並轉為 WebP；未裁切或調色。此圖像檔沿用 CC BY-SA 4.0。
+
+## 暗室演奏的後簾慢速同步
+- 檔案：assets/wc-gophi-rear-sync.webp
+- 署名：Gophi
+- 來源：https://commons.wikimedia.org/wiki/File:2007-10-20_Slow_flash_synchronization.jpg
+- 展示權利：CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:2007-10-20_Slow_flash_synchronization.jpg#Licensing
+- 檔案調整：等比例縮小並轉為 WebP；未裁切或調色。此圖像檔沿用 CC BY-SA 3.0。
+
+## 一片偏光鏡如何改變水面
+- 檔案：assets/wc-amith-polar-reflection.webp
+- 署名：Amithshs
+- 來源：https://commons.wikimedia.org/wiki/File:Reflection_Polarizer2.jpg
+- 展示權利：公有領域（作者明示） https://commons.wikimedia.org/wiki/File:Reflection_Polarizer2.jpg#Licensing
+- 權利依據：https://commons.wikimedia.org/wiki/File:Reflection_Polarizer2.jpg#Licensing
+- 檔案調整：轉為 WebP；未裁切或調色。
+
+## 演出前的變形鏡頭黑白人像
+- 檔案：assets/wc-gilbert-anamorphic.webp
+- 署名：Jeremy Gilbert（Canada Jack）
+- 來源：https://commons.wikimedia.org/wiki/File:SuicideMartinRevAlanVega.jpg
+- 展示權利：CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:SuicideMartinRevAlanVega.jpg#Licensing
+- 檔案調整：等比例縮小並轉為 WebP；未裁切或調色。此圖像檔沿用 CC BY-SA 3.0。

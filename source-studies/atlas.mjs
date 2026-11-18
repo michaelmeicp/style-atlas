@@ -32,6 +32,7 @@ function detail(c,opener){
  const h=el('h2',c.title);h.id='case-title';
  title.append(h);if(c.titleEn)title.append(el('p',c.titleEn,'detail-meta'));
  title.append(el('p',[c.creator,c.date,langLabel[c.library],text(c.technique)].filter(Boolean).join(' · '),'detail-meta'));
+ if(c.family?.zh)title.append(el('p','技法家族：'+c.family.zh,'detail-meta'));
  const close=button('×',()=>d.close(),'close');close.dataset.close='';close.setAttribute('aria-label','關閉案例詳情');
  head.append(title,close);
  const zoom=el('div',null,'zoom'), img=photo(c);
@@ -89,18 +90,26 @@ function showCase(c){
 }
 function updateMethods(){
  const sel=$('method'),keep=sel.value;
- const options=[...new Set(cases.filter(c=>group==='all'||c.library===group).flatMap(c=>[c.technique].flat().filter(Boolean)))].sort((a,b)=>a.localeCompare(b,'zh-Hant'));
+ const fs=$('family'), scoped=cases.filter(c=>group==='all'||c.library===group);
+ const options=[...new Set(scoped.filter(c=>!fs.value||c.family?.id===fs.value).flatMap(c=>[c.technique].flat().filter(Boolean)))].sort((a,b)=>a.localeCompare(b,'zh-Hant'));
  sel.replaceChildren(new Option('全部技法',''),...options.map(m=>new Option(m,m)));
  if(options.includes(keep))sel.value=keep;
 }
-function clear(){$('search').value=$('method').value='';page=1;render();}
+function updateFamilies(){
+ const fs=$('family'),keep=fs.value,m=new Map();
+ for(const c of cases)if((group==='all'||c.library===group)&&c.family?.id&&c.family?.zh)m.set(c.family.id,c.family.zh);
+ fs.replaceChildren(new Option('全部技法家族',''),...[...m].sort((a,b)=>a[1].localeCompare(b[1],'zh-Hant')).map(([id,label])=>new Option(label,id)));
+ fs.closest('label').hidden=!m.size;
+ if(m.has(keep))fs.value=keep;
+}
+function clear(){$('search').value=$('method').value=$('family').value='';page=1;updateMethods();render();}
 function render(){
  if(!ready)return;
- const tags=norm($('search').value).trim().split(/\s+/).filter(Boolean), method=$('method').value;
- const matches=queryCases(cases,{group,query:$('search').value,method});
+ const tags=norm($('search').value).trim().split(/\s+/).filter(Boolean), method=$('method').value,family=$('family').value;
+ const matches=queryCases(cases,{group,query:$('search').value,method,family});
  const pages=Math.max(1,Math.ceil(matches.length/perPage));page=Math.min(Math.max(1,page),pages);
  $('count').textContent=error?'未能載入':'符合 '+fmt(matches.length)+' 件';
- $('clear').hidden=!(tags.length||method);
+ $('clear').hidden=!(tags.length||method||family);
  $('pages').hidden=pages===1;
  $('prev').disabled=page<=1;$('next').disabled=page>=pages;$('page-label').textContent=page+' / '+pages;
  if(matches.length){const frag=document.createDocumentFragment();for(const c of matches.slice((page-1)*perPage,page*perPage))frag.append(showCase(c));$('sheet').replaceChildren(frag)}
@@ -108,7 +117,7 @@ function render(){
   const m=el('div',null,'empty');
   m.append(el('strong',error?'作品資料未能載入':cases.length?'沒有符合的作品':'暫無通過核實的可展示作品'),
    el('p',error?'請重新整理再試。未能讀取的資料不算作已收錄。':cases.length?'試試較短的字詞，或移除一項篩選。':'只顯示來源與展示權利經核實的入選作品。'));
-  if(error)m.append(button('重新載入',()=>location.reload(),'plain'));else if(tags.length||method)m.append(button('清除篩選',clear,'plain'));
+  if(error)m.append(button('重新載入',()=>location.reload(),'plain'));else if(tags.length||method||family)m.append(button('清除篩選',clear,'plain'));
   $('sheet').replaceChildren(m);
  }
 }
@@ -117,10 +126,11 @@ const criteria=$('criteria'),guide=$('guide');guide.querySelector('[data-close]'
 $('clear').onclick=clear;$('search').maxLength=160;
 $('search').oninput=e=>{if(!e.isComposing){page=1;render()}};$('search').addEventListener('compositionend',()=>{page=1;render()});
 $('method').onchange=()=>{page=1;render()};$('prev').onclick=()=>changePage(-1);$('next').onclick=()=>changePage(1);
+$('family').onchange=()=>{page=1;$('method').value='';updateMethods();render()};
 for(const b of document.querySelectorAll('[data-group]'))b.onclick=()=>{
- group=b.dataset.group;page=1;$('method').value='';
+ group=b.dataset.group;page=1;$('method').value=$('family').value='';
  document.querySelectorAll('[data-group]').forEach(x=>x.setAttribute('aria-pressed',String(x===b)));
- updateMethods();render();
+ updateFamilies();updateMethods();render();
 };
 try{
  const response=await fetch(new URL('./data/cases.json',import.meta.url));
@@ -138,5 +148,5 @@ try{
   $('count').textContent='互動功能未能載入。仍可瀏覽下方圖格、展開技法與提示詞，或開啟原始來源。';
  }
 }
-if(!error){$('gallery-controls').hidden=false;ready=true;updateMethods();refreshCoverage();render();}
+if(!error){$('gallery-controls').hidden=false;ready=true;updateFamilies();updateMethods();refreshCoverage();render();}
 else if(!$('sheet').querySelector('[data-static-case]')){ready=true;refreshCoverage();render();}

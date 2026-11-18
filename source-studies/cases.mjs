@@ -18,12 +18,12 @@ export function readCases(data){
   const record=u.href.replace(/\/$/,'');
   if(seen.has(c.id)||paths.has(path)||records.has(record)||(digest&&digests.has(digest)))continue;
   seen.add(c.id);paths.add(path);records.add(record);if(digest)digests.add(digest);
-  const terms=normalize([c.title,c.titleEn,c.creator,c.technique,c.date,c.visual,c.method,c.why,c.tags].map(localized).join(' | '));
+  const terms=normalize([c.title,c.titleEn,c.creator,c.technique,c.date,c.visual,c.method,c.why,c.tags,c.family?.zh,c.family?.en,c.family?.aliases,c.family?.bucket?.zh,c.family?.bucket?.en].map(localized).join(' | '));
   entries.push({...c,terms,serial:String(entries.length+1).padStart(3,'0')});
  }
  return entries;
 }
-export function queryCases(cases,{group='all',query='',method=''}={}){
+export function queryCases(cases,{group='all',query='',method='',family=''}={}){
  const words=normalize(query).trim().split(/\s+/).filter(Boolean);
- return cases.filter(c=>(group==='all'||c.library===group)&&(!method||[c.technique].flat().includes(method))&&words.every(x=>c.terms.includes(x)));
+ return cases.filter(c=>(group==='all'||c.library===group)&&(!family||c.family?.id===family)&&(!method||[c.technique].flat().includes(method))&&words.every(x=>c.terms.includes(x)));
 }
