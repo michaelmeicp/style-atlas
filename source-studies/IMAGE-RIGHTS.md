@@ -896,3 +896,107 @@
 - 展示權利：CC0 https://creativecommons.org/publicdomain/zero/1.0/
 - 權利依據：https://www.metmuseum.org/hubs/open-access
 - 檔案調整：館方來源圖，等比例處理及轉存 WebP，未裁切或調色。
+
+## 反向入光的膠片：黃沙上的暗色鷂魚
+- 檔案：assets/photo9-redscale-ray.webp
+- 署名：Sleeps-Darkly
+- 來源：https://commons.wikimedia.org/wiki/File:Eagle_Ray%2C_Kelly_Tarlton's_Sea_Life%2C_2023-03-18_(redscale).jpg
+- 展示權利：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Eagle_Ray%2C_Kelly_Tarlton's_Sea_Life%2C_2023-03-18_(redscale).jpg
+- 檔案調整：以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。 轉檔沿用原授權。
+
+## 白平衡對照：同一場景的中性色如何漂移
+- 檔案：assets/photo9-wb-diagnostic.webp
+- 署名：ManuelBalseiro
+- 來源：https://commons.wikimedia.org/wiki/File:Pruebas_de_balance_de_blancos.jpg
+- 展示權利：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Pruebas_de_balance_de_blancos.jpg
+- 檔案調整：以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。 轉檔沿用原授權。
+
+## 夜景佈景：用發光軌跡畫出餐桌上的物件
+- 檔案：assets/photo9-drawn-light-dinner.webp
+- 署名：Kuerschel
+- 來源：https://commons.wikimedia.org/wiki/File:Light_painting_outdoor_in_a_garden.jpg
+- 展示權利：CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Light_painting_outdoor_in_a_garden.jpg
+- 檔案調整：以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。 轉檔沿用原授權。
+
+## 夜景光刷：在隧道牆上用反射光做分層
+- 檔案：assets/photo9-painted-wall-depth.webp
+- 署名：Cave2596
+- 來源：https://commons.wikimedia.org/wiki/File:LightPainting_in_RailwayTunnel.jpg
+- 展示權利：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:LightPainting_in_RailwayTunnel.jpg
+- 檔案調整：以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。 轉檔沿用原授權。
+
+## 玻璃高調：兩片黑卡壓住透明邊緣
+- 檔案：assets/photo9-glass-negative-fill.webp
+- 署名：Kyle May
+- 來源：https://commons.wikimedia.org/wiki/File:Bright-Field_Lighting_2.jpg
+- 展示權利：CC BY 2.0 https://creativecommons.org/licenses/by/2.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Bright-Field_Lighting_2.jpg
+- 檔案調整：以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。
+
+## 先閃光定底色，再以手電筒上色
+- 檔案：assets/photo9-metal-flash-lightbrush.webp
+- 署名：melmark44
+- 來源：https://commons.wikimedia.org/wiki/File:Can_Opener_-_Flickr_-_melmark44.jpg
+- 展示權利：CC BY 2.0 https://creativecommons.org/licenses/by/2.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Can_Opener_-_Flickr_-_melmark44.jpg
+- 檔案調整：以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。
+
+## 白平衡現場取樣：把灰卡放進同一束光
+- 檔案：assets/photo9-gray-card-reference.webp
+- 署名：Ansgar Koreng / CC BY 4.0
+- 來源：https://commons.wikimedia.org/wiki/File:Gray_card_in_use%2C_160906%2C_ako.jpg
+- 展示權利：CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Gray_card_in_use%2C_160906%2C_ako.jpg
+- 檔案調整：以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。
+
+## 黑白膠片：以 Caffenol 顯影的河岸景物
+- 檔案：assets/photo9-caffenol-river.webp
+- 署名：Benjamin Dart
+- 來源：https://commons.wikimedia.org/wiki/File:Caffenol_developed_photo_by_Benjamin_Dart.jpg
+- 展示權利：CC BY 2.0 https://creativecommons.org/licenses/by/2.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Caffenol_developed_photo_by_Benjamin_Dart.jpg
+- 檔案調整：以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。
+
+## 拉登・薩利赫｜爪哇廟宇遺址
+- 檔案：assets/saam-raden-saleh.webp
+- 署名：Raden Saleh. Smithsonian American Art Museum, Gift of Mrs. Sally Burbank Swart (1985.66.328,263).
+- 來源：https://americanart.si.edu/artwork/javanese-temple-ruins-21553
+- 展示權利：Public Domain https://americanart.si.edu/artwork/javanese-temple-ruins-21553
+- 權利依據：https://www.si.edu/object/saam_1985.66.328_263
+- 檔案調整：採 Smithsonian 960 像素館方版本轉存 WebP，本站未另行縮放、裁切或調色。
+
+## Theshruview｜現代米提拉民俗畫實作
+- 檔案：assets/wc-theshruview-mithila.webp
+- 署名：Theshruview（原作）／Planemad（Commons 裁切及調整）
+- 來源：https://commons.wikimedia.org/wiki/File:Madhubani_folk_art_(modern_representation).jpg
+- 展示權利：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Madhubani_folk_art_(modern_representation).jpg#Licensing
+- 檔案調整：採 Commons 裁切及調整版，轉 WebP；本站未另行縮放、裁切或調色。
+
+## 傳 Manaku｜羅摩釋放使者的敘事畫頁
+- 檔案：assets/met-manaku-siege-panel.webp
+- 署名：Attributed to Manaku. The Metropolitan Museum of Art, Rogers Fund, 1919 (19.24.1); Met CC0 original via Wikimedia Commons.
+- 來源：https://www.metmuseum.org/art/collection/search/37947
+- 展示權利：CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Rama_Releases_the_Demon_Spies_Shuka_and_Sarana-_Folio_from_a_Ramayana_%27Siege_of_Lanka%27_Series_MET_DP278165.jpg
+- 檔案調整：等比例縮小並轉存 WebP，未裁切或調色。
+
+## Shaikh Zain al–Din｜地鶇與鬼臉天蛾
+- 檔案：assets/met-zain-al-din-natural-study.webp
+- 署名：Shaikh Zain al–Din. The Metropolitan Museum of Art, Purchase, Friends of Islamic Art Gifts, 2012 (2012.7); Met CC0 original via Wikimedia Commons.
+- 來源：https://www.metmuseum.org/art/collection/search/457758
+- 展示權利：CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:An_Orange-Headed_Ground_Thrush_and_a_Death%27s-Head_Moth_on_a_Purple_Ebony_Orchid_Branch_MET_DP261704.jpg
+- 檔案調整：等比例縮小並轉存 WebP，未裁切或調色。
+
+## Tarunpant｜波斯細密畫自學習作
+- 檔案：assets/wc-tarunpant-miniature.webp
+- 署名：Tarunpant, Wikimedia Commons. CC BY-SA 3.0，調整尺寸轉 WebP 沿用相同授權，不代表作者支持本站。
+- 來源：https://commons.wikimedia.org/wiki/File:Persian-styled_miniature,_New_Delhi.jpeg
+- 展示權利：CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
+- 權利依據：https://creativecommons.org/licenses/by-sa/3.0/
+- 檔案調整：等比例縮小並轉存 WebP，未裁切或調色。 轉檔圖維持同一授權，不代表作者背書。

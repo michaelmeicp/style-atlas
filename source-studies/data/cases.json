@@ -6748,6 +6748,830 @@
           ]
         }
       }
+    },
+    {
+      "id": "photo9-redscale-ray",
+      "library": "photo",
+      "title": "反向入光的膠片：黃沙上的暗色鷂魚",
+      "titleEn": "Redscale film in aquarium light",
+      "creator": "Sleeps-Darkly",
+      "date": "2023-03-18",
+      "technique": "Redscale 反向片基入光",
+      "familySuggestion": "film-spectral-response（反向入光新子例）",
+      "visual": "魚身與尾巴在黃沙上形成明顯剪影，畫面有深褐暗階和暖黃色，不是高飽和紅色滿幅。",
+      "method": "作者記錄以 Nikon F75、50 mm f/1.4 鏡頭和 Lomography Redscale XR 50–200 拍攝。片商說這類材料由片基側受光，經過再到感光層。",
+      "why": "可把拍攝時的感光材料與後期色溫分開；裁決應看局部色階和暗部，而不是整幅一律橙紅。",
+      "unknown": "作者沒報曝光指數、實際光圈、展缸光譜、沖掃或後製設定，不可從片盒範圍推定單張曝光。",
+      "prompt": "原創水族箱低角度膠片照，細長尾的虛構扁平魚在黃褐沙上形成暗色輪廓，暗部略帶濁綠、細顆粒、不加大紅蒙版，保留砂粒的亮階。",
+      "promptEn": "Original film-like aquarium image, low angle, fictional flat fish with a long thin tail silhouetted over yellow-brown sand, slight murky green in the deepest tones, fine grain, no blanket scarlet overlay, retain highlights in the sand.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Eagle_Ray%2C_Kelly_Tarlton's_Sea_Life%2C_2023-03-18_(redscale).jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Eagle_Ray%2C_Kelly_Tarlton's_Sea_Life%2C_2023-03-18_(redscale).jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Eagle_Ray%2C_Kelly_Tarlton's_Sea_Life%2C_2023-03-18_(redscale).jpg",
+        "publisher": "Wikimedia Commons（作者或原始作品檔案）",
+        "credit": "Sleeps-Darkly",
+        "checked": "2026-11-18"
+      },
+      "license": {
+        "label": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "image": {
+        "src": "assets/photo9-redscale-ray.webp",
+        "alt": "反向入光的膠片：黃沙上的暗色鷂魚，Sleeps-Darkly",
+        "modification": "以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。 轉檔沿用原授權。",
+        "width": 1400,
+        "height": 932,
+        "sourceWidth": 3602,
+        "sourceHeight": 2397,
+        "sha256": "b31a3a36943bcefe0d5dc6a7ee883ace643dd5e28334e6912e9e13e1afc5d6e1",
+        "sourceFileSha256": "ab1bc2677bd72c4f7b63a43c1cff0b6133717535a07ac8c53e769c466e2e56c8",
+        "webpFileSha256": "b31a3a36943bcefe0d5dc6a7ee883ace643dd5e28334e6912e9e13e1afc5d6e1"
+      },
+      "family": {
+        "id": "film-spectral-response",
+        "zh": "底片感色與高光反應",
+        "en": "Film spectral and highlight response",
+        "aliases": [
+          "鎢光底片",
+          "高光暈",
+          "halation",
+          "color negative",
+          "tungsten film"
+        ],
+        "bucket": {
+          "id": "photo-paper",
+          "zh": "感光紙、暗房與印相",
+          "en": "Photosensitive media, darkroom and printing",
+          "aliases": [
+            "銀鹽",
+            "印相",
+            "暗房",
+            "print",
+            "film"
+          ]
+        }
+      }
+    },
+    {
+      "id": "photo9-wb-diagnostic",
+      "library": "photo",
+      "title": "白平衡對照：同一場景的中性色如何漂移",
+      "titleEn": "Same-scene white-balance comparison",
+      "creator": "ManuelBalseiro",
+      "date": "2007-11-08",
+      "technique": "白平衡四格診斷・同構圖比較",
+      "familySuggestion": "white-balance-diagnostics（曝光以外的色偏對照）",
+      "visual": "鏡頭、機身與帶孔金屬四次排列；淺色背景從黃暖變明顯偏藍，黑色機身也受影響。",
+      "method": "作者以同一場景圖組示範不同白平衡下色度的變化。",
+      "why": "把鏡頭、光線和畫面內容維持一致，觀察同一片灰色或白色區域，才容易把光色問題與物體固有色分開。",
+      "unknown": "檔案文字未公布每格精確 K 值、光源、四格是否同一 RAW 渲染，不能補上。",
+      "prompt": "原創並排四格相機工作台診斷照，四格同一台無品牌相機和灰板、相同裁切與曝光；只改從暖黃到偏藍的白平衡，不改陰影強度或物件位置。",
+      "promptEn": "Four-panel white-balance comparison of the same unbranded camera and gray panel, identical crop and exposure; vary only the cast from warm yellow to blue, without moving props or changing shadow density.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Pruebas_de_balance_de_blancos.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Pruebas_de_balance_de_blancos.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Pruebas_de_balance_de_blancos.jpg",
+        "publisher": "Wikimedia Commons（作者或原始作品檔案）",
+        "credit": "ManuelBalseiro",
+        "checked": "2026-11-18"
+      },
+      "license": {
+        "label": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "image": {
+        "src": "assets/photo9-wb-diagnostic.webp",
+        "alt": "白平衡對照：同一場景的中性色如何漂移，ManuelBalseiro",
+        "modification": "以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。 轉檔沿用原授權。",
+        "width": 936,
+        "height": 343,
+        "sourceWidth": 936,
+        "sourceHeight": 343,
+        "sha256": "2411212be4eb8827cbdb3f6239716bab136efcdf56b55377267a1e02ebea588e",
+        "sourceFileSha256": "c9d6587f201513d85dd80920a6f5958ec6bf4020020b9cd483181137f5f12a08",
+        "webpFileSha256": "2411212be4eb8827cbdb3f6239716bab136efcdf56b55377267a1e02ebea588e"
+      },
+      "displayKind": "technique",
+      "family": {
+        "id": "white-balance-diagnostics",
+        "zh": "白平衡校色與診斷",
+        "en": "White balance calibration and diagnosis",
+        "aliases": [
+          "灰卡",
+          "white balance",
+          "gray card",
+          "色彩中性"
+        ],
+        "bucket": {
+          "id": "photo-spectral",
+          "zh": "光譜與光學對比",
+          "en": "Spectral and optical contrast",
+          "aliases": [
+            "濾鏡",
+            "波長",
+            "optical contrast",
+            "spectral"
+          ]
+        }
+      }
+    },
+    {
+      "id": "photo9-drawn-light-dinner",
+      "library": "photo",
+      "title": "夜景佈景：用發光軌跡畫出餐桌上的物件",
+      "titleEn": "Drawing table settings with visible light trails",
+      "creator": "Kuerschel",
+      "date": "2010-08-09",
+      "technique": "可見光跡繪形 · LED 與手電筒",
+      "familySuggestion": "visible-light-trail-drawing（佈景中直接畫物件）",
+      "visual": "花園兩把實體木椅環著桌子，桌面兩圈冷白線條如盤，中央紅橙線像一朵花。",
+      "method": "作者將作品列為 Light Dinner，並明示使用 LED 與手電筒。",
+      "why": "可讓實體家具負責空間尺度、由發光線條只補不存在的道具。與打亮牆面不同，這裡的主體就是光源的軌跡。",
+      "unknown": "來源沒有記錄每一個光軌分別用了哪種燈、光筆路線、光圈或快門設定。",
+      "prompt": "深夜庭園中的原創木桌與兩把木椅，桌上以兩個纖細青白光圈代替杯墊，中央一筆琥珀色發光枝條；環境微弱可讀，光跡不覆蓋家具輪廓。",
+      "promptEn": "Original garden set at night: real wooden table and two chairs, two thin cyan-white light rings stand in for coasters and a single amber twig-shaped trail rises between them; dim readable setting with trails clear of the furniture silhouette.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Light_painting_outdoor_in_a_garden.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Light_painting_outdoor_in_a_garden.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Light_painting_outdoor_in_a_garden.jpg",
+        "publisher": "Wikimedia Commons（作者或原始作品檔案）",
+        "credit": "Kuerschel",
+        "checked": "2026-11-18"
+      },
+      "license": {
+        "label": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      "image": {
+        "src": "assets/photo9-drawn-light-dinner.webp",
+        "alt": "夜景佈景：用發光軌跡畫出餐桌上的物件，Kuerschel",
+        "modification": "以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。 轉檔沿用原授權。",
+        "width": 1400,
+        "height": 1037,
+        "sourceWidth": 1600,
+        "sourceHeight": 1185,
+        "sha256": "e53a280cbc647a595e5c786876443aae80e52208279dc0f99bfa62af1f0599ba",
+        "sourceFileSha256": "db1c1581ff2e5c5249054ae1773c5cd5c92452d9de8b99286f195d036f3200a8",
+        "webpFileSha256": "e53a280cbc647a595e5c786876443aae80e52208279dc0f99bfa62af1f0599ba"
+      },
+      "family": {
+        "id": "visible-light-trail-drawing",
+        "zh": "可見光跡繪形",
+        "en": "Visible light-trail drawing",
+        "aliases": [
+          "光繪",
+          "光跡",
+          "light drawing",
+          "light trails"
+        ],
+        "bucket": {
+          "id": "photo-time",
+          "zh": "快門、時間取樣與相機動作",
+          "en": "Shutter, time sampling and camera motion",
+          "aliases": [
+            "曝光",
+            "慢快門",
+            "time",
+            "movement"
+          ]
+        }
+      }
+    },
+    {
+      "id": "photo9-painted-wall-depth",
+      "library": "photo",
+      "title": "夜景光刷：在隧道牆上用反射光做分層",
+      "titleEn": "Painting depth onto a tunnel with reflected light",
+      "creator": "Cave2596",
+      "date": "2011-09-04",
+      "technique": "長曝光反射光畫・掃亮拱壁",
+      "familySuggestion": "long-exposure-stationary（反射光刷空間）",
+      "visual": "一片片亮弧附著在石砌拱壁，地面與鐵軌仍能讀到，深處消失到一個小亮點。",
+      "method": "作者說相片為長曝光，拱牆上的圖案用手電筒光畫製成。",
+      "why": "控制掃光落在牆的部位與停留時間，而非直接把燈照向鏡頭；可讓光條像空間的一部分，逐層引導視線。",
+      "unknown": "沒公布光束寬度、走位、分段曝光或是否使用累加；不建議進入廢棄或未授權場所重現。 原作紀錄供分析；練習只在獲許可的安全場地。不進入鐵路隧道、軌道或限制場所。",
+      "prompt": "在獲准的舞台拱廊中創作夜景，暖白窄光刷一段段落在粗石拱頂，透視向暗端收束，保留牆材質，不畫懸浮霓虹線。",
+      "promptEn": "Night image in a permitted stage arcade: brush narrow warm-white reflected highlights onto successive rough stone arches aimed toward a dark vanishing point, retain masonry texture, no floating neon lines.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:LightPainting_in_RailwayTunnel.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:LightPainting_in_RailwayTunnel.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/LightPainting_in_RailwayTunnel.jpg",
+        "publisher": "Wikimedia Commons（作者或原始作品檔案）",
+        "credit": "Cave2596",
+        "checked": "2026-11-18"
+      },
+      "license": {
+        "label": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "image": {
+        "src": "assets/photo9-painted-wall-depth.webp",
+        "alt": "夜景光刷：在隧道牆上用反射光做分層，Cave2596",
+        "modification": "以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。 轉檔沿用原授權。",
+        "width": 1400,
+        "height": 831,
+        "sourceWidth": 3780,
+        "sourceHeight": 2244,
+        "sha256": "162caccc3303e46ba147c27cc14bc6ca2d37c0cae0d05d0a4357050d85228ca1",
+        "sourceFileSha256": "907971129a2548146ef7ff29ff738aa29b8db0434582d1e1111b3155c43ed673",
+        "webpFileSha256": "162caccc3303e46ba147c27cc14bc6ca2d37c0cae0d05d0a4357050d85228ca1"
+      },
+      "family": {
+        "id": "long-exposure-stationary",
+        "zh": "固定視點長曝光",
+        "en": "Long exposure from a fixed viewpoint",
+        "aliases": [
+          "長曝",
+          "慢快門",
+          "光跡",
+          "生物發光",
+          "靜機",
+          "long exposure",
+          "bioluminescence",
+          "fixed camera"
+        ],
+        "bucket": {
+          "id": "photo-time",
+          "zh": "快門、時間取樣與相機動作",
+          "en": "Shutter, time sampling and camera motion",
+          "aliases": [
+            "曝光",
+            "慢快門",
+            "time",
+            "movement"
+          ]
+        }
+      }
+    },
+    {
+      "id": "photo9-glass-negative-fill",
+      "library": "photo",
+      "title": "玻璃高調：兩片黑卡壓住透明邊緣",
+      "titleEn": "Bright-field glass with shaped negative fill",
+      "creator": "Kyle May",
+      "date": "2007-11-18",
+      "technique": "背後亮場 · 兩側黑卡內反射",
+      "familySuggestion": "lit-subject-and-surface（高調玻璃負補光）",
+      "visual": "淺液體與白背景接近，但杯沿和左右曲邊呈細暗線，讓透明杯形可以讀出。",
+      "method": "作者說只有一支低位閃光，朝主體後方白泡棉板打亮；左右黑色泡棉板用來壓暗玻璃兩側。原頁另連實際佈光圖。",
+      "why": "不要直接去照亮杯邊。讓玻璃映出控制好的暗面，再以亮背景分離邊界；與低調黑底倒影屬相反的調子分工。",
+      "unknown": "未公布兩側黑卡相對玻璃的距離和面積，黑邊寬度應從取景位置微調。",
+      "prompt": "原創透明圓杯盛淡青液體，高調白底由背面反光板照亮，杯兩側由黑卡形成細而有變化的暗邊，保留小氣泡，不加人造外框。",
+      "promptEn": "Original clear rounded glass holding pale cyan liquid, bright white field lit indirectly behind, black side flags shape thin naturally varying dark edges, retain a few bubbles and no drawn outline.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Bright-Field_Lighting_2.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Bright-Field_Lighting_2.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Bright-Field_Lighting_2.jpg",
+        "publisher": "Wikimedia Commons（作者或原始作品檔案）",
+        "credit": "Kyle May",
+        "checked": "2026-11-18"
+      },
+      "license": {
+        "label": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "image": {
+        "src": "assets/photo9-glass-negative-fill.webp",
+        "alt": "玻璃高調：兩片黑卡壓住透明邊緣，Kyle May",
+        "modification": "以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。",
+        "width": 937,
+        "height": 1400,
+        "sourceWidth": 2207,
+        "sourceHeight": 3297,
+        "sha256": "a22605eda0d367669505f0a89a63dd1dcc55be87adba7bf2d6efe1c16949fe12",
+        "sourceFileSha256": "797e23457d6c281483f03950344683349c62278a17c025ffde33fc52ebff3066",
+        "webpFileSha256": "a22605eda0d367669505f0a89a63dd1dcc55be87adba7bf2d6efe1c16949fe12"
+      },
+      "family": {
+        "id": "lit-subject-and-surface",
+        "zh": "主體及表面照明",
+        "en": "Subject and surface lighting",
+        "aliases": [
+          "倫勃朗光",
+          "掠射側光",
+          "高調",
+          "Rembrandt light",
+          "raking light",
+          "high key"
+        ],
+        "bucket": {
+          "id": "photo-light",
+          "zh": "照明、光源與材質表現",
+          "en": "Illumination and material depiction",
+          "aliases": [
+            "打燈",
+            "閃光",
+            "studio light"
+          ]
+        }
+      }
+    },
+    {
+      "id": "photo9-metal-flash-lightbrush",
+      "library": "photo",
+      "title": "先閃光定底色，再以手電筒上色",
+      "titleEn": "Flash base exposure plus colored light brushes",
+      "creator": "melmark44",
+      "date": "2017-10-01",
+      "technique": "單畫幅雙光時間層 · 閃光後開窗光刷",
+      "familySuggestion": "flash-lighting（單次閃光與長曝上色）",
+      "visual": "近攝金屬齒輪保留銀亮紋理，齒邊出現分開的綠與紫色反光，背景壓低。",
+      "method": "作者列頂部帶蜂巢的條形柔光閃燈先發光，再在同一曝光剩餘的 2 秒內用藍、綠色片手電筒光刷。",
+      "why": "讓短脈衝負責中性底色與輪廓，長時間光刷負責局部反射的顏色；不是在畫面疊兩種全局濾鏡。",
+      "unknown": "未公布手電筒路線、力度或其餘光源亮度；紫色外觀不能推定使用了紫色片。",
+      "prompt": "原創金屬手搖器齒輪特寫，銀灰底色由頂部窄柔光保留，後續綠與冷藍光刷只落在幾段齒邊，背景安靜無霓虹，不加飽和全局色罩。",
+      "promptEn": "Original close-up of metal cogwheels on a hand-cranked tool, narrow overhead soft key preserves silver-gray base texture, green and cool blue light brushes touch only sections of the teeth, quiet dark background, no uniform neon overlay.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Can_Opener_-_Flickr_-_melmark44.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Can_Opener_-_Flickr_-_melmark44.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Can_Opener_-_Flickr_-_melmark44.jpg",
+        "publisher": "Wikimedia Commons（作者或原始作品檔案）",
+        "credit": "melmark44",
+        "checked": "2026-11-18",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Can_Opener_-_Flickr_-_melmark44.jpg"
+      },
+      "license": {
+        "label": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "image": {
+        "src": "assets/photo9-metal-flash-lightbrush.webp",
+        "alt": "先閃光定底色，再以手電筒上色，melmark44",
+        "modification": "以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。",
+        "width": 1400,
+        "height": 933,
+        "sourceWidth": 5642,
+        "sourceHeight": 3761,
+        "sha256": "34fae8aa4be3d3a179fe433d237c9a83958d04fc42bb34b9005e2b0c9297c8f1",
+        "sourceFileSha256": "325e4695c2099a5ebbd500acc15609fe91cc21ec284a52af63938412b05922f2",
+        "webpFileSha256": "34fae8aa4be3d3a179fe433d237c9a83958d04fc42bb34b9005e2b0c9297c8f1"
+      },
+      "family": {
+        "id": "flash-lighting",
+        "zh": "閃光塑形與凝結",
+        "en": "Flash lighting and motion freezing",
+        "aliases": [
+          "凝結水冠",
+          "環形閃光",
+          "flash",
+          "strobe",
+          "ring flash",
+          "splash"
+        ],
+        "bucket": {
+          "id": "photo-light",
+          "zh": "照明、光源與材質表現",
+          "en": "Illumination and material depiction",
+          "aliases": [
+            "打燈",
+            "閃光",
+            "studio light"
+          ]
+        }
+      }
+    },
+    {
+      "id": "photo9-gray-card-reference",
+      "library": "photo",
+      "title": "白平衡現場取樣：把灰卡放進同一束光",
+      "titleEn": "On-location white-balance reference with a gray card",
+      "creator": "Ansgar Koreng",
+      "date": "2016-09-06",
+      "technique": "中性灰卡參考 · 現場校色",
+      "familySuggestion": "white-balance-diagnostics（中性基準擷取，同類 WB 比較之實際前置）",
+      "visual": "前景只有手持中灰參考卡，背景室內拱門被特意虛化，灰面占取景足夠面積。",
+      "method": "作者明說用灰卡設定白平衡。讓灰卡處在計畫校正的主體光線裡，是可重複的獨立工作原則，不是作者已公布的精確站位。",
+      "why": "有灰卡時可先校正一張再把相同照明的照片同步。光源混合時一張灰卡不會同時中和所有區域；先定主體優先順序。",
+      "unknown": "未公開灰卡反射率、相機白平衡取樣方式或之後是否批次同步；不可把白平衡基準當作任何固定測光數值。",
+      "prompt": "原創室內暖光攝影工作示意：中性灰色小卡置於預定主體位置並接受同一主光，卡面清晰無反光，背景柔焦，畫面不顯示身分或品牌。",
+      "promptEn": "Original indoor camera-workflow photo: small neutral-gray card at the intended subject position under the same warm key light, clearly visible and free of specular glare, background gently out of focus, no identifiable people or brands.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Gray_card_in_use%2C_160906%2C_ako.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Gray_card_in_use%2C_160906%2C_ako.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Gray_card_in_use%2C_160906%2C_ako.jpg",
+        "publisher": "Wikimedia Commons（作者或原始作品檔案）",
+        "credit": "Ansgar Koreng / CC BY 4.0",
+        "checked": "2026-11-18",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Gray_card_in_use%2C_160906%2C_ako.jpg"
+      },
+      "license": {
+        "label": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "image": {
+        "src": "assets/photo9-gray-card-reference.webp",
+        "alt": "白平衡現場取樣：把灰卡放進同一束光，Ansgar Koreng",
+        "modification": "以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。",
+        "width": 933,
+        "height": 1400,
+        "sourceWidth": 2309,
+        "sourceHeight": 3464,
+        "sha256": "7de020b5752bf8e4fb46467d43bca958ee1a63f2ae5b81a0568aae039c063960",
+        "sourceFileSha256": "87a2fffa688e5e2e67beee0fc9233a6f1484202cafb5bef1567787bbd413ade9",
+        "webpFileSha256": "7de020b5752bf8e4fb46467d43bca958ee1a63f2ae5b81a0568aae039c063960"
+      },
+      "displayKind": "technique",
+      "family": {
+        "id": "white-balance-diagnostics",
+        "zh": "白平衡校色與診斷",
+        "en": "White balance calibration and diagnosis",
+        "aliases": [
+          "灰卡",
+          "white balance",
+          "gray card",
+          "色彩中性"
+        ],
+        "bucket": {
+          "id": "photo-spectral",
+          "zh": "光譜與光學對比",
+          "en": "Spectral and optical contrast",
+          "aliases": [
+            "濾鏡",
+            "波長",
+            "optical contrast",
+            "spectral"
+          ]
+        }
+      }
+    },
+    {
+      "id": "photo9-caffenol-river",
+      "library": "photo",
+      "title": "黑白膠片：以 Caffenol 顯影的河岸景物",
+      "titleEn": "Caffenol-developed black-and-white waterfront",
+      "creator": "Benjamin Dart",
+      "date": "2017-06-25",
+      "technique": "替代顯影液 · 黑白底片 Caffenol",
+      "familySuggestion": "caffenol-film-development（替代化學流程）",
+      "visual": "河岸建築上下由水中鏡面反射配對，明牆、暗水和後方樹林有清楚的灰階分離。",
+      "method": "作者列出 Konica Hexar RF、Canon 50 mm F1.4 LTM、Ilford HP5 Plus 和 Caffenol 顯影液。",
+      "why": "這個例子把可觀察的黑白階調與已確認的替代顯影流程並列，但沒有對照組，不能把顆粒、反差或亮部單獨歸功於顯影液。",
+      "unknown": "沒有配方、溫度、時間、攪拌、曝光或掃描設定；不能當作實作配方。",
+      "prompt": "原創灰階河岸建築，淺色牆與暗水分開，微風前的平滑倒映有細小不對稱，後方樹林保留中灰層次，底片顆粒低調，不加棕色。",
+      "promptEn": "Original monochrome riverside buildings, pale facades separate from dark water, calm reflections have slight natural asymmetry, wooded background retains midtone depth, subtle film grain, no sepia.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Caffenol_developed_photo_by_Benjamin_Dart.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Caffenol_developed_photo_by_Benjamin_Dart.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Caffenol_developed_photo_by_Benjamin_Dart.jpg",
+        "publisher": "Wikimedia Commons（作者或原始作品檔案）",
+        "credit": "Benjamin Dart",
+        "checked": "2026-11-18"
+      },
+      "license": {
+        "label": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "image": {
+        "src": "assets/photo9-caffenol-river.webp",
+        "alt": "黑白膠片：以 Caffenol 顯影的河岸景物，Benjamin Dart",
+        "modification": "以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。",
+        "width": 1400,
+        "height": 933,
+        "sourceWidth": 2048,
+        "sourceHeight": 1365,
+        "sha256": "089cf771815d7de473c851663252ab22778c00c65232485e6811dde56f2612ac",
+        "sourceFileSha256": "a508c07fc0c5c5cf030603da92cfeb469011b3a98c3f0bb67dccd0ee497345f3",
+        "webpFileSha256": "089cf771815d7de473c851663252ab22778c00c65232485e6811dde56f2612ac"
+      },
+      "family": {
+        "id": "caffenol-film-development",
+        "zh": "咖啡基底片顯影",
+        "en": "Coffee-based film development",
+        "aliases": [
+          "Caffenol",
+          "咖啡顯影",
+          "coffee developer"
+        ],
+        "bucket": {
+          "id": "photo-paper",
+          "zh": "感光紙、暗房與印相",
+          "en": "Photosensitive media, darkroom and printing",
+          "aliases": [
+            "銀鹽",
+            "印相",
+            "暗房",
+            "print",
+            "film"
+          ]
+        }
+      }
+    },
+    {
+      "id": "saam-raden-saleh",
+      "library": "art",
+      "title": "拉登・薩利赫｜爪哇廟宇遺址",
+      "creator": "Raden Saleh 拉登・薩利赫",
+      "date": "1860",
+      "technique": "油彩風景・以透氣遠景襯出大樹與廢墟",
+      "familyId": "oil-painting",
+      "visual": "前景深綠棕束成兩邊，中央左方的遺址被暖光打出幾個平面；右側矮地平線和偏冷天色把景深拉遠。前景人物小，不與建築搶尺度。",
+      "method": "美國藝術博物館記錄為畫布油彩後裝於纖維板。練習先把前、中、遠三段排成暗、中、亮，再以暖光挑出建築轉角，讓植物遮住部分邊而不是每個角都畫黑線。",
+      "why": "樹叢和斜光的尺度差讓遺址在寬畫面裡可辨；遠景有較少對比，不需所有層都畫得一樣銳利。",
+      "unknown": "未核實此件完整底稿、調色板或所描繪的具體寺廟身分；地域依館方題名，不把構圖觀察說成作者實地方法。",
+      "prompt": "原創油彩橫幅，熱帶林間的虛構石臺在左中景受晨光，兩側有深綠樹冠，右方低遠景帶灰藍天氣，幾個極小身影建立尺度；不仿爪哇館藏遺址和原畫布局。",
+      "promptEn": "Original wide oil-painted tropical clearing with an invented stone terrace lit by morning sunlight on the middle left, shaded canopies at the edges, muted blue-gray distance to the right and a few tiny anonymous figures for scale. No copying the historical ruins or layout.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://americanart.si.edu/artwork/javanese-temple-ruins-21553",
+        "publisher": "Smithsonian American Art Museum",
+        "credit": "Raden Saleh. Smithsonian American Art Museum, Gift of Mrs. Sally Burbank Swart (1985.66.328,263).",
+        "checked": "2026-11-18",
+        "imageUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-1985.66.328263_1&max=960",
+        "rightsUrl": "https://www.si.edu/object/saam_1985.66.328_263"
+      },
+      "license": {
+        "label": "Public Domain",
+        "url": "https://americanart.si.edu/artwork/javanese-temple-ruins-21553"
+      },
+      "image": {
+        "src": "assets/saam-raden-saleh.webp",
+        "width": 960,
+        "height": 536,
+        "alt": "前景深綠棕束成兩邊，中央左方的遺址被暖光打出幾個平面；右側矮地平線和偏冷天色把景深拉遠。前景人物小，不與建築搶尺度。",
+        "modification": "採 Smithsonian 960 像素館方版本轉存 WebP，本站未另行縮放、裁切或調色。",
+        "sha256": "1acd96f44412a192c67b4cd018ca4b69fa54e5dca9302c844b618cb068193fec"
+      },
+      "family": {
+        "id": "oil-painting",
+        "zh": "油彩繪畫",
+        "en": "Oil painting",
+        "aliases": [
+          "厚塗",
+          "筆觸",
+          "立體派",
+          "oil on canvas",
+          "impasto",
+          "Cubism"
+        ],
+        "bucket": {
+          "id": "art-2d",
+          "zh": "平面原畫與字形",
+          "en": "Two-dimensional art and lettering",
+          "aliases": [
+            "畫稿",
+            "書法",
+            "illustration",
+            "painting",
+            "lettering"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-theshruview-mithila",
+      "library": "art",
+      "title": "Theshruview｜現代米提拉民俗畫實作",
+      "creator": "Theshruview（發表名）",
+      "date": "2017-12-20",
+      "technique": "米提拉線紋彩繪・在大色部內以紋樣分區",
+      "familyId": "mithila-pattern-fill-painting",
+      "visual": "正紅畫區裡，黃樹和右側的鳥由粗線定出整體；葉與鳥身內用小色塊、重複弧線和黑白短紋分節。底部白邊和紙張場景可見。",
+      "method": "作者標明為本人創作的現代 Madhubani 表現，以合成顏色材料描常見紋樣。練習先畫一個新輪廓，以寬線分主部位，再給每區不同間距的重複短線或點紋。",
+      "why": "同一紅底上的局部重複，使樹和鳥的輪廓即使紋理密也不混在一起。",
+      "unknown": "原作者說的是合成顏料，並非 AI 生成；未公布具體媒材牌子、筆種或天然染料配方。此件不代表歷史工藝完整流程。",
+      "prompt": "原創米提拉線紋研習，虛構葉片和瓢蟲置於低飽和橘紅平面，用不同密度的平刷短線、點紋和內框區分部位，保留淨邊；不仿來源鳥樹、宗教圖像或款式。",
+      "promptEn": "Original Mithila line-pattern study with imagined leaves and a ladybird on a muted brick-orange field; vary the spacing of short parallel marks and dots within invented contour partitions, retain clean margins and avoid copying the bird, tree or devotional motifs.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Madhubani_folk_art_(modern_representation).jpg",
+        "publisher": "Wikimedia Commons / Theshruview",
+        "credit": "Theshruview（原作）／Planemad（Commons 裁切及調整）",
+        "checked": "2026-11-18",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Madhubani_folk_art_%28modern_representation%29.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Madhubani_folk_art_(modern_representation).jpg#Licensing",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Madhubani_folk_art_(modern_representation).jpg#Licensing"
+      },
+      "license": {
+        "label": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "image": {
+        "src": "assets/wc-theshruview-mithila.webp",
+        "width": 887,
+        "height": 1230,
+        "alt": "正紅畫區裡，黃樹和右側的鳥由粗線定出整體；葉與鳥身內用小色塊、重複弧線和黑白短紋分節。底部白邊和紙張場景可見。",
+        "modification": "採 Commons 裁切及調整版，轉 WebP；本站未另行縮放、裁切或調色。",
+        "sha256": "d89a340b058d29dfe522743ce16f89870d78b12e90fc7a06fc13e57198111b65"
+      },
+      "family": {
+        "id": "mithila-pattern-fill-painting",
+        "zh": "米提拉輪廓與內紋彩繪",
+        "en": "Mithila contour and interior pattern painting",
+        "aliases": [
+          "米提拉",
+          "馬杜巴尼",
+          "Mithila",
+          "Madhubani",
+          "pattern fill"
+        ],
+        "bucket": {
+          "id": "art-2d",
+          "zh": "平面原畫與字形",
+          "en": "Two-dimensional art and lettering",
+          "aliases": [
+            "畫稿",
+            "書法",
+            "illustration",
+            "painting",
+            "lettering"
+          ]
+        }
+      }
+    },
+    {
+      "id": "met-manaku-siege-panel",
+      "library": "art",
+      "title": "傳 Manaku｜羅摩釋放使者的敘事畫頁",
+      "creator": "Attributed to Manaku（館方歸屬）",
+      "date": "約 1725 年",
+      "technique": "帕哈里不透明水彩與金色・以色面分隔同幅敘事場景",
+      "familyId": "waterborne-paper-painting",
+      "visual": "左半金赭樓閣與右半深綠山坡分出兩個事件空間；細黑線讓人物與坡上樹帶分開，窄紅外緣把畫幅收邊。",
+      "method": "館方列墨、不透明水彩與金。其保護科學文章把本件作為同系列完成畫的例子；同系列另兩張的影像發現底稿與色塊分段。練習可把遠樹、建築、角色先拆成單色剪影，再用細線和少量亮色分區。",
+      "why": "樓閣與山坡具有不一樣的形狀、色和重複節奏，同幅塞下多角色仍可讀。",
+      "unknown": "本件未據科學文章驗證每個底稿步驟；不把同系列其它頁面的紅稿、碳稿或紅外測試指定為本件。",
+      "prompt": "原創不透明水彩敘事頁：虛構黃土市集與深綠斜坡分置左右，暖紅窄外框，幾個抽象小身影由路線相連；紙面霧彩、細輪廓和少金色節點，不仿原敘事、人物或宗教圖式。",
+      "promptEn": "Original opaque-watercolor narrative folio with an invented ochre marketplace on one side and a deep-green slope on the other, a thin warm-red frame, and tiny abstract figures connected by a path. Matte paper, fine contour and restrained gold accents; no copied story, figures or sacred imagery.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.metmuseum.org/art/collection/search/37947",
+        "publisher": "The Metropolitan Museum of Art",
+        "credit": "Attributed to Manaku. The Metropolitan Museum of Art, Rogers Fund, 1919 (19.24.1); Met CC0 original via Wikimedia Commons.",
+        "checked": "2026-11-18",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Rama_Releases_the_Demon_Spies_Shuka_and_Sarana-_Folio_from_a_Ramayana_%27Siege_of_Lanka%27_Series_MET_DP278165.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Rama_Releases_the_Demon_Spies_Shuka_and_Sarana-_Folio_from_a_Ramayana_%27Siege_of_Lanka%27_Series_MET_DP278165.jpg",
+        "methodUrl": "https://www.metmuseum.org/perspectives/seeing-the-divine-creative-process-manaku-pahari-painting"
+      },
+      "license": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "image": {
+        "src": "assets/met-manaku-siege-panel.webp",
+        "width": 1280,
+        "height": 941,
+        "alt": "左半金赭樓閣與右半深綠山坡分出兩個事件空間；細黑線讓人物與坡上樹帶分開，窄紅外緣把畫幅收邊。",
+        "modification": "等比例縮小並轉存 WebP，未裁切或調色。",
+        "sha256": "732a39a7e3f2a67966fb522c3af32c198549012b057ad9ccea5b30c4ca639322"
+      },
+      "family": {
+        "id": "waterborne-paper-painting",
+        "zh": "紙本水性繪畫",
+        "en": "Waterborne painting on paper",
+        "aliases": [
+          "水彩",
+          "水粉",
+          "水墨",
+          "自然史插畫",
+          "gouache",
+          "watercolor",
+          "ink wash",
+          "scientific illustration"
+        ],
+        "bucket": {
+          "id": "art-2d",
+          "zh": "平面原畫與字形",
+          "en": "Two-dimensional art and lettering",
+          "aliases": [
+            "畫稿",
+            "書法",
+            "illustration",
+            "painting",
+            "lettering"
+          ]
+        }
+      }
+    },
+    {
+      "id": "met-zain-al-din-natural-study",
+      "library": "art",
+      "title": "Shaikh Zain al–Din｜地鶇與鬼臉天蛾",
+      "creator": "Shaikh Zain al–Din",
+      "date": "1778",
+      "technique": "水彩自然史插畫・零地平線、細分物種和姿勢",
+      "familyId": "waterborne-paper-painting",
+      "visual": "一枝斜向上分叉，葉片、粉色花、踏枝的深色鳥與靠花的昆蟲交錯。背景留自然暖紙色，沒有地平線或陰影地面，枝葉成為尺度參考。",
+      "method": "館方記本件為墨與不透明水彩，並說畫家結合莫臥兒訓練與歐洲自然史插畫的空白背景。練習採一株全新植物，將鳥與昆蟲位置畫在枝幹的不同高度，讓資料性細節不被背景遮蔽。",
+      "why": "空底使斜枝有更高圖形辨識度，細物種特徵和自然姿勢同時成立；新案例價值是圖版布局，而不是把同類水彩另外算家族。",
+      "unknown": "未核實現代名稱對應每個標本、顏料品牌或精確觀察步驟；畫上所見乃館藏題名與圖面，不是作者提供生圖提示。",
+      "prompt": "原創水彩博物誌圖版：空暖紙底上放單一新枝、在枝下安一隻虛構小鳥、讓窄翅小蟲停留在淺紫花束；詳略讀得出翅和葉部，不仿歷史原畫物種或排列。",
+      "promptEn": "Original natural-history plate on blank warm paper with one invented branching plant, a small fictional bird lower on the branch and a slender-winged insect at a muted lilac bloom. Keep wing and leaf structures distinct; no copied species composition or layout.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.metmuseum.org/art/collection/search/457758",
+        "publisher": "The Metropolitan Museum of Art",
+        "credit": "Shaikh Zain al–Din. The Metropolitan Museum of Art, Purchase, Friends of Islamic Art Gifts, 2012 (2012.7); Met CC0 original via Wikimedia Commons.",
+        "checked": "2026-11-18",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/An_Orange-Headed_Ground_Thrush_and_a_Death%27s-Head_Moth_on_a_Purple_Ebony_Orchid_Branch_MET_DP261704.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:An_Orange-Headed_Ground_Thrush_and_a_Death%27s-Head_Moth_on_a_Purple_Ebony_Orchid_Branch_MET_DP261704.jpg"
+      },
+      "license": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "image": {
+        "src": "assets/met-zain-al-din-natural-study.webp",
+        "width": 1280,
+        "height": 931,
+        "alt": "一枝斜向上分叉，葉片、粉色花、踏枝的深色鳥與靠花的昆蟲交錯。背景留自然暖紙色，沒有地平線或陰影地面，枝葉成為尺度參考。",
+        "modification": "等比例縮小並轉存 WebP，未裁切或調色。",
+        "sha256": "85c016dd40843de509d37ed9e3e46e604c984706483647dd65fdb6493d48ebbf"
+      },
+      "family": {
+        "id": "waterborne-paper-painting",
+        "zh": "紙本水性繪畫",
+        "en": "Waterborne painting on paper",
+        "aliases": [
+          "水彩",
+          "水粉",
+          "水墨",
+          "自然史插畫",
+          "gouache",
+          "watercolor",
+          "ink wash",
+          "scientific illustration"
+        ],
+        "bucket": {
+          "id": "art-2d",
+          "zh": "平面原畫與字形",
+          "en": "Two-dimensional art and lettering",
+          "aliases": [
+            "畫稿",
+            "書法",
+            "illustration",
+            "painting",
+            "lettering"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-tarunpant-miniature",
+      "library": "art",
+      "title": "Tarunpant｜波斯細密畫自學習作",
+      "creator": "Tarunpant（發表名）",
+      "date": "2008–09 年",
+      "technique": "細密畫構圖練習・高密度外框與乾淨人像空地",
+      "familyId": "ornamental-miniature-framing",
+      "visual": "主角穿藍衣坐在偏白畫區，植物集中在下角，外圈紅褐細紋填滿；窄黑金框線隔開人物與更密的花紋。",
+      "method": "作者明確寫下自己在 2008–09 年畫這張入門習作。學習可先畫簡單人像剪影，再為外框試兩種紋樣密度，給人物頭部留下淺底。",
+      "why": "外框可比內面更華麗而仍不搶焦，關鍵是讓淺底、窄框線、繁紋形成間隔。",
+      "unknown": "作者未述他用何具體畫材、工序或原模本；標作具名自學實例，不當作古典畫作、標準教程或專業委託。",
+      "prompt": "原創手畫細密畫構圖練習：米白內框裡是一個橙衣提壺的虛構角色，外框做綠棕小紋，不同密度讓人物側線清楚，勿複製原作人物、酒杯、飾邊和款字。",
+      "promptEn": "Original hand-painted miniature composition study with an imagined orange-clad water-carrier in an ivory inner field and a closely patterned green-brown border. Emphasize density contrast and clear profile edges, no copied character, cup, border or inscriptions.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Persian-styled_miniature,_New_Delhi.jpeg",
+        "publisher": "Wikimedia Commons / Tarunpant",
+        "credit": "Tarunpant, Wikimedia Commons. CC BY-SA 3.0，調整尺寸轉 WebP 沿用相同授權，不代表作者支持本站。",
+        "checked": "2026-11-18",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Persian-styled_miniature%2C_New_Delhi.jpeg",
+        "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      "license": {
+        "label": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      "image": {
+        "src": "assets/wc-tarunpant-miniature.webp",
+        "width": 809,
+        "height": 1280,
+        "alt": "主角穿藍衣坐在偏白畫區，植物集中在下角，外圈紅褐細紋填滿；窄黑金框線隔開人物與更密的花紋。",
+        "modification": "等比例縮小並轉存 WebP，未裁切或調色。 轉檔圖維持同一授權，不代表作者背書。",
+        "sha256": "89ee6d758c30d3ea88441bc6ade569ffdc0e5cce24226dad50271f24d454fe5f"
+      },
+      "family": {
+        "id": "ornamental-miniature-framing",
+        "zh": "細密畫飾框構成",
+        "en": "Ornamental miniature framing",
+        "aliases": [
+          "細密畫",
+          "飾框",
+          "miniature",
+          "ornamental border"
+        ],
+        "bucket": {
+          "id": "art-2d",
+          "zh": "平面原畫與字形",
+          "en": "Two-dimensional art and lettering",
+          "aliases": [
+            "畫稿",
+            "書法",
+            "illustration",
+            "painting",
+            "lettering"
+          ]
+        }
+      }
     }
   ]
 }

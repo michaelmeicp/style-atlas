@@ -30,3 +30,5 @@ dialog{width:min(950px,calc(100% - 22px));max-width:none;max-height:88dvh;paddin
 .technique-label{display:block;color:var(--copper);font-size:.72rem;margin:4px 0}
 
 .linked-credit{display:inline-block;margin:0 8px 8px;font-size:.76rem;color:var(--sub)}
+.tech-progress{display:grid;gap:4px;margin:0 0 15px;padding:11px 13px;border:1px solid var(--border);border-radius:9px;background:rgba(255,255,255,.032)}
+.tech-progress>strong{color:var(--ink);font-size:.94rem}.tech-progress>span,.tech-progress details{color:var(--sub);font-size:.82rem}.tech-progress summary{display:list-item;cursor:pointer;color:var(--copper);padding:7px 0}.tech-progress p{margin:0 0 6px}.tech-progress li p{margin-top:2px}.tech-progress ol{padding-left:20px}

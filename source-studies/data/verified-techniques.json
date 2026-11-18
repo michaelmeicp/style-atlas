@@ -1,0 +1,251 @@
+{
+  "schemaVersion": 1,
+  "goal": 500,
+  "verifiedTechniques": 12,
+  "byLibrary": {
+    "art": 4,
+    "photo": 8
+  },
+  "entries": [
+    {
+      "id": "multi-matrix-planographic-lithography",
+      "library": "art",
+      "name": {
+        "zh": "分色套印石版",
+        "en": "Color-register stone lithography"
+      },
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/333986",
+      "parentFamily": "planographic-lithography",
+      "observed": "平坦重疊色塊與細輪廓並存。",
+      "method": "館方列為五色石版印刷。",
+      "limits": "套準與印次未記錄。",
+      "nearest": "手彩凸印",
+      "difference": "印版分色而非印後手塗。",
+      "comparison": {
+        "control": "用平面印版分色印刷",
+        "comparison": "用實地單色印刷後手上色作對照",
+        "passSignal": "各原色面能獨立套準，沒有單色線版內的畫筆漸變"
+      }
+    },
+    {
+      "id": "granular-aquatint-intaglio",
+      "library": "art",
+      "name": {
+        "zh": "飛塵腐蝕凹版",
+        "en": "Aquatint granular intaglio"
+      },
+      "sourceUrl": "https://www.nga.gov/artworks/7502-el-sueno-de-la-razon-produce-monstruos-sleep-reason-produces-monsters",
+      "parentFamily": "intaglio-matrix-printing",
+      "observed": "深部為連續的顆粒調，不完全由排線組成。",
+      "method": "館方列蝕刻和飛塵腐蝕並用。",
+      "limits": "未核實各次腐蝕與墨量。",
+      "nearest": "線蝕刻",
+      "difference": "表現來源是被保護微粒之間的凹面，不只是密集刻線。",
+      "comparison": {
+        "control": "比較點狀阻蝕造成的有墨面",
+        "comparison": "與只有蝕刻線版的試印對照",
+        "passSignal": "相同線框仍出現非排線的連續顆粒陰影"
+      }
+    },
+    {
+      "id": "hand-tinted-relief-etching",
+      "library": "art",
+      "name": {
+        "zh": "凸版腐蝕後手彩",
+        "en": "Hand-tinted relief etching"
+      },
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/347935",
+      "parentFamily": "relief-matrix-printing",
+      "observed": "棕色線版上有局部顏色與未塗區。",
+      "method": "館方確認凸版腐蝕印刷，水彩及貝殼金手上色。",
+      "limits": "上色順序與壓印細節未知。",
+      "nearest": "多色套版",
+      "difference": "色彩在印後塗於成品，不靠額外矩陣套準。",
+      "comparison": {
+        "control": "先凸版印出不變的線框再濕彩",
+        "comparison": "對同一張線圖試作另一張只用印版套色的版本",
+        "passSignal": "框線一致，局部顏色和覆蓋邊緣隨手塗而變"
+      }
+    },
+    {
+      "id": "tone-block-chiaroscuro-woodcut",
+      "library": "art",
+      "name": {
+        "zh": "色調版明暗木刻",
+        "en": "Tone-block chiaroscuro woodcut"
+      },
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/388409",
+      "parentFamily": "relief-matrix-printing",
+      "observed": "寬色調面襯托密線，留紙白區成高光。",
+      "method": "館方註明淺橄欖綠色調版。",
+      "limits": "原設計歸 Dürer，後印者未知。",
+      "nearest": "凸版腐蝕後手彩",
+      "difference": "中間調由可重覆套準的木版印出，而非每張手塗。",
+      "comparison": {
+        "control": "分離主線與成片中間調印版",
+        "comparison": "維持相同木刻線版，加印或移除大色調面",
+        "passSignal": "抽去色調版後立體明暗和留紙白關係消失"
+      }
+    },
+    {
+      "id": "contact-cyanotype-photogram",
+      "library": "photo",
+      "name": {
+        "zh": "藍曬接觸攝影",
+        "en": "Contact cyanotype photogram"
+      },
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/291605",
+      "parentFamily": "contact-exposure-cameraless",
+      "observed": "輪廓及透光細部以藍底留白呈現。",
+      "method": "館方列藍曬；以實物貼近感光面。",
+      "limits": "曝光時長未知。",
+      "nearest": "針孔攝影",
+      "difference": "接觸遮光留下剪影，不以針孔投影。",
+      "comparison": {
+        "control": "改變實物與感光面的距離",
+        "comparison": "對照緊貼和架高的實物",
+        "passSignal": "緊貼輪廓較清晰，無鏡頭形成的透視投影"
+      }
+    },
+    {
+      "id": "split-negative-combination-print",
+      "library": "photo",
+      "name": {
+        "zh": "分區雙底片合印",
+        "en": "Split-negative combination print"
+      },
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/261941",
+      "parentFamily": "analog-combination-print",
+      "observed": "天空與海面各自保留層次。",
+      "method": "館方說明海與天各自拍攝，兩底片印在同一張紙上。",
+      "limits": "未核實各曝光值。",
+      "nearest": "多區馬賽克拼接",
+      "difference": "不同底片各照顧一區的印相，不是增加整幅畫幅。",
+      "comparison": {
+        "control": "兩張底片的分區印相",
+        "comparison": "對照只有海面底片的印本",
+        "passSignal": "兩區可各自改曝光且接縫不顯眼"
+      }
+    },
+    {
+      "id": "macro-focus-depth-stack",
+      "library": "photo",
+      "name": {
+        "zh": "微距焦平面堆疊",
+        "en": "Macro focus-depth stack"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wasp_macro_portrait.jpg",
+      "parentFamily": "stack-compositing",
+      "observed": "主體不同深度的微細結構同時清楚。",
+      "method": "作者列約六倍放大與 250 張疊合。",
+      "limits": "未核實實際焦平面步距、軟件或燈位。",
+      "nearest": "曝光融合",
+      "difference": "切換的是焦平面，不是 EV。",
+      "comparison": {
+        "control": "固定構圖，只移焦平面",
+        "comparison": "與同光圈單幀對照",
+        "passSignal": "原先分別清楚的遠近部位在合成中同時清楚"
+      }
+    },
+    {
+      "id": "tiled-astronomical-mosaic",
+      "library": "photo",
+      "name": {
+        "zh": "多天區天文馬賽克",
+        "en": "Tiled astronomical mosaic"
+      },
+      "sourceUrl": "https://www.eso.org/public/images/eso0934a/",
+      "parentFamily": "field-mosaic-stitching",
+      "observed": "同一幅包含大面積連續銀河細節。",
+      "method": "來源列 52 天區以望遠鏡與 CCD 拍後拼接。",
+      "limits": "200 小時為總量，單幀時長未知。",
+      "nearest": "固定視野多幀疊曝",
+      "difference": "取景指向改變以擴大有效視野。",
+      "comparison": {
+        "control": "移動指向拍相鄰有交疊的天空區",
+        "comparison": "與固定指向反覆拍攝相比",
+        "passSignal": "可對齊重疊星點並增加連續覆蓋，不只是提升信噪比"
+      }
+    },
+    {
+      "id": "tracked-subject-panning",
+      "library": "photo",
+      "name": {
+        "zh": "跟主體平移追拍",
+        "en": "Tracked subject panning"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bike_Panning._(8663144133).jpg",
+      "parentFamily": "camera-motion-exposure",
+      "observed": "動體輪廓比橫向拉長的背景清楚。",
+      "method": "檔案有騎行作品與 1/30 秒 EXIF；不把相機移動數值當作者已公布。",
+      "limits": "未交代穩定器與追焦模式。",
+      "nearest": "抽象 ICM",
+      "difference": "追拍以保住移動主體輪廓為目標。",
+      "comparison": {
+        "control": "相機跟同速度動體轉動",
+        "comparison": "以同快門靜止相機拍同一路徑",
+        "passSignal": "跟拍版動體輪廓比背景清楚，和靜機版的模糊分配不同"
+      }
+    },
+    {
+      "id": "untracked-abstract-icm",
+      "library": "photo",
+      "name": {
+        "zh": "景物抽象 ICM",
+        "en": "Untracked abstract ICM"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Intentional_camera_movement_photography_of_stone_wall_in_Tuntorp.jpg",
+      "parentFamily": "camera-motion-exposure",
+      "observed": "整個景物轉成線性筆觸而非只讓背景拖影。",
+      "method": "作者標明 ICM，原檔 1.3 秒。",
+      "limits": "軌跡及位移幅度不明。",
+      "nearest": "跟主體平移追拍",
+      "difference": "控制軸是無跟蹤的運動軌跡，不是主體速度同步。",
+      "comparison": {
+        "control": "有意移動相機而不追任何固定主體",
+        "comparison": "與腳架同快門及追住明確動體的兩種結果對照",
+        "passSignal": "景物整體成可控制的軌跡，沒有刻意保留追蹤主體清晰"
+      }
+    },
+    {
+      "id": "colored-schlieren-imaging",
+      "library": "photo",
+      "name": {
+        "zh": "彩色紋影成像",
+        "en": "Color schlieren imaging"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Schlieren-color-candle-plume.jpg",
+      "parentFamily": "refractive-and-scattering-contrast",
+      "observed": "透明熱氣輪廓成有方向性的彩紋。",
+      "method": "拍攝者列 25.4 cm 球面鏡紋影儀。",
+      "limits": "光闌、濾片規格和風速未核實。",
+      "nearest": "交叉偏光光彈",
+      "difference": "顯影來自折射率梯度，不是材料雙折射。",
+      "comparison": {
+        "control": "開關紋影光路對同一熱氣源比較",
+        "comparison": "與普通對背景曝光對照",
+        "passSignal": "熱氣引起的折射梯度在紋影光路才構成顯著對比"
+      }
+    },
+    {
+      "id": "crossed-polarizer-photoelasticity",
+      "library": "photo",
+      "name": {
+        "zh": "交叉偏光光彈攝影",
+        "en": "Crossed-polarizer photoelasticity"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stress_induced_birefringence.jpg",
+      "parentFamily": "polarized-contrast",
+      "observed": "材質上的彩帶跟形體轉角走。",
+      "method": "拍攝者稱塑膠盒夾在相互交錯的偏光片之間。",
+      "limits": "無定量應力或樹脂證據。",
+      "nearest": "反光控制偏光",
+      "difference": "用兩片偏光觀察材質雙折射，而非單片壓低表面反光。",
+      "comparison": {
+        "control": "在固定塑膠樣本僅更改分析偏光片",
+        "comparison": "與未放分析片的影像對照",
+        "passSignal": "特有彩紋隨交叉偏光條件而出現或改變"
+      }
+    }
+  ]
+}
