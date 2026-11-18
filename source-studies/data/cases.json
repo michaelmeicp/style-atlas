@@ -4984,6 +4984,632 @@
           ]
         }
       }
+    },
+    {
+      "id": "photo7-ambient-whitebalance",
+      "library": "photo",
+      "title": "暮色港口人像：校正主體，保留藍天",
+      "titleEn": "Shani at Jaffa’s Port",
+      "creator": "Flavio~",
+      "date": "2011-04-22",
+      "technique": "外景光色分層・橙色片配鎢光白平衡",
+      "familySuggestion": "flash-lighting（色溫配對與環境分離子案例）",
+      "visual": "人物半身置於深藍雲層與微光地平線前。臉和手仍保有人膚暖色，黑外套的大部下沉。",
+      "method": "作者說明主閃由無線觸發，從相機右側打過白傘，配橙色片及鎢光白平衡。白平衡設置對全畫面生效，色片先調整人物所受光色。",
+      "why": "把帶橙主光調回接近中性，未套色片的外景便自然偏冷。先看環境曝光，再用主閃補人物；避免把藍色後製套到整個膚色。",
+      "unknown": "橙片級別、精確色溫、傘距和其他反光源未披露；不能將這張量化成一組通用色溫參數。",
+      "prompt": "虛構成年碼頭工作者的藍調時刻半身人像，橙色修正的柔傘閃光僅照臉和手，冷藍雲帶和遠方港燈保持低亮，服裝暗階可讀，自然膚色，沒有霓虹外光。",
+      "promptEn": "Blue-hour half-length portrait of a fictional adult dock worker. Orange-corrected soft umbrella flash illuminates only face and hands; keep cloud belts and distant harbor lights cool and subdued, shadows in clothing retain texture, believable skin, no neon glow.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.flickr.com/photos/37873897@N06/5697871397",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Shani_at_Jaffa%27s_Port_%285697871397%29.jpg",
+        "publisher": "攝影者原發表（Flickr）",
+        "credit": "Flavio~",
+        "checked": "2026-11-18",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Shani_at_Jaffa%27s_Port_(5697871397).jpg",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Shani_at_Jaffa%27s_Port_(5697871397).jpg"
+      },
+      "license": {
+        "label": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/",
+        "note": "本頁只用於原作與技法的編輯性分析；未核實另有模特兒或演員肖像授權。不得把此頁的圖片理解為代言、廣告或另行使用肖像的許可。"
+      },
+      "image": {
+        "src": "assets/photo7-ambient-whitebalance.webp",
+        "alt": "暮色港口人像：校正主體，保留藍天，Flavio~",
+        "modification": "以來源圖等比例縮小及轉為 WebP，未裁切或調色。",
+        "width": 1058,
+        "height": 1400,
+        "sourceWidth": 2112,
+        "sourceHeight": 2796,
+        "sha256": "ccb374ff248994b124b45b9902deff22163140079293643664127ac08e2e4986",
+        "sourceFileSha256": "1ba7096fc1c73592390d6e67e3b9abd3179a2ed898117eca5d8700edc019d84b",
+        "webpFileSha256": "ccb374ff248994b124b45b9902deff22163140079293643664127ac08e2e4986"
+      },
+      "family": {
+        "id": "flash-lighting",
+        "zh": "閃光塑形與凝結",
+        "en": "Flash lighting and motion freezing",
+        "aliases": [
+          "凝結水冠",
+          "環形閃光",
+          "flash",
+          "strobe",
+          "ring flash",
+          "splash"
+        ],
+        "bucket": {
+          "id": "photo-light",
+          "zh": "照明、光源與材質表現",
+          "en": "Illumination and material depiction",
+          "aliases": [
+            "打燈",
+            "閃光",
+            "studio light"
+          ]
+        }
+      }
+    },
+    {
+      "id": "photo7-editorial-modelling",
+      "library": "photo",
+      "title": "巡演宣傳肖像的三類光控制",
+      "titleEn": "Mike — tour publicity portrait",
+      "creator": "Bryan Ledgard",
+      "date": "2010-11-03",
+      "technique": "編輯肖像・網格造型燈與背景獨立補光",
+      "familySuggestion": "lit-subject-and-surface（主體、眼下和背景分配子案例）",
+      "visual": "人物兩手撐住面頰，眼鏡與臉部細節可辨，兩肩微分光；後方黑布不全黑，可見少量橫褶。",
+      "method": "作者列左上傘主閃、相機右側網格罩只開造型燈、地面向上照背景黑布，另在相機前下方放銀反光板。右側的造型燈不是第二次閃光。",
+      "why": "主光、填眼窩及背景亮度可分配，不必一味拉高整張曝光。黑布獨立補光讓深色輪廓和布面分離，仍能保留低調氣氛。",
+      "unknown": "未公布各燈輸出或背景距離；照相機曝光不足以倒推這些設定。",
+      "prompt": "虛構成年單口表演者的劇場場刊肖像，深色棉布幕有很少地面上打紋理，左上柔光塑形、右側受控微光、鏡頭下方銀反光留眼部細節，保留自然皺紋和暗階，不模仿任何真實人物。",
+      "promptEn": "Theater publicity headshot of a fictional adult comedy performer. Faint upward illumination reveals black curtain texture; an above-left soft key shapes the face, a tightly controlled low-level right light and below-camera silver bounce retain eye detail. Keep natural wrinkles and deep tones, no resemblance to an actual person.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:From_a_series_of_portraits_of_Mike_taken_for_his_forthcoming_UK_tour_%22Me,_a_guitar_and_some_daft_stuff%22._(5155537961).jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/From_a_series_of_portraits_of_Mike_taken_for_his_forthcoming_UK_tour_%22Me%2C_a_guitar_and_some_daft_stuff%22._%285155537961%29.jpg",
+        "publisher": "Wikimedia Commons（作者刊載）",
+        "credit": "Bryan Ledgard",
+        "checked": "2026-11-18",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:From_a_series_of_portraits_of_Mike_taken_for_his_forthcoming_UK_tour_%22Me,_a_guitar_and_some_daft_stuff%22._(5155537961).jpg",
+        "creatorUrl": "https://flickr.com/photos/97355030@N00/5155537961",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:From_a_series_of_portraits_of_Mike_taken_for_his_forthcoming_UK_tour_%22Me,_a_guitar_and_some_daft_stuff%22._(5155537961).jpg"
+      },
+      "license": {
+        "label": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/",
+        "note": "本頁只用於原作與技法的編輯性分析；未核實另有模特兒或演員肖像授權。不得把此頁的圖片理解為代言、廣告或另行使用肖像的許可。"
+      },
+      "image": {
+        "src": "assets/photo7-editorial-modelling.webp",
+        "alt": "巡演宣傳肖像的三類光控制，Bryan Ledgard",
+        "modification": "以來源圖等比例縮小及轉為 WebP，未裁切或調色。",
+        "width": 1400,
+        "height": 932,
+        "sourceWidth": 4256,
+        "sourceHeight": 2832,
+        "sha256": "6960008e698c51a18a77da22b9a0865323dbf81d1d5bc2c3c27cdb8d2b8b895b",
+        "sourceFileSha256": "bf968af2a2f8c77a1ec0e85c056566f4641062b539e9aef3bd039ebaa6408125",
+        "webpFileSha256": "6960008e698c51a18a77da22b9a0865323dbf81d1d5bc2c3c27cdb8d2b8b895b"
+      },
+      "family": {
+        "id": "lit-subject-and-surface",
+        "zh": "主體及表面照明",
+        "en": "Subject and surface lighting",
+        "aliases": [
+          "倫勃朗光",
+          "掠射側光",
+          "高調",
+          "Rembrandt light",
+          "raking light",
+          "high key"
+        ],
+        "bucket": {
+          "id": "photo-light",
+          "zh": "照明、光源與材質表現",
+          "en": "Illumination and material depiction",
+          "aliases": [
+            "打燈",
+            "閃光",
+            "studio light"
+          ]
+        }
+      }
+    },
+    {
+      "id": "photo7-food-snoot",
+      "library": "photo",
+      "title": "食物特寫：小束補光照提起的麵",
+      "titleEn": "Yakisoba",
+      "creator": "Worapol Sittiphaet",
+      "date": "2010-05-01",
+      "technique": "食物擺拍・柔主光加窄束側補",
+      "familySuggestion": "flash-lighting（食物小範圍填光子案例）",
+      "visual": "筷子提起的麵條形成斜線，在深色背景前仍可分辨一根根的亮邊，下面盤子保留淺色和局部油光。",
+      "method": "作者記錄左邊美人碟作主光，第二支燈透過自製吸管束光筒在畫幅下方從右補光，鏡頭前另有白紙板回填。這三項分別決定大面積亮度、局部補光和正面灰階。",
+      "why": "窄束補光可以補麵條右側而不掃亮整個背景；卡紙則填寫實的反射光，讓筷子陰影仍保留深度。",
+      "unknown": "食物造型固定方式、主體距離、燈的角度和後期色調沒有公開；亮邊不能推論有另一支背光。",
+      "prompt": "虛構蒜香細麵的食譜特寫，一雙筷子從右上提細麵向左下，寬柔主光在左，右下小束補光只落在麵身，正面有微弱卡紙補光；保留少量油脂高光和深色背景，不畫假蒸氣。",
+      "promptEn": "Recipe close-up of invented garlic noodles lifted diagonally by chopsticks from upper right. Broad soft key left, tight fill from lower right touches the raised strands only, slight white-card bounce from front; retain a few food speculars and a dark backdrop, no fake steam.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.flickr.com/photos/80378665@N00/4568230523",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Yakisoba_%284568230523%29.jpg",
+        "publisher": "攝影者原發表（Flickr）",
+        "credit": "Worapol Sittiphaet",
+        "checked": "2026-11-18",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Yakisoba_(4568230523).jpg",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Yakisoba_(4568230523).jpg"
+      },
+      "license": {
+        "label": "CC BY-SA 2.0",
+        "url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "note": "Wikimedia Commons 於 2010-05-06 核實此圖當時採 CC BY-SA 2.0；Flickr 原頁目前標保留所有權利。本站採的是 Commons 保存、已於原授權下取得的版本，不表示新下載自 Flickr 的檔案使用相同授權。"
+      },
+      "image": {
+        "src": "assets/photo7-food-snoot.webp",
+        "alt": "食物特寫：小束補光照提起的麵，Worapol Sittiphaet",
+        "modification": "以來源圖等比例縮小及轉為 WebP，未裁切或調色。 轉檔沿用原授權。",
+        "width": 1051,
+        "height": 1400,
+        "sourceWidth": 2736,
+        "sourceHeight": 3645,
+        "sha256": "24f87aa13c1149e97a2d1781a691d6daa02d053d5d84fd2041dbca8c423912ee",
+        "sourceFileSha256": "0cffaa2db91cda1b66dea46d6e4f09a69e60e47983ebf7e9708481cb6c45b444",
+        "webpFileSha256": "24f87aa13c1149e97a2d1781a691d6daa02d053d5d84fd2041dbca8c423912ee"
+      },
+      "family": {
+        "id": "flash-lighting",
+        "zh": "閃光塑形與凝結",
+        "en": "Flash lighting and motion freezing",
+        "aliases": [
+          "凝結水冠",
+          "環形閃光",
+          "flash",
+          "strobe",
+          "ring flash",
+          "splash"
+        ],
+        "bucket": {
+          "id": "photo-light",
+          "zh": "照明、光源與材質表現",
+          "en": "Illumination and material depiction",
+          "aliases": [
+            "打燈",
+            "閃光",
+            "studio light"
+          ]
+        }
+      }
+    },
+    {
+      "id": "photo7-black-glass",
+      "library": "photo",
+      "title": "黑玻璃感靜物：綠蘋果與弱倒影",
+      "titleEn": "Granny Smith apple",
+      "creator": "Ansgar Koreng",
+      "date": "2017-10-22",
+      "technique": "低調靜物・黑底透明玻璃反射",
+      "familySuggestion": "lit-subject-and-surface（玻璃反射、雙側回填子案例）",
+      "visual": "綠蘋果懸在大塊黑色裡，下方只有一個較暗的上下倒像。表皮顆粒和頂緣保留淡亮，沒有一圈白外框。",
+      "method": "作者用透明玻璃板下墊黑布，正上方柔光罩打主光。相機右側的束光燈透過蘋果兩旁白泡棉反射，不是兩支燈直接打向果皮。",
+      "why": "倒像靠玻璃鏡面而來，黑布抑制透過玻璃看到的室內雜物。控制反光板的位置及背景亮度，讓暗倒影比本體低，兩側仍有形狀。",
+      "unknown": "玻璃厚度、果皮補光的精確比例及光源距離未知；不稱攝影者用全黑光澤板或合成倒影。",
+      "prompt": "棚拍虛構青梨，透明水平玻璃下鋪黑布，在正上方柔光、左右以白板低量回填。梨皮質感清楚，下方只留一團較暗鏡像，黑底無接縫、掩住棚具反射，不用人工外發光。",
+      "promptEn": "Studio still life of an invented green pear on clear horizontal glass over black cloth, soft overhead key and faint white-card returns at both sides. Preserve tactile peel and a darker mirror image beneath; seamless black, hide studio reflections, no artificial outer glow.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Granny-Smith-Apfel,_1710221209,_ako.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Granny-Smith-Apfel%2C_1710221209%2C_ako.jpg",
+        "publisher": "Wikimedia Commons（作者刊載）",
+        "credit": "Ansgar Koreng / CC BY-SA 4.0",
+        "checked": "2026-11-18",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Granny-Smith-Apfel,_1710221209,_ako.jpg",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Granny-Smith-Apfel,_1710221209,_ako.jpg"
+      },
+      "license": {
+        "label": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "image": {
+        "src": "assets/photo7-black-glass.webp",
+        "alt": "黑玻璃感靜物：綠蘋果與弱倒影，Ansgar Koreng",
+        "modification": "以來源圖等比例縮小及轉為 WebP，未裁切或調色。 轉檔沿用原授權。",
+        "width": 933,
+        "height": 1400,
+        "sourceWidth": 3595,
+        "sourceHeight": 5393,
+        "sha256": "16487488ea71fa3572d95b43834186f0a0e479ac818d9fb0d1e991f96b880bbe",
+        "sourceFileSha256": "705a13a269074bcf6d962aa8be695ec434734ea69188f22093ee64f988880bc0",
+        "webpFileSha256": "16487488ea71fa3572d95b43834186f0a0e479ac818d9fb0d1e991f96b880bbe"
+      },
+      "family": {
+        "id": "lit-subject-and-surface",
+        "zh": "主體及表面照明",
+        "en": "Subject and surface lighting",
+        "aliases": [
+          "倫勃朗光",
+          "掠射側光",
+          "高調",
+          "Rembrandt light",
+          "raking light",
+          "high key"
+        ],
+        "bucket": {
+          "id": "photo-light",
+          "zh": "照明、光源與材質表現",
+          "en": "Illumination and material depiction",
+          "aliases": [
+            "打燈",
+            "閃光",
+            "studio light"
+          ]
+        }
+      }
+    },
+    {
+      "id": "photo7-watch-stack",
+      "library": "photo",
+      "title": "懷錶暗調照片：25 幅景深堆疊",
+      "titleEn": "Pocket Watch",
+      "creator": "Ansgar Koreng",
+      "date": "2018-10-20",
+      "technique": "低調商品微距・不同對焦平面堆疊",
+      "familySuggestion": "stack-compositing（靜止物體、金屬反射及景深）",
+      "visual": "深色背景前，錶盤的分刻度和近處鏈節都可讀，錶緣有窄亮線但沒有把底色抬灰。",
+      "method": "作者用 Helicon Focus 合併 25 幅不同對焦的影像，右側柔光罩配左側泡棉補光；作者只估閃燈約 1/32，因此不是精確測得值。",
+      "why": "保持物件和光源不動，逐次改對焦，讓錶面、表殼與前鏈交界各有銳利來源。這與昆蟲 6× 研究共享堆疊原理，應用到反光金屬和棚拍，並非新廣義技法。",
+      "unknown": "拍攝是否用微距滑軌、每次對焦步幅及軟體方法未公開；不能用 25 次推論所需間距。",
+      "prompt": "虛構舊式羅盤與編織金屬環的暗調樣品照片，景深由多個穩定對焦平面合成，細刻線和前方金屬環輪廓可讀，暗背景不抬灰，右柔光留一條窄而不過曝的銀亮，無商業標記。",
+      "promptEn": "Low-key specimen photograph of an invented vintage compass with a braided metal loop, focus-stack steady depth planes so fine dial ticks and the nearer metal loop read clearly. Keep background black, a slender controlled silver reflection from the right, no blown metal or trademarks.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Pocket_Watch,_1810201115,_ako.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Pocket_Watch%2C_1810201115%2C_ako.jpg",
+        "publisher": "Wikimedia Commons（作者刊載）",
+        "credit": "Ansgar Koreng / CC BY-SA 4.0",
+        "checked": "2026-11-18",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Pocket_Watch,_1810201115,_ako.jpg",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Pocket_Watch,_1810201115,_ako.jpg"
+      },
+      "license": {
+        "label": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "image": {
+        "src": "assets/photo7-watch-stack.webp",
+        "alt": "懷錶暗調照片：25 幅景深堆疊，Ansgar Koreng",
+        "modification": "以來源圖等比例縮小及轉為 WebP，未裁切或調色。 轉檔沿用原授權。",
+        "width": 1400,
+        "height": 933,
+        "sourceWidth": 5472,
+        "sourceHeight": 3648,
+        "sha256": "cae5c6fc06c100dc1dda97b56b5ce6fe6f26882105435e77e273d789fbf45b90",
+        "sourceFileSha256": "740b9b8cb193bb32edb851354f58ac907e6c1b82eb694e564a91846863f8334d",
+        "webpFileSha256": "cae5c6fc06c100dc1dda97b56b5ce6fe6f26882105435e77e273d789fbf45b90"
+      },
+      "family": {
+        "id": "stack-compositing",
+        "zh": "同範圍堆疊合成",
+        "en": "Stack-based composite assembly",
+        "aliases": [
+          "焦點堆疊",
+          "時間堆疊",
+          "最大值",
+          "focus stack",
+          "temporal stack",
+          "max blend"
+        ],
+        "bucket": {
+          "id": "photo-compute",
+          "zh": "計算合成與重投影",
+          "en": "Computational assembly and reprojection",
+          "aliases": [
+            "堆疊",
+            "數位後製",
+            "computational",
+            "stacking"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-blender-tears-trackedcgi",
+      "library": "art",
+      "title": "《Tears of Steel》：實景裡的機械裝置",
+      "titleEn": "Tears of Steel — tracked live-action/CGI composite",
+      "creator": "Blender Foundation · Project Mango",
+      "date": "2012",
+      "technique": "數位合成・實景攝影機追蹤與 3D 合成",
+      "visual": "河岸欄杆分隔前景和河道，真人位在畫面左中、巨大機械佔右側，前後遮擋都帶有細節。自然光的偏綠色溫延伸到裝置，不像將一個素材平貼在畫面上。",
+      "method": "創作團隊的製作日誌說明：先求解實拍鏡頭追蹤，把追蹤檔分到去背／遮罩及主場景，再以解算的相機放置角色、環境，最後打光及合成。這是全片流程，不是單獨此一靜格的每層記錄。",
+      "why": "先把虛擬場景與鏡頭的空間關係定住，再處理遮擋、光向與輪廓，比先渲染一張帥氣但無法鎖定視差的 CG 靜格更可控。",
+      "unknown": "公開圖檔不含此幀的逐層合成圖、實體道具／CG 的精確分界、燈光數值或追蹤點數。非 AI 出圖範例，沒有原始提示詞。",
+      "prompt": "原創河岸科幻合成，午後陰天，真人在矮欄杆後方，另一側的原創重型裝置與實拍視角對齊。一根前景金屬桿自然遮住部分裝置；依現場一致的柔光、色偏、景深、粒度做分層匹配。不複製演員、電影設計或場景。",
+      "promptEn": "Original live-action-style sci-fi compositing study on a riverfront, soft overcast daylight. Match an invented device to a solved camera beside a person; let a foreground rail occlude part of the device. Match ambient tint, depth and fine grain across layers. Use a different location, cast and production design.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://mango.blender.org/production/mango-vfx-pipeline-part-1/",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Tears_of_Steel_frame_05_6a.jpg#Licensing",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Tears_of_Steel_frame_05_6a.jpg",
+        "credit": "(CC) Blender Foundation | Project Mango",
+        "publisher": "Blender Foundation（製作日誌）／Wikimedia Commons（CC BY 劇照）",
+        "checked": "2026-11-18",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Tears_of_Steel_frame_05_6a.jpg"
+      },
+      "license": {
+        "label": "CC BY 3.0",
+        "url": "https://creativecommons.org/licenses/by/3.0/",
+        "note": "本頁只用於原作與技法的編輯性分析；未核實另有模特兒或演員肖像授權。不得把此頁的圖片理解為代言、廣告或另行使用肖像的許可。"
+      },
+      "image": {
+        "src": "assets/wc-blender-tears-trackedcgi.webp",
+        "width": 1440,
+        "height": 600,
+        "alt": "河岸欄杆旁的真人與大型機械裝置同處一景。",
+        "modification": "授權靜格 frame 05 6a 等比例縮小後轉為 WebP；沒有裁切和調色。",
+        "sha256": "9a106aee281db02dfd2c6cb61b864e0c142e61f4707231179c5e3c9de07d4821"
+      },
+      "family": {
+        "id": "tracked-live-action-compositing",
+        "zh": "實景追蹤與三維合成",
+        "en": "Tracked live-action and 3D compositing",
+        "aliases": [
+          "Matchmoving",
+          "Camera tracking",
+          "實拍合成",
+          "3D 合成"
+        ],
+        "bucket": {
+          "id": "art-digital",
+          "zh": "數位製作與像素造型",
+          "en": "Digital production and pixel design",
+          "aliases": [
+            "game art",
+            "原型",
+            "視覺開發"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-esby-hugin-exposurefusion",
+      "library": "photo",
+      "title": "九十張照片融成 La Garde 晨光全景",
+      "titleEn": "La Garde panorama — bracket fusion and stitch",
+      "creator": "Esby",
+      "date": "2011-01-15",
+      "technique": "數位合成攝影・包圍曝光融合全景",
+      "visual": "長幅左側石造高塔保留陰影質地，近地平線的逆光亮點仍然很亮，右方城市與上方藍天不需一律提亮也讀得清楚。",
+      "method": "作者列明組合 90 張晨間照片，三組視角裡包含向下 15° 兩組及向上 30° 一組。每處拍七個曝光、保留三個；曝光融合後先對齊，再融合向下兩組和用 Hugin 合成。作者列 f/8、ISO 100、−2/0/+2 EV、腳架。",
+      "why": "不同曝光處理亮度範圍，重疊畫面處理視野；先在每個角度解決過曝與陰影，再對齊合成，能保留逆光但不靠普遍壓扁對比。和球極全景同屬拼接大類，本例強調重複包圍曝光，不是另一種投影外觀。",
+      "unknown": "來源表示拼接時失去原始 EXIF，未逐張核實快門、融合作業軟體版本或權重。作者列的角度和曝光為此案例紀錄，不是所有景別通用。",
+      "prompt": "原創山城晨景的多張包圍曝光拼接，橫寬畫幅。遠方朝陽保持明亮，近處石牆陰影留粗礪紋理，建築和天空於接縫前後色階連續；切勿產生屋頂白邊、過度 HDR 或壓暗太陽。",
+      "promptEn": "Original bracket-fused, stitched morning hill-town panorama. Keep the sunrise visibly bright, textured shadows on foreground stone and continuous tones across skyline seams. Avoid white edge halos, excessive HDR and a gray sun.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Panorama_de_La_Garde_depuis_la_chapelle_au_matin.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Panorama_de_La_Garde_depuis_la_chapelle_au_matin.jpg#Licensing",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Panorama_de_La_Garde_depuis_la_chapelle_au_matin.jpg/1280px-Panorama_de_La_Garde_depuis_la_chapelle_au_matin.jpg",
+        "credit": "Esby",
+        "publisher": "Wikimedia Commons（作者自述及圖檔）",
+        "checked": "2026-11-18",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Panorama_de_La_Garde_depuis_la_chapelle_au_matin.jpg"
+      },
+      "license": {
+        "label": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      "image": {
+        "src": "assets/wc-esby-hugin-exposurefusion.webp",
+        "width": 1280,
+        "height": 272,
+        "alt": "晨光穿過石塔與鄉鎮地平線的狹長全景。",
+        "modification": "以 Wikimedia 的 1280 像素公開縮圖轉為 WebP；未再縮放或裁切。此圖像沿用 CC BY-SA 3.0。",
+        "sha256": "11a19023bbf3f0dde437967acec21fcff584bb3ec4aa20a272d45618dc864f95"
+      },
+      "family": {
+        "id": "field-mosaic-stitching",
+        "zh": "不同視野的馬賽克拼接",
+        "en": "Cross-field mosaic stitching",
+        "aliases": [
+          "天區拼接",
+          "馬賽克",
+          "panorama stitching",
+          "mosaic"
+        ],
+        "bucket": {
+          "id": "photo-compute",
+          "zh": "計算合成與重投影",
+          "en": "Computational assembly and reprojection",
+          "aliases": [
+            "堆疊",
+            "數位後製",
+            "computational",
+            "stacking"
+          ]
+        }
+      }
+    },
+    {
+      "id": "met-zeshin-makie",
+      "library": "art",
+      "title": "柴田是真｜柴舟波浪蒔繪印籠",
+      "creator": "Shibata Zeshin 柴田是真",
+      "date": "19 世紀",
+      "technique": "金蒔繪與螺鈿・漆器上區分金線與虹彩面",
+      "familyId": "lacquer-powder-and-inlay",
+      "visual": "印籠的小矩形內交錯有金色細線與偏藍的亮片，波形用成束的弧線收住；旁邊黑圓件與繩結是另一配件，不是主畫面。",
+      "method": "館方列黑漆地、金蒔繪和珍珠母鑲嵌，取材自本阿彌光悅的早期設計。練習先以粗略曲線分出水勢，讓鑲嵌片只負責主亮面，細金線帶方向，其他黑漆地保留。",
+      "why": "漆、金與貝光各折射不同；把效果分給不同材料，比在所有邊緣一律描金更有節奏。",
+      "unknown": "未載本件金粉規格、漆層數及研磨順序，不能由表面倒推；小圓根付是館方另列硬木與掐絲，不與印籠工法混稱。",
+      "prompt": "原創黑漆隨身盒近攝，兩組極細金曲線表現海潮，一小組自然偏藍貝片形成潮間岩面；讓光澤分級、空黑大於鑲嵌，勿仿圖中舟形及配件。",
+      "promptEn": "Original small black lacquer box, with two groups of very fine gilded curves suggesting tidal water and a few natural blue-tinged shell inlays forming an invented shoal. Maintain restrained reflections and generous black ground; do not recreate boat forms or accessories.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.metmuseum.org/art/collection/search/40494",
+        "publisher": "The Metropolitan Museum of Art",
+        "credit": "Shibata Zeshin. The Metropolitan Museum of Art, Gift of Florence and Herbert Irving, 2015 (2015.500.2.44).",
+        "checked": "2026-11-18",
+        "imageUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/40494/1607563/main-image",
+        "rightsUrl": "https://www.metmuseum.org/hubs/open-access"
+      },
+      "license": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "image": {
+        "src": "assets/met-zeshin-makie.webp",
+        "width": 901,
+        "height": 1200,
+        "alt": "印籠的小矩形內交錯有金色細線與偏藍的亮片，波形用成束的弧線收住；旁邊黑圓件與繩結是另一配件，不是主畫面。",
+        "modification": "原館正面圖，等比例處理及轉存 WebP，未裁切或調色。",
+        "sha256": "33965f47024b6d077198b27e317ea9f76218c71f4a260ae7e166aeac5c2e8778"
+      },
+      "family": {
+        "id": "lacquer-powder-and-inlay",
+        "zh": "漆藝蒔粉與嵌片",
+        "en": "Lacquer powder and inlay",
+        "aliases": [
+          "金蒔繪",
+          "螺鈿",
+          "maki-e",
+          "lacquer",
+          "mother-of-pearl"
+        ],
+        "bucket": {
+          "id": "art-object",
+          "zh": "立體材料與工藝",
+          "en": "Objects and crafted materials",
+          "aliases": [
+            "材料",
+            "工藝",
+            "craft",
+            "object"
+          ]
+        }
+      }
+    },
+    {
+      "id": "met-hayakawa-basket",
+      "library": "art",
+      "title": "初代早川尚古齋｜唐物式花籃",
+      "creator": "Hayakawa Shōkosai I 初代早川尚古齋",
+      "date": "約 1870–80 年代",
+      "technique": "竹籐編織・在同一容器切換組織方向",
+      "familyId": "woven-rigid-fibers",
+      "visual": "深褐壺形花籃上有外擴薄口、小耳和收窄底部；肩部見橫向帶紋，直身則排列成許多細直筋。",
+      "method": "大都會博物館列大徑竹與籐；作品示範先區分支撐直條、肩部橫帶和口邊收束。用硬軟條材做小樣時，先看曲度和織向變換處的間距。",
+      "why": "輪廓不是在平面格紋上硬折出來；肩帶使視線停留，直筋讓筒身看起來有向下的結構重力。",
+      "unknown": "編法特定名稱、條材泡製與交接順序未核實，不能由照片推定每一股穿法。",
+      "prompt": "原創窄肩暖棕竹籐花籃，直筋多而細、肩部兩段較密的斜向篾帶，低小耳，霧灰背景與一側柔光；保留篾條厚度和邊緣編結。",
+      "promptEn": "Original warm-brown bamboo and rattan flower basket with slender vertical splints, two denser diagonal bands at the narrow shoulders, and small low handles; mist-gray background, soft side light, visible strip thickness and neat rim binding.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.metmuseum.org/art/collection/search/62167",
+        "publisher": "The Metropolitan Museum of Art",
+        "credit": "Hayakawa Shōkosai I. The Metropolitan Museum of Art, Edward C. Moore Collection, Bequest of Edward C. Moore, 1891 (91.1.2068).",
+        "checked": "2026-11-18",
+        "imageUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/62167/1628646/main-image",
+        "rightsUrl": "https://www.metmuseum.org/hubs/open-access"
+      },
+      "license": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "image": {
+        "src": "assets/met-hayakawa-basket.webp",
+        "width": 899,
+        "height": 1200,
+        "alt": "深褐壺形花籃上有外擴薄口、小耳和收窄底部；肩部見橫向帶紋，直身則排列成許多細直筋。",
+        "modification": "原館正面圖，等比例處理及轉存 WebP，未裁切或調色。",
+        "sha256": "0843851c79df112346ea95271bbd3d3be20b7f0d918693f07f90652e164e9368"
+      },
+      "family": {
+        "id": "woven-rigid-fibers",
+        "zh": "竹籐等硬纖維編構",
+        "en": "Woven rigid-fiber construction",
+        "aliases": [
+          "竹編",
+          "籐編",
+          "bamboo weaving",
+          "rattan",
+          "basketry"
+        ],
+        "bucket": {
+          "id": "art-object",
+          "zh": "立體材料與工藝",
+          "en": "Objects and crafted materials",
+          "aliases": [
+            "材料",
+            "工藝",
+            "craft",
+            "object"
+          ]
+        }
+      }
+    },
+    {
+      "id": "princeton-namikawa-cloisonne",
+      "library": "art",
+      "title": "並河靖之｜掐絲琺瑯花瓶",
+      "creator": "Namikawa Yasuyuki 並河靖之",
+      "date": "約 1900 年",
+      "technique": "銀線掐絲琺瑯・用細線限制釉色面",
+      "familyId": "vitreous-surface-craft",
+      "visual": "近黑的球腹留出大暗面，花葉聚在右側；頸部轉成較亮且重複排列的小花，細口與足邊有金色收邊。",
+      "method": "普林斯頓館方列銀線掐絲琺瑯及鎏金黃銅配件；底部有署名。練習用稀疏與密集的閉合線圈分兩區，先在紙上界定花瓣和背景色面，再模擬釉色的明暗差。",
+      "why": "金屬線在此是真正的色釉分隔，不只是手繪線條。重複紋樣與主光滑暗面分開，頸身比例才清楚。",
+      "unknown": "本件釉料、燒製溫度與次數未載；影像不誇大解析度，不把穿過底色的反光說成無線琺瑯。",
+      "prompt": "自創長頸深藍掐絲花瓶：銀色超細閉合線分隔白綠小花和深藍底釉，頸部有更密的小重複紋，亮度克制，柔光突顯琺瑯而不是塑膠反光。",
+      "promptEn": "Original narrow-neck deep blue cloisonné vase: fine closed silver wire cells divide white-green flowers and dark enamel, with denser repeats at the neck. Restrained brightness and soft light distinguish glassy enamel from a plastic shine.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://artmuseum.princeton.edu/art/collections/objects/43321",
+        "publisher": "Princeton University Art Museum",
+        "credit": "Namikawa Yasuyuki. Gift of Alice and Bernard Gerb in memory of Pauline Lester (2004-367). Image courtesy of the Princeton University Art Museum.",
+        "checked": "2026-11-18",
+        "imageUrl": "https://media.artmuseum.princeton.edu/iiif/3/collection/2004-367/full/,660/0/default.webp",
+        "rightsUrl": "https://artmuseum.princeton.edu/art/our-collections/image-use-and-access"
+      },
+      "license": {
+        "label": "Public Domain",
+        "url": "https://artmuseum.princeton.edu/art/our-collections/image-use-and-access"
+      },
+      "image": {
+        "src": "assets/princeton-namikawa-cloisonne.webp",
+        "width": 422,
+        "height": 660,
+        "alt": "近黑的球腹留出大暗面，花葉聚在右側；頸部轉成較亮且重複排列的小花，細口與足邊有金色收邊。",
+        "modification": "沿用館方原 WebP 視角及尺寸，未裁切或調色。",
+        "sha256": "e47f47695f35b81b3650a81161f9ffbcf23b99176ce3e5ed6b2cccffe1e25f06"
+      },
+      "family": {
+        "id": "vitreous-surface-craft",
+        "zh": "玻璃與玻璃質表面工藝",
+        "en": "Glass and vitreous surface craft",
+        "aliases": [
+          "虹彩",
+          "銅胎畫琺瑯",
+          "鍍金",
+          "Favrile",
+          "enamel",
+          "iridescence"
+        ],
+        "bucket": {
+          "id": "art-object",
+          "zh": "立體材料與工藝",
+          "en": "Objects and crafted materials",
+          "aliases": [
+            "材料",
+            "工藝",
+            "craft",
+            "object"
+          ]
+        }
+      }
     }
   ]
 }

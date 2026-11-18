@@ -658,3 +658,87 @@
 - 展示權利：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
 - 權利依據：https://commons.wikimedia.org/wiki/File:Jupiter_with_Lucky_Imaging.jpg
 - 檔案調整：以來源圖轉為 WebP；未另行縮放、裁切或調色。轉檔沿用原授權。
+
+## 暮色港口人像：校正主體，保留藍天
+- 檔案：assets/photo7-ambient-whitebalance.webp
+- 署名：Flavio~
+- 來源：https://www.flickr.com/photos/37873897@N06/5697871397
+- 展示權利：CC BY 2.0 https://creativecommons.org/licenses/by/2.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Shani_at_Jaffa%27s_Port_(5697871397).jpg
+- 補充：本頁只用於原作與技法的編輯性分析；未核實另有模特兒或演員肖像授權。不得把此頁的圖片理解為代言、廣告或另行使用肖像的許可。
+- 檔案調整：以來源圖等比例縮小及轉為 WebP，未裁切或調色。
+
+## 巡演宣傳肖像的三類光控制
+- 檔案：assets/photo7-editorial-modelling.webp
+- 署名：Bryan Ledgard
+- 來源：https://commons.wikimedia.org/wiki/File:From_a_series_of_portraits_of_Mike_taken_for_his_forthcoming_UK_tour_%22Me,_a_guitar_and_some_daft_stuff%22._(5155537961).jpg
+- 展示權利：CC BY 2.0 https://creativecommons.org/licenses/by/2.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:From_a_series_of_portraits_of_Mike_taken_for_his_forthcoming_UK_tour_%22Me,_a_guitar_and_some_daft_stuff%22._(5155537961).jpg
+- 補充：本頁只用於原作與技法的編輯性分析；未核實另有模特兒或演員肖像授權。不得把此頁的圖片理解為代言、廣告或另行使用肖像的許可。
+- 檔案調整：以來源圖等比例縮小及轉為 WebP，未裁切或調色。
+
+## 食物特寫：小束補光照提起的麵
+- 檔案：assets/photo7-food-snoot.webp
+- 署名：Worapol Sittiphaet
+- 來源：https://www.flickr.com/photos/80378665@N00/4568230523
+- 展示權利：CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Yakisoba_(4568230523).jpg
+- 補充：Wikimedia Commons 於 2010-05-06 核實此圖當時採 CC BY-SA 2.0；Flickr 原頁目前標保留所有權利。本站採的是 Commons 保存、已於原授權下取得的版本，不表示新下載自 Flickr 的檔案使用相同授權。
+- 檔案調整：以來源圖等比例縮小及轉為 WebP，未裁切或調色。 轉檔沿用原授權。
+
+## 黑玻璃感靜物：綠蘋果與弱倒影
+- 檔案：assets/photo7-black-glass.webp
+- 署名：Ansgar Koreng / CC BY-SA 4.0
+- 來源：https://commons.wikimedia.org/wiki/File:Granny-Smith-Apfel,_1710221209,_ako.jpg
+- 展示權利：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Granny-Smith-Apfel,_1710221209,_ako.jpg
+- 檔案調整：以來源圖等比例縮小及轉為 WebP，未裁切或調色。 轉檔沿用原授權。
+
+## 懷錶暗調照片：25 幅景深堆疊
+- 檔案：assets/photo7-watch-stack.webp
+- 署名：Ansgar Koreng / CC BY-SA 4.0
+- 來源：https://commons.wikimedia.org/wiki/File:Pocket_Watch,_1810201115,_ako.jpg
+- 展示權利：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Pocket_Watch,_1810201115,_ako.jpg
+- 檔案調整：以來源圖等比例縮小及轉為 WebP，未裁切或調色。 轉檔沿用原授權。
+
+## 《Tears of Steel》：實景裡的機械裝置
+- 檔案：assets/wc-blender-tears-trackedcgi.webp
+- 署名：(CC) Blender Foundation | Project Mango
+- 來源：https://mango.blender.org/production/mango-vfx-pipeline-part-1/
+- 展示權利：CC BY 3.0 https://creativecommons.org/licenses/by/3.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Tears_of_Steel_frame_05_6a.jpg#Licensing
+- 補充：本頁只用於原作與技法的編輯性分析；未核實另有模特兒或演員肖像授權。不得把此頁的圖片理解為代言、廣告或另行使用肖像的許可。
+- 檔案調整：授權靜格 frame 05 6a 等比例縮小後轉為 WebP；沒有裁切和調色。
+
+## 九十張照片融成 La Garde 晨光全景
+- 檔案：assets/wc-esby-hugin-exposurefusion.webp
+- 署名：Esby
+- 來源：https://commons.wikimedia.org/wiki/File:Panorama_de_La_Garde_depuis_la_chapelle_au_matin.jpg
+- 展示權利：CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Panorama_de_La_Garde_depuis_la_chapelle_au_matin.jpg#Licensing
+- 檔案調整：以 Wikimedia 的 1280 像素公開縮圖轉為 WebP；未再縮放或裁切。此圖像沿用 CC BY-SA 3.0。
+
+## 柴田是真｜柴舟波浪蒔繪印籠
+- 檔案：assets/met-zeshin-makie.webp
+- 署名：Shibata Zeshin. The Metropolitan Museum of Art, Gift of Florence and Herbert Irving, 2015 (2015.500.2.44).
+- 來源：https://www.metmuseum.org/art/collection/search/40494
+- 展示權利：CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://www.metmuseum.org/hubs/open-access
+- 檔案調整：原館正面圖，等比例處理及轉存 WebP，未裁切或調色。
+
+## 初代早川尚古齋｜唐物式花籃
+- 檔案：assets/met-hayakawa-basket.webp
+- 署名：Hayakawa Shōkosai I. The Metropolitan Museum of Art, Edward C. Moore Collection, Bequest of Edward C. Moore, 1891 (91.1.2068).
+- 來源：https://www.metmuseum.org/art/collection/search/62167
+- 展示權利：CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://www.metmuseum.org/hubs/open-access
+- 檔案調整：原館正面圖，等比例處理及轉存 WebP，未裁切或調色。
+
+## 並河靖之｜掐絲琺瑯花瓶
+- 檔案：assets/princeton-namikawa-cloisonne.webp
+- 署名：Namikawa Yasuyuki. Gift of Alice and Bernard Gerb in memory of Pauline Lester (2004-367). Image courtesy of the Princeton University Art Museum.
+- 來源：https://artmuseum.princeton.edu/art/collections/objects/43321
+- 展示權利：Public Domain https://artmuseum.princeton.edu/art/our-collections/image-use-and-access
+- 權利依據：https://artmuseum.princeton.edu/art/our-collections/image-use-and-access
+- 檔案調整：沿用館方原 WebP 視角及尺寸，未裁切或調色。
