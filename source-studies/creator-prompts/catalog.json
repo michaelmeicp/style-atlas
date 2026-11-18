@@ -1,15 +1,15 @@
 {
-  "galleryImages": 39,
+  "galleryImages": 40,
   "referenceOnly": 51,
   "stats": {
-    "verifiedPairs": 90,
+    "verifiedPairs": 91,
     "byPlatform": {
       "note": 49,
       "linkedin": 1,
       "substack": 1,
       "taste": 6,
       "monigarr": 1,
-      "budgetpixel": 16,
+      "budgetpixel": 17,
       "commons": 6,
       "venustai": 3,
       "pixmind": 2,
@@ -18,9 +18,9 @@
     },
     "rights": {
       "link-only": 51,
-      "displayable": 39
+      "displayable": 40
     },
-    "distinctStyles": 74,
+    "distinctStyles": 75,
     "repeatCreators": [
       "Tatiana Tsiguleva",
       "リンファ (Rinfa)",
@@ -1870,6 +1870,34 @@
       "asset": "assets/budgetpixel-justrob-botanical-lumina-cyanotype.png",
       "imageAudit": "Exact original fifth PNG 896×1152 directly downloaded, decoded and viewed; verified full per-image prompt, item license and exact matching depiction.",
       "creatorStyleSource": "https://justrobstyles.com/s/botanical-lumina",
+      "classification": "art"
+    },
+    {
+      "id": "budgetpixel-michellemichaels-midnight-carnival",
+      "creator": "@michellemichaels via BudgetPixel AI",
+      "platform": "budgetpixel",
+      "channel": "creator-social",
+      "sourceDate": "2026-11-08",
+      "dateBasis": "posted",
+      "verifiedDate": "2026-11-19",
+      "source": "https://budgetpixel.com/p/104721",
+      "promptLocator": "原帖單幅圖下的 Prompt 欄；這是該帳號公開貼出的指令，不宣稱已驗證獨立文字創作。",
+      "styleLabel": "復古不透明水彩仿石版：冷霧中以小暖燈引路",
+      "resultObservation": "暗青霧吞沒後方樹影，中央旋轉木馬的連串小燈保留輪廓；下方由潮濕路面斜入，和右側紅褐棚車分出舞台層級。",
+      "distinctStyleKey": "vintage-gouache-staged-point-lights",
+      "distinctReason": "重點不是同類夜景光色，而是讓暖燈標出幾個小舞台，前置人物及道具在大暗面內維持尺寸節奏。",
+      "method": "大部分畫面保留同一暗青值域，以暖色短點標示三個景別位置，再用一段濕路反光連結，不把整幅夜景照亮。",
+      "limitation": "原帖完整提示可核實，未獨立證明文字起草者；這是 SeeDream 成圖，不是實物石版。原檔較大，展示若改用等比輕量副本須註明。 左下票券有淡色字形，不能把原指令的無字要求當作全面達成；只確認帳號公開貼出圖詞，未證明提示由本人獨立撰寫。",
+      "model": "SeeDream 5.0 Flash",
+      "rights": "displayable",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0（原帖標示）",
+      "rightsSource": "https://budgetpixel.com/p/104721",
+      "modification": "原始 PNG 位元組未改；網頁依比例顯示。",
+      "credit": "復古不透明水彩仿石版：冷霧中以小暖燈引路 · @michellemichaels via BudgetPixel AI · CC BY 4.0",
+      "copyPolicy": "只顯示可轉載成圖；完整提示查看原頁。",
+      "asset": "assets/budgetpixel-michellemichaels-midnight-carnival.png",
+      "imageAudit": "Exact original PNG 2816×1584, fully decoded, visually reviewed.",
       "classification": "art"
     }
   ]
