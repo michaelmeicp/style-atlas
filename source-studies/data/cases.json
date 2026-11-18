@@ -7572,6 +7572,694 @@
           ]
         }
       }
+    },
+    {
+      "id": "photo10-anthotype-berry",
+      "library": "photo",
+      "title": "植物色素日印：用光褪色留下番茄葉",
+      "titleEn": "Blackberry anthotype of tomato leaves",
+      "creator": "Hutschi",
+      "date": "2014-07-30",
+      "technique": "花汁日印 · 植物色素光褪色",
+      "familySuggestion": "anthotype-pigment-fading",
+      "visual": "白紙上的紫灰筆觸沒有被裁成矩形，葉形保留更深的紫色，花青色周邊有塗抹痕。",
+      "method": "作者列莓汁塗在印表紙、番茄葉遮光，陰天約 24 小時。",
+      "why": "用遮光保留原色，讓露光區褪色；與讓銀鹽受光加深、或產生普魯士藍的藍曬不是同一種化學。",
+      "unknown": "紙張品牌、刷層、當日紫外線、保存時的褪色情況未列；24 小時不能跨材料套用。",
+      "prompt": "原創植物顯影作品，白紙留不規則莓紫刷邊，葉片遮住之處留微暗紫輪廓，外側明柔，不製造硬黑或均勻銳利的數位剪影。",
+      "promptEn": "Original plant-pigment sun print on white paper, uneven berry-purple brush border, muted darker leaves where covered and soft exposed surrounds, no hard black or crisply uniform digital silhouette.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Tomate_auf_Brombeere_-_Anthotypie.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Tomate_auf_Brombeere_-_Anthotypie.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Tomate_auf_Brombeere_-_Anthotypie.jpg",
+        "publisher": "Wikimedia Commons（作者或原始作品檔案）",
+        "credit": "Hutschi",
+        "checked": "2026-11-18"
+      },
+      "license": {
+        "label": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "image": {
+        "src": "assets/photo10-anthotype-berry.webp",
+        "alt": "植物色素日印：用光褪色留下番茄葉，Hutschi",
+        "modification": "以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。 轉檔沿用原授權。",
+        "width": 915,
+        "height": 1400,
+        "sourceWidth": 1148,
+        "sourceHeight": 1756,
+        "sha256": "e2bae9c8b7693ddcf6cc58fd4bed2cc8e90c6b81ca3c4e3226e30b401ceacc33",
+        "sourceFileSha256": "c6e89090f862105b094e04e75adb1b6305075af09e7ef2f8dba21240f9568be8",
+        "webpFileSha256": "e2bae9c8b7693ddcf6cc58fd4bed2cc8e90c6b81ca3c4e3226e30b401ceacc33"
+      },
+      "family": {
+        "id": "plant-pigment-photobleaching",
+        "zh": "植物色素光褪影",
+        "en": "Plant-pigment photobleaching",
+        "aliases": [
+          "anthotype",
+          "植物日印"
+        ],
+        "bucket": {
+          "id": "photo-paper",
+          "zh": "感光紙、暗房與印相",
+          "en": "Photosensitive media, darkroom and printing",
+          "aliases": [
+            "銀鹽",
+            "印相",
+            "暗房",
+            "print",
+            "film"
+          ]
+        }
+      }
+    },
+    {
+      "id": "photo10-vandyke-feather",
+      "library": "photo",
+      "title": "范戴克棕接觸印：半透明羽片的暖色調",
+      "titleEn": "Van Dyke brown contact photogram of a feather",
+      "creator": "Petr Vodička",
+      "date": "2008",
+      "technique": "鐵銀系接觸印 · 直接放置實物",
+      "familySuggestion": "van-dyke-brown-printing",
+      "visual": "羽毛斜放在深棕刷區，輪廓淺，但羽枝的未透光和半透光格外分明。",
+      "method": "作者標記為 Van Dyke Brown 方法製作的羽毛 photogram。此張是實物接觸，並非以透明底片印出的照片。",
+      "why": "物件厚薄改變局部透光程度，直接形成細節。可和另一種透明底片接觸流程一起理解，而非將褐色直接等同數位 sepia。",
+      "unknown": "來源不列配方、曝光、定影、掃描或紙張；不能重建作者精確化學條件。",
+      "prompt": "原創小片羽形纖維的暖棕接觸印樣，深棕不整齊刷痕與留白，纖維在半透區出現淺褐漸層，沒有相機景深或數位仿舊邊。",
+      "promptEn": "Warm brown contact print of an original small feather-shaped fiber, irregular dark brush field with bare paper around it, fine strands with pale brown gradients in translucent zones, no lens depth of field or digital distressed edges.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:VanDyke-feather.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:VanDyke-feather.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/VanDyke-feather.jpg",
+        "publisher": "Wikimedia Commons（作者或原始作品檔案）",
+        "credit": "Petr Vodička, Wikipedia",
+        "checked": "2026-11-18",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:VanDyke-feather.jpg"
+      },
+      "license": {
+        "label": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "image": {
+        "src": "assets/photo10-vandyke-feather.webp",
+        "alt": "范戴克棕接觸印：半透明羽片的暖色調，Petr Vodička",
+        "modification": "以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。 轉檔沿用原授權。",
+        "width": 1090,
+        "height": 1400,
+        "sourceWidth": 5153,
+        "sourceHeight": 6617,
+        "sha256": "d40af8ea00537b006e5677948a04522028fa2b07a9a6c0d3070c79d19f423937",
+        "sourceFileSha256": "2fafbc83c3eb1a75cb04b100b73cf1d3807d667b0d448311f847a1ae79c7c119",
+        "webpFileSha256": "d40af8ea00537b006e5677948a04522028fa2b07a9a6c0d3070c79d19f423937"
+      },
+      "family": {
+        "id": "iron-silver-contact-print",
+        "zh": "鐵鹽與銀影印相",
+        "en": "Iron-sensitized silver printing",
+        "aliases": [
+          "Van Dyke Brown",
+          "Kallitype",
+          "鐵銀"
+        ],
+        "bucket": {
+          "id": "photo-paper",
+          "zh": "感光紙、暗房與印相",
+          "en": "Photosensitive media, darkroom and printing",
+          "aliases": [
+            "銀鹽",
+            "印相",
+            "暗房",
+            "print",
+            "film"
+          ]
+        }
+      }
+    },
+    {
+      "id": "photo10-ois-comparison",
+      "library": "photo",
+      "title": "光學防震對照：同一靜物看文字是否變清晰",
+      "titleEn": "Optical image stabilization on/off comparison",
+      "creator": "Dave.Hulick",
+      "date": "2007-07-15",
+      "technique": "光學防震開關 · 靜物文字對照",
+      "familySuggestion": "optical-image-stabilization",
+      "visual": "上下是相同計算機的小字與按鍵。上方標關閉防震，細字較模糊；下方標開啟，邊緣更利。",
+      "method": "作者以兩格相片比較光學防震模式，圖上明標開／關；主體是靜止鍵盤。",
+      "why": "用不移動的印刷小字當手震診斷，先不把主體位移混入。光學防震不會凍住走動的人；可靠的測試應拍多張而不是只看一對。",
+      "unknown": "作者沒有在可查文字中交代持機／腳架、快門、焦段、防震檔數和重複次數。",
+      "prompt": "原創防震比較雙格：同樣的無品牌計算器按鍵、框位與亮度，上格有輕微方向性手震重影，下格小字清晰；標示防震關與開，不弄成景深差。",
+      "promptEn": "Original optical stabilization comparison in two panels: identical unbranded calculator keys, framing and brightness; top has subtle directional shake and bottom shows crisp tiny lettering. Clearly label stabilization off/on; do not substitute depth-of-field blur.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:ISComparison.png",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:ISComparison.png",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/ISComparison.png",
+        "publisher": "Wikimedia Commons（作者或原始作品檔案）",
+        "credit": "Dave.Hulick",
+        "checked": "2026-11-18"
+      },
+      "license": {
+        "label": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      "image": {
+        "src": "assets/photo10-ois-comparison.webp",
+        "alt": "光學防震對照：同一靜物看文字是否變清晰，Dave.Hulick",
+        "modification": "以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。 轉檔沿用原授權。",
+        "width": 800,
+        "height": 636,
+        "sourceWidth": 800,
+        "sourceHeight": 636,
+        "sha256": "82d39477eca746e2dd42e3dd83b8ff6aaac76cef385932601145b851bc58f718",
+        "sourceFileSha256": "820def4a634ac34ae60c747af0b87cf819ba362b501f079b43b10cc179003893",
+        "webpFileSha256": "82d39477eca746e2dd42e3dd83b8ff6aaac76cef385932601145b851bc58f718"
+      },
+      "displayKind": "technique",
+      "family": {
+        "id": "optical-image-stabilization",
+        "zh": "光學防震與手持對照",
+        "en": "Optical stabilization comparison",
+        "aliases": [
+          "OIS",
+          "光學防震"
+        ],
+        "bucket": {
+          "id": "photo-optic",
+          "zh": "光學取景、投影及透視",
+          "en": "Optical capture, projection and perspective",
+          "aliases": [
+            "鏡頭",
+            "視角",
+            "projection",
+            "optics"
+          ]
+        }
+      }
+    },
+    {
+      "id": "photo10-obscura-projection",
+      "library": "photo",
+      "title": "暗箱投影：讓戶外影像落在室內桌面",
+      "titleEn": "Camera obscura image on a projection table",
+      "creator": "Code6840",
+      "date": "最遲 2009-07-05 公開",
+      "technique": "相機暗箱 · 反射轉向與可觀看投影",
+      "familySuggestion": "camera-obscura-projection",
+      "visual": "幾乎全黑室內出現橢圓形亮桌面，桌上看見綠坡和一條戶外道路；影像周圍仍是欄杆和昏暗建築內部。",
+      "method": "作者拍的是英國 Foredown Tower 暗箱內可見的影像；地方政府維護文件亦明確提到該暗箱內的反射鏡。",
+      "why": "與直接在小孔相機的底片／感光元件捕捉分開：此處外景先形成可由觀眾觀看的投影，再用相機記錄桌面和房間。",
+      "unknown": "未披露鏡頭焦距、鏡面角度、投影方向與二次拍攝設定。",
+      "prompt": "原創暗箱展室紀實照片，室內近黑，一張圓形桌面承接真正的柔邊戶外道路和草坡投影，邊緣和欄杆仍微可見，不畫自發光 LED 螢幕。",
+      "promptEn": "Original documentary photo inside a camera obscura room: near-black interior, round table receives a real soft-edged projection of an outside road and grassy slope, faint rails and rim remain visible, no emissive LED display.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Camara-obscura-image.JPG",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Camara-obscura-image.JPG",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Camara-obscura-image.JPG",
+        "publisher": "Wikimedia Commons（作者或原始作品檔案）",
+        "credit": "Code6840",
+        "checked": "2026-11-18"
+      },
+      "license": {
+        "label": "Public Domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Camara-obscura-image.JPG"
+      },
+      "image": {
+        "src": "assets/photo10-obscura-projection.webp",
+        "alt": "暗箱投影：讓戶外影像落在室內桌面，Code6840",
+        "modification": "以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。",
+        "width": 830,
+        "height": 690,
+        "sourceWidth": 830,
+        "sourceHeight": 690,
+        "sha256": "be845c73400214e5374d7cd2dfcc525feaeb454142f3ab556908ed7fe1a8dbd4",
+        "sourceFileSha256": "469f1b37374aca74a1d796dd77c4386ca8520c00951370577579bc40e80c50af",
+        "webpFileSha256": "be845c73400214e5374d7cd2dfcc525feaeb454142f3ab556908ed7fe1a8dbd4"
+      },
+      "family": {
+        "id": "pinhole-projection",
+        "zh": "針孔投影",
+        "en": "Pinhole projection",
+        "aliases": [
+          "無鏡頭",
+          "街頭",
+          "pinhole",
+          "lensless"
+        ],
+        "bucket": {
+          "id": "photo-optic",
+          "zh": "光學取景、投影及透視",
+          "en": "Optical capture, projection and perspective",
+          "aliases": [
+            "鏡頭",
+            "視角",
+            "projection",
+            "optics"
+          ]
+        }
+      }
+    },
+    {
+      "id": "photo10-polar-dusk-sky",
+      "library": "photo",
+      "title": "黃昏選擇性偏光：雪林與天空分開控制",
+      "titleEn": "Selective polarization of sky at snowy dusk",
+      "creator": "WiPhi267",
+      "date": "2019-02-12",
+      "technique": "偏光片旋轉 · 黃昏天空透射對照",
+      "familySuggestion": "polarized-contrast（偏振天光，不是水面回反）",
+      "visual": "厚雪包圍的樹像形體雕塑，天空深藍，遠後景被壓暗；作者另一張同景最大透射圖可見粉紅天際。",
+      "method": "作者原圖把兩張列為互相比較：第 2 張設定到最大透射；第 1 張是偏光控制效果。兩張檔案時間相隔約 15 秒。",
+      "why": "比較的是天空散射光的偏振效果，與消除水上反射不同。黃昏變光和曝光本身仍能影響亮度，不能把所有差異分到濾鏡。",
+      "unknown": "未列偏光片角度、是否兩張曝光一致、後期是否一致，不能當定量實驗。 本卡只展示第一張；同作者第二張比較影像在來源頁連結，未嵌入。",
+      "prompt": "原創雪覆高地薄暮，偏光控制讓天空深靛但雪的亮階仍分明，遠地平線少量色度，保留陰影層次、不誇張成全黑天空。",
+      "promptEn": "Original snow-covered highland landscape at dusk; selective polarization darkens the indigo sky while snow highlights stay distinct, muted horizon color and readable shadows, no pitch-black artificial sky.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Effect_of_polariser_1.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Effect_of_polariser_1.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Effect_of_polariser_1.jpg",
+        "publisher": "Wikimedia Commons（作者或原始作品檔案）",
+        "credit": "WiPhi267",
+        "checked": "2026-11-18",
+        "comparisonUrl": "https://commons.wikimedia.org/wiki/File:Effect_of_polariser_2.jpg"
+      },
+      "license": {
+        "label": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "image": {
+        "src": "assets/photo10-polar-dusk-sky.webp",
+        "alt": "黃昏選擇性偏光：雪林與天空分開控制，WiPhi267",
+        "modification": "以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。 轉檔沿用原授權。",
+        "width": 1400,
+        "height": 907,
+        "sourceWidth": 5472,
+        "sourceHeight": 3547,
+        "sha256": "9832b2efbb6eeb9ae13bfc7ab3425eb6782646b61453df0e7e4aa812565bc6b5",
+        "sourceFileSha256": "4e31c64ebe838e415e82f5f36df09f33443c6f8fdf64459817382c2807f4e296",
+        "webpFileSha256": "9832b2efbb6eeb9ae13bfc7ab3425eb6782646b61453df0e7e4aa812565bc6b5"
+      },
+      "displayKind": "technique",
+      "family": {
+        "id": "polarized-contrast",
+        "zh": "偏光對比與反射控制",
+        "en": "Polarized optical contrast and reflection control",
+        "aliases": [
+          "偏振",
+          "光彈",
+          "應力紋",
+          "polarisers",
+          "birefringence",
+          "photoelasticity",
+          "反射控制",
+          "水面倒影",
+          "非金屬反射",
+          "reflection suppression",
+          "nonmetallic reflections",
+          "偏光對比與應力成像",
+          "Polarized contrast and photoelastic imaging"
+        ],
+        "bucket": {
+          "id": "photo-spectral",
+          "zh": "光譜與光學對比",
+          "en": "Spectral and optical contrast",
+          "aliases": [
+            "濾鏡",
+            "波長",
+            "optical contrast",
+            "spectral"
+          ]
+        }
+      }
+    },
+    {
+      "id": "photo10-kallitype-gum",
+      "library": "photo",
+      "title": "鐵銀影像與膠質顏料：同一張混合印相",
+      "titleEn": "Kallitype with gum bichromate",
+      "creator": "stacey svendsen",
+      "date": "2012-12-09",
+      "technique": "Kallitype 與重鉻酸膠顏料混合印相",
+      "familySuggestion": "kallitype-gum-hybrid",
+      "visual": "幾道台階與周圍葉片由土褐、近黑和白紙邊界構成，畫面有肉眼清晰可見的手工邊線。",
+      "method": "攝影者原始作品標示為 Kallitype 配合重鉻酸膠印。可核實兩種流程共同出現在作品；原頁未說明分層順序或著色區。",
+      "why": "不能把所有棕色都算作銀影像，或把每一處塗邊都分配給膠顏料。把混合物件當兩流程的視覺研究，而非危化實作建議。",
+      "unknown": "基底紙、顯影液、定影、顏料、疊印次數、排版對位和順序皆未公布。",
+      "prompt": "原創老園石階印相, 深褐階面和小片金褐樹葉相間，紙邊保留刷痕與空白，局部調子厚但留出陰影結構，不套數位裂紋貼圖。",
+      "promptEn": "Original hand-printed garden stone steps framed with small ochre leaves, rich dark-brown steps with readable shadow structure, irregular brushed edges and bare paper margins, no digital crackle overlays.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Kallitype_with_gum_bichromate_(8258734667).jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Kallitype_with_gum_bichromate_(8258734667).jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Kallitype_with_gum_bichromate_(8258734667).jpg",
+        "publisher": "Wikimedia Commons（作者或原始作品檔案）",
+        "credit": "stacey svendsen",
+        "checked": "2026-11-18",
+        "creatorUrl": "https://www.flickr.com/photos/17725911@N03/8258734667"
+      },
+      "license": {
+        "label": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/",
+        "note": "Commons 保存的同檔曾於 2017-07-18 獨立核實為 CC BY 2.0；本次無法讀取 Flickr 原頁。"
+      },
+      "image": {
+        "src": "assets/photo10-kallitype-gum.webp",
+        "alt": "鐵銀影像與膠質顏料：同一張混合印相，stacey svendsen",
+        "modification": "以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。",
+        "width": 1164,
+        "height": 1400,
+        "sourceWidth": 1620,
+        "sourceHeight": 1948,
+        "sha256": "14c86a4b22b4ad3407eea0cccb449b96ce9428b24e551a641d83897995c4f0c8",
+        "sourceFileSha256": "83cd1c1cf2bcd93739e7c29200fb681e2384b2edc853c2a60ca0df354b221a08",
+        "webpFileSha256": "14c86a4b22b4ad3407eea0cccb449b96ce9428b24e551a641d83897995c4f0c8"
+      },
+      "family": {
+        "id": "iron-silver-contact-print",
+        "zh": "鐵鹽與銀影印相",
+        "en": "Iron-sensitized silver printing",
+        "aliases": [
+          "Van Dyke Brown",
+          "Kallitype",
+          "鐵銀"
+        ],
+        "bucket": {
+          "id": "photo-paper",
+          "zh": "感光紙、暗房與印相",
+          "en": "Photosensitive media, darkroom and printing",
+          "aliases": [
+            "銀鹽",
+            "印相",
+            "暗房",
+            "print",
+            "film"
+          ]
+        }
+      }
+    },
+    {
+      "id": "met-harunobu-karazuri",
+      "library": "art",
+      "title": "鈴木春信｜《塗桶暮雪》無墨壓紋",
+      "creator": "Suzuki Harunobu 鈴木春信",
+      "date": "18 世紀末（此印本）",
+      "technique": "套色木版與空摺（karazuri）・不靠墨線也能凸現絲綿",
+      "familyId": "blind-impression-paper",
+      "visual": "室內人物和格窗均有清楚的著色輪廓；前景偏白的絲綿以細微明暗和邊沿區分，對比不跟牆格和衣紋爭搶。",
+      "method": "館方確認絲綿輪廓用空摺，即把紙壓入未上墨的版面以留下物理壓痕。對比練習：同一虛構柔軟物形先看平光，再看掠光，分辨真正凹凸與只靠灰線的描法。",
+      "why": "低對比壓紋和有墨圖面相鄰，讓柔軟材料讀得出來，又不必再加一圈重線。",
+      "unknown": "此張不是初版；館方指出略調色和牆紋，委託方的印省去。數碼圖不能測壓深、紙厚或模具壓力；空摺位置依館方，而非外觀臆測。",
+      "prompt": "原創紙本木版試樣：小室內有暖赭地板和兩件虛構陳設，前景白薄布只以無墨紙面壓紋形成輪廓，柔掠光讀得到壓痕；不仿原畫人物、和服或畫面。",
+      "promptEn": "Original woodblock-on-paper study of a small invented interior with muted ochre floor and two imaginary furnishings. Define a white foreground cloth only with uninked paper embossing, under gentle raking light; no copied figures, clothes or composition.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.metmuseum.org/art/collection/search/56879",
+        "publisher": "The Metropolitan Museum of Art",
+        "credit": "The Metropolitan Museum of Art, The Howard Mansfield Collection, Purchase, Rogers Fund, 1936 (JP2449).",
+        "checked": "2026-11-18",
+        "imageUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/56879/130515/main-image",
+        "rightsUrl": "https://www.metmuseum.org/hubs/open-access"
+      },
+      "license": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "image": {
+        "src": "assets/met-harunobu-karazuri.webp",
+        "width": 878,
+        "height": 1200,
+        "alt": "室內人物和格窗均有清楚的著色輪廓；前景偏白的絲綿以細微明暗和邊沿區分，對比不跟牆格和衣紋爭搶。",
+        "modification": "等比例縮小並轉存 WebP，未裁切或調色。",
+        "sha256": "e300c031293ce96fc813ea4efa8f475b10daf39c0984033b57786af0a8e487cb"
+      },
+      "family": {
+        "id": "blind-impression-paper",
+        "zh": "無墨紙面壓印",
+        "en": "Uninked paper impression",
+        "aliases": [
+          "空摺",
+          "無墨壓紋",
+          "karazuri",
+          "embossing"
+        ],
+        "bucket": {
+          "id": "art-print",
+          "zh": "版畫與圖案製作",
+          "en": "Printmaking and pattern construction",
+          "aliases": [
+            "印製",
+            "版式",
+            "press",
+            "pattern"
+          ]
+        }
+      }
+    },
+    {
+      "id": "met-hirosada-metal-karazuri",
+      "library": "art",
+      "title": "五粽亭廣貞｜三聯演員錦繪的金屬印與空摺",
+      "creator": "Gosōtei Hirosada 五粽亭廣貞",
+      "date": "1849",
+      "technique": "金屬印、套色木版與空摺・將光澤和凹凸分開記錄",
+      "familyId": "blind-impression-paper",
+      "visual": "三張竪幅並列，各自以深色頭髮、面部和不同衣紋站住，線條、色面及紙邊清楚，三幅的視線和框線彼此銜接。",
+      "method": "館方記為三聯錦繪，木版上有金屬印及空摺。若有原件或獲館方拍攝許可，可用同曝光的柔平光／掠光比較：印材反光會隨角度變，無墨壓紋讀的是紙面微陰影。",
+      "why": "將三幅的輪廓一致、服飾色面分開，比在每幅加同等光澤更容易保住主次；金屬與空摺是兩種效果，不同於拿一塊金色混在水彩裡。",
+      "unknown": "館方未標數碼畫面哪一處詳用金屬壓印、哪處空摺；不以普通照片指定細節坐標或金屬種類。",
+      "prompt": "原創三聯木版圖樣，三個抽象衣架用深墨輪廓與不同低彩色面區分，金屬質感限於一小段邊線，無墨凹凸留在另一處白紙；不仿劇目或演員長相。",
+      "promptEn": "Original three-panel relief-print study of invented garment forms, using dark contours and distinct muted color blocks. Reserve metallic sheen for one short accent and uninked paper embossing for another; no copied play or actor likeness.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.metmuseum.org/art/collection/search/844000",
+        "publisher": "The Metropolitan Museum of Art",
+        "credit": "The Metropolitan Museum of Art, Purchase, Friends of Asian Art Gifts, 2020 (2020.306).",
+        "checked": "2026-11-18",
+        "imageUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/844000/2111009/main-image",
+        "rightsUrl": "https://www.metmuseum.org/hubs/open-access"
+      },
+      "license": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "image": {
+        "src": "assets/met-hirosada-metal-karazuri.webp",
+        "width": 1200,
+        "height": 607,
+        "alt": "三張竪幅並列，各自以深色頭髮、面部和不同衣紋站住，線條、色面及紙邊清楚，三幅的視線和框線彼此銜接。",
+        "modification": "等比例縮小並轉存 WebP，未裁切或調色。",
+        "sha256": "1927cc45ab9ad8eb624c6e704406059e22fc65c287d221d3f231faa7b6971213"
+      },
+      "family": {
+        "id": "blind-impression-paper",
+        "zh": "無墨紙面壓印",
+        "en": "Uninked paper impression",
+        "aliases": [
+          "空摺",
+          "無墨壓紋",
+          "karazuri",
+          "embossing"
+        ],
+        "bucket": {
+          "id": "art-print",
+          "zh": "版畫與圖案製作",
+          "en": "Printmaking and pattern construction",
+          "aliases": [
+            "印製",
+            "版式",
+            "press",
+            "pattern"
+          ]
+        }
+      }
+    },
+    {
+      "id": "nga-alice-stearns-sign-study",
+      "library": "art",
+      "title": "Alice Stearns｜五金店招牌的水彩記錄",
+      "creator": "Alice Stearns",
+      "date": "1937",
+      "technique": "招牌記錄圖・石墨定位後用水彩轉譯實物凹凸",
+      "familyId": "design-documentation-rendering",
+      "visual": "白底上是一件半圓形深棕招牌的畫像，鋸、斧、錘與刨具交錯，朝向不同；輪廓外保留淨白，把器具群和真實背景分開。",
+      "method": "國家藝廊記錄媒材是紙本水彩與石墨，屬美國設計索引的記錄畫，不是木牌實物。實作時可在安全取得權利的招牌上先畫總弧、分出幾件工具斜向，再以明暗和短邊畫出假想層次。",
+      "why": "把剪影群收進遠處可辨的總輪廓，近看才揭露材質；保存設計資訊比把材質畫真更重要。",
+      "unknown": "只證實記錄畫作者與媒材，不把木牌製造、顏料配方、實物用途或現址說成已核實。",
+      "prompt": "原創復古工具店招牌記錄畫，半圓輪廓內是虛構鉗、刨與鋸，石墨輕線加淺棕水彩和穩定投影，米白背景，不加真實品牌或店名。",
+      "promptEn": "Original watercolor-and-graphite documentation study of an invented semicircular tool-shop sign holding imaginary pliers, a plane and a saw. Pale brown washes, light pencil placement and simple shadows on cream paper; no real shop name or logo.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.nga.gov/artworks/20244-hardware-shop-sign",
+        "publisher": "National Gallery of Art",
+        "credit": "Alice Stearns, Hardware Shop Sign, 1937, Index of American Design, National Gallery of Art, Washington (1943.8.8046).",
+        "checked": "2026-11-18",
+        "imageUrl": "https://api.nga.gov/iiif/484c9737-d3e2-4a91-96c2-c054fa0bf793/full/full/0/default.jpg?attachment_filename=hardware_shop_sign_1943.8.8046.jpg",
+        "rightsUrl": "https://www.nga.gov/artworks/20244-hardware-shop-sign"
+      },
+      "license": {
+        "label": "Public Domain",
+        "url": "https://www.nga.gov/artworks/20244-hardware-shop-sign"
+      },
+      "image": {
+        "src": "assets/nga-alice-stearns-sign-study.webp",
+        "width": 1280,
+        "height": 757,
+        "alt": "白底上是一件半圓形深棕招牌的畫像，鋸、斧、錘與刨具交錯，朝向不同；輪廓外保留淨白，把器具群和真實背景分開。",
+        "modification": "等比例縮小並轉存 WebP，未裁切或調色。",
+        "sha256": "51b5364db92fa2d949a53aecdb1d010c026d31ecd429c1223b25d72702609aaf"
+      },
+      "family": {
+        "id": "design-documentation-rendering",
+        "zh": "設計物件手繪記錄",
+        "en": "Design-object documentation rendering",
+        "aliases": [
+          "招牌手繪",
+          "設計記錄",
+          "documentation rendering",
+          "sign study"
+        ],
+        "bucket": {
+          "id": "art-2d",
+          "zh": "平面原畫與字形",
+          "en": "Two-dimensional art and lettering",
+          "aliases": [
+            "畫稿",
+            "書法",
+            "illustration",
+            "painting",
+            "lettering"
+          ]
+        }
+      }
+    },
+    {
+      "id": "met-padeloup-gold-tooling",
+      "library": "art",
+      "title": "Padeloup le jeune｜紅摩洛哥革書封金工裝飾",
+      "creator": "Padeloup le jeune（裝訂）",
+      "date": "約 1740 年",
+      "technique": "裝幀金飾壓印・重複角章與邊花",
+      "familyId": "gold-tooled-binding",
+      "visual": "紅色封面中，細密金色圖樣聚在四周，四角再各放小章，中間只有一塊圓章狀圖面；大塊深紅底面保持安靜。",
+      "method": "館方記為 Padeloup le jeune 裝訂的紅摩洛哥革燙金本，列出邊框、角飾和中央印。可在自製測試封上把裝飾分成可重複的邊工具、轉角工具與中央主章，定位後再做樣紙比對。",
+      "why": "邊工具提供重複節奏，中央印只在遠看時主導；優先把空區和圖案尺度定好，避免整面都填成同等亮度。",
+      "unknown": "未載原工匠打箔、溫度、工具尺寸或壓力。本圖顯示封面，館方所述的梳梳花內頁不在畫面；也不是一般印刷油墨。",
+      "prompt": "原創深赭紅裝幀封面，小顆粒皮革質感、雙線小花邊與四個新幾何角飾，中心一個虛構銀杏葉紋章，留大塊暗面；微光比較金飾，不模仿王徽、文字或尺寸。",
+      "promptEn": "Original deep red-brown leather binding with a neat double floral rule, four newly designed geometric corner ornaments and one invented ginkgo emblem. Keep a quiet dark field and mild gilding reflection. No copied royal crest, text or exact proportions.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.metmuseum.org/art/collection/search/681274",
+        "publisher": "The Metropolitan Museum of Art",
+        "credit": "The Metropolitan Museum of Art, Gift of Jayne Wrightsman, 2008 (U565 .S68 1740).",
+        "checked": "2026-11-18",
+        "imageUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/681274/1445868/main-image",
+        "rightsUrl": "https://www.metmuseum.org/hubs/open-access"
+      },
+      "license": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "image": {
+        "src": "assets/met-padeloup-gold-tooling.webp",
+        "width": 905,
+        "height": 1200,
+        "alt": "紅色封面中，細密金色圖樣聚在四周，四角再各放小章，中間只有一塊圓章狀圖面；大塊深紅底面保持安靜。",
+        "modification": "使用館方 905×1200 正面圖轉 WebP，未另行縮放、裁切或調色。",
+        "sha256": "ccf3532ae03fc03934e21aad3acc61cfd0973a59e578b8b5ef215dbf6ce28a03"
+      },
+      "family": {
+        "id": "gold-tooled-binding",
+        "zh": "書籍裝幀金飾壓印",
+        "en": "Gold-tooled bookbinding",
+        "aliases": [
+          "裝幀",
+          "合箔",
+          "皮革燙金",
+          "gold tooling",
+          "bookbinding"
+        ],
+        "bucket": {
+          "id": "art-object",
+          "zh": "立體材料與工藝",
+          "en": "Objects and crafted materials",
+          "aliases": [
+            "材料",
+            "工藝",
+            "craft",
+            "object"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-panigrahi-odia-letterpress",
+      "library": "art",
+      "title": "Subhashish Panigrahi｜Sansar Press 奧里亞語凸版實錄",
+      "creator": "Subhashish Panigrahi（影片）／Sansar Press（工場）",
+      "date": "2014-09-27",
+      "technique": "奧里亞語凸版印刷實錄・同一台壓印機的出入紙與墨盤",
+      "familyId": "relief-matrix-printing",
+      "visual": "四格均是工場同一台機器：左側紅色圓墨盤與滾墨部件位置變動，右側可見工作者持紙、移紙和印張。它是連續現場片段的四個時點，不是四件作品。",
+      "method": "作者註明在印度奧迪沙邦 Cuttack 的 Sansar Press 拍攝奧里亞語凸版。對照可在畫面暫停後做：比紅盤、墨輥與持紙的位置。用安全有機罩的公眾示範學習機械，不按照片模仿手入壓印區。",
+      "why": "墨盤、傳墨和紙張位置是各自不同的生產角色；僅看做完的版面或彩色字形不會知道次序。四格有助對照同一體系的工序。",
+      "unknown": "原錄影未量測壓深或供墨，沒有足夠細節判紙張方向、控墨尺寸或字級。靜格沒有聲音，沒有更改原幀色彩。",
+      "prompt": "原創印刷工藝系列圖，四格用同一視角紀錄虛構、安全遮護的凸版印刷示範台。可見赤紅墨盤、滾墨及紙堆相對位置，不畫可辨認人物、不抄原廠名和字模，不暗示與館藏相關。",
+      "promptEn": "Original educational sequence of a fictional safely guarded letterpress demonstration bench, four consistent viewpoints that distinguish a red ink disk, rollers and paper stack. No identifiable people, workshop branding, copied type or implied affiliation.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Printing_in_a_letterpress.webm",
+        "publisher": "Wikimedia Commons / Subhashish Panigrahi",
+        "credit": "Subhashish Panigrahi, Wikimedia Commons. Sansar Press, Cuttack, Odisha (2014). CC BY-SA 4.0; four-frame annotated contact sheet remains CC BY-SA 4.0, no implied endorsement.",
+        "checked": "2026-11-18",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Printing_in_a_letterpress.webm",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Printing_in_a_letterpress.webm#Licensing"
+      },
+      "license": {
+        "label": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "image": {
+        "src": "assets/wc-panigrahi-odia-letterpress.webp",
+        "width": 1218,
+        "height": 754,
+        "alt": "四格均是工場同一台機器：左側紅色圓墨盤與滾墨部件位置變動，右側可見工作者持紙、移紙和印張。它是連續現場片段的四個時點，不是四件作品。",
+        "modification": "從作者約 27 秒錄影在約 1、13、21、25 秒擷取四個完整畫幅，等比例並排、加英文時間標籤、轉成靜態 WebP；不帶音軌，色彩未主動修改。轉檔圖維持 CC BY-SA 4.0，不代表原作者背書。",
+        "sha256": "b652eaf865f60dddeb82f5d5bd3f07cb46347df3426a8949e81188b3a4e44bb0"
+      },
+      "displayKind": "technique",
+      "family": {
+        "id": "relief-matrix-printing",
+        "zh": "凸版印刷",
+        "en": "Relief printing",
+        "aliases": [
+          "浮世繪",
+          "木刻",
+          "木口木刻",
+          "凸版蝕刻",
+          "活字",
+          "letterpress",
+          "woodcut",
+          "wood engraving",
+          "relief etching"
+        ],
+        "bucket": {
+          "id": "art-print",
+          "zh": "版畫與圖案製作",
+          "en": "Printmaking and pattern construction",
+          "aliases": [
+            "印製",
+            "版式",
+            "press",
+            "pattern"
+          ]
+        }
+      }
     }
   ]
 }

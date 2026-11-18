@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "goal": 500,
-  "verifiedTechniques": 12,
+  "verifiedTechniques": 16,
   "byLibrary": {
-    "art": 4,
-    "photo": 8
+    "art": 6,
+    "photo": 10
   },
   "entries": [
     {
@@ -245,6 +245,86 @@
         "control": "在固定塑膠樣本僅更改分析偏光片",
         "comparison": "與未放分析片的影像對照",
         "passSignal": "特有彩紋隨交叉偏光條件而出現或改變"
+      }
+    },
+    {
+      "id": "contact-anthotype-fading",
+      "library": "photo",
+      "name": {
+        "zh": "植物色素光褪影",
+        "en": "Plant-pigment photobleaching"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tomate_auf_Brombeere_-_Anthotypie.jpg",
+      "parentFamily": "plant-pigment-photobleaching",
+      "observed": "葉子的遮光區保留莓色，周邊被日光減淡。",
+      "method": "作者列莓汁塗在印表紙、番茄葉遮光，陰天約 24 小時。",
+      "limits": "沒有核實果汁酸鹼、強光下堅牢度。",
+      "nearest": "接觸藍曬光影",
+      "difference": "深淺由日光褪去顏料，不是讓藍圖材料形成普魯士藍。",
+      "comparison": {
+        "control": "比較相同自有葉片的染色紙日照和同批全遮光；長期保色可另外評估。",
+        "comparison": "相同主題或光位條件下，與 接觸藍曬光影 對照。",
+        "passSignal": "遮蓋與露光色差可見，原陰影仍保留染料。"
+      }
+    },
+    {
+      "id": "van-dyke-silver-contact",
+      "library": "photo",
+      "name": {
+        "zh": "范戴克棕鐵銀接觸印相",
+        "en": "Van Dyke brown iron-silver contact print"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:VanDyke-feather.jpg",
+      "parentFamily": "iron-silver-contact-print",
+      "observed": "暖棕底與羽枝的透光程度形成深淺。",
+      "method": "作者標記為 Van Dyke Brown 方法製作的羽毛 photogram。此張是實物接觸，並非以透明底片印出的照片。",
+      "limits": "未知個別化學配比、紙張與定影。",
+      "nearest": "植物色素光褪影",
+      "difference": "以鐵銀感光形成影像；不是植物染料褪色或展示混合膠印。",
+      "comparison": {
+        "control": "用同類半透明實物對照植物褪印與已有的安全有監督的鐵銀樣張，不自行求個別配方。",
+        "comparison": "相同主題或光位條件下，與 植物色素光褪影 對照。",
+        "passSignal": "暖棕連續明度能讀到羽枝，不只留下不透明葉片剪影。"
+      }
+    },
+    {
+      "id": "karazuri-uninked-press",
+      "library": "art",
+      "name": {
+        "zh": "無墨空摺",
+        "en": "Karazuri uninked impression"
+      },
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/56879",
+      "parentFamily": "blind-impression-paper",
+      "observed": "絲綿以紙面的凹凸與微陰影可見，並非全靠有色線。",
+      "method": "館方確認絲綿輪廓用空摺，即把紙壓入未上墨的版面以留下物理壓痕。對比練習：同一虛構柔軟物形先看平光，再看掠光，分辨真正凹凸與只靠灰線的描法。",
+      "limits": "未核實工具壓力、紙含水量。",
+      "nearest": "有墨木版套印",
+      "difference": "版上不用墨，把紙變形，與上色木版以顏料形成輪廓不同。",
+      "comparison": {
+        "control": "同一紙樣在平光與掠射柔光對照，並與印出的灰線比較。",
+        "comparison": "相同主題或光位條件下，與 有墨木版套印 對照。",
+        "passSignal": "紙微陰影隨光向移，灰墨顏色邊緣則不依同機理。"
+      }
+    },
+    {
+      "id": "gold-tooled-leather-binding",
+      "library": "art",
+      "name": {
+        "zh": "皮革封面工具燙金",
+        "en": "Gold tooling on leather binding"
+      },
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/681274",
+      "parentFamily": "gold-tooled-binding",
+      "observed": "中央、角紋、重複邊飾形成三層嵌套。",
+      "method": "館方記為 Padeloup le jeune 裝訂的紅摩洛哥革燙金本，列出邊框、角飾和中央印。可在自製測試封上把裝飾分成可重複的邊工具、轉角工具與中央主章，定位後再做樣紙比對。",
+      "limits": "未知此本燙金溫度與黏合配方。",
+      "nearest": "無墨紙面壓印",
+      "difference": "壓金具反光且落在皮裝表面；無墨空摺無金屬轉印、依紙面陰影讀形。",
+      "comparison": {
+        "control": "比較獲許可的裝幀樣張或館方不同角度圖與普通黃墨描邊。",
+        "comparison": "相同主題或光位條件下，與 無墨紙面壓印 對照。",
+        "passSignal": "金紋亮度隨光位變而不靠線稿灰階；裝飾組合仍可辨識。"
       }
     }
   ]

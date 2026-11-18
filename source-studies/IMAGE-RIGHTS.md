@@ -1000,3 +1000,92 @@
 - 展示權利：CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
 - 權利依據：https://creativecommons.org/licenses/by-sa/3.0/
 - 檔案調整：等比例縮小並轉存 WebP，未裁切或調色。 轉檔圖維持同一授權，不代表作者背書。
+
+## 植物色素日印：用光褪色留下番茄葉
+- 檔案：assets/photo10-anthotype-berry.webp
+- 署名：Hutschi
+- 來源：https://commons.wikimedia.org/wiki/File:Tomate_auf_Brombeere_-_Anthotypie.jpg
+- 展示權利：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Tomate_auf_Brombeere_-_Anthotypie.jpg
+- 檔案調整：以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。 轉檔沿用原授權。
+
+## 范戴克棕接觸印：半透明羽片的暖色調
+- 檔案：assets/photo10-vandyke-feather.webp
+- 署名：Petr Vodička, Wikipedia
+- 來源：https://commons.wikimedia.org/wiki/File:VanDyke-feather.jpg
+- 展示權利：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:VanDyke-feather.jpg
+- 檔案調整：以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。 轉檔沿用原授權。
+
+## 光學防震對照：同一靜物看文字是否變清晰
+- 檔案：assets/photo10-ois-comparison.webp
+- 署名：Dave.Hulick
+- 來源：https://commons.wikimedia.org/wiki/File:ISComparison.png
+- 展示權利：CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:ISComparison.png
+- 檔案調整：以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。 轉檔沿用原授權。
+
+## 暗箱投影：讓戶外影像落在室內桌面
+- 檔案：assets/photo10-obscura-projection.webp
+- 署名：Code6840
+- 來源：https://commons.wikimedia.org/wiki/File:Camara-obscura-image.JPG
+- 展示權利：Public Domain https://commons.wikimedia.org/wiki/File:Camara-obscura-image.JPG
+- 權利依據：https://commons.wikimedia.org/wiki/File:Camara-obscura-image.JPG
+- 檔案調整：以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。
+
+## 黃昏選擇性偏光：雪林與天空分開控制
+- 檔案：assets/photo10-polar-dusk-sky.webp
+- 署名：WiPhi267
+- 來源：https://commons.wikimedia.org/wiki/File:Effect_of_polariser_1.jpg
+- 展示權利：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Effect_of_polariser_1.jpg
+- 檔案調整：以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。 轉檔沿用原授權。
+
+## 鐵銀影像與膠質顏料：同一張混合印相
+- 檔案：assets/photo10-kallitype-gum.webp
+- 署名：stacey svendsen
+- 來源：https://commons.wikimedia.org/wiki/File:Kallitype_with_gum_bichromate_(8258734667).jpg
+- 展示權利：CC BY 2.0 https://creativecommons.org/licenses/by/2.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Kallitype_with_gum_bichromate_(8258734667).jpg
+- 補充：Commons 保存的同檔曾於 2017-07-18 獨立核實為 CC BY 2.0；本次無法讀取 Flickr 原頁。
+- 檔案調整：以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。
+
+## 鈴木春信｜《塗桶暮雪》無墨壓紋
+- 檔案：assets/met-harunobu-karazuri.webp
+- 署名：The Metropolitan Museum of Art, The Howard Mansfield Collection, Purchase, Rogers Fund, 1936 (JP2449).
+- 來源：https://www.metmuseum.org/art/collection/search/56879
+- 展示權利：CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://www.metmuseum.org/hubs/open-access
+- 檔案調整：等比例縮小並轉存 WebP，未裁切或調色。
+
+## 五粽亭廣貞｜三聯演員錦繪的金屬印與空摺
+- 檔案：assets/met-hirosada-metal-karazuri.webp
+- 署名：The Metropolitan Museum of Art, Purchase, Friends of Asian Art Gifts, 2020 (2020.306).
+- 來源：https://www.metmuseum.org/art/collection/search/844000
+- 展示權利：CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://www.metmuseum.org/hubs/open-access
+- 檔案調整：等比例縮小並轉存 WebP，未裁切或調色。
+
+## Alice Stearns｜五金店招牌的水彩記錄
+- 檔案：assets/nga-alice-stearns-sign-study.webp
+- 署名：Alice Stearns, Hardware Shop Sign, 1937, Index of American Design, National Gallery of Art, Washington (1943.8.8046).
+- 來源：https://www.nga.gov/artworks/20244-hardware-shop-sign
+- 展示權利：Public Domain https://www.nga.gov/artworks/20244-hardware-shop-sign
+- 權利依據：https://www.nga.gov/artworks/20244-hardware-shop-sign
+- 檔案調整：等比例縮小並轉存 WebP，未裁切或調色。
+
+## Padeloup le jeune｜紅摩洛哥革書封金工裝飾
+- 檔案：assets/met-padeloup-gold-tooling.webp
+- 署名：The Metropolitan Museum of Art, Gift of Jayne Wrightsman, 2008 (U565 .S68 1740).
+- 來源：https://www.metmuseum.org/art/collection/search/681274
+- 展示權利：CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://www.metmuseum.org/hubs/open-access
+- 檔案調整：使用館方 905×1200 正面圖轉 WebP，未另行縮放、裁切或調色。
+
+## Subhashish Panigrahi｜Sansar Press 奧里亞語凸版實錄
+- 檔案：assets/wc-panigrahi-odia-letterpress.webp
+- 署名：Subhashish Panigrahi, Wikimedia Commons. Sansar Press, Cuttack, Odisha (2014). CC BY-SA 4.0; four-frame annotated contact sheet remains CC BY-SA 4.0, no implied endorsement.
+- 來源：https://commons.wikimedia.org/wiki/File:Printing_in_a_letterpress.webm
+- 展示權利：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Printing_in_a_letterpress.webm#Licensing
+- 檔案調整：從作者約 27 秒錄影在約 1、13、21、25 秒擷取四個完整畫幅，等比例並排、加英文時間標籤、轉成靜態 WebP；不帶音軌，色彩未主動修改。轉檔圖維持 CC BY-SA 4.0，不代表原作者背書。
