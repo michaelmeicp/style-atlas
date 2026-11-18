@@ -1,15 +1,15 @@
 {
-  "galleryImages": 40,
+  "galleryImages": 42,
   "referenceOnly": 51,
   "stats": {
-    "verifiedPairs": 91,
+    "verifiedPairs": 93,
     "byPlatform": {
       "note": 49,
       "linkedin": 1,
       "substack": 1,
       "taste": 6,
       "monigarr": 1,
-      "budgetpixel": 17,
+      "budgetpixel": 19,
       "commons": 6,
       "venustai": 3,
       "pixmind": 2,
@@ -18,9 +18,9 @@
     },
     "rights": {
       "link-only": 51,
-      "displayable": 40
+      "displayable": 42
     },
-    "distinctStyles": 75,
+    "distinctStyles": 77,
     "repeatCreators": [
       "Tatiana Tsiguleva",
       "リンファ (Rinfa)",
@@ -29,7 +29,8 @@
       "津軽の津軽",
       "Yuna | AI Lab by Unlit Inc.",
       "田中勇道",
-      "@justrob via BudgetPixel AI"
+      "@justrob via BudgetPixel AI",
+      "@suga2309 via BudgetPixel AI"
     ]
   },
   "records": [
@@ -1898,6 +1899,62 @@
       "copyPolicy": "只顯示可轉載成圖；完整提示查看原頁。",
       "asset": "assets/budgetpixel-michellemichaels-midnight-carnival.png",
       "imageAudit": "Exact original PNG 2816×1584, fully decoded, visually reviewed.",
+      "classification": "art"
+    },
+    {
+      "id": "budgetpixel-suga2309-bronze-lattice-patina",
+      "creator": "@suga2309 via BudgetPixel AI",
+      "platform": "budgetpixel",
+      "channel": "creator-social",
+      "sourceDate": "2026-11-12",
+      "dateBasis": "posted",
+      "verifiedDate": "2026-11-19",
+      "source": "https://budgetpixel.com/p/106526",
+      "promptLocator": "原帖唯一成圖，下方「Prompt」完整三段。",
+      "styleLabel": "仿青銅雕塑攝影：格窗束光分出金飾與氧化層",
+      "resultObservation": "格窗從左側投出窄亮帶，頭冠、胸飾和衣褶的銳利高光與棕黑氧化面分離；厚柱和地面仍保留深暗。",
+      "distinctStyleKey": "lattice-grazing-light-bronze-patina",
+      "distinctReason": "不是既有白底工業金屬或仿棚拍；用格窗漏光及表面粗細變化呈現舊鑄造物。",
+      "method": "用側面窄束光掠過凸紋，只在金飾和亮邊加高光；低反光的氧化面仍要保留暗部質感。",
+      "limitation": "生成圖；不是實拍、古物記錄或宗教圖像考證。原提示稱泰米爾王后，平台摘要稱女神，不把任一當作歷史身分。 原提示同時寫廣角及 85mm，屬文字設定而非可驗證鏡頭資料；原圖 768×1365，不是提示中的 8K。",
+      "model": "Qwen Image 3.0 Pro",
+      "rights": "displayable",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0（原帖標示）",
+      "rightsSource": "https://budgetpixel.com/p/106526",
+      "modification": "原始 PNG 位元組未改；本地檔名反映實際檔案格式。",
+      "credit": "仿青銅雕塑攝影：格窗束光分出金飾與氧化層 · @suga2309 via BudgetPixel AI · CC BY 4.0",
+      "copyPolicy": "只展示可轉載成圖；完整作者發布的指令見原帖。未獨立核實指令起草者。",
+      "asset": "assets/budgetpixel-suga2309-bronze-lattice-patina.png",
+      "imageAudit": "Publisher original direct file decoded as PNG 768×1365 despite remote .jpg path; exact file bytes preserved and visually reviewed.",
+      "classification": "art"
+    },
+    {
+      "id": "budgetpixel-suga2309-cabin-window-aperture-firelight",
+      "creator": "@suga2309 via BudgetPixel AI",
+      "platform": "budgetpixel",
+      "channel": "creator-social",
+      "sourceDate": "2026-10-24",
+      "dateBasis": "posted",
+      "verifiedDate": "2026-11-19",
+      "source": "https://budgetpixel.com/p/98899",
+      "promptLocator": "原帖第五幅：壁爐、側窗和圓形開口同畫面；圖下印有該幅專用完整 Prompt。",
+      "styleLabel": "動畫場景雙光源：冷開口束光與低位暖火",
+      "resultObservation": "左窗保留戶外藍月與積雪，右上圓形開口的藍束光切過空室，右下火爐把暖橘色留在地面小範圍。",
+      "distinctStyleKey": "orthogonal-opening-cold-beam-local-hearth",
+      "distinctReason": "不同於夜遊樂園分散點光和暖窗全景；室內空景用兩種開口、方向性光束與固定低位暖源區分色域。",
+      "method": "保留清楚的開口幾何，讓藍束光只在空中和牆面過渡；暖面積限於低位火源附近，測試陰影是否仍可讀。",
+      "limitation": "SeeDream 無實際光學模擬；圓孔屬模型額外加入的可見元素，不是原提示明定形狀。 原圖 1312×736，不是提示中的 8K；屋頂開口讓雪進入，不能視為實用保暖建築方案。",
+      "model": "SeeDream 5.0 Pro",
+      "rights": "displayable",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0（原帖標示）",
+      "rightsSource": "https://budgetpixel.com/p/98899",
+      "modification": "原始 PNG 位元組未改；本地檔名反映實際檔案格式。",
+      "credit": "動畫場景雙光源：冷開口束光與低位暖火 · @suga2309 via BudgetPixel AI · CC BY 4.0",
+      "copyPolicy": "只展示可轉載成圖；完整作者發布的指令見原帖。未獨立核實指令起草者。",
+      "asset": "assets/budgetpixel-suga2309-cabin-window-aperture-firelight.png",
+      "imageAudit": "Publisher original direct file decoded as PNG 1312×736 despite remote .jpg path; exact file bytes preserved and visually reviewed.",
       "classification": "art"
     }
   ]
