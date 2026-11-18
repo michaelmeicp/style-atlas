@@ -1,15 +1,15 @@
 {
-  "galleryImages": 38,
+  "galleryImages": 39,
   "referenceOnly": 51,
   "stats": {
-    "verifiedPairs": 89,
+    "verifiedPairs": 90,
     "byPlatform": {
       "note": 49,
       "linkedin": 1,
       "substack": 1,
       "taste": 6,
       "monigarr": 1,
-      "budgetpixel": 15,
+      "budgetpixel": 16,
       "commons": 6,
       "venustai": 3,
       "pixmind": 2,
@@ -18,9 +18,9 @@
     },
     "rights": {
       "link-only": 51,
-      "displayable": 38
+      "displayable": 39
     },
-    "distinctStyles": 73,
+    "distinctStyles": 74,
     "repeatCreators": [
       "Tatiana Tsiguleva",
       "リンファ (Rinfa)",
@@ -1842,6 +1842,35 @@
       "imageAudit": "Exact Wikimedia original WebP 1408×768, decoded in Pillow and visually reviewed; no brand or likeness inferred, original lower-right model mark retained.",
       "classification": "art",
       "dateEvidence": "first-upload"
+    },
+    {
+      "id": "budgetpixel-justrob-botanical-lumina-cyanotype",
+      "creator": "@justrob via BudgetPixel AI",
+      "platform": "budgetpixel",
+      "channel": "creator-social",
+      "sourceDate": "2026-10-03",
+      "dateBasis": "posted",
+      "verifiedDate": "2026-11-19",
+      "source": "https://budgetpixel.com/p/89371",
+      "promptLocator": "原帖第五幅：有寬帽、側臉及薄蕨的藍白影像。該幅緊接其下的 Prompt 才與本圖配對。",
+      "styleLabel": "仿藍曬：白色蕨葉剪影與深藍負空間",
+      "resultObservation": "奶白蕨葉細齒與枝條在靛藍底上保持清楚，側面帽檐以大塊白形讀出，臉和髮絲則留窄藍線，紙邊白色不規則。",
+      "distinctStyleKey": "cyanotype-negative-botanical-silhouettes",
+      "distinctReason": "不是銀鹽曝光弧、逆光人物剪影或黑色套版：這裡的细蕨葉以藍曬仿效的反轉白形為主，用負形保留大量枝葉空間。",
+      "method": "用深藍單色作底，蕨草、人物、背景分配大白形、分枝白形和小留白；拉近檢查葉齒是否仍可辨，不讓背景紋理引入暖色。",
+      "limitation": "Flux 模擬藍曬，不是感光材料曝光、植物標本或實際藍曬照片。 原指令另要求女海盜站在舵手身後掃視地平線；實際成圖是裁切側臉，未見可辨識舵手或該場景，不能當作完整指令遵循成功。",
+      "model": "Flux 1.1 Pro",
+      "rights": "displayable",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0（原帖標示）",
+      "rightsSource": "https://budgetpixel.com/p/89371",
+      "modification": "原圖位元組未改；比例顯示。",
+      "credit": "Botanical Lumina, cyanotype profile and ferns, fifth output · @justrob via BudgetPixel AI · CC BY 4.0",
+      "copyPolicy": "影像按 CC BY 4.0 顯示，完整指令由原帖第五幅下方閱讀；本站不轉載。",
+      "asset": "assets/budgetpixel-justrob-botanical-lumina-cyanotype.png",
+      "imageAudit": "Exact original fifth PNG 896×1152 directly downloaded, decoded and viewed; verified full per-image prompt, item license and exact matching depiction.",
+      "creatorStyleSource": "https://justrobstyles.com/s/botanical-lumina",
+      "classification": "art"
     }
   ]
 }
