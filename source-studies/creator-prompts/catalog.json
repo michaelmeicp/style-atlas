@@ -1,25 +1,26 @@
 {
-  "galleryImages": 33,
+  "galleryImages": 36,
   "referenceOnly": 51,
   "stats": {
-    "verifiedPairs": 84,
+    "verifiedPairs": 87,
     "byPlatform": {
       "note": 49,
       "linkedin": 1,
       "substack": 1,
       "taste": 6,
       "monigarr": 1,
-      "budgetpixel": 13,
+      "budgetpixel": 15,
       "commons": 4,
       "venustai": 3,
       "pixmind": 2,
-      "poster.sh": 4
+      "poster.sh": 4,
+      "vintagephotoprompt": 1
     },
     "rights": {
       "link-only": 51,
-      "displayable": 33
+      "displayable": 36
     },
-    "distinctStyles": 68,
+    "distinctStyles": 71,
     "repeatCreators": [
       "Tatiana Tsiguleva",
       "リンファ (Rinfa)",
@@ -27,7 +28,8 @@
       "こあら (Koara) / aibento",
       "津軽の津軽",
       "Yuna | AI Lab by Unlit Inc.",
-      "田中勇道"
+      "田中勇道",
+      "@justrob via BudgetPixel AI"
     ]
   },
   "records": [
@@ -1702,6 +1704,82 @@
       "copyPolicy": "可在原帖第三幅查看作者提示；另附作者風格說明頁。",
       "asset": "assets/budgetpixel-justrob-stitchcraft-cat.png",
       "creatorStyleSource": "https://justrobstyles.com/s/stitchcraft-portraiture"
+    },
+    {
+      "id": "budgetpixel-justrob-felt-relief",
+      "creator": "@justrob via BudgetPixel AI",
+      "platform": "budgetpixel",
+      "channel": "creator-social",
+      "sourceDate": "2026-10-04",
+      "dateBasis": "posted",
+      "verifiedDate": "2026-11-18",
+      "source": "https://budgetpixel.com/p/89464",
+      "promptLocator": "原帖首圖；向下至「Prompt」標題查看該圖完整原始指令。其他幅不使用。",
+      "styleLabel": "捲氈淺浮雕：層厚和曲邊塑出體積",
+      "resultObservation": "黑灰裙子用弧形厚片疊成波浪，中央黃色圓盤另浮一層；黑色樹叢、紅色天空與金色圓日分成遠近層。",
+      "distinctStyleKey": "stacked-coiled-felt-shallow-relief",
+      "distinctReason": "與刺繡貓的方向性針跡不同：靠剪裁形、捲邊、階差及層間陰影，而非數百道針線。",
+      "method": "同一主體用三層輪廓和一個捲邊表現深度；讓層間留窄暗線，避免把纖維材質僅當覆蓋紋理。",
+      "limitation": "為生成圖，非實物毛氈或製程證據。",
+      "model": "Flux 1.1 Pro",
+      "rights": "displayable",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseLabel": "CC0 1.0（原帖標示）",
+      "rightsSource": "https://budgetpixel.com/p/89464",
+      "modification": "原圖位元組未改；依比例顯示。",
+      "credit": "捲氈淺浮雕：層厚和曲邊塑出體積 · @justrob via BudgetPixel AI",
+      "copyPolicy": "僅展示成圖。從原帖看完整指令；未在本站轉載指令。",
+      "asset": "assets/budgetpixel-justrob-felt-relief.png"
+    },
+    {
+      "id": "budgetpixel-justrob-ochre-silhouette",
+      "creator": "@justrob via BudgetPixel AI",
+      "platform": "budgetpixel",
+      "channel": "creator-social",
+      "sourceDate": "2026-11-14",
+      "dateBasis": "posted",
+      "verifiedDate": "2026-11-18",
+      "source": "https://budgetpixel.com/p/107599",
+      "promptLocator": "原帖首圖；向下至「Prompt」標題查看該圖完整原始指令。其他幅不使用。",
+      "styleLabel": "赭色剪影：人物輪廓疊景與內嵌幾何",
+      "resultObservation": "中央全身黑剪影由亮橙色襯出；左右貼邊放大側臉，淺米色側臉縫在中間，服裝內有赭色螺線及點環。",
+      "distinctStyleKey": "ochre-silhouette-inlaid-geometry",
+      "distinctReason": "既有剪影重在夕陽逆光和動線；本例是平面插畫，以放大裁切的層層臉廓和剪影內部裝飾組成深度。",
+      "method": "疊放三種比例的人像側廓，先檢查明暗和輪廓分離，再把螺線與點環集中放在服裝黑色區域。",
+      "limitation": "成圖內符號是生成裝飾，不當作真實 Adinkra 字形或其意涵的資料。",
+      "model": "Flux 1.1 Pro",
+      "rights": "displayable",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseLabel": "CC0 1.0（原帖標示）",
+      "rightsSource": "https://budgetpixel.com/p/107599",
+      "modification": "原圖位元組未改；依比例顯示。",
+      "credit": "赭色剪影：人物輪廓疊景與內嵌幾何 · @justrob via BudgetPixel AI",
+      "copyPolicy": "僅展示成圖。從原帖看完整指令；未在本站轉載指令。",
+      "asset": "assets/budgetpixel-justrob-ochre-silhouette.png"
+    },
+    {
+      "id": "vivian-wang-silver-gelatin-studio-headshot",
+      "creator": "Vivian Wang · Vintage Photo Prompt",
+      "source": "https://vintagephotoprompt.com/prompt/1980s-black-and-white-headshot-prompt/",
+      "platform": "vintagephotoprompt",
+      "channel": "creator-archive",
+      "dateBasis": "undated",
+      "sourceDate": null,
+      "verifiedDate": "2026-11-18",
+      "styleLabel": "仿銀鹽哑光棚拍人像",
+      "promptLocator": "Prompt (full public original); image-to-image requires a supplied portrait",
+      "resultObservation": "三分之二身朝側、眼睛迎鏡；左側柔光照亮眉骨和面頰，深灰斑駁帆布與深毛衣分層。窄白邊保留相紙效果；這是 AI 成圖，不是實際銀鹽印相。",
+      "limitation": "作者使用虛構的人像來源做 AI 影像編修，並非 1980 年代實拍。原頁更新日期不等於原始發文日期；生成模型未確認。",
+      "rights": "displayable",
+      "asset": "assets/vivian-wang-silver-gelatin-studio-headshot.webp",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0（成品圖）",
+      "rightsSource": "https://vintagephotoprompt.com/image-license/",
+      "credit": "Silver Gelatin Studio Headshot · Vintage Photo Prompt / Vivian Wang",
+      "modification": "作者原始 WebP 未重編碼、未裁切。",
+      "copyPolicy": "作者的完整提示詞請見來源原頁。",
+      "distinctStyleKey": "monochrome-fibre-matte-portrait-studio",
+      "distinctReason": "柔側光、纖維相紙白邊和斑駁棚布共同形成黑白相片；與窗光街拍或全幅過期底片漏光不同。"
     }
   ]
 }
