@@ -1,24 +1,25 @@
 {
   "stats": {
-    "verifiedPairs": 25,
+    "verifiedPairs": 32,
     "byPlatform": {
-      "note": 19,
+      "note": 26,
       "linkedin": 1,
       "substack": 1,
       "taste": 3,
       "monigarr": 1
     },
     "rights": {
-      "link-only": 21,
+      "link-only": 28,
       "displayable": 4
     },
-    "distinctStyles": 16,
+    "distinctStyles": 21,
     "repeatCreators": [
       "Tatiana Tsiguleva",
       "リンファ (Rinfa)",
       "リョウヘイ",
       "こあら (Koara) / aibento",
-      "津軽の津軽"
+      "津軽の津軽",
+      "Yuna | AI Lab by Unlit Inc."
     ]
   },
   "records": [
@@ -443,6 +444,125 @@
       "credit": "MoniGarr / AIGeneration.blog",
       "modification": "採用原頁公開的 512px PNG，未裁切或改圖；標明 AI 生成，原提示詞僅連結。",
       "copyPolicy": "此張圖有 CC BY 4.0；作者提示詞只連原文。"
+    },
+    {
+      "id": "note-hotasy-negative-space-modern-ink",
+      "creator": "Hotasy",
+      "platform": "note",
+      "channel": "creator-social",
+      "sourceDate": "2026-08-22",
+      "dateBasis": "posted",
+      "source": "https://note.com/hotasy_no_note/n/ndc0dc3194a68",
+      "promptLocator": "免費公開全文；首先實測段的「水墨画風加工」為成品，上一幅是輸入照",
+      "styleLabel": "照片轉留白水墨人景",
+      "resultObservation": "原照人物轉成面海的背影輪廓，長地平線及淡墨雲留出大面暖白紙色；衣物、倒影及霧調有濃淡變化，不只是黑白濾鏡。",
+      "distinctStyleKey": "negative-space-water-ink-photo-edit",
+      "distinctReason": "把背景消減成大塊未落筆空間，與既有撕紙相片跨質感剪接不同，沒有特定材質斷面。",
+      "method": "用自有照片固定主角位置，一次做只降彩度，一次要求以稀疏墨塊和空白轉譯；檢查天空是否真正節制、地平線仍可辨。",
+      "limitation": "範例是 ChatGPT 影像編輯，不是真的紙上水墨，輸入照片的再利用權與實際模型識別碼未驗證。",
+      "rights": "link-only"
+    },
+    {
+      "id": "note-imbolc-cool-warm-palette-through-subject",
+      "creator": "いんぼるく (Imbolc)",
+      "platform": "note",
+      "channel": "creator-social",
+      "sourceDate": "2026-10-11",
+      "dateBasis": "posted",
+      "source": "https://note.com/imbolc_02/n/ndbc00a9fe11d",
+      "promptLocator": "配布プロンプト全文 and first actual output under 実際に試した結果",
+      "styleLabel": "明暖與深藍過渡的單幅角色",
+      "resultObservation": "淡金窗景在左，深藍星點在右，人物衣袖、桌邊及光點跨越中段；畫面不是一刀切分的兩張海報。",
+      "distinctStyleKey": "warm-cool-palettes-interleave-single-character",
+      "distinctReason": "兩個色流以重疊場景、衣褶、光粒混接，不是黑白上點兩個輔色，亦非清楚斷裂紙邊。",
+      "method": "以虛構簡短設定取代私人聊天；保留人物在交界，同一構圖各出一張分屏版和交叉光版，比較衣物、光和環境是否在關鍵區連成一張。",
+      "limitation": "原文設定依賴作者此前聊天，不應收集別人的聊天或以色彩推斷人格；框內明暗是可觀察，是不是心理測量則不是。",
+      "rights": "link-only"
+    },
+    {
+      "id": "note-ailab-right-weighted-editorial-title-space",
+      "creator": "AIラボ",
+      "platform": "note",
+      "channel": "creator-social",
+      "sourceDate": "2026-09-12",
+      "dateBasis": "posted",
+      "source": "https://note.com/rosy_dog6649/n/n9c28320c5944",
+      "promptLocator": "実際に使ったプロンプト全文; output is the annotated header's lower panel per author",
+      "styleLabel": "右側紙感靜物與左側標題空間",
+      "resultObservation": "畫面中植物、白杯與織物集中在右，暖米左側留下大塊留白，左方仍有少量葉影和邊界；外框和上下說明屬教學圖。",
+      "distinctStyleKey": "right-weighted-editorial-copy-space",
+      "distinctReason": "目標是可加文字的空區，並非純粹靠留白營造水墨情緒或後製撕紙。",
+      "method": "以自創兩行標題疊在縮小後的左側，量內容與葉影相撞的位置；若不足先縮右側物件，固定顏色與光。",
+      "limitation": "作者原定左方三分之二，但照片是實際構圖示範，實作可用面積未達規格。沒有測試作者後列的日文調整方案；使用的確切生成模型未確認。",
+      "rights": "link-only"
+    },
+    {
+      "id": "note-wave3-old-town-iron-leading-lines",
+      "creator": "Yuna | AI Lab by Unlit Inc.",
+      "source": "https://note.com/yuna_ai_unlit/n/n7304f00a09cf",
+      "sourceDate": "2025-09-26",
+      "platform": "note",
+      "channel": "creator-social",
+      "dateBasis": "posted",
+      "promptLocator": "使用プロンプト (full English text), paired with result under Nano Banana",
+      "styleLabel": "街景鐵欄的消失線構圖",
+      "resultObservation": "黑鐵欄向石屋收束，前景燈柱向左偏，橙色枝葉在頂端框景；前後景層級清楚。",
+      "limitation": "同作者另有9月25日的同類測試；本案非模型排行榜。",
+      "rights": "link-only",
+      "model": "Gemini (Nano Banana); exact version not stated",
+      "method": "固定視點時，讓低矮鐵欄沿同一方向收束，再比較加上樹冠邊框前後，視線是否還能走到街尾。",
+      "distinctStyleKey": "iron-rail-convergence-canopy-frame",
+      "distinctReason": "固定視點時，讓低矮鐵欄沿同一方向收束，再比較加上樹冠邊框前後，視線是否還能走到街尾。"
+    },
+    {
+      "id": "note-wave3-night-city-amber-blue-window",
+      "creator": "Miya",
+      "source": "https://note.com/m38lab/n/ne51c6b754447",
+      "sourceDate": "2026-04-04",
+      "platform": "note",
+      "channel": "creator-social",
+      "dateBasis": "posted",
+      "promptLocator": "3. 実際に生成してみた画像とプロンプト → 都会の夜景, image immediately above full English text",
+      "styleLabel": "藍色夜景與橘光窗景",
+      "resultObservation": "深藍夜景透過分格玻璃，橙色東京鐵塔與窗側燈光呼應；窗玻璃的鬼影反射不如文字所指定明顯。",
+      "limitation": "Miya 生成，披露原始提示由 Claude 輔助；本案只確認單日。",
+      "rights": "link-only",
+      "model": "Midjourney v6.1, indicated in source prompt",
+      "method": "保留玻璃分格與主景，固定機位之後把室內暖燈弱化，對照夜景是否仍有分層。",
+      "distinctStyleKey": "city-blue-amber-practicals",
+      "distinctReason": "保留玻璃分格與主景，固定機位之後把室內暖燈弱化，對照夜景是否仍有分層。"
+    },
+    {
+      "id": "note-wave3-soft-window-offcamera-gaze",
+      "creator": "よしは",
+      "source": "https://note.com/yoshiha_ai/n/n0d3cbbf047ec",
+      "sourceDate": "2026-03-07",
+      "platform": "note",
+      "channel": "creator-social",
+      "dateBasis": "posted",
+      "promptLocator": "フェーズ3の結果 → 23回目：ソフトライティング → prompt code and 今回のベスト",
+      "styleLabel": "看向鏡外的柔窗光人像",
+      "resultObservation": "面部靠亮窗，前後暗部漸層柔和，深青色衣物、視線離鏡、背景極暗；不是正面打光。",
+      "limitation": "作者披露由 Claude 協助構思並自己在 Midjourney 實測；3月11日有第二篇實測，但此處只計此案。",
+      "rights": "link-only",
+      "model": "Midjourney; branch/version not stated in section",
+      "method": "保留人物與暗背景，只改視線與坐姿，避免把普通窗光當成相機或燈具的證明。"
+    },
+    {
+      "id": "note-wave3-angled-cafe-shopfront-dappled-light",
+      "creator": "Yuna | AI Lab by Unlit Inc.",
+      "source": "https://note.com/yuna_ai_unlit/n/na08723d1ac89",
+      "sourceDate": "2025-09-25",
+      "platform": "note",
+      "channel": "creator-social",
+      "dateBasis": "posted",
+      "promptLocator": "今回の検証で使用したプロンプト全文 → before under Midjourneyで生成した画像を「忠実度１位」にする方法",
+      "styleLabel": "樹影斜掠的咖啡店面",
+      "resultObservation": "橄欖綠店面佔左，右側行人路有景深和灑落樹影；圓木牌多出擬字，門框不是白色。",
+      "limitation": "本案是未修圖輸出，不是後續 Nano Banana 編修結果。作者說參考網路咖啡館設計提示，未識別第三方參考照。與9月26日該作者的風景實測構成跨日證據。",
+      "rights": "link-only",
+      "model": "Midjourney; version unreported",
+      "method": "注意假字與門框偏離原提示詞；若用於商業示意，原帖這個瑕疵不能說已排除。"
     }
   ]
 }
