@@ -742,3 +742,157 @@
 - 展示權利：Public Domain https://artmuseum.princeton.edu/art/our-collections/image-use-and-access
 - 權利依據：https://artmuseum.princeton.edu/art/our-collections/image-use-and-access
 - 檔案調整：沿用館方原 WebP 視角及尺寸，未裁切或調色。
+
+## 狹縫自畫像：讓影像的一條軸記錄時間
+- 檔案：assets/photo8-slit-portrait.webp
+- 署名：Glogger
+- 來源：https://commons.wikimedia.org/wiki/File:Stevemann_selfportrait_home-made_slit-shutter_camera1992.png
+- 展示權利：CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Stevemann_selfportrait_home-made_slit-shutter_camera1992.png
+- 檔案調整：以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。 轉檔沿用原授權。
+
+## 分離觸發與曝光：用紅外光束訊號定格水形
+- 檔案：assets/photo8-beam-freeze.webp
+- 署名：Luke Peterson
+- 來源：https://commons.wikimedia.org/wiki/File:Something_Different_-1_-_High_Speed_Water_Balloon_(5675125159).jpg
+- 展示權利：CC BY 2.0 https://creativecommons.org/licenses/by/2.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Something_Different_-1_-_High_Speed_Water_Balloon_(5675125159).jpg
+- 檔案調整：以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。
+
+## 鏡頭內柔焦：保留輪廓，讓高光擴散
+- 檔案：assets/photo8-optical-softfocus.webp
+- 署名：Grendelkhan
+- 來源：https://commons.wikimedia.org/wiki/File:Bottle_Softfocus_2.jpg
+- 展示權利：CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Bottle_Softfocus_2.jpg
+- 檔案調整：以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。 轉檔沿用原授權。
+
+## 不用專用微距鏡：接寫環縮短對焦距離
+- 檔案：assets/photo8-extension-leaf.webp
+- 署名：Ben pcc
+- 來源：https://commons.wikimedia.org/wiki/File:CalatheaMakoyanaLeafMacro.jpg
+- 展示權利：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:CalatheaMakoyanaLeafMacro.jpg
+- 檔案調整：以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。 轉檔沿用原授權。
+
+## 建築視野：長一點的焦段拍多排再接
+- 檔案：assets/photo8-rectilinear-12.webp
+- 署名：© User:Colin / Wikimedia Commons / CC BY-SA 4.0
+- 來源：https://commons.wikimedia.org/wiki/File:Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall.jpg
+- 展示權利：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall.jpg
+- 檔案調整：以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。 轉檔沿用原授權。
+
+## 把關鍵字變成視覺主體的 AI 排版實驗
+- 檔案：assets/wc-vulcansphere-ideogram-type.webp
+- 署名：VulcanSphere
+- 來源：https://commons.wikimedia.org/wiki/File:Welcome_to_the_Simulated_Universe_%28Ideogram_3.0%29.webp
+- 展示權利：CC0 1.0（上傳者提交） https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Welcome_to_the_Simulated_Universe_%28Ideogram_3.0%29.webp#Licensing
+- 檔案調整：採用該頁原 WebP，位元未改；標明 AI 生成，未轉載原詞。
+
+## 《Balancing Act》：AI 圖像如何進入實體拼貼展覽
+- 檔案：assets/wc-hubbard-ai-installation.webp
+- 署名：Patrick Lee Hubbard
+- 來源：https://commons.wikimedia.org/wiki/File:Patrick_Lee_Hubbard_-_Balancing_Act_-_May_2023_-_Kinectic_Collage_with_AI_sourced_Images-3.jpg
+- 展示權利：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Patrick_Lee_Hubbard_-_Balancing_Act_-_May_2023_-_Kinectic_Collage_with_AI_sourced_Images-3.jpg#Licensing
+- 補充：許可標示針對 Patrick Lee Hubbard 自攝的展場照片。未取得獨立抽取或再用畫框內作品、人物面孔的授權；不作代言或肖像用途。
+- 檔案調整：作者授權的展場照等比例縮小、轉為 WebP；未裁切或調色；影像沿用 CC BY-SA 4.0。
+
+## 由冷暖大片分區約束的算法彩色碎片
+- 檔案：assets/wc-tsang-mosaic-algorithm.webp
+- 署名：Gwendal Tsang
+- 來源：https://commons.wikimedia.org/wiki/File:Art_g%C3%A9n%C3%A9ratif_g%C3%A9om%C3%A9trique_algorithme_mosa%C3%AFque_photoshop.jpg
+- 展示權利：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Art_g%C3%A9n%C3%A9ratif_g%C3%A9om%C3%A9trique_algorithme_mosa%C3%AFque_photoshop.jpg#Licensing
+- 檔案調整：用授權頁提供的 1,280 px 縮圖轉為 WebP，未裁切或調色；影像沿用 CC BY-SA 4.0。
+
+## 用短指令測試文生圖的版畫語彙
+- 檔案：assets/wc-vulcansphere-sd35-woodblock.webp
+- 署名：VulcanSphere
+- 來源：https://commons.wikimedia.org/wiki/File:Astronaut_Riding_a_Horse_Hiroshige_(SD3.5).webp
+- 展示權利：CC0 1.0（上傳者提交） https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Astronaut_Riding_a_Horse_Hiroshige_(SD3.5).webp#Licensing
+- 檔案調整：採用該頁原 WebP，位元未改；標明 AI 生成，未轉載原詞。
+
+## 讓超出畫框的 SVG 弧線變成色帶
+- 檔案：assets/wc-jsbza-svg-opacity.webp
+- 署名：Jsbza
+- 來源：https://commons.wikimedia.org/wiki/File:Session1685341164.svg
+- 展示權利：CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Session1685341164.svg#Licensing
+- 檔案調整：由作者原 SVG 以 librsvg 渲染，等比例輸出 1280×720 WebP，保留透明區。
+
+## W. Bruff｜Eliza McPherson 中空剪影
+- 檔案：assets/met-bruff-hollowcut.webp
+- 署名：The Metropolitan Museum of Art, The Glenn Tilley Morse Collection, Bequest of Glenn Tilley Morse, 1950 (50.602.251).
+- 來源：https://www.metmuseum.org/art/collection/search/825946
+- 展示權利：CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://www.metmuseum.org/hubs/open-access
+- 檔案調整：館方來源圖，等比例處理及轉存 WebP，未裁切或調色。
+
+## Philipp Otto Runge｜紅醋栗剪影
+- 檔案：assets/met-runge-papercut.webp
+- 署名：The Metropolitan Museum of Art, Janet Lee Kadesky Ruttenberg Fund, in honor of Colta Ives, and Mary Martin Fund, 2010 (2010.74).
+- 來源：https://www.metmuseum.org/art/collection/search/392333
+- 展示權利：CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://www.metmuseum.org/hubs/open-access
+- 檔案調整：館方來源圖，等比例處理及轉存 WebP，未裁切或調色。
+
+## 鈴木其一｜罌粟花
+- 檔案：assets/met-kiitsu-silk.webp
+- 署名：The Metropolitan Museum of Art, Fishbein-Bender Collection, Gift of T. Richard Fishbein and Estelle P. Bender, 2012 (2012.522.3).
+- 來源：https://www.metmuseum.org/art/collection/search/77202
+- 展示權利：CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://www.metmuseum.org/hubs/open-access
+- 檔案調整：館方來源圖，等比例處理及轉存 WebP，未裁切或調色。
+
+## 友忠｜狼形根付
+- 檔案：assets/met-tomotada-netsuke.webp
+- 署名：The Metropolitan Museum of Art, H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929 (29.100.918).
+- 來源：https://www.metmuseum.org/art/collection/search/59612
+- 展示權利：CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://www.metmuseum.org/hubs/open-access
+- 檔案調整：館方來源圖，等比例處理及轉存 WebP，未裁切或調色。
+
+## 陳覲侯｜仿古青銅觚的紫砂器
+- 檔案：assets/met-chen-jinhou-yixing.webp
+- 署名：The Metropolitan Museum of Art, Gift of Michael Abraham, 1984 (1984.472).
+- 來源：https://www.metmuseum.org/art/collection/search/42324
+- 展示權利：CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://www.metmuseum.org/hubs/open-access
+- 檔案調整：館方來源圖，等比例處理及轉存 WebP，未裁切或調色。
+
+## 董其昌｜行草致陳繼儒書
+- 檔案：assets/met-dong-qichang-ruled-ink.webp
+- 署名：The Metropolitan Museum of Art, Bequest of John M. Crawford Jr., 1988 (1989.363.96).
+- 來源：https://www.metmuseum.org/art/collection/search/48956
+- 展示權利：CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://www.metmuseum.org/hubs/open-access
+- 檔案調整：館方來源圖，等比例處理及轉存 WebP，未裁切或調色。
+
+## 謝赫・哈姆杜拉｜書法冊的浮紋紙邊
+- 檔案：assets/met-hamdullah-marbling.webp
+- 署名：The Metropolitan Museum of Art, Purchase, Edwin Binney 3rd and Edward Ablat Gifts, 1982 (1982.120.3).
+- 來源：https://www.metmuseum.org/art/collection/search/453166
+- 展示權利：CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://www.metmuseum.org/hubs/open-access
+- 補充：作品頁署名 Hamdullah 為書法家，非大理石紋紙作者；以完整冊頁呈現背景工藝，不另抽取紋紙。
+- 檔案調整：館方來源圖，等比例處理及轉存 WebP，未裁切或調色。
+
+## David Roentgen｜卷頂書桌鑲木細部
+- 檔案：assets/met-roentgen-marquetry.webp
+- 署名：The Metropolitan Museum of Art, Rogers Fund, 1941 (41.82).
+- 來源：https://www.metmuseum.org/art/collection/search/198715
+- 展示權利：CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://www.metmuseum.org/hubs/open-access
+- 檔案調整：館方來源圖，等比例處理及轉存 WebP，未裁切或調色。
+
+## 開羅 Warshat al-Khurunfish 工坊｜Sitara 金銀線刺繡
+- 檔案：assets/met-warshat-sitara.webp
+- 署名：The Metropolitan Museum of Art, Gift of Professor Maan Z. Madina, in memory of his mother, Najiyya Khanum al-Kurdi, 2009 (2009.59.1).
+- 來源：https://www.metmuseum.org/art/collection/search/456947
+- 展示權利：CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://www.metmuseum.org/hubs/open-access
+- 檔案調整：館方來源圖，等比例處理及轉存 WebP，未裁切或調色。

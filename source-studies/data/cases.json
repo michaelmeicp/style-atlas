@@ -5610,6 +5610,1144 @@
           ]
         }
       }
+    },
+    {
+      "id": "photo8-slit-portrait",
+      "library": "photo",
+      "title": "狹縫自畫像：讓影像的一條軸記錄時間",
+      "titleEn": "Hardware slit-scan self-portrait",
+      "creator": "Glogger",
+      "date": "約 1990 年代初",
+      "technique": "狹縫時間攝影・自製裝置",
+      "familySuggestion": "motion-and-exposure（逐線時間編碼）",
+      "visual": "寬而薄的畫面呈現不同角度的臉；髮絲和五官隨橫向展開而扭曲，並非四個直框分格。",
+      "method": "攝影者稱這是使用狹縫掃描裝置拍的自畫像，時期約 1990 年代初；檔名寫自製狹縫快門。",
+      "why": "狹縫掃描逐條記下經過時間，可把頭部轉向讀為同一畫面中的延展，不等於高速連拍人物。",
+      "unknown": "原頁未交代移動的是相機、記錄媒介還是人物；掃描速度與光源也未公布。",
+      "prompt": "原創成年表演者在一個橫向狹縫時間實驗中由側臉慢慢轉向正臉再轉開，狹長畫幅連續、鼻梁與髮線在運動處被拉伸，不畫四個分格，不堆疊成半透明重曝。",
+      "promptEn": "One continuous wide slit-scan time strip of a fictional adult performer turning from profile towards front and away; nose and hair distort where motion progresses, with no panel divisions or translucent double-exposure layers.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Stevemann_selfportrait_home-made_slit-shutter_camera1992.png",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Stevemann_selfportrait_home-made_slit-shutter_camera1992.png",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Stevemann_selfportrait_home-made_slit-shutter_camera1992.png",
+        "publisher": "Wikimedia Commons（作者或原始作品檔案）",
+        "credit": "Glogger",
+        "checked": "2026-11-18"
+      },
+      "license": {
+        "label": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      "image": {
+        "src": "assets/photo8-slit-portrait.webp",
+        "alt": "狹縫自畫像：讓影像的一條軸記錄時間，Glogger",
+        "modification": "以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。 轉檔沿用原授權。",
+        "width": 1400,
+        "height": 233,
+        "sourceWidth": 2880,
+        "sourceHeight": 480,
+        "sha256": "e55b6b1d17dee0af89e8dfa7ad2a43ee0b65f341d5bdd5195c9e2e7298378c84",
+        "sourceFileSha256": "24ed23605bd9ec8bb94c9b8323b686c3d170e88342bd49969dba576143a2db41",
+        "webpFileSha256": "e55b6b1d17dee0af89e8dfa7ad2a43ee0b65f341d5bdd5195c9e2e7298378c84"
+      },
+      "family": {
+        "id": "time-axis-slit-scan",
+        "zh": "狹縫掃描與時間軸",
+        "en": "Slit scan and time-axis imaging",
+        "aliases": [
+          "slit scan",
+          "時間攝影",
+          "rolling scan"
+        ],
+        "bucket": {
+          "id": "photo-time",
+          "zh": "快門、時間取樣與相機動作",
+          "en": "Shutter, time sampling and camera motion",
+          "aliases": [
+            "曝光",
+            "慢快門",
+            "time",
+            "movement"
+          ]
+        }
+      }
+    },
+    {
+      "id": "photo8-beam-freeze",
+      "library": "photo",
+      "title": "分離觸發與曝光：用紅外光束訊號定格水形",
+      "titleEn": "Beam-break triggered studio water freeze",
+      "creator": "Luke Peterson",
+      "date": "2011-05-01",
+      "technique": "光束中斷觸發・可延遲閃光",
+      "familySuggestion": "flash-lighting（觸發事件與光脈衝）",
+      "visual": "黑背景上，冷色帶和白色水花勾出原先水團形狀，水珠與主輪廓仍可分開。",
+      "method": "作者列紅外斷束感測器提供輸入，再由可設延遲的閃光觸發器發光；原頁並未說明這張的實際延遲毫秒數。",
+      "why": "把經過光束的時點和閃光照亮的瞬間分開，可朝想保留的水形調整；避免把快門 EXIF 誤當成閃光脈衝長度。",
+      "unknown": "閃光位置、輸出、脈衝長度與鏡頭光圈未在作者流程中列明；不可由照片單獨倒推。",
+      "prompt": "黑背景的水滴定格，小水團保留原有輪廓，邊緣已有沿弧線散開的獨立水珠，局部冷高光，不加煙、不出現人物或道具。",
+      "promptEn": "Studio water-form freeze against black: a compact shape still legible, discrete droplets already peeling along a curve, isolated cool highlights, no smoke, people or triggering hardware in the frame.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Something_Different_-1_-_High_Speed_Water_Balloon_(5675125159).jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Something_Different_-1_-_High_Speed_Water_Balloon_(5675125159).jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Something_Different_-1_-_High_Speed_Water_Balloon_(5675125159).jpg",
+        "publisher": "Wikimedia Commons（作者或原始作品檔案）",
+        "credit": "Luke Peterson",
+        "checked": "2026-11-18"
+      },
+      "license": {
+        "label": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "image": {
+        "src": "assets/photo8-beam-freeze.webp",
+        "alt": "分離觸發與曝光：用紅外光束訊號定格水形，Luke Peterson",
+        "modification": "以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。",
+        "width": 933,
+        "height": 1400,
+        "sourceWidth": 2000,
+        "sourceHeight": 3000,
+        "sha256": "4d262dd2366a83f648ecaf2aa2c429a3963139d9667e2a6729a50bf642444138",
+        "sourceFileSha256": "85f5398a41c66104f894577fc6db8cdb3f72d191f802722a30c03a0f859541cd",
+        "webpFileSha256": "4d262dd2366a83f648ecaf2aa2c429a3963139d9667e2a6729a50bf642444138"
+      },
+      "family": {
+        "id": "flash-lighting",
+        "zh": "閃光塑形與凝結",
+        "en": "Flash lighting and motion freezing",
+        "aliases": [
+          "凝結水冠",
+          "環形閃光",
+          "flash",
+          "strobe",
+          "ring flash",
+          "splash"
+        ],
+        "bucket": {
+          "id": "photo-light",
+          "zh": "照明、光源與材質表現",
+          "en": "Illumination and material depiction",
+          "aliases": [
+            "打燈",
+            "閃光",
+            "studio light"
+          ]
+        }
+      }
+    },
+    {
+      "id": "photo8-optical-softfocus",
+      "library": "photo",
+      "title": "鏡頭內柔焦：保留輪廓，讓高光擴散",
+      "titleEn": "Optical soft-focus lens with close extension",
+      "creator": "Grendelkhan",
+      "date": "2006-07-26",
+      "technique": "可調柔焦鏡頭・全開光圈加接寫環",
+      "familySuggestion": "optical-capture（刻意球面像差柔焦）",
+      "visual": "瓶身輪廓和前方亮斑出現柔霧，仍有主體階調而非滿幅失焦。",
+      "method": "作者比較系列柔焦檔位；這張以 Canon EF 135mm f/2.8 Softfocus 全開、設定 2，加 20 mm 接寫環來拉近拍攝。",
+      "why": "接寫環改變可對焦距離；設定柔焦改變清晰核心周圍的光暈。兩項各有功能，不宜把近攝本身當柔焦來源。",
+      "unknown": "未公布測試照明和後期處理；不可只憑此張認定其他柔焦鏡的光暈強度。",
+      "prompt": "原創靜物玻璃瓶的近攝，標籤有可辨的形狀而非品牌，窄亮邊周圍有連續的光學柔暈；保持主體核心與暗部，不做整張散焦或套霧濾鏡。",
+      "promptEn": "Close-up of an unbranded glass bottle, recognizable label shapes and a narrow specular edge surrounded by restrained optical bloom; keep a sharp central structure and deep shadow tones instead of uniform blur or fog.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Bottle_Softfocus_2.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Bottle_Softfocus_2.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bottle_Softfocus_2.jpg/960px-Bottle_Softfocus_2.jpg",
+        "publisher": "Wikimedia Commons（作者或原始作品檔案）",
+        "credit": "Grendelkhan",
+        "checked": "2026-11-18"
+      },
+      "license": {
+        "label": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      "image": {
+        "src": "assets/photo8-optical-softfocus.webp",
+        "alt": "鏡頭內柔焦：保留輪廓，讓高光擴散，Grendelkhan",
+        "modification": "以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。 轉檔沿用原授權。",
+        "width": 933,
+        "height": 1400,
+        "sourceWidth": 960,
+        "sourceHeight": 1440,
+        "sha256": "48e9ad11b707b9c8b42c77691c6d173c456a468c9383ebb154375e06e571ac19",
+        "sourceFileSha256": "bd0e79a3153c0bc112a44c5a40632e3d46da8dead247a1c88f77659dff71aaed",
+        "webpFileSha256": "48e9ad11b707b9c8b42c77691c6d173c456a468c9383ebb154375e06e571ac19"
+      },
+      "family": {
+        "id": "optical-soft-focus",
+        "zh": "鏡頭柔焦與像差控制",
+        "en": "Optical soft focus",
+        "aliases": [
+          "柔焦",
+          "soft-focus lens",
+          "光暈"
+        ],
+        "bucket": {
+          "id": "photo-optic",
+          "zh": "光學取景、投影及透視",
+          "en": "Optical capture, projection and perspective",
+          "aliases": [
+            "鏡頭",
+            "視角",
+            "projection",
+            "optics"
+          ]
+        }
+      }
+    },
+    {
+      "id": "photo8-extension-leaf",
+      "library": "photo",
+      "title": "不用專用微距鏡：接寫環縮短對焦距離",
+      "titleEn": "Extension-tube macro of a patterned leaf",
+      "creator": "Ben pcc",
+      "date": "2020-12-09",
+      "technique": "接寫環近拍・約 25 mm 橫向視野",
+      "familySuggestion": "macro-camera（普通鏡與接寫環）",
+      "visual": "手掌以下尺度的闊葉紋理填滿橫向畫面，葉脈和色塊反覆出現。",
+      "method": "作者使用 APS-C、標準鏡頭和接寫環，並估計照片橫向所涵蓋的葉片僅約 25 mm。",
+      "why": "把鏡頭推離感光面讓它能在更短距離對焦。可用較低成本看到構圖上的小尺度，但不保證較大景深；應先找接近平行的表面。",
+      "unknown": "來源未指定鏡頭型號、接寫環長度或使用焦點堆疊，不應補上。",
+      "prompt": "獨立的新葉片微距，不顯示整株植物；畫面寬度只涵蓋約指節大小，保留平行平面的細脈與窄景深，顏色自然，不用重複平鋪紋理。",
+      "promptEn": "Original leaf macro without showing the whole plant; a fingertip-scale width of blade fills the frame. Keep fine veins sharp along a flat plane and depth narrow, natural color, no digitally tiled repetition.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:CalatheaMakoyanaLeafMacro.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:CalatheaMakoyanaLeafMacro.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CalatheaMakoyanaLeafMacro.jpg/1280px-CalatheaMakoyanaLeafMacro.jpg",
+        "publisher": "Wikimedia Commons（作者或原始作品檔案）",
+        "credit": "Ben pcc",
+        "checked": "2026-11-18"
+      },
+      "license": {
+        "label": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "image": {
+        "src": "assets/photo8-extension-leaf.webp",
+        "alt": "不用專用微距鏡：接寫環縮短對焦距離，Ben pcc",
+        "modification": "以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。 轉檔沿用原授權。",
+        "width": 1280,
+        "height": 853,
+        "sourceWidth": 1280,
+        "sourceHeight": 853,
+        "sha256": "df832192a7f9b9cb77ceb546fd9fcaea973123e515eaf57ac82a2e7b1ac77a34",
+        "sourceFileSha256": "62e08ed6605a422b9f10569a9a6273ccfae73f3ed446e9a3bf4de54051578e81",
+        "webpFileSha256": "df832192a7f9b9cb77ceb546fd9fcaea973123e515eaf57ac82a2e7b1ac77a34"
+      },
+      "family": {
+        "id": "optical-closeup-magnification",
+        "zh": "光學近攝倍率",
+        "en": "Optical close-up reproduction ratio",
+        "aliases": [
+          "倍率",
+          "光學微距",
+          "macro magnification",
+          "reproduction ratio"
+        ],
+        "bucket": {
+          "id": "photo-optic",
+          "zh": "光學取景、投影及透視",
+          "en": "Optical capture, projection and perspective",
+          "aliases": [
+            "鏡頭",
+            "視角",
+            "projection",
+            "optics"
+          ]
+        }
+      }
+    },
+    {
+      "id": "photo8-rectilinear-12",
+      "library": "photo",
+      "title": "建築視野：長一點的焦段拍多排再接",
+      "titleEn": "Multirow architectural mosaic at 50 mm",
+      "creator": "Colin",
+      "date": "2014-09-21",
+      "technique": "固定曝光的 2 欄 6 排拼接・非 HDR 融合",
+      "familySuggestion": "optical-capture（多排視野覆蓋）",
+      "visual": "河岸、橋與國會建築從較高的城市視點展開，塔身線條直，細小窗格仍可分辨。",
+      "method": "攝影者記錄用 50 mm、f/8、1/250 秒和 ISO 100 連拍兩欄六排，再用 Hugin 拼接；檔案歷史另有投影修正。不把它寫成包圍曝光。",
+      "why": "將捕捉視野的多排接片與進行亮度融合的 HDR 分開。長一點的鏡頭逐區取樣以保住建築細部；相同曝光令拼接過渡更穩定。",
+      "unknown": "原頁未提供全部未合併原片、鏡頭轉動中心和重疊比，不能宣稱一定無接縫。",
+      "prompt": "虛構老城河岸從高處拍成一張多排建築照，近河橋與遠塔垂直線可信，屋頂和窗格細節連續，曝光一致，避免超廣角邊緣扭曲和 HDR 光暈。",
+      "promptEn": "Original riverfront civic architecture photographed from an elevated position as a multirow mosaic, credible verticals and continuity of roofs and window detail, consistent exposure, no exaggerated ultra-wide edge stretch or HDR halos.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall.jpg/1280px-Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall.jpg",
+        "publisher": "Wikimedia Commons（作者或原始作品檔案）",
+        "credit": "© User:Colin / Wikimedia Commons / CC BY-SA 4.0",
+        "checked": "2026-11-18",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall.jpg"
+      },
+      "license": {
+        "label": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "image": {
+        "src": "assets/photo8-rectilinear-12.webp",
+        "alt": "建築視野：長一點的焦段拍多排再接，Colin",
+        "modification": "以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。 轉檔沿用原授權。",
+        "width": 1280,
+        "height": 853,
+        "sourceWidth": 1280,
+        "sourceHeight": 853,
+        "sha256": "e6a1df2254b1ac7d059e19ae32e0fd1d2f74819c7f1b8c8ef9d21c9dcd26f261",
+        "sourceFileSha256": "ed110c6cca7ce558bbe334a59ff5cde409fe952ff8f79615cff1b81e5e365243",
+        "webpFileSha256": "e6a1df2254b1ac7d059e19ae32e0fd1d2f74819c7f1b8c8ef9d21c9dcd26f261"
+      },
+      "family": {
+        "id": "field-mosaic-stitching",
+        "zh": "不同視野的馬賽克拼接",
+        "en": "Cross-field mosaic stitching",
+        "aliases": [
+          "天區拼接",
+          "馬賽克",
+          "panorama stitching",
+          "mosaic"
+        ],
+        "bucket": {
+          "id": "photo-compute",
+          "zh": "計算合成與重投影",
+          "en": "Computational assembly and reprojection",
+          "aliases": [
+            "堆疊",
+            "數位後製",
+            "computational",
+            "stacking"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-vulcansphere-ideogram-type",
+      "library": "art",
+      "title": "把關鍵字變成視覺主體的 AI 排版實驗",
+      "titleEn": "Welcome to the Simulated Universe (Ideogram 3.0)",
+      "creator": "VulcanSphere",
+      "date": "2025-03-27",
+      "technique": "文生海報・指定字串與文字階層",
+      "visual": "中央白字排成四個主行，最高對比留給文字；下方粉藍環形物、斜向邊框和細線退為背景。原詞提到紫白，但成圖的大字以白色最可辨。",
+      "method": "作者在同一頁公開完整提示詞，指定英文句子、粗體未來感、色系、幾何外框及海報用途。作者稱使用 Ideogram 3.0 文生圖；原提示詞見「Summary」，不在本庫轉載。",
+      "why": "用一段短的固定字串與視覺層級測模型的文字能力。出圖後逐字核對、看縮小成手機卡片還認不認得，不將外框細節的漂亮程度混成文字成功。",
+      "unknown": "未核實原 seed、比例設定、是否開啟自動改寫提示詞、是否多稿挑選。可識別的既有設計團隊不是本庫練習提示詞的要求。",
+      "prompt": "原創直式活動海報，逐字顯示單一標語「NIGHT SIGNAL」。讓兩行白色無襯線粗字成為唯一最高對比，琥珀色線框與細同心圓退後。明確禁止次標、標誌和假字；驗收時逐字比對。",
+      "promptEn": "Original upright event poster. Render exactly one slogan, “NIGHT SIGNAL”. Two large lines of bold white sans serif carry the only highest contrast; amber outlines and fine concentric circles stay behind. No secondary text, logos or gibberish. Compare the result letter by letter.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Welcome_to_the_Simulated_Universe_%28Ideogram_3.0%29.webp",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Welcome_to_the_Simulated_Universe_%28Ideogram_3.0%29.webp#Licensing",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Welcome_to_the_Simulated_Universe_%28Ideogram_3.0%29.webp",
+        "publisher": "Wikimedia Commons（作者原件與製作說明）",
+        "credit": "VulcanSphere",
+        "checked": "2026-11-18",
+        "promptUrl": "https://commons.wikimedia.org/wiki/File:Welcome_to_the_Simulated_Universe_%28Ideogram_3.0%29.webp#Summary"
+      },
+      "license": {
+        "label": "CC0 1.0（上傳者提交）",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "image": {
+        "src": "assets/wc-vulcansphere-ideogram-type.webp",
+        "alt": "深色科幻海報中央是四行高對比英文字，下方有粉藍光圈。",
+        "modification": "採用該頁原 WebP，位元未改；標明 AI 生成，未轉載原詞。",
+        "width": 864,
+        "height": 1152,
+        "sha256": "eb3d23598c9f615b2ff59f42a9426e0f6a33b580b7d3d09217b34efe4253a589"
+      },
+      "displayKind": "creator-generated",
+      "family": {
+        "id": "prompt-led-image-synthesis",
+        "zh": "文字提示詞引導生成",
+        "en": "Prompt-led image synthesis",
+        "aliases": [
+          "文生圖",
+          "text-to-image",
+          "generative AI",
+          "prompt"
+        ],
+        "bucket": {
+          "id": "art-digital",
+          "zh": "數位製作與像素造型",
+          "en": "Digital production and pixel design",
+          "aliases": [
+            "game art",
+            "原型",
+            "視覺開發"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-hubbard-ai-installation",
+      "library": "art",
+      "title": "《Balancing Act》：AI 圖像如何進入實體拼貼展覽",
+      "titleEn": "Balancing Act — installation view",
+      "creator": "Patrick Lee Hubbard",
+      "date": "2023-05-09",
+      "technique": "混合媒介・AI 來源圖像的展場拼貼",
+      "visual": "窄長展間兩側掛著多件裱框作品，紫光把視線引向房間末端的深藍簾幕。觀眾不是只在螢幕上看一張圖，而是可沿路比較一組作品。",
+      "method": "藝術家上傳自己的展場照，標題標記為以 AI 圖像為來源的動態拼貼，並將作品描述為討論 AI 對生活的影響。這張是展覽紀錄，不是拿單一提示詞生成的空間圖。",
+      "why": "先分開規劃片段生成、挑選／重組及實體展示。用牆面次序、遠近和光線決定觀眾先看哪件，不能把多幅作品僅視為一張畫面的彩色雜訊。",
+      "unknown": "館藏級細節、生成模型、提示詞、各片段授權與動態裝置構造未核實。只展示藝術家授權的展場照，不將其中的拼貼抽出重用。",
+      "prompt": "原創展覽紀錄：狹長明確透視的展間，兩側各有兩件以自製片段拼合的抽象掛畫。把紫光留給焦點終端，其他牆面保留清楚框線、平面光與步行空間；不仿展品內容。",
+      "promptEn": "Original gallery documentation of a long, narrow room. Hang two distinct abstract collages on each side made from self-owned fragments. Confine a violet glow to the visual endpoint; preserve frames, even wall light and a legible walking route. Do not reproduce the exhibits.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Patrick_Lee_Hubbard_-_Balancing_Act_-_May_2023_-_Kinectic_Collage_with_AI_sourced_Images-3.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Patrick_Lee_Hubbard_-_Balancing_Act_-_May_2023_-_Kinectic_Collage_with_AI_sourced_Images-3.jpg#Licensing",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Patrick_Lee_Hubbard_-_Balancing_Act_-_May_2023_-_Kinectic_Collage_with_AI_sourced_Images-3.jpg",
+        "publisher": "Wikimedia Commons（作者原件與製作說明）",
+        "credit": "Patrick Lee Hubbard",
+        "checked": "2026-11-18"
+      },
+      "license": {
+        "label": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "note": "許可標示針對 Patrick Lee Hubbard 自攝的展場照片。未取得獨立抽取或再用畫框內作品、人物面孔的授權；不作代言或肖像用途。"
+      },
+      "image": {
+        "src": "assets/wc-hubbard-ai-installation.webp",
+        "alt": "紫色照明的窄長展間，左右有數幅裱框拼貼，深藍簾置於遠端。",
+        "modification": "作者授權的展場照等比例縮小、轉為 WebP；未裁切或調色；影像沿用 CC BY-SA 4.0。",
+        "width": 1440,
+        "height": 961,
+        "sha256": "cc81b61857edb0d51193158a19f565f3c96355dabfde81fb9ca5e12306eec90b"
+      },
+      "family": {
+        "id": "object-material-assemblage",
+        "zh": "立體材料組合",
+        "en": "Three-dimensional material assemblage",
+        "aliases": [
+          "材料拼貼",
+          "立體構成",
+          "孔隙",
+          "assemblage",
+          "material collage"
+        ],
+        "bucket": {
+          "id": "art-object",
+          "zh": "立體材料與工藝",
+          "en": "Objects and crafted materials",
+          "aliases": [
+            "材料",
+            "工藝",
+            "craft",
+            "object"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-tsang-mosaic-algorithm",
+      "library": "art",
+      "title": "由冷暖大片分區約束的算法彩色碎片",
+      "titleEn": "Art génératif géométrique — Photoshop mosaic",
+      "creator": "Gwendal Tsang",
+      "date": "2019-07-19",
+      "technique": "程式式圖形・幾何碎片馬賽克",
+      "visual": "左半以海軍藍為主，右側偏橘白，中間有少量相反色碎片互相穿插。基本單位像不規則多邊形而不是畫圓點；近看幾何、遠看色階的大結構各自成立。",
+      "method": "作者上傳的標題和描述將其標記為用 Photoshop 的生成幾何馬賽克實驗；未附源程式或節點。可核實原圖為 10,000×10,000 px，網站展示版本使用授權頁的 1,280 px 縮圖。",
+      "why": "先定大面積明度與色溫走向，再拆成可變尺寸的碎片；局部的對比色作節奏，而非將每格無約束隨機著色。它與畫布分色點描可以比較，但碎片邊界與數碼生成手法不同。",
+      "unknown": "未核實所用 Photoshop 版本、過濾器、是否用自寫程式、色盤或隨機種子；不描述成用 AI 提示詞生成。",
+      "prompt": "原創方形算法馬賽克，以墨綠和淡銅構成兩塊連續明度場。取樣為有尺寸差異的不規則碎片，零星亮色打破區塊，但縮圖仍看得出背景色勢。不要網格方像素、美術家名字或具象人物。",
+      "promptEn": "Original square algorithmic mosaic of two continuous value fields, deep pine and pale copper. Sample varied irregular colored fragments into the fields. Sparse opposing accents break the blocks, but broad color movement survives at thumbnail size. No square pixels, artist names or figures.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Art_g%C3%A9n%C3%A9ratif_g%C3%A9om%C3%A9trique_algorithme_mosa%C3%AFque_photoshop.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Art_g%C3%A9n%C3%A9ratif_g%C3%A9om%C3%A9trique_algorithme_mosa%C3%AFque_photoshop.jpg#Licensing",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Art_g%C3%A9n%C3%A9ratif_g%C3%A9om%C3%A9trique_algorithme_mosa%C3%AFque_photoshop.jpg/1280px-Art_g%C3%A9n%C3%A9ratif_g%C3%A9om%C3%A9trique_algorithme_mosa%C3%AFque_photoshop.jpg",
+        "publisher": "Wikimedia Commons（作者原件與製作說明）",
+        "credit": "Gwendal Tsang",
+        "checked": "2026-11-18"
+      },
+      "license": {
+        "label": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "image": {
+        "src": "assets/wc-tsang-mosaic-algorithm.webp",
+        "alt": "密集不規則色片讓深藍與橙黃兩大區互相過渡。",
+        "modification": "用授權頁提供的 1,280 px 縮圖轉為 WebP，未裁切或調色；影像沿用 CC BY-SA 4.0。",
+        "width": 1280,
+        "height": 1280,
+        "sha256": "fc7b2fa5cdef2b5d37ba28a74375a3572909fc5ab0620c2bb42e4169d8935e8b"
+      },
+      "family": {
+        "id": "rule-based-procedural-graphics",
+        "zh": "規則式圖形生成",
+        "en": "Rule-based procedural graphics",
+        "aliases": [
+          "算法圖形",
+          "程序式設計",
+          "procedural graphics",
+          "algorithmic art"
+        ],
+        "bucket": {
+          "id": "art-digital",
+          "zh": "數位製作與像素造型",
+          "en": "Digital production and pixel design",
+          "aliases": [
+            "game art",
+            "原型",
+            "視覺開發"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-vulcansphere-sd35-woodblock",
+      "library": "art",
+      "title": "用短指令測試文生圖的版畫語彙",
+      "titleEn": "Astronaut Riding a Horse Hiroshige (SD 3.5)",
+      "creator": "VulcanSphere",
+      "date": "2024-10-23",
+      "technique": "文生插畫・時代媒材與異質題材結合",
+      "visual": "太空人和馬占據畫面中央，但輪廓簡化、色面偏平，夜空壓低、地面留淡色。右側直列的小標塊是成圖一部分，不代表文字可讀。",
+      "method": "作者在同一檔案頁公開短原詞，以及 Hugging Face Space 和 Stable Diffusion 3.5 Large 的模型資訊。原詞用歷史作者名稱作語彙標記；原文在「Summary」，本庫不以姓名當練習捷徑。",
+      "why": "固定主體後，可試著將籠統的作者標記換成可觀察條件：輪廓細、平塗色版、印刷式留色與大面積色階。檢查模型是否仍能結合兩個時代的元素；不同於用精確字串測文字可讀性。",
+      "unknown": "原 seed、負向詞、取樣器及迭代數未核實。這是模型出圖、不是歷史木版原作；畫面中的字樣不作語意轉錄。 圖中仿印記及題名是生成圖像的一部分，並非歷史原件、原作者印章或合作。",
+      "prompt": "原創版畫式插畫，極光觀測員背著自製儀器走過海邊礫地。用少量偏薄的深灰輪廓、不超過五個平面色版、淡藍向夜藍的天空漸變、紙緣少量露白。不要假簽名、假題籤、任何藝術家名字或參照圖人物。",
+      "promptEn": "Original print-like illustration of an aurora observer crossing a pebbled shore with an invented instrument. Use thin charcoal contour, at most five flat color blocks, a pale-blue-to-night-blue sky gradient and a small paper edge. No artist names, signature, pseudo-label or copied characters.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Astronaut_Riding_a_Horse_Hiroshige_(SD3.5).webp",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Astronaut_Riding_a_Horse_Hiroshige_(SD3.5).webp#Licensing",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Astronaut_Riding_a_Horse_Hiroshige_%28SD3.5%29.webp",
+        "publisher": "Wikimedia Commons（作者原作與生成說明）",
+        "credit": "VulcanSphere",
+        "checked": "2026-11-18",
+        "promptUrl": "https://commons.wikimedia.org/wiki/File:Astronaut_Riding_a_Horse_Hiroshige_(SD3.5).webp#Summary"
+      },
+      "license": {
+        "label": "CC0 1.0（上傳者提交）",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "image": {
+        "src": "assets/wc-vulcansphere-sd35-woodblock.webp",
+        "width": 1024,
+        "height": 1024,
+        "alt": "平塗版畫觀感的宇航員騎馬，在深藍星空與淺色地面之間。",
+        "modification": "採用該頁原 WebP，位元未改；標明 AI 生成，未轉載原詞。",
+        "sha256": "b9fb35c876d1b7ddcae3992b1341aa6301b024ea0bf7d3f2307bdd1d0180b8cd"
+      },
+      "displayKind": "creator-generated",
+      "family": {
+        "id": "prompt-led-image-synthesis",
+        "zh": "文字提示詞引導生成",
+        "en": "Prompt-led image synthesis",
+        "aliases": [
+          "文生圖",
+          "text-to-image",
+          "generative AI",
+          "prompt"
+        ],
+        "bucket": {
+          "id": "art-digital",
+          "zh": "數位製作與像素造型",
+          "en": "Digital production and pixel design",
+          "aliases": [
+            "game art",
+            "原型",
+            "視覺開發"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-jsbza-svg-opacity",
+      "library": "art",
+      "title": "讓超出畫框的 SVG 弧線變成色帶",
+      "titleEn": "Session1685341164 — generated SVG abstract",
+      "creator": "Jsbza",
+      "date": "2023-05-29",
+      "technique": "程序式 SVG・超框形狀與透明度蒙版",
+      "visual": "粗大的弧線切過右側，主色坡度由暗紅至暖橘。冷色帶與留空一起形成外緣；它不是一圈一圈完整居中的圓。",
+      "method": "創作者釋出此件的原 SVG。可直接在原檔核實 1920×1080 畫布、圓與橢圓超框、線性和輻射漸層，以及分別作用於局部形狀的形態侵蝕和亮度轉 Alpha 濾鏡。判斷依實際有綁定的濾鏡，不把所有定義都說成成圖效果。",
+      "why": "讓少量大幾何元素壓出畫框，再以透明度分離色帶。觀察同一 SVG 在預定渲染器和淺深兩種頁底如何顯示，而不是用大量細節填滿。",
+      "unknown": "未核實創作者用的生成器、種子及輸出版本。公開 SVG 是實際作品描述，不是完整生成程式；透明區與濾鏡支援可能因渲染器有差異。",
+      "prompt": "原創橫幅抽象向量圖，用兩組偏離中心、半徑大於畫布高度的橢圓裁入畫框。用淺褐到暗藍漸層、保留一條部分透明色帶，讓邊緣有寬窄節奏，不呈現同心靶心、文字或紋理雜訊。",
+      "promptEn": "Original wide vector abstract. Crop two off-center ellipses larger than the canvas height into the frame. Use a sand-to-midnight-blue gradient, a partly transparent band and varied border spacing. Avoid a concentric bullseye, text and heavy texture noise.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Session1685341164.svg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Session1685341164.svg#Licensing",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Session1685341164.svg",
+        "publisher": "Wikimedia Commons（作者原 SVG）",
+        "credit": "Jsbza",
+        "checked": "2026-11-18"
+      },
+      "license": {
+        "label": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "image": {
+        "src": "assets/wc-jsbza-svg-opacity.webp",
+        "width": 1280,
+        "height": 720,
+        "alt": "暖紅色大色面右側相交出灰綠與深青弧形色帶。",
+        "modification": "由作者原 SVG 以 librsvg 渲染，等比例輸出 1280×720 WebP，保留透明區。",
+        "sha256": "9aa1f3e4e96271d86d7abb64fea24a725218d31e9398707a8dbdef027a959142"
+      },
+      "family": {
+        "id": "rule-based-procedural-graphics",
+        "zh": "規則式圖形生成",
+        "en": "Rule-based procedural graphics",
+        "aliases": [
+          "算法圖形",
+          "程序式設計",
+          "procedural graphics",
+          "algorithmic art"
+        ],
+        "bucket": {
+          "id": "art-digital",
+          "zh": "數位製作與像素造型",
+          "en": "Digital production and pixel design",
+          "aliases": [
+            "game art",
+            "原型",
+            "視覺開發"
+          ]
+        }
+      }
+    },
+    {
+      "id": "met-bruff-hollowcut",
+      "library": "art",
+      "title": "W. Bruff｜Eliza McPherson 中空剪影",
+      "creator": "W. Bruff",
+      "date": "19 世紀",
+      "technique": "中空剪紙肖像・把輪廓挖空而不是貼上深色紙",
+      "familyId": "cut-paper-shape-construction",
+      "visual": "偏白紙面中的側臉顯出一整塊藍色，髮髻與額鼻靠邊線辨識；薄藍外框把頭像和底色聯在一起。",
+      "method": "館方媒材記為 hollow cut paper。作練習時，在一張淺色紙上剪出閉合人物形，再放在單色底紙之上，先用輪廓看識別度，再修髮絲轉折。別把這件的藍面描述為貼上的藍剪紙。",
+      "why": "穿透的空面和邊緣的色彩重複，讓小面積變得非常醒目，不需陰影或五官線。",
+      "unknown": "館方未記剪刀、刻刀或人的坐姿過程；此件側貌不作身份生成提示。",
+      "prompt": "原創中空剪紙：在天然白的纖維紙剪出一個戴圓帽的虛構人物側面，底下是低飽和松綠；只用輪廓轉角和窄底色框傳達神情，不仿歷史人物長相。",
+      "promptEn": "Original hollow-cut paper study: cut a fictional round-hatted profile out of lightly fibrous off-white paper and reveal muted spruce paper underneath; convey expression with edge turns and a narrow repeat of the backing color, no copied historical likeness.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.metmuseum.org/art/collection/search/825946",
+        "publisher": "The Metropolitan Museum of Art",
+        "credit": "The Metropolitan Museum of Art, The Glenn Tilley Morse Collection, Bequest of Glenn Tilley Morse, 1950 (50.602.251).",
+        "checked": "2026-11-18",
+        "imageUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/825946/1907691/main-image",
+        "rightsUrl": "https://www.metmuseum.org/hubs/open-access"
+      },
+      "license": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "image": {
+        "src": "assets/met-bruff-hollowcut.webp",
+        "width": 1069,
+        "height": 1200,
+        "alt": "偏白紙面中的側臉顯出一整塊藍色，髮髻與額鼻靠邊線辨識；薄藍外框把頭像和底色聯在一起。",
+        "modification": "館方來源圖，等比例處理及轉存 WebP，未裁切或調色。",
+        "sha256": "37e12160a1f62da547322dd9a88faaf023885b6ece091ced9bc9c90137553092"
+      },
+      "family": {
+        "id": "cut-paper-shape-construction",
+        "zh": "剪紙輪廓構成",
+        "en": "Cut-paper silhouette construction",
+        "aliases": [
+          "剪影",
+          "鏤空",
+          "papercut",
+          "hollow-cut",
+          "silhouette"
+        ],
+        "bucket": {
+          "id": "art-2d",
+          "zh": "平面原畫與字形",
+          "en": "Two-dimensional art and lettering",
+          "aliases": [
+            "畫稿",
+            "書法",
+            "illustration",
+            "painting",
+            "lettering"
+          ]
+        }
+      }
+    },
+    {
+      "id": "met-runge-papercut",
+      "library": "art",
+      "title": "Philipp Otto Runge｜紅醋栗剪影",
+      "creator": "Philipp Otto Runge",
+      "date": "18 世紀末至 19 世紀初",
+      "technique": "植物剪紙・以細枝連接多處小輪廓",
+      "familyId": "cut-paper-shape-construction",
+      "visual": "偏白的一株果枝立在灰藍地，細莖上接幾枝小圓果、下接兩組齒形葉；留背景往空處伸進，果串不成實團。",
+      "method": "館方記為剪影，且說明 Runge 自家人學剪紙。轉用至新植物時，可先設計一根連通的主莖，再以細小空隙分出果粒和葉齒，檢查薄紙能否維持連接。",
+      "why": "與以底色顯形的中空剪法共屬剪紙，但這案例的可轉用點是繁複圖樣仍要有穩定枝節及負空間。",
+      "unknown": "具體刀剪、紙纖維與裝裱材料未在使用的館方條目證實；不假定圖像中藍底是作者原底。",
+      "prompt": "原創淺米剪紙植物，細鬚連接錯開的小菱形果與鏤空的橢圓葉；冷灰藍底，輪廓清楚，注意每個主枝仍連到中心，使用全新植物形態。",
+      "promptEn": "New warm-white papercut botanical design with a thin continuous branch, staggered diamond-shaped berries and narrowly perforated oval leaves; blue-gray background and clear edge rhythm, with each major twig structurally connected.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.metmuseum.org/art/collection/search/392333",
+        "publisher": "The Metropolitan Museum of Art",
+        "credit": "The Metropolitan Museum of Art, Janet Lee Kadesky Ruttenberg Fund, in honor of Colta Ives, and Mary Martin Fund, 2010 (2010.74).",
+        "checked": "2026-11-18",
+        "imageUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/392333/766935/main-image",
+        "rightsUrl": "https://www.metmuseum.org/hubs/open-access"
+      },
+      "license": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "image": {
+        "src": "assets/met-runge-papercut.webp",
+        "width": 1019,
+        "height": 1200,
+        "alt": "偏白的一株果枝立在灰藍地，細莖上接幾枝小圓果、下接兩組齒形葉；留背景往空處伸進，果串不成實團。",
+        "modification": "館方來源圖，等比例處理及轉存 WebP，未裁切或調色。",
+        "sha256": "ae5e6f3d866365731e5230669cdfa4761ea45f0344070abf2226398df49813ba"
+      },
+      "family": {
+        "id": "cut-paper-shape-construction",
+        "zh": "剪紙輪廓構成",
+        "en": "Cut-paper silhouette construction",
+        "aliases": [
+          "剪影",
+          "鏤空",
+          "papercut",
+          "hollow-cut",
+          "silhouette"
+        ],
+        "bucket": {
+          "id": "art-2d",
+          "zh": "平面原畫與字形",
+          "en": "Two-dimensional art and lettering",
+          "aliases": [
+            "畫稿",
+            "書法",
+            "illustration",
+            "painting",
+            "lettering"
+          ]
+        }
+      }
+    },
+    {
+      "id": "met-kiitsu-silk",
+      "library": "art",
+      "title": "鈴木其一｜罌粟花",
+      "creator": "Suzuki Kiitsu 鈴木其一",
+      "date": "19 世紀中葉",
+      "technique": "絹本水墨設色・疏葉與高彩焦點",
+      "familyId": "waterborne-silk-painting",
+      "visual": "直幅淡米絹面上，花葉往下半集中，中上只有一朵紅花略高；另有白花、紅花和成團葉片，空白與細直莖增加距離。",
+      "method": "館方記絹本水墨設色立軸。練習可先用低彩度細莖定位，再將最飽和的單色花放到灰綠葉叢上方，左右保留大空區，而不是把絲綢當合成材質濾鏡。",
+      "why": "高彩點、低彩線和大塊空底的比例，比單純增加紅花數量更能讀出縱向動勢。",
+      "unknown": "館方沒有證明本件逐筆疊染、膠礬濃度或礦物配方；這是圖面分配分析，不聲稱作者筆序。",
+      "prompt": "原創絹本垂幅，偏淡暖灰的絲底，上半留大空，兩條淡墨細莖集中在畫面右段，一朵小橙色雛菊高於白花與霧綠葉叢；不複製參考花種、落款與造型。",
+      "promptEn": "Original vertical hanging-scroll composition on light warm-gray silk. Leave open space above two fine ink stems off-center; place a small orange daisy higher than pale flowers and misty leaves. No copied blooms, seals or shapes.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.metmuseum.org/art/collection/search/77202",
+        "publisher": "The Metropolitan Museum of Art",
+        "credit": "The Metropolitan Museum of Art, Fishbein-Bender Collection, Gift of T. Richard Fishbein and Estelle P. Bender, 2012 (2012.522.3).",
+        "checked": "2026-11-18",
+        "imageUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/77202/1298577/main-image",
+        "rightsUrl": "https://www.metmuseum.org/hubs/open-access"
+      },
+      "license": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "image": {
+        "src": "assets/met-kiitsu-silk.webp",
+        "width": 561,
+        "height": 1200,
+        "alt": "直幅淡米絹面上，花葉往下半集中，中上只有一朵紅花略高；另有白花、紅花和成團葉片，空白與細直莖增加距離。",
+        "modification": "館方來源圖，等比例處理及轉存 WebP，未裁切或調色。",
+        "sha256": "23e0f44f9334b1b2e4008bb2d75f7529155d1dbdf06ceab3d31a0234063b1475"
+      },
+      "family": {
+        "id": "waterborne-silk-painting",
+        "zh": "絹本水墨與設色",
+        "en": "Waterborne painting on silk",
+        "aliases": [
+          "絹本",
+          "立軸",
+          "ink on silk",
+          "hanging scroll"
+        ],
+        "bucket": {
+          "id": "art-2d",
+          "zh": "平面原畫與字形",
+          "en": "Two-dimensional art and lettering",
+          "aliases": [
+            "畫稿",
+            "書法",
+            "illustration",
+            "painting",
+            "lettering"
+          ]
+        }
+      }
+    },
+    {
+      "id": "met-tomotada-netsuke",
+      "library": "art",
+      "title": "友忠｜狼形根付",
+      "creator": "Tomotada 友忠",
+      "date": "18 世紀末至 19 世紀初",
+      "technique": "根付雕刻・將動態收進可抓握小體",
+      "familyId": "subtractive-object-carving",
+      "visual": "小狼曲背收腿，側面刻出一組整齊的深棕肋紋，背脊和頭凸面明亮；身體在灰背景裡仍清楚分出薄凹槽和厚後腿。",
+      "method": "館方著錄為友忠雕刻的象牙根付。練習可用合法植物性材料或木材做新物：先讓輪廓成可抓握的閉合輪廓，再用短線深淺區分脊背與毛感。",
+      "why": "轉成口袋大小的物件時，體積和接觸面先於刻滿毛紋；少量深槽足以從側燈讀出動勢。",
+      "unknown": "不能核實每處色差是材料老化、染色還是拍攝；歷史材料只作館藏紀錄，不作採購或仿材建議。",
+      "prompt": "原創小型黃楊木狐形掛件，尾收在圓弧身旁，淺短刻線集中肩背，坐姿穩定但略前傾；側光表現刀痕，不使用象牙，不複製館藏狼。",
+      "promptEn": "Original small boxwood fox-shaped toggle with tail tucked into a curved body, sparse carved shoulder lines and a stable forward-leaning posture. Side light reveals cut marks. Do not use ivory or reproduce the museum wolf.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.metmuseum.org/art/collection/search/59612",
+        "publisher": "The Metropolitan Museum of Art",
+        "credit": "The Metropolitan Museum of Art, H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929 (29.100.918).",
+        "checked": "2026-11-18",
+        "imageUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/59612/206331/main-image",
+        "rightsUrl": "https://www.metmuseum.org/hubs/open-access"
+      },
+      "license": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "image": {
+        "src": "assets/met-tomotada-netsuke.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "小狼曲背收腿，側面刻出一組整齊的深棕肋紋，背脊和頭凸面明亮；身體在灰背景裡仍清楚分出薄凹槽和厚後腿。",
+        "modification": "館方來源圖，等比例處理及轉存 WebP，未裁切或調色。",
+        "sha256": "502bdbaf892003b03fe36a1bb0dcbe0d30e5012932ebef56b52909ab17362852"
+      },
+      "family": {
+        "id": "subtractive-object-carving",
+        "zh": "小體量減材雕刻",
+        "en": "Subtractive small-object carving",
+        "aliases": [
+          "根付",
+          "刻線",
+          "netsuke",
+          "subtract",
+          "carving"
+        ],
+        "bucket": {
+          "id": "art-object",
+          "zh": "立體材料與工藝",
+          "en": "Objects and crafted materials",
+          "aliases": [
+            "材料",
+            "工藝",
+            "craft",
+            "object"
+          ]
+        }
+      }
+    },
+    {
+      "id": "met-chen-jinhou-yixing",
+      "library": "art",
+      "title": "陳覲侯｜仿古青銅觚的紫砂器",
+      "creator": "Chen Jinhou 陳覲侯",
+      "date": "18 世紀",
+      "technique": "宜興紫砂浮雕・用陶器輪廓轉譯青銅器",
+      "familyId": "fired-clay-forming",
+      "visual": "整件為褐色，寬淺器口與收腰呈強烈反差；中段四周見垂直突起和低浮雕，彼此在右側光下分出明暗。",
+      "method": "館方確認為陳覲侯簽名的宜興浮雕炻器，外形和裝飾借鑑商代青銅禮器。練習用新陶樣重譯一個異材輪廓：控制口寬腰細，再試三種浮飾高度。",
+      "why": "低反差單色材料先靠輪廓站穩，再讓淺浮飾有側光可讀；單純貼金屬紋理會失去同一泥材的連貫感。",
+      "unknown": "未確認本件成形方式、用何泥配方、浮飾是直接刻壓還是貼塑及其燒溫。",
+      "prompt": "原創溫褐色炻器，寬面淺口、細柱腰、舒展底座，三道抽象直向低浮雕，柔側光使泥質陰面可讀；不重製歷史禮器紋樣，避免金屬反光。",
+      "promptEn": "Original warm dark-brown stoneware with a wide shallow mouth, thin waist and flaring foot, three abstract low vertical relief ridges and soft raking light to show clay shadows; no copied ritual motifs or metallic reflections.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.metmuseum.org/art/collection/search/42324",
+        "publisher": "The Metropolitan Museum of Art",
+        "credit": "The Metropolitan Museum of Art, Gift of Michael Abraham, 1984 (1984.472).",
+        "checked": "2026-11-18",
+        "imageUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/42324/1348566/main-image",
+        "rightsUrl": "https://www.metmuseum.org/hubs/open-access"
+      },
+      "license": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "image": {
+        "src": "assets/met-chen-jinhou-yixing.webp",
+        "width": 900,
+        "height": 1200,
+        "alt": "整件為褐色，寬淺器口與收腰呈強烈反差；中段四周見垂直突起和低浮雕，彼此在右側光下分出明暗。",
+        "modification": "館方來源圖，等比例處理及轉存 WebP，未裁切或調色。",
+        "sha256": "3703290e112970dae1928a955d654b046212c58f867b231ea61788f193bbaf70"
+      },
+      "family": {
+        "id": "fired-clay-forming",
+        "zh": "陶土造型與燒成",
+        "en": "Clay forming and firing",
+        "aliases": [
+          "土陶",
+          "釉面",
+          "earthenware",
+          "ceramic"
+        ],
+        "bucket": {
+          "id": "art-object",
+          "zh": "立體材料與工藝",
+          "en": "Objects and crafted materials",
+          "aliases": [
+            "材料",
+            "工藝",
+            "craft",
+            "object"
+          ]
+        }
+      }
+    },
+    {
+      "id": "met-dong-qichang-ruled-ink",
+      "library": "art",
+      "title": "董其昌｜行草致陳繼儒書",
+      "creator": "Dong Qichang 董其昌",
+      "date": "明代",
+      "technique": "紙本行草・在細欄線內改變筆畫疏密",
+      "familyId": "east-asian-brush-calligraphy",
+      "visual": "方冊頁上黑墨豎欄，由粗筆字、細連筆及長短列組成，底紙仍可見細欄線。下部幾方紅印不和文字並搶。",
+      "method": "館方確認為墨書界格紙冊頁，條目題名明列行草。練習用淺直線限定方向，不強制每字等距；先比較整列視覺重量，再分配幾處快慢和較長留空。",
+      "why": "界線保持多欄整體節奏，筆畫本身仍可變寬窄，既有秩序也不成通用字體。",
+      "unknown": "未找到本件原筆尺寸、筆鋒材質或撰寫次序。姓氏落款、真印與書信內容留在原件，不拿來生成。",
+      "prompt": "原創毛筆書寫練習紙，米白方形冊頁有七條極淺直向導線，墨線有乾濕、兩列留出長空檔；文字區使用自創抽象筆畫，不臨寫真書信、署名或印章。",
+      "promptEn": "Original paper study with seven faint vertical guides on a warm-white leaf, alternating dry and wet ink strokes and long pauses in two columns. Use invented abstract strokes only; no real letter, signature or seal.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.metmuseum.org/art/collection/search/48956",
+        "publisher": "The Metropolitan Museum of Art",
+        "credit": "The Metropolitan Museum of Art, Bequest of John M. Crawford Jr., 1988 (1989.363.96).",
+        "checked": "2026-11-18",
+        "imageUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/48956/150588/main-image",
+        "rightsUrl": "https://www.metmuseum.org/hubs/open-access"
+      },
+      "license": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "image": {
+        "src": "assets/met-dong-qichang-ruled-ink.webp",
+        "width": 1200,
+        "height": 1189,
+        "alt": "方冊頁上黑墨豎欄，由粗筆字、細連筆及長短列組成，底紙仍可見細欄線。下部幾方紅印不和文字並搶。",
+        "modification": "館方來源圖，等比例處理及轉存 WebP，未裁切或調色。",
+        "sha256": "e1364b1c0b19599ef2f150a806b181d965a3d4155f4195126f90d3aa8f133c63"
+      },
+      "family": {
+        "id": "east-asian-brush-calligraphy",
+        "zh": "毛筆書法與行款",
+        "en": "East Asian brush calligraphy",
+        "aliases": [
+          "行草",
+          "行款",
+          "brush calligraphy",
+          "ruled paper"
+        ],
+        "bucket": {
+          "id": "art-2d",
+          "zh": "平面原畫與字形",
+          "en": "Two-dimensional art and lettering",
+          "aliases": [
+            "畫稿",
+            "書法",
+            "illustration",
+            "painting",
+            "lettering"
+          ]
+        }
+      }
+    },
+    {
+      "id": "met-hamdullah-marbling",
+      "library": "art",
+      "title": "謝赫・哈姆杜拉｜書法冊的浮紋紙邊",
+      "creator": "Shaikh Hamdullah ibn Mustafa Dede（書法）",
+      "date": "約 1500 年（館方書法冊紀年）",
+      "technique": "浮色紙紋裝裱・將流動紋理留在文字區外",
+      "familyId": "floating-pigment-paper-marbling",
+      "visual": "兩頁都用穩定細框夾住橫向黑墨段落；框外有粉、棕與藍綠的彎曲紋帶。底頁的紋理比上頁細密，框內保存較平靜的底。",
+      "method": "館方記邊緣為墨、水彩、金與浮紋紙；館方的紙紋技法解析展示在液面構圖再將花紋移到紙上的原理。練習把流紋紙用於外圍，先以固定窄框隔離閱讀區，再控制紋理與字的對比。",
+      "why": "以窄直線緩衝不規則水紋，遠看可讀文字結構，近看可以看出紙邊細度。",
+      "unknown": "只確認哈姆杜拉書法，邊紙作者及製作時間、原料與染池操作未確認；不用神聖經文和原樣裝飾做生成。",
+      "prompt": "原創雙頁藝術紙裝裱，淡靛與赭粉的水浮細紋留在外框，中間是素紙與自畫抽象樂譜；用乾淨窄框隔開，無真實文字或宗教原圖。",
+      "promptEn": "Original two-page album mounting study with fine marbled pale indigo and dusty ochre confined to the borders; a narrow clean rule separates a plain center with invented abstract notation. No sacred text or copied manuscript.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.metmuseum.org/art/collection/search/453166",
+        "publisher": "The Metropolitan Museum of Art",
+        "credit": "The Metropolitan Museum of Art, Purchase, Edwin Binney 3rd and Edward Ablat Gifts, 1982 (1982.120.3).",
+        "checked": "2026-11-18",
+        "imageUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/453166/903087/main-image",
+        "rightsUrl": "https://www.metmuseum.org/hubs/open-access"
+      },
+      "license": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": "作品頁署名 Hamdullah 為書法家，非大理石紋紙作者；以完整冊頁呈現背景工藝，不另抽取紋紙。"
+      },
+      "image": {
+        "src": "assets/met-hamdullah-marbling.webp",
+        "width": 850,
+        "height": 1200,
+        "alt": "兩頁都用穩定細框夾住橫向黑墨段落；框外有粉、棕與藍綠的彎曲紋帶。底頁的紋理比上頁細密，框內保存較平靜的底。",
+        "modification": "館方來源圖，等比例處理及轉存 WebP，未裁切或調色。",
+        "sha256": "28a45974cf5b76dd9edae240ba1ba2fa3ff210ab0041fe1ce73b13e294e76b2f"
+      },
+      "family": {
+        "id": "floating-pigment-paper-marbling",
+        "zh": "浮色紙紋轉印",
+        "en": "Floating pigment paper marbling",
+        "aliases": [
+          "浮水轉印",
+          "ebru",
+          "aqueous marbling",
+          "marbled paper"
+        ],
+        "bucket": {
+          "id": "art-print",
+          "zh": "版畫與圖案製作",
+          "en": "Printmaking and pattern construction",
+          "aliases": [
+            "印製",
+            "版式",
+            "press",
+            "pattern"
+          ]
+        }
+      }
+    },
+    {
+      "id": "met-roentgen-marquetry",
+      "library": "art",
+      "title": "David Roentgen｜卷頂書桌鑲木細部",
+      "creator": "David Roentgen",
+      "date": "1776–78 年",
+      "technique": "木皮拼鑲木畫・用自然木色疊出明暗",
+      "familyId": "cut-wood-marquetry",
+      "visual": "家具正面細部裡，木色深淺拼出畫面中央的人物和布形，左右的直柱和凸出的上沿是家具結構；畫面底色仍能看見木紋。",
+      "method": "館方記錄書桌場景用小塊有天然色差的木材鑲嵌、並有部分染色木。練習先用三階木色做剪影，再按塊面方向選擇木紋，避免把拼面畫成油彩暈染。；此鑲嵌圖案依 Januarius Zick 設計。",
+      "why": "不同木紋成色同時提供明暗和方向；小幅裡仍能看清楚人物形，因為輪廓先靠塊面形成。",
+      "unknown": "未從館方條目確認此片每一木種和粘結層，不把家具整體材料表指定為圖中每一色塊。",
+      "prompt": "原創近攝木皮鑲嵌，家具門板內是新設計的兩株海草和一條小艇，用原木蜜色、赭棕、深棕三階木片和變化紋向成形，精密接縫，無人物與歷史圖案。",
+      "promptEn": "Original close-up of a veneered furniture panel with two invented fronds and a small boat, built from honey, ochre and dark-brown wood segments with deliberate grain direction and clean seams; no copied people or historic motifs.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.metmuseum.org/art/collection/search/198715",
+        "publisher": "The Metropolitan Museum of Art",
+        "credit": "The Metropolitan Museum of Art, Rogers Fund, 1941 (41.82).",
+        "checked": "2026-11-18",
+        "imageUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/198715/460317/main-image",
+        "rightsUrl": "https://www.metmuseum.org/hubs/open-access"
+      },
+      "license": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "image": {
+        "src": "assets/met-roentgen-marquetry.webp",
+        "width": 1200,
+        "height": 1178,
+        "alt": "家具正面細部裡，木色深淺拼出畫面中央的人物和布形，左右的直柱和凸出的上沿是家具結構；畫面底色仍能看見木紋。",
+        "modification": "館方來源圖，等比例處理及轉存 WebP，未裁切或調色。",
+        "sha256": "3f62d3cf015831f2c86edf796755327df42ddb286451e971bc6c7c91cece9571"
+      },
+      "family": {
+        "id": "cut-wood-marquetry",
+        "zh": "木片鑲嵌拼畫",
+        "en": "Cut-wood marquetry",
+        "aliases": [
+          "木皮",
+          "鑲木",
+          "marquetry",
+          "veneer"
+        ],
+        "bucket": {
+          "id": "art-object",
+          "zh": "立體材料與工藝",
+          "en": "Objects and crafted materials",
+          "aliases": [
+            "材料",
+            "工藝",
+            "craft",
+            "object"
+          ]
+        }
+      }
+    },
+    {
+      "id": "met-warshat-sitara",
+      "library": "art",
+      "title": "開羅 Warshat al-Khurunfish 工坊｜Sitara 金銀線刺繡",
+      "creator": "Warshat al-Khurunfish 工坊",
+      "date": "1897–98 年",
+      "technique": "銀線與鎏金銀線刺繡・重線和主面分層",
+      "familyId": "metal-thread-embroidery",
+      "visual": "圖中深布上有數組暖金和偏紅的長面，外圍以小圓章及細線重複；金屬線形成大而亮的區域，比間隙花紋更醒目。",
+      "method": "館方記錄開羅工坊以粗銀線及鎏金銀線繡在絲上並加入色絲板；以對比新樣理解粗金屬線留給主形、細線留給邊框的層級，不照搬聖所物件。",
+      "why": "金屬線反光將主要區域從深絲地分離；同色的圍邊小形重複，讓主圖不孤立。",
+      "unknown": "此照片按館方原視角橫放，門簾的使用方向不是橫掛。未從單張圖推定每組針法，保留此件宗教與歷史背景。",
+      "prompt": "原創深靛絲布小樣，三個新設計的長方輪廓以霧銀線蓋繡，兩側用稀疏圓點收邊，少量磚紅絲塊；無阿拉伯文字、無宗教符號、無館藏排版。",
+      "promptEn": "Original dark indigo silk swatch: three invented rectilinear panels in muted silver embroidery, sparse small round details along the sides and restrained brick-red silk panels. No Arabic lettering, sacred symbols or copied layout.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.metmuseum.org/art/collection/search/456947",
+        "publisher": "The Metropolitan Museum of Art",
+        "credit": "The Metropolitan Museum of Art, Gift of Professor Maan Z. Madina, in memory of his mother, Najiyya Khanum al-Kurdi, 2009 (2009.59.1).",
+        "checked": "2026-11-18",
+        "imageUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/456947/1352378/main-image",
+        "rightsUrl": "https://www.metmuseum.org/hubs/open-access"
+      },
+      "license": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "image": {
+        "src": "assets/met-warshat-sitara.webp",
+        "width": 1200,
+        "height": 605,
+        "alt": "圖中深布上有數組暖金和偏紅的長面，外圍以小圓章及細線重複；金屬線形成大而亮的區域，比間隙花紋更醒目。",
+        "modification": "館方來源圖，等比例處理及轉存 WebP，未裁切或調色。",
+        "sha256": "08c39af82cb9c384a36a947cafaac542c2a2f01ce5a6320cf956a435df5f02a7"
+      },
+      "family": {
+        "id": "metal-thread-embroidery",
+        "zh": "金屬線刺繡與貼布",
+        "en": "Metal-thread embroidery and appliqué",
+        "aliases": [
+          "金線",
+          "繡",
+          "銀線",
+          "embroidery",
+          "couching"
+        ],
+        "bucket": {
+          "id": "art-object",
+          "zh": "立體材料與工藝",
+          "en": "Objects and crafted materials",
+          "aliases": [
+            "材料",
+            "工藝",
+            "craft",
+            "object"
+          ]
+        }
+      }
     }
   ]
 }

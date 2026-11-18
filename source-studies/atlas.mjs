@@ -34,6 +34,7 @@ function detail(c,opener){
  title.append(el('p',[c.creator,c.date,langLabel[c.library],text(c.technique)].filter(Boolean).join(' · '),'detail-meta'));
  if(c.family?.zh)title.append(el('p','技法家族：'+c.family.zh,'detail-meta'));
  if(c.displayKind==='technique')title.append(el('p','技法示範／對照圖','technique-label'));
+ if(c.displayKind==='creator-generated')title.append(el('p','創作者公開生成案例','technique-label'));
  const close=button('×',()=>d.close(),'close');close.dataset.close='';close.setAttribute('aria-label','關閉案例詳情');
  head.append(title,close);
  const zoom=el('div',null,'zoom'), img=photo(c);
@@ -60,6 +61,7 @@ function detail(c,opener){
   const n=el('section');n.append(el('h3',label),el('p',text(value)||'來源未載明。'));analysis.append(n)
  }
  const promptBox=el('section',null,'prompt-box');promptBox.append(el('h3','練習提示詞'),el('p','本庫依作品編輯的原創練習，不是原作者提示詞。'));
+ if(external(c.source.promptUrl))promptBox.append(link('到原站看作者提示詞 ↗',c.source.promptUrl));
  const prompt=el('pre'),langs=el('div',null,'lang'),copied=el('span',null,'status');copied.setAttribute('role','status');
  const switchLang=key=>{
   prompt.textContent=(key==='en'?c.promptEn:c.prompt)||'此語言未收錄。';prompt.lang=key==='en'?'en':'zh-Hant';
@@ -87,6 +89,7 @@ function showCase(c){
  upper.append(el('span',text(c.technique)),el('span',c.serial,'num'));
  captions.append(upper,el('strong',c.title),el('span',c.creator+' · '+c.date,'card-credit'));
  if(c.displayKind==='technique')captions.append(el('span','技法示範／對照圖','technique-label'));
+ if(c.displayKind==='creator-generated')captions.append(el('span','創作者公開生成案例','technique-label'));
  if(c.source.credit&&c.source.credit!==c.creator)captions.append(el('span',c.source.credit,'card-credit'));
  control.append(photo(c,true),captions);card.append(control);
  if(external(c.source.creditUrl)){const credit=link(c.source.credit||c.creator,c.source.creditUrl);credit.className='linked-credit';card.append(credit);}
