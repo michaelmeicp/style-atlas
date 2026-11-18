@@ -36,286 +36,6 @@
       }
     },
     {
-      "id": "met-39799",
-      "library": "art",
-      "title": "Under the Wave off Kanagawa｜神奈川沖浪裏",
-      "creator": "Katsushika Hokusai",
-      "date": "約 1830–1832",
-      "technique": "浮世繪・套色木版",
-      "visual": "大浪的曲線像前景畫框，小富士山退進空隙，白色浪沫由密到疏。",
-      "method": "這是紙上以墨和顏色印刷的木版畫。轉用技法時，先做黑色輪廓分版，再限少量互相可辨的色版，以紙色留出浪沫。",
-      "why": "前景放大、遠處縮小的尺度跳變，比單獨描一個海浪更能製造張力。",
-      "unknown": "原作者沒有公開提示詞；工具、作業細節以館方紀錄為限。",
-      "prompt": "浮世繪套色木版印刷感，虛構礁岸與漁火，以遠近懸殊和前景拱形岩石成景框；三層靛藍與暖灰，硬邊輪廓，留紙白表現海霧，無文字。",
-      "promptEn": "Multi-block woodcut look of an invented rocky coast and distant fishing lights; a huge foreground rock arch frames the tiny horizon, three indigo-to-warm-gray color plates, hard edges, paper white reserved for sea fog, no text.",
-      "promptKind": "curator-derived",
-      "source": {
-        "url": "https://www.metmuseum.org/art/collection/search/39799",
-        "imageUrl": "https://images.metmuseum.org/CRDImages/as/web-large/DP141042.jpg",
-        "publisher": "The Metropolitan Museum of Art",
-        "credit": "Katsushika Hokusai；The Metropolitan Museum of Art，作品編號 39799",
-        "checked": "2026-11-18",
-        "rightsUrl": "https://www.metmuseum.org/hubs/open-access"
-      },
-      "license": {
-        "label": "Met Open Access・CC0",
-        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
-      },
-      "image": {
-        "src": "assets/met-39799.webp",
-        "alt": "Under the Wave off Kanagawa｜神奈川沖浪裏，Katsushika Hokusai",
-        "modification": "完整畫面等比例縮小、轉為 WebP；未裁切或調色。",
-        "width": 600,
-        "height": 410,
-        "sha256": "86e2f21c23c54747a5c866f7209cda526e83933a2dd02315c91a02695ad0b057"
-      }
-    },
-    {
-      "id": "met-12460",
-      "library": "art",
-      "title": "Venice｜威尼斯",
-      "creator": "John Singer Sargent",
-      "date": "約 1903",
-      "technique": "水彩・水粉・黃昏空氣感",
-      "visual": "傍晚的建築邊界融入水色，實體細節讓位給遠近的明暗。",
-      "method": "館方說明以寬幅、流動色層暗示暮光。新畫面先鋪濕底，把遠景邊界逐步消掉，最後以少量水粉提亮臨水最亮的點。",
-      "why": "軟邊代表空氣與距離，不用用同樣深線勾滿遠近。",
-      "unknown": "原作者沒有公開提示詞；工具、作業細節以館方紀錄為限。",
-      "prompt": "黃昏碼頭水彩，先用濕紙薄灰藍鋪水與霧，建築輪廓在遠端溶散，前景少量石墨定位；不透明水粉只點亮岸邊微光，保留紙白。",
-      "promptEn": "Twilight harbor in watercolor and gouache on wove paper, flooded gray-blue water and mist, distant building edges dissolve, sparse near-field graphite marks, tiny opaque gouache lights and reserved paper whites.",
-      "promptKind": "curator-derived",
-      "source": {
-        "url": "https://www.metmuseum.org/art/collection/search/12460",
-        "imageUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/12460/39263/main-image",
-        "publisher": "The Metropolitan Museum of Art",
-        "credit": "John Singer Sargent；The Metropolitan Museum of Art，作品編號 12460",
-        "checked": "2026-11-18",
-        "rightsUrl": "https://www.metmuseum.org/hubs/open-access"
-      },
-      "license": {
-        "label": "Met Open Access・CC0",
-        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
-      },
-      "image": {
-        "src": "assets/met-12460.webp",
-        "alt": "Venice｜威尼斯，John Singer Sargent",
-        "modification": "完整畫面等比例縮小、轉為 WebP；未裁切或調色。",
-        "width": 1200,
-        "height": 864,
-        "sha256": "616d189d9d76a9763a415190c76562881815240327bf2f5470aa9b831bef3864"
-      }
-    },
-    {
-      "id": "met-436132",
-      "library": "art",
-      "title": "The Dance Lesson｜舞蹈課",
-      "creator": "Edgar Degas",
-      "date": "約 1879",
-      "technique": "粉彩與黑色粉筆",
-      "visual": "右下小提琴手以深色外套和棕色琴身搶到前景；左側舞者的白裙及背後的空牆把視線拉回中景。",
-      "method": "館方指出用粉彩和黑粉筆畫在拼合紙張上。先以黑粉筆確定關節和透視，再疊薄層乾粉，留部分紙紋和底層結構。",
-      "why": "小提琴手切進右下角，白裙和深衣反差拉開前後；粉彩薄層仍讓動作保持即興感。",
-      "unknown": "原作者沒有公開提示詞；工具、作業細節以館方紀錄為限。",
-      "prompt": "乾粉彩與黑粉筆畫排練室，人物偏右並裁掉最靠邊的手肘，左側保留淺暖地板空間；薄層粉彩顆粒、可見紙紋，重點才用暗線。",
-      "promptEn": "Dry pastel and black chalk in an invented rehearsal room; the group sits off to the right and the near elbow falls outside the crop, muted warm floor left open, granular light pastel layers with paper tooth and selective dark accents.",
-      "promptKind": "curator-derived",
-      "source": {
-        "url": "https://www.metmuseum.org/art/collection/search/436132",
-        "imageUrl": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1883.jpg",
-        "publisher": "The Metropolitan Museum of Art",
-        "credit": "Edgar Degas；The Metropolitan Museum of Art，作品編號 436132",
-        "checked": "2026-11-18",
-        "rightsUrl": "https://www.metmuseum.org/hubs/open-access"
-      },
-      "license": {
-        "label": "Met Open Access・CC0",
-        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
-      },
-      "image": {
-        "src": "assets/met-436132.webp",
-        "alt": "The Dance Lesson｜舞蹈課，Edgar Degas",
-        "modification": "完整畫面等比例縮小、轉為 WebP；未裁切或調色。",
-        "width": 551,
-        "height": 625,
-        "sha256": "ddc4d69052d10163824e4f87bd05a1b499256469c17b630f6ccd2c997c636892"
-      }
-    },
-    {
-      "id": "met-391886",
-      "library": "art",
-      "title": "Jan Six",
-      "creator": "Rembrandt van Rijn",
-      "date": "1647",
-      "technique": "蝕刻・雕刻・乾刻",
-      "visual": "窄窗的亮部和室內壓暗區域形成一眼可辨的光源方向，細線描出人物和衣褶。",
-      "method": "館方登記蝕刻、雕刻與乾刻，這是第五版狀態。練習時先留亮紙，用細線定位衣褶，靠暗部再加交叉線與帶毛邊的乾刻質感。",
-      "why": "暗區大量交叉線仍留得住亮面，能保住閱讀輪廓和光源敘事。",
-      "unknown": "原作者沒有公開提示詞；工具、作業細節以館方紀錄為限。",
-      "prompt": "黑墨凹版畫，一位虛構檔案員靠高窗整理薄紙；逆光窄亮面，室內以密疏變化的交叉排線收暗，衣袖用少量具毛邊乾刻線。",
-      "promptEn": "Black-ink intaglio print of an invented archivist sorting sheets next to a tall window, slim backlit paper whites, variable crosshatching in the room, a few soft drypoint burr lines in the sleeves.",
-      "promptKind": "curator-derived",
-      "source": {
-        "url": "https://www.metmuseum.org/art/collection/search/391886",
-        "imageUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/391886/764776/main-image",
-        "publisher": "The Metropolitan Museum of Art",
-        "credit": "Rembrandt van Rijn；The Metropolitan Museum of Art，作品編號 391886",
-        "checked": "2026-11-18",
-        "rightsUrl": "https://www.metmuseum.org/hubs/open-access"
-      },
-      "license": {
-        "label": "Met Open Access・CC0",
-        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
-      },
-      "image": {
-        "src": "assets/met-391886.webp",
-        "alt": "Jan Six，Rembrandt van Rijn",
-        "modification": "完整畫面等比例縮小、轉為 WebP；未裁切或調色。",
-        "width": 956,
-        "height": 1200,
-        "sha256": "2f5bf22fb1e4af684e4d5d536af15212e62bd57e8fbf528589b96aebbf2d3113"
-      }
-    },
-    {
-      "id": "met-333986",
-      "library": "art",
-      "title": "May Milton",
-      "creator": "Henri de Toulouse-Lautrec",
-      "date": "1895",
-      "technique": "五色石版海報",
-      "visual": "館方這張圖像顯示近單色調；深底托出淺色裙身，傾斜的字形和截在邊緣的裙擺帶出動感。",
-      "method": "館方記載用五色石版印刷。先設三至五個單色塊決定明度，讓一兩個重點保留較細線條；空間若要排字，先保留而不生成文字。",
-      "why": "遠看仍先認到剪影，證明構圖不依賴原版色彩；不能從這張近單色影像還原五色分版。",
-      "unknown": "原作者沒有公開提示詞；工具、作業細節以館方紀錄為限。",
-      "prompt": "五色石版風格劇場剪影海報，虛構舞者靠近邊緣，電光藍大色面、暖米白服裝與一點紅；硬邊輪廓、局部印刷顆粒，文字區保留空白。",
-      "promptEn": "Five-color lithographic theater poster of an invented dancer close to the edge, large electric-blue plane, warm cream clothing and one vermilion accent, hard silhouette with local print grain, reserve blank room for typography.",
-      "promptKind": "curator-derived",
-      "source": {
-        "url": "https://www.metmuseum.org/art/collection/search/333986",
-        "imageUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/333986/1360686/main-image",
-        "publisher": "The Metropolitan Museum of Art",
-        "credit": "Henri de Toulouse-Lautrec；The Metropolitan Museum of Art，作品編號 333986",
-        "checked": "2026-11-18",
-        "rightsUrl": "https://www.metmuseum.org/hubs/open-access"
-      },
-      "license": {
-        "label": "Met Open Access・CC0",
-        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
-      },
-      "image": {
-        "src": "assets/met-333986.webp",
-        "alt": "May Milton，Henri de Toulouse-Lautrec",
-        "modification": "完整畫面等比例縮小、轉為 WebP；未裁切或調色。",
-        "width": 942,
-        "height": 1200,
-        "sha256": "a384789c9c96052cd6cfe133c03374aa521440a914d5b999e648b7deb1c6a001"
-      }
-    },
-    {
-      "id": "met-11120",
-      "library": "art",
-      "title": "Fishing Boats, Key West｜基韋斯特漁船",
-      "creator": "Winslow Homer",
-      "date": "1903",
-      "technique": "透明水彩與石墨",
-      "visual": "帆和船身的亮色留紙；清澈的水面以寬幅淡色承接少量暗筆。",
-      "method": "館方標明在米白色編織紙上用水彩和石墨；新畫先留白後鋪色，靠近船身的接觸暗線才加重。",
-      "why": "留白是畫面的一部分，不是統一加上的亮光特效；它讓海風與潮濕光線可見。",
-      "unknown": "原作者沒有公開提示詞；工具、作業細節以館方紀錄為限。",
-      "prompt": "透明水彩畫虛構清晨溪口的停泊木艇，留米白紙作亮處；以薄薄的淡青水平濕筆鋪水，船底加一筆石墨暗線，天空保留大塊空氣。",
-      "promptEn": "Transparent watercolor on warm-white wove paper, small invented moored boats at a creek mouth, reserved paper highlights, thin horizontal pale turquoise wash, one graphite contact shadow and generous open sky.",
-      "promptKind": "curator-derived",
-      "source": {
-        "url": "https://www.metmuseum.org/art/collection/search/11120",
-        "imageUrl": "https://images.metmuseum.org/CRDImages/ad/web-large/DP119111.jpg",
-        "publisher": "The Metropolitan Museum of Art",
-        "credit": "Winslow Homer；The Metropolitan Museum of Art，作品編號 11120",
-        "checked": "2026-11-18",
-        "rightsUrl": "https://www.metmuseum.org/hubs/open-access"
-      },
-      "license": {
-        "label": "Met Open Access・CC0",
-        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
-      },
-      "image": {
-        "src": "assets/met-11120.webp",
-        "alt": "Fishing Boats, Key West｜基韋斯特漁船，Winslow Homer",
-        "modification": "完整畫面等比例縮小、轉為 WebP；未裁切或調色。",
-        "width": 599,
-        "height": 385,
-        "sha256": "078b4d12de585ea93b8055eb494d08981cebacac461a51298639f07954ae48ed"
-      }
-    },
-    {
-      "id": "met-40021",
-      "library": "art",
-      "title": "Snow Clearing: Landscape after Li Cheng｜王翬雪霽山水",
-      "creator": "王翬 Wang Hui",
-      "date": "1669",
-      "technique": "紙本設色水墨・立軸",
-      "visual": "山石和樹的近景可見密集筆勢，遠山與空白形成縱深，畫幅用垂直方式引導視線。",
-      "method": "館方列紙本水墨設色立軸，並標示王翬參照李成傳統。造新景時讓墨色前濃後淡，在雪與水霧間留紙白。",
-      "why": "筆墨濃淡、留白和山體的重疊就能建立深度，不需要強透視網格。",
-      "unknown": "原作者沒有公開提示詞；工具、作業細節以館方紀錄為限。",
-      "prompt": "直幅紙本水墨設色，虛構雪霽山谷，密筆樹木靠下，遠山淡墨分層，霧與薄雪以留白相連，少量赭色只落在近岩。",
-      "promptEn": "Tall Chinese ink-and-color paper landscape of an invented valley after snow; dense brush trees below, layered pale mountains beyond, unpainted snow and mist meet, muted ochre restricted to near rocks.",
-      "promptKind": "curator-derived",
-      "source": {
-        "url": "https://www.metmuseum.org/art/collection/search/40021",
-        "imageUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/40021/2280596/main-image",
-        "publisher": "The Metropolitan Museum of Art",
-        "credit": "王翬 Wang Hui；The Metropolitan Museum of Art，作品編號 40021",
-        "checked": "2026-11-18",
-        "rightsUrl": "https://www.metmuseum.org/hubs/open-access"
-      },
-      "license": {
-        "label": "Met Open Access・CC0",
-        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
-      },
-      "image": {
-        "src": "assets/met-40021.webp",
-        "alt": "Snow Clearing: Landscape after Li Cheng｜王翬雪霽山水，王翬 Wang Hui",
-        "modification": "完整畫面等比例縮小、轉為 WebP；未裁切或調色。",
-        "width": 581,
-        "height": 1200,
-        "sha256": "fc641209b19b7513518ad36014a095e5a32e92e77159a911d5a26cb53f04876f"
-      }
-    },
-    {
-      "id": "met-337071",
-      "library": "art",
-      "title": "Pink and Rose",
-      "creator": "William Morris",
-      "date": "約 1890",
-      "technique": "工藝美術・版印壁紙",
-      "visual": "花莖穿插成無限延展的圖案，方向的往返消除方格感，覆蓋節奏均勻。",
-      "method": "館方標載以膠粉色料版印。新作先設可無縫的重複單元，在四邊對齊主幹，再填不同方向的小葉以平衡間距。",
-      "why": "邊界有交叉延續，而非每格都框住一朵花，因此重複不會變成顯眼棋盤。",
-      "unknown": "原作者沒有公開提示詞；工具、作業細節以館方紀錄為限。",
-      "prompt": "工藝美術版印壁紙，原創石斛蘭與蕨葉，連續伸展莖在四邊無縫銜接，暖灰綠、赭土與淺粉平塗，局部露紙，不重畫任何既有壁紙。",
-      "promptEn": "Arts-and-Crafts block-printed wallpaper of original orchids and ferns, continuous branching stems tile seamlessly on all sides, flat sage, ochre, dusty pink and small exposed-paper gaps; do not reproduce an existing textile.",
-      "promptKind": "curator-derived",
-      "source": {
-        "url": "https://www.metmuseum.org/art/collection/search/337071",
-        "imageUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/337071/725521/main-image",
-        "publisher": "The Metropolitan Museum of Art",
-        "credit": "William Morris；The Metropolitan Museum of Art，作品編號 337071",
-        "checked": "2026-11-18",
-        "rightsUrl": "https://www.metmuseum.org/hubs/open-access"
-      },
-      "license": {
-        "label": "Met Open Access・CC0",
-        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
-      },
-      "image": {
-        "src": "assets/met-337071.webp",
-        "alt": "Pink and Rose，William Morris",
-        "modification": "完整畫面等比例縮小、轉為 WebP；未裁切或調色。",
-        "width": 885,
-        "height": 1096,
-        "sha256": "6ac5b1edd7315169afdc72d4c18e6f21d4bc51ef4653a0f5f4a7bb9a7630302a"
-      }
-    },
-    {
       "id": "met-291605",
       "library": "photo",
       "title": "Jania rubens｜紅藻藍曬",
@@ -348,6 +68,41 @@
         "width": 1013,
         "height": 1200,
         "sha256": "b23bbcf0b7cd2eda65536b1422400cd239e03d5a5e4cf55c1d113b7abecd27a2"
+      }
+    },
+    {
+      "id": "met-39799",
+      "library": "art",
+      "title": "Under the Wave off Kanagawa｜神奈川沖浪裏",
+      "creator": "Katsushika Hokusai",
+      "date": "約 1830–1832",
+      "technique": "浮世繪・套色木版",
+      "visual": "大浪的曲線像前景畫框，小富士山退進空隙，白色浪沫由密到疏。",
+      "method": "這是紙上以墨和顏色印刷的木版畫。轉用技法時，先做黑色輪廓分版，再限少量互相可辨的色版，以紙色留出浪沫。",
+      "why": "前景放大、遠處縮小的尺度跳變，比單獨描一個海浪更能製造張力。",
+      "unknown": "原作者沒有公開提示詞；工具、作業細節以館方紀錄為限。",
+      "prompt": "浮世繪套色木版印刷感，虛構礁岸與漁火，以遠近懸殊和前景拱形岩石成景框；三層靛藍與暖灰，硬邊輪廓，留紙白表現海霧，無文字。",
+      "promptEn": "Multi-block woodcut look of an invented rocky coast and distant fishing lights; a huge foreground rock arch frames the tiny horizon, three indigo-to-warm-gray color plates, hard edges, paper white reserved for sea fog, no text.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.metmuseum.org/art/collection/search/39799",
+        "imageUrl": "https://images.metmuseum.org/CRDImages/as/web-large/DP141042.jpg",
+        "publisher": "The Metropolitan Museum of Art",
+        "credit": "Katsushika Hokusai；The Metropolitan Museum of Art，作品編號 39799",
+        "checked": "2026-11-18",
+        "rightsUrl": "https://www.metmuseum.org/hubs/open-access"
+      },
+      "license": {
+        "label": "Met Open Access・CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "image": {
+        "src": "assets/met-39799.webp",
+        "alt": "Under the Wave off Kanagawa｜神奈川沖浪裏，Katsushika Hokusai",
+        "modification": "完整畫面等比例縮小、轉為 WebP；未裁切或調色。",
+        "width": 600,
+        "height": 410,
+        "sha256": "86e2f21c23c54747a5c866f7209cda526e83933a2dd02315c91a02695ad0b057"
       }
     },
     {
@@ -386,6 +141,41 @@
       }
     },
     {
+      "id": "met-12460",
+      "library": "art",
+      "title": "Venice｜威尼斯",
+      "creator": "John Singer Sargent",
+      "date": "約 1903",
+      "technique": "水彩・水粉・黃昏空氣感",
+      "visual": "傍晚的建築邊界融入水色，實體細節讓位給遠近的明暗。",
+      "method": "館方說明以寬幅、流動色層暗示暮光。新畫面先鋪濕底，把遠景邊界逐步消掉，最後以少量水粉提亮臨水最亮的點。",
+      "why": "軟邊代表空氣與距離，不用用同樣深線勾滿遠近。",
+      "unknown": "原作者沒有公開提示詞；工具、作業細節以館方紀錄為限。",
+      "prompt": "黃昏碼頭水彩，先用濕紙薄灰藍鋪水與霧，建築輪廓在遠端溶散，前景少量石墨定位；不透明水粉只點亮岸邊微光，保留紙白。",
+      "promptEn": "Twilight harbor in watercolor and gouache on wove paper, flooded gray-blue water and mist, distant building edges dissolve, sparse near-field graphite marks, tiny opaque gouache lights and reserved paper whites.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.metmuseum.org/art/collection/search/12460",
+        "imageUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/12460/39263/main-image",
+        "publisher": "The Metropolitan Museum of Art",
+        "credit": "John Singer Sargent；The Metropolitan Museum of Art，作品編號 12460",
+        "checked": "2026-11-18",
+        "rightsUrl": "https://www.metmuseum.org/hubs/open-access"
+      },
+      "license": {
+        "label": "Met Open Access・CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "image": {
+        "src": "assets/met-12460.webp",
+        "alt": "Venice｜威尼斯，John Singer Sargent",
+        "modification": "完整畫面等比例縮小、轉為 WebP；未裁切或調色。",
+        "width": 1200,
+        "height": 864,
+        "sha256": "616d189d9d76a9763a415190c76562881815240327bf2f5470aa9b831bef3864"
+      }
+    },
+    {
       "id": "met-282044",
       "library": "photo",
       "title": "Sappho",
@@ -421,24 +211,24 @@
       }
     },
     {
-      "id": "met-436140",
+      "id": "met-436132",
       "library": "art",
-      "title": "Dancers, Pink and Green｜粉與綠的舞者",
+      "title": "The Dance Lesson｜舞蹈課",
       "creator": "Edgar Degas",
-      "date": "約 1890",
-      "technique": "畫布油彩・後台色塊",
-      "visual": "陰暗後台的綠裙與粉膚先被看見，右側垂直舞台側景把最靠近的舞者截掉，背景的棕橙色不搶戲。",
-      "method": "確定為畫布油彩；將這件與本館粉彩舞蹈課分開看。新作可先用寬粗塊做暗暖背景，再讓主角衣物的一個色族越過區域邊緣，保留部分人物從遮擋中出現。",
-      "why": "遮擋把觀者放在側幕旁，不是台下正視；同色裙擺使多人仍讀作同一場景。",
+      "date": "約 1879",
+      "technique": "粉彩與黑色粉筆",
+      "visual": "右下小提琴手以深色外套和棕色琴身搶到前景；左側舞者的白裙及背後的空牆把視線拉回中景。",
+      "method": "館方指出用粉彩和黑粉筆畫在拼合紙張上。先以黑粉筆確定關節和透視，再疊薄層乾粉，留部分紙紋和底層結構。",
+      "why": "小提琴手切進右下角，白裙和深衣反差拉開前後；粉彩薄層仍讓動作保持即興感。",
       "unknown": "原作者沒有公開提示詞；工具、作業細節以館方紀錄為限。",
-      "prompt": "側幕後的虛構劇團準備演出，畫布油彩。蛇綠與粉灰衣料交錯，右邊一根暖棕立幕截住局部前景，人物不要排成一列；深色角落保持粗筆紋與未填滿的輪廓。",
-      "promptEn": "Oil on canvas, an invented theater troupe preparing backstage; serpentine teal and pale dusty-pink costume accents, a single warm brown flat crops the right foreground, no lined-up figures, coarse brush texture and selectively unfinished silhouettes in the shadows.",
+      "prompt": "乾粉彩與黑粉筆畫排練室，人物偏右並裁掉最靠邊的手肘，左側保留淺暖地板空間；薄層粉彩顆粒、可見紙紋，重點才用暗線。",
+      "promptEn": "Dry pastel and black chalk in an invented rehearsal room; the group sits off to the right and the near elbow falls outside the crop, muted warm floor left open, granular light pastel layers with paper tooth and selective dark accents.",
       "promptKind": "curator-derived",
       "source": {
-        "url": "https://www.metmuseum.org/art/collection/search/436140",
-        "imageUrl": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-14936-033.jpg",
+        "url": "https://www.metmuseum.org/art/collection/search/436132",
+        "imageUrl": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1883.jpg",
         "publisher": "The Metropolitan Museum of Art",
-        "credit": "Edgar Degas；The Metropolitan Museum of Art，作品編號 436140",
+        "credit": "Edgar Degas；The Metropolitan Museum of Art，作品編號 436132",
         "checked": "2026-11-18",
         "rightsUrl": "https://www.metmuseum.org/hubs/open-access"
       },
@@ -447,12 +237,12 @@
         "url": "https://creativecommons.org/publicdomain/zero/1.0/"
       },
       "image": {
-        "src": "assets/met-436140.webp",
-        "alt": "Dancers, Pink and Green｜粉與綠的舞者，Edgar Degas",
+        "src": "assets/met-436132.webp",
+        "alt": "The Dance Lesson｜舞蹈課，Edgar Degas",
         "modification": "完整畫面等比例縮小、轉為 WebP；未裁切或調色。",
-        "width": 567,
+        "width": 551,
         "height": 625,
-        "sha256": "f19b8f4f263f7fa07719aab65ea20ee8d1e7acf0e44392d03b81f555ed7fd1db"
+        "sha256": "ddc4d69052d10163824e4f87bd05a1b499256469c17b630f6ccd2c997c636892"
       }
     },
     {
@@ -491,24 +281,24 @@
       }
     },
     {
-      "id": "met-388409",
+      "id": "met-391886",
       "library": "art",
-      "title": "The Rhinoceros｜犀牛（後期明暗套印版）",
-      "creator": "Albrecht Dürer（原設計）",
-      "date": "1620 年後刊印",
-      "technique": "明暗木刻・淺橄欖色調版",
-      "visual": "淺橄欖色調連住背景與獸身；深色密線讓像盔甲的皮膚更厚重，最亮的細面從色面跳出。",
-      "method": "館方把這版列為有淺橄欖綠色調版的明暗木刻，刊印時間在 Dürer 身後。做新圖先分離黑色主線版與寬幅色調版，以紙白或留出的淺色做高光。",
-      "why": "兩塊版分工讓大明暗與表面線紋都能閱讀；適合質感多但仍需強剪影的圖。",
-      "unknown": "館方歸原設計給 Dürer；不把這件後世刊本說成由他親印，未確認刊印者。",
-      "prompt": "兩版明暗木刻，原創沼澤甲獸圖鑑；深墨細線控制皮紋、角質和外輪廓，一版淡橄欖綠統一背景，留微亮紙面，側向站姿，無仿古文字。",
-      "promptEn": "Two-block chiaroscuro woodcut of an original fictional marsh animal, dark tight linework describes scales, keratin and contour, one pale olive tone block unifies the background, reserved paper highlights, sideways stance, no fake archaic text.",
+      "title": "Jan Six",
+      "creator": "Rembrandt van Rijn",
+      "date": "1647",
+      "technique": "蝕刻・雕刻・乾刻",
+      "visual": "窄窗的亮部和室內壓暗區域形成一眼可辨的光源方向，細線描出人物和衣褶。",
+      "method": "館方登記蝕刻、雕刻與乾刻，這是第五版狀態。練習時先留亮紙，用細線定位衣褶，靠暗部再加交叉線與帶毛邊的乾刻質感。",
+      "why": "暗區大量交叉線仍留得住亮面，能保住閱讀輪廓和光源敘事。",
+      "unknown": "原作者沒有公開提示詞；工具、作業細節以館方紀錄為限。",
+      "prompt": "黑墨凹版畫，一位虛構檔案員靠高窗整理薄紙；逆光窄亮面，室內以密疏變化的交叉排線收暗，衣袖用少量具毛邊乾刻線。",
+      "promptEn": "Black-ink intaglio print of an invented archivist sorting sheets next to a tall window, slim backlit paper whites, variable crosshatching in the room, a few soft drypoint burr lines in the sleeves.",
       "promptKind": "curator-derived",
       "source": {
-        "url": "https://www.metmuseum.org/art/collection/search/388409",
-        "imageUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/388409/766842/main-image",
+        "url": "https://www.metmuseum.org/art/collection/search/391886",
+        "imageUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/391886/764776/main-image",
         "publisher": "The Metropolitan Museum of Art",
-        "credit": "Albrecht Dürer（原設計）；The Metropolitan Museum of Art，作品編號 388409",
+        "credit": "Rembrandt van Rijn；The Metropolitan Museum of Art，作品編號 391886",
         "checked": "2026-11-18",
         "rightsUrl": "https://www.metmuseum.org/hubs/open-access"
       },
@@ -517,12 +307,12 @@
         "url": "https://creativecommons.org/publicdomain/zero/1.0/"
       },
       "image": {
-        "src": "assets/met-388409.webp",
-        "alt": "The Rhinoceros｜犀牛（後期明暗套印版），Albrecht Dürer（原設計）",
+        "src": "assets/met-391886.webp",
+        "alt": "Jan Six，Rembrandt van Rijn",
         "modification": "完整畫面等比例縮小、轉為 WebP；未裁切或調色。",
-        "width": 1200,
-        "height": 854,
-        "sha256": "eed31eb20d5d333587a364d1f03a9ecb1c5fca887d903c55ce2864f7d0e4c732"
+        "width": 956,
+        "height": 1200,
+        "sha256": "2f5bf22fb1e4af684e4d5d536af15212e62bd57e8fbf528589b96aebbf2d3113"
       }
     },
     {
@@ -561,6 +351,41 @@
       }
     },
     {
+      "id": "met-333986",
+      "library": "art",
+      "title": "May Milton",
+      "creator": "Henri de Toulouse-Lautrec",
+      "date": "1895",
+      "technique": "五色石版海報",
+      "visual": "館方這張圖像顯示近單色調；深底托出淺色裙身，傾斜的字形和截在邊緣的裙擺帶出動感。",
+      "method": "館方記載用五色石版印刷。先設三至五個單色塊決定明度，讓一兩個重點保留較細線條；空間若要排字，先保留而不生成文字。",
+      "why": "遠看仍先認到剪影，證明構圖不依賴原版色彩；不能從這張近單色影像還原五色分版。",
+      "unknown": "原作者沒有公開提示詞；工具、作業細節以館方紀錄為限。",
+      "prompt": "五色石版風格劇場剪影海報，虛構舞者靠近邊緣，電光藍大色面、暖米白服裝與一點紅；硬邊輪廓、局部印刷顆粒，文字區保留空白。",
+      "promptEn": "Five-color lithographic theater poster of an invented dancer close to the edge, large electric-blue plane, warm cream clothing and one vermilion accent, hard silhouette with local print grain, reserve blank room for typography.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.metmuseum.org/art/collection/search/333986",
+        "imageUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/333986/1360686/main-image",
+        "publisher": "The Metropolitan Museum of Art",
+        "credit": "Henri de Toulouse-Lautrec；The Metropolitan Museum of Art，作品編號 333986",
+        "checked": "2026-11-18",
+        "rightsUrl": "https://www.metmuseum.org/hubs/open-access"
+      },
+      "license": {
+        "label": "Met Open Access・CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "image": {
+        "src": "assets/met-333986.webp",
+        "alt": "May Milton，Henri de Toulouse-Lautrec",
+        "modification": "完整畫面等比例縮小、轉為 WebP；未裁切或調色。",
+        "width": 942,
+        "height": 1200,
+        "sha256": "a384789c9c96052cd6cfe133c03374aa521440a914d5b999e648b7deb1c6a001"
+      }
+    },
+    {
       "id": "wc-kingfisher",
       "library": "photo",
       "title": "Common Kingfisher｜普通翠鳥停棲",
@@ -593,6 +418,41 @@
         "width": 960,
         "height": 640,
         "sha256": "4187ffbc43a8cb2d1823d28be5140421ccea6a3e50c13ae25966365755968821"
+      }
+    },
+    {
+      "id": "met-11120",
+      "library": "art",
+      "title": "Fishing Boats, Key West｜基韋斯特漁船",
+      "creator": "Winslow Homer",
+      "date": "1903",
+      "technique": "透明水彩與石墨",
+      "visual": "帆和船身的亮色留紙；清澈的水面以寬幅淡色承接少量暗筆。",
+      "method": "館方標明在米白色編織紙上用水彩和石墨；新畫先留白後鋪色，靠近船身的接觸暗線才加重。",
+      "why": "留白是畫面的一部分，不是統一加上的亮光特效；它讓海風與潮濕光線可見。",
+      "unknown": "原作者沒有公開提示詞；工具、作業細節以館方紀錄為限。",
+      "prompt": "透明水彩畫虛構清晨溪口的停泊木艇，留米白紙作亮處；以薄薄的淡青水平濕筆鋪水，船底加一筆石墨暗線，天空保留大塊空氣。",
+      "promptEn": "Transparent watercolor on warm-white wove paper, small invented moored boats at a creek mouth, reserved paper highlights, thin horizontal pale turquoise wash, one graphite contact shadow and generous open sky.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.metmuseum.org/art/collection/search/11120",
+        "imageUrl": "https://images.metmuseum.org/CRDImages/ad/web-large/DP119111.jpg",
+        "publisher": "The Metropolitan Museum of Art",
+        "credit": "Winslow Homer；The Metropolitan Museum of Art，作品編號 11120",
+        "checked": "2026-11-18",
+        "rightsUrl": "https://www.metmuseum.org/hubs/open-access"
+      },
+      "license": {
+        "label": "Met Open Access・CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "image": {
+        "src": "assets/met-11120.webp",
+        "alt": "Fishing Boats, Key West｜基韋斯特漁船，Winslow Homer",
+        "modification": "完整畫面等比例縮小、轉為 WebP；未裁切或調色。",
+        "width": 599,
+        "height": 385,
+        "sha256": "078b4d12de585ea93b8055eb494d08981cebacac461a51298639f07954ae48ed"
       }
     },
     {
@@ -631,179 +491,38 @@
       }
     },
     {
-      "id": "met-347935",
+      "id": "met-40021",
       "library": "art",
-      "title": "Songs of Innocence: A Dream｜天真之歌：一個夢",
-      "creator": "William Blake",
-      "date": "1794 年設計；約 1825 年印本",
-      "technique": "凸版腐蝕・水彩和貝殼金手塗",
-      "visual": "文字和植物圖紋不分上下欄；橙棕字行由淺藍、綠色和棕色的葉紋輕輕穿插，四周留出寬紙邊。",
-      "method": "館方列橙棕墨凸版腐蝕印刷，其後以水彩及貝殼金手上色。新作先以同一單色線版規劃字與花紋，再手彩，強調欄界兩側的節奏。",
-      "why": "單色底統一版面，手加色讓頁邊更像有生命的生長而非硬框。",
-      "unknown": "實際腐蝕液、印壓及手塗順序未核實；貝殼金是館方資料，不靠掃描猜測亮度。",
-      "prompt": "原創植物寓言書頁，橙棕凸版細線與局部淺青水彩，細葉穿過留空的短字行位置，邊角少量貝殼金、大片乾淨紙邊，無可讀或偽古文字。",
-      "promptEn": "Original botanical fable page, fine orange-brown relief-etched linework and localized pale teal watercolor, small leaves weave through reserved short line spaces, touches of shell gold near corners and generous clean paper margins, no readable or faux antique text.",
+      "title": "Snow Clearing: Landscape after Li Cheng｜王翬雪霽山水",
+      "creator": "王翬 Wang Hui",
+      "date": "1669",
+      "technique": "紙本設色水墨・立軸",
+      "visual": "山石和樹的近景可見密集筆勢，遠山與空白形成縱深，畫幅用垂直方式引導視線。",
+      "method": "館方列紙本水墨設色立軸，並標示王翬參照李成傳統。造新景時讓墨色前濃後淡，在雪與水霧間留紙白。",
+      "why": "筆墨濃淡、留白和山體的重疊就能建立深度，不需要強透視網格。",
+      "unknown": "原作者沒有公開提示詞；工具、作業細節以館方紀錄為限。",
+      "prompt": "直幅紙本水墨設色，虛構雪霽山谷，密筆樹木靠下，遠山淡墨分層，霧與薄雪以留白相連，少量赭色只落在近岩。",
+      "promptEn": "Tall Chinese ink-and-color paper landscape of an invented valley after snow; dense brush trees below, layered pale mountains beyond, unpainted snow and mist meet, muted ochre restricted to near rocks.",
       "promptKind": "curator-derived",
-      "image": {
-        "src": "assets/met-347935.webp",
-        "alt": "William Blake，Songs of Innocence: A Dream｜天真之歌：一個夢",
-        "modification": "由館方在 Wikimedia Commons 提供的原掃描等比例縮小並轉為 WebP；未裁切或調色。",
-        "width": 1180,
-        "height": 1280,
-        "sha256": "65f5567773ab486aa5f330e6cdb4c46cbfb63f9de971d573e3deb36fdb527030"
-      },
       "source": {
-        "url": "https://www.metmuseum.org/art/collection/search/347935",
+        "url": "https://www.metmuseum.org/art/collection/search/40021",
+        "imageUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/40021/2280596/main-image",
         "publisher": "The Metropolitan Museum of Art",
+        "credit": "王翬 Wang Hui；The Metropolitan Museum of Art，作品編號 40021",
         "checked": "2026-11-18",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Songs_of_Innocence_and_of_Experience-_A_Dream_MET_DP816667.jpg",
-        "credit": "William Blake；The Metropolitan Museum of Art，Rogers Fund, 1917，17.10.26",
-        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Songs_of_Innocence_and_of_Experience-_A_Dream_MET_DP816667.jpg"
+        "rightsUrl": "https://www.metmuseum.org/hubs/open-access"
       },
       "license": {
-        "label": "館方 Open Access・CC0",
+        "label": "Met Open Access・CC0",
         "url": "https://creativecommons.org/publicdomain/zero/1.0/"
-      }
-    },
-    {
-      "id": "met-favrile-105834",
-      "library": "art",
-      "title": "Vase｜帶虹光圓點的 Favrile 玻璃瓶",
-      "creator": "Louis Comfort Tiffany（設計）；Tiffany Glass and Decorating Company（製作）",
-      "date": "1893–1896",
-      "technique": "Favrile 玻璃・虹彩表面",
-      "visual": "薄薄凹彎的瓶口壓住深色器身。橢圓斑點沿曲面轉向，局部虹光比灰背景更亮，沒有用粗白線勾邊。",
-      "method": "館方登記 Favrile 玻璃，列 Tiffany 為設計者及公司為製作者。練習 3D 材質可畫弧面上的不同大小斑點，再用低對比主反光與多色次反光區分厚度和曲率。",
-      "why": "斑點變形提示輪廓體積；虹色受控於表面反光位置，不會變成全物件的均勻彩虹。",
-      "unknown": "未查到這件器皿的配方、玻璃工序及拍攝燈位，不將材質練習當成實際製造紀錄。",
-      "prompt": "原創矮身虹彩玻璃瓶的工藝設計照片；不對稱薄口、深灰綠器身、不同尺寸斑點沿曲面改變角度；柔和窄高光、有節制的青紫金虹彩，霧灰展台背景。",
-      "promptEn": "Craft design photograph of an original squat iridescent glass vessel, asymmetrical thin rim, gray-green body, irregular dots changing angle with curved surface, soft narrow highlight and restrained teal-violet-gold interference colors, muted gray studio background.",
-      "promptKind": "curator-derived",
-      "image": {
-        "src": "assets/met-favrile-105834.webp",
-        "alt": "Louis Comfort Tiffany（設計）；Tiffany Glass and Decorating Company（製作），Vase｜帶虹光圓點的 Favrile 玻璃瓶",
-        "modification": "由館方在 Wikimedia Commons 提供的原掃描等比例縮小並轉為 WebP；未裁切或調色。",
-        "width": 1280,
-        "height": 1179,
-        "sha256": "d736b289c263129277a1a5a8afcf70c5fcd384842d5a0607af0b9feed1e7d99f"
-      },
-      "source": {
-        "url": "https://www.metmuseum.org/art/collection/search/825",
-        "publisher": "The Metropolitan Museum of Art",
-        "checked": "2026-11-18",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Vase_MET_DP105834.jpg",
-        "credit": "Louis Comfort Tiffany；Tiffany Glass and Decorating Company；The Metropolitan Museum of Art，Gift of H. O. Havemeyer, 1896，96.17.28",
-        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Vase_MET_DP105834.jpg"
-      },
-      "license": {
-        "label": "館方 Open Access・CC0",
-        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
-      }
-    },
-    {
-      "id": "nga-56101",
-      "library": "art",
-      "title": "Fantômas｜方托馬斯",
-      "creator": "Juan Gris",
-      "date": "1915",
-      "technique": "綜合立體派・畫布油彩",
-      "visual": "斜切的木紋桌斷成不同平面，紙張撞上深藍與明黃角塊；一組薄白輪廓跨過色塊，把視線拉向中心。",
-      "method": "館方確認是畫布油彩，不是實物剪貼。新作可繪製仿照片紙張、木紋和棋格，以斜向交界把兩個視角併入同一畫面，再留下少數跨區連線。",
-      "why": "見得到木紋與紙的物件線索，也見得到構圖分割，比沒有辨識錨點的隨機碎片容易閱讀。",
-      "unknown": "未確認落筆或上色順序；形塊可以作顏料練習，不宣稱原作貼有實物。",
-      "prompt": "原創綜合立體派室內靜物油畫，桌面用數個不一致斜角切分；卡紙、砂色木紋、墨藍與檸檬黃形成重疊平面，保留兩條跨區細白線，不要任何清晰字樣。",
-      "promptEn": "Original Synthetic Cubist oil still life, tabletop divided into several inconsistent diagonal perspectives, painted card, sandy wood grain, ink blue and lemon yellow in overlapping planes, two delicate white lines cross the breaks, no legible typography.",
-      "promptKind": "curator-derived",
-      "image": {
-        "src": "assets/nga-56101.webp",
-        "alt": "Juan Gris，Fantômas｜方托馬斯",
-        "modification": "由館方在 Wikimedia Commons 提供的原掃描等比例縮小並轉為 WebP；未裁切或調色。",
-        "width": 1280,
-        "height": 1058,
-        "sha256": "9470d276cc9f978f7e6c9f495a948d14d41152019612e526f85d96b40ec6f343"
-      },
-      "source": {
-        "url": "https://www.nga.gov/artworks/56101-fantomas",
-        "publisher": "National Gallery of Art",
-        "checked": "2026-11-18",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Juan_Gris%2C_Fant%C3%B4mas%2C_1915%2C_NGA_56101.jpg",
-        "credit": "Juan Gris；National Gallery of Art，Chester Dale Fund，1976.59.1",
-        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Juan_Gris%2C_Fant%C3%B4mas%2C_1915%2C_NGA_56101.jpg"
-      },
-      "license": {
-        "label": "館方 Open Access・CC0",
-        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
-      }
-    },
-    {
-      "id": "wc-blender-spring-house",
-      "library": "art",
-      "title": "《Spring》山屋環境概念圖",
-      "titleEn": "Spring — general environment around the house",
-      "creator": "Blender Foundation",
-      "date": "2017-10-13（原發表）",
-      "technique": "動畫場景開發・景深分層概念圖",
-      "visual": "藍灰遠山、白霧與天空糅成一體；近景冰壁、中央偏右的石屋和右側紅衣小人物逐層建立深度。紅衣只佔數個像素，仍是很清楚的比例尺。",
-      "method": "原檔說明記載用多層 Krita 檔，把天、山、房子及瀑布等拆到不同層，以便各自修改。",
-      "why": "把觀眾要讀的距離分開調對比。遠層的山脊輪廓柔化，石屋門框與近處崖緣留下銳線，就不必讓整張圖都塞滿細節。",
-      "unknown": "來源列上傳者 David Revoy／Blender Foundation，未核實單一畫師的完整署名；檔案頁未交代筆刷或光照研究。",
-      "prompt": "原創動畫前期環境概念圖，寬幅，單人避風站在遠離中心的一側岩棚；遠處海鹽白霧、低反差山脊，近景濕岩保留硬邊與反光。分為天空、遠景、建物與前景四層；一個暖色標誌交代比例。不要沿用原作的屋型、人物、冰壁或構圖。",
-      "promptEn": "Original animated-film environment development painting, wide composition. Place a lone wind shelter off-center on a rock ledge. Merge low-contrast distant ridges into salty mist, keep crisp wet edges and reflected light in the foreground. Separate sky, distant land, building and foreground into four editable groups. One warm sign sets scale. Do not reproduce the reference building, characters, ice wall or composition.",
-      "promptKind": "curator-derived",
-      "source": {
-        "url": "https://commons.wikimedia.org/wiki/File:Spring-concept_art-house.jpg",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Spring-concept_art-house.jpg",
-        "publisher": "Wikimedia Commons（原由 Blender Cloud 發表）",
-        "credit": "David Revoy / Blender Foundation（依檔案頁）",
-        "checked": "2026-11-18",
-        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Spring-concept_art-house.jpg#Summary"
-      },
-      "license": {
-        "label": "CC BY 4.0",
-        "url": "https://creativecommons.org/licenses/by/4.0/"
       },
       "image": {
-        "src": "assets/wc-blender-spring-house.webp",
-        "alt": "石造山屋座落岩台，右側近景有冰柱和紅衣小人物，遠山融入白霧。",
-        "modification": "等比例縮小並重編碼為 WebP；未裁切或調色。",
-        "width": 1100,
-        "height": 551,
-        "sha256": "29c98be6025f1808f957080ac6dd7471d291c89b84b49c41c7c8d4b233baf677"
-      }
-    },
-    {
-      "id": "nga-7502",
-      "library": "art",
-      "title": "El sueño de la razón produce monstruos｜理性沉睡，怪物生出",
-      "creator": "Francisco Goya",
-      "date": "1799 年出版",
-      "technique": "蝕刻與飛塵腐蝕（aquatint）",
-      "visual": "薄暖灰色從上半包住飛起的蝙蝠，主角背部在深色鳥群前留亮。網線、墨點與紙白各司其職。",
-      "method": "館方標明以蝕刻與 aquatint 印在簾紋紙上（《Los Caprichos》第 43 版）。做新作時先以蝕刻線定義敘事輪廓，再把細顆粒色調集中在需要過渡的暗區，亮紙不一律重塗。",
-      "why": "細顆粒在不擠滿黑線的情況下營造壓迫氣氛，留白人物仍可讀。",
-      "unknown": "館方未列這件圖的實際腐蝕時間或各次上墨參數；此處不主張任何數值。",
-      "prompt": "單色蝕刻與飛塵腐蝕，虛構夜晚月台，細顆粒灰逐層壓暗，凹版線集中在欄杆與空椅，紙白只留燈下，不使用平滑數位漸層或仿古文字。",
-      "promptEn": "Monochrome etching and aquatint of a fictional night railway platform; layered granular gray, fine intaglio lines concentrated in railings and an empty bench, reserved paper white below the lamp, no smooth digital gradient or mock antique lettering.",
-      "promptKind": "curator-derived",
-      "image": {
-        "src": "assets/nga-7502.webp",
-        "alt": "Francisco Goya 的理性沉睡蝕刻印本，伏桌人物周圍有鳥與蝙蝠",
-        "modification": "由 NGA 捐贈至 Wikimedia Commons 的原掃描等比例縮小、轉為 WebP；未裁切或調色。",
-        "width": 907,
-        "height": 1280,
-        "sha256": "cb627c57a9e0735edee685d8f224c7fd465efe7bf121dfc2cbe9004803a8483d"
-      },
-      "source": {
-        "url": "https://www.nga.gov/artworks/7502-el-sueno-de-la-razon-produce-monstruos-sleep-reason-produces-monsters",
-        "publisher": "National Gallery of Art",
-        "checked": "2026-11-18",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Francisco_de_Goya%2C_El_sue%C3%B1o_de_la_razon_produce_monstruos_%28The_Sleep_of_Reason_Produces_Monsters%29%2C_published_1799%2C_NGA_7502.jpg",
-        "credit": "Francisco Goya；National Gallery of Art，Rosenwald Collection，1943.3.4711.qq",
-        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Francisco_de_Goya%2C_El_sue%C3%B1o_de_la_razon_produce_monstruos_%28The_Sleep_of_Reason_Produces_Monsters%29%2C_published_1799%2C_NGA_7502.jpg"
-      },
-      "license": {
-        "label": "NGA Open Access・CC0",
-        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+        "src": "assets/met-40021.webp",
+        "alt": "Snow Clearing: Landscape after Li Cheng｜王翬雪霽山水，王翬 Wang Hui",
+        "modification": "完整畫面等比例縮小、轉為 WebP；未裁切或調色。",
+        "width": 581,
+        "height": 1200,
+        "sha256": "fc641209b19b7513518ad36014a095e5a32e92e77159a911d5a26cb53f04876f"
       }
     },
     {
@@ -845,6 +564,41 @@
       }
     },
     {
+      "id": "met-337071",
+      "library": "art",
+      "title": "Pink and Rose",
+      "creator": "William Morris",
+      "date": "約 1890",
+      "technique": "工藝美術・版印壁紙",
+      "visual": "花莖穿插成無限延展的圖案，方向的往返消除方格感，覆蓋節奏均勻。",
+      "method": "館方標載以膠粉色料版印。新作先設可無縫的重複單元，在四邊對齊主幹，再填不同方向的小葉以平衡間距。",
+      "why": "邊界有交叉延續，而非每格都框住一朵花，因此重複不會變成顯眼棋盤。",
+      "unknown": "原作者沒有公開提示詞；工具、作業細節以館方紀錄為限。",
+      "prompt": "工藝美術版印壁紙，原創石斛蘭與蕨葉，連續伸展莖在四邊無縫銜接，暖灰綠、赭土與淺粉平塗，局部露紙，不重畫任何既有壁紙。",
+      "promptEn": "Arts-and-Crafts block-printed wallpaper of original orchids and ferns, continuous branching stems tile seamlessly on all sides, flat sage, ochre, dusty pink and small exposed-paper gaps; do not reproduce an existing textile.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.metmuseum.org/art/collection/search/337071",
+        "imageUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/337071/725521/main-image",
+        "publisher": "The Metropolitan Museum of Art",
+        "credit": "William Morris；The Metropolitan Museum of Art，作品編號 337071",
+        "checked": "2026-11-18",
+        "rightsUrl": "https://www.metmuseum.org/hubs/open-access"
+      },
+      "license": {
+        "label": "Met Open Access・CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "image": {
+        "src": "assets/met-337071.webp",
+        "alt": "Pink and Rose，William Morris",
+        "modification": "完整畫面等比例縮小、轉為 WebP；未裁切或調色。",
+        "width": 885,
+        "height": 1096,
+        "sha256": "6ac5b1edd7315169afdc72d4c18e6f21d4bc51ef4653a0f5f4a7bb9a7630302a"
+      }
+    },
+    {
       "id": "photo-cine",
       "library": "photo",
       "title": "鎢光底片夜路",
@@ -880,6 +634,41 @@
         "sourceWidth": 4969,
         "sourceHeight": 3365,
         "sha256": "826e5cf0ac1a4a1a37fa9383c37322ecbd71cbdba292fe3b08b8e57eef393e6d"
+      }
+    },
+    {
+      "id": "met-436140",
+      "library": "art",
+      "title": "Dancers, Pink and Green｜粉與綠的舞者",
+      "creator": "Edgar Degas",
+      "date": "約 1890",
+      "technique": "畫布油彩・後台色塊",
+      "visual": "陰暗後台的綠裙與粉膚先被看見，右側垂直舞台側景把最靠近的舞者截掉，背景的棕橙色不搶戲。",
+      "method": "確定為畫布油彩；將這件與本館粉彩舞蹈課分開看。新作可先用寬粗塊做暗暖背景，再讓主角衣物的一個色族越過區域邊緣，保留部分人物從遮擋中出現。",
+      "why": "遮擋把觀者放在側幕旁，不是台下正視；同色裙擺使多人仍讀作同一場景。",
+      "unknown": "原作者沒有公開提示詞；工具、作業細節以館方紀錄為限。",
+      "prompt": "側幕後的虛構劇團準備演出，畫布油彩。蛇綠與粉灰衣料交錯，右邊一根暖棕立幕截住局部前景，人物不要排成一列；深色角落保持粗筆紋與未填滿的輪廓。",
+      "promptEn": "Oil on canvas, an invented theater troupe preparing backstage; serpentine teal and pale dusty-pink costume accents, a single warm brown flat crops the right foreground, no lined-up figures, coarse brush texture and selectively unfinished silhouettes in the shadows.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.metmuseum.org/art/collection/search/436140",
+        "imageUrl": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-14936-033.jpg",
+        "publisher": "The Metropolitan Museum of Art",
+        "credit": "Edgar Degas；The Metropolitan Museum of Art，作品編號 436140",
+        "checked": "2026-11-18",
+        "rightsUrl": "https://www.metmuseum.org/hubs/open-access"
+      },
+      "license": {
+        "label": "Met Open Access・CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "image": {
+        "src": "assets/met-436140.webp",
+        "alt": "Dancers, Pink and Green｜粉與綠的舞者，Edgar Degas",
+        "modification": "完整畫面等比例縮小、轉為 WebP；未裁切或調色。",
+        "width": 567,
+        "height": 625,
+        "sha256": "f19b8f4f263f7fa07719aab65ea20ee8d1e7acf0e44392d03b81f555ed7fd1db"
       }
     },
     {
@@ -921,6 +710,41 @@
       }
     },
     {
+      "id": "met-388409",
+      "library": "art",
+      "title": "The Rhinoceros｜犀牛（後期明暗套印版）",
+      "creator": "Albrecht Dürer（原設計）",
+      "date": "1620 年後刊印",
+      "technique": "明暗木刻・淺橄欖色調版",
+      "visual": "淺橄欖色調連住背景與獸身；深色密線讓像盔甲的皮膚更厚重，最亮的細面從色面跳出。",
+      "method": "館方把這版列為有淺橄欖綠色調版的明暗木刻，刊印時間在 Dürer 身後。做新圖先分離黑色主線版與寬幅色調版，以紙白或留出的淺色做高光。",
+      "why": "兩塊版分工讓大明暗與表面線紋都能閱讀；適合質感多但仍需強剪影的圖。",
+      "unknown": "館方歸原設計給 Dürer；不把這件後世刊本說成由他親印，未確認刊印者。",
+      "prompt": "兩版明暗木刻，原創沼澤甲獸圖鑑；深墨細線控制皮紋、角質和外輪廓，一版淡橄欖綠統一背景，留微亮紙面，側向站姿，無仿古文字。",
+      "promptEn": "Two-block chiaroscuro woodcut of an original fictional marsh animal, dark tight linework describes scales, keratin and contour, one pale olive tone block unifies the background, reserved paper highlights, sideways stance, no fake archaic text.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.metmuseum.org/art/collection/search/388409",
+        "imageUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/388409/766842/main-image",
+        "publisher": "The Metropolitan Museum of Art",
+        "credit": "Albrecht Dürer（原設計）；The Metropolitan Museum of Art，作品編號 388409",
+        "checked": "2026-11-18",
+        "rightsUrl": "https://www.metmuseum.org/hubs/open-access"
+      },
+      "license": {
+        "label": "Met Open Access・CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "image": {
+        "src": "assets/met-388409.webp",
+        "alt": "The Rhinoceros｜犀牛（後期明暗套印版），Albrecht Dürer（原設計）",
+        "modification": "完整畫面等比例縮小、轉為 WebP；未裁切或調色。",
+        "width": 1200,
+        "height": 854,
+        "sha256": "eed31eb20d5d333587a364d1f03a9ecb1c5fca887d903c55ce2864f7d0e4c732"
+      }
+    },
+    {
       "id": "photo-pan",
       "library": "photo",
       "title": "雨街上的單車追攝",
@@ -956,6 +780,41 @@
         "sourceWidth": 4790,
         "sourceHeight": 3173,
         "sha256": "70104af58841ddb4f3224da7734ffc62a61eedcd0878fb01d9c13e3e542a3e70"
+      }
+    },
+    {
+      "id": "met-347935",
+      "library": "art",
+      "title": "Songs of Innocence: A Dream｜天真之歌：一個夢",
+      "creator": "William Blake",
+      "date": "1794 年設計；約 1825 年印本",
+      "technique": "凸版腐蝕・水彩和貝殼金手塗",
+      "visual": "文字和植物圖紋不分上下欄；橙棕字行由淺藍、綠色和棕色的葉紋輕輕穿插，四周留出寬紙邊。",
+      "method": "館方列橙棕墨凸版腐蝕印刷，其後以水彩及貝殼金手上色。新作先以同一單色線版規劃字與花紋，再手彩，強調欄界兩側的節奏。",
+      "why": "單色底統一版面，手加色讓頁邊更像有生命的生長而非硬框。",
+      "unknown": "實際腐蝕液、印壓及手塗順序未核實；貝殼金是館方資料，不靠掃描猜測亮度。",
+      "prompt": "原創植物寓言書頁，橙棕凸版細線與局部淺青水彩，細葉穿過留空的短字行位置，邊角少量貝殼金、大片乾淨紙邊，無可讀或偽古文字。",
+      "promptEn": "Original botanical fable page, fine orange-brown relief-etched linework and localized pale teal watercolor, small leaves weave through reserved short line spaces, touches of shell gold near corners and generous clean paper margins, no readable or faux antique text.",
+      "promptKind": "curator-derived",
+      "image": {
+        "src": "assets/met-347935.webp",
+        "alt": "William Blake，Songs of Innocence: A Dream｜天真之歌：一個夢",
+        "modification": "由館方在 Wikimedia Commons 提供的原掃描等比例縮小並轉為 WebP；未裁切或調色。",
+        "width": 1180,
+        "height": 1280,
+        "sha256": "65f5567773ab486aa5f330e6cdb4c46cbfb63f9de971d573e3deb36fdb527030"
+      },
+      "source": {
+        "url": "https://www.metmuseum.org/art/collection/search/347935",
+        "publisher": "The Metropolitan Museum of Art",
+        "checked": "2026-11-18",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Songs_of_Innocence_and_of_Experience-_A_Dream_MET_DP816667.jpg",
+        "credit": "William Blake；The Metropolitan Museum of Art，Rogers Fund, 1917，17.10.26",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Songs_of_Innocence_and_of_Experience-_A_Dream_MET_DP816667.jpg"
+      },
+      "license": {
+        "label": "館方 Open Access・CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
       }
     },
     {
@@ -997,6 +856,41 @@
       }
     },
     {
+      "id": "met-favrile-105834",
+      "library": "art",
+      "title": "Vase｜帶虹光圓點的 Favrile 玻璃瓶",
+      "creator": "Louis Comfort Tiffany（設計）；Tiffany Glass and Decorating Company（製作）",
+      "date": "1893–1896",
+      "technique": "Favrile 玻璃・虹彩表面",
+      "visual": "薄薄凹彎的瓶口壓住深色器身。橢圓斑點沿曲面轉向，局部虹光比灰背景更亮，沒有用粗白線勾邊。",
+      "method": "館方登記 Favrile 玻璃，列 Tiffany 為設計者及公司為製作者。練習 3D 材質可畫弧面上的不同大小斑點，再用低對比主反光與多色次反光區分厚度和曲率。",
+      "why": "斑點變形提示輪廓體積；虹色受控於表面反光位置，不會變成全物件的均勻彩虹。",
+      "unknown": "未查到這件器皿的配方、玻璃工序及拍攝燈位，不將材質練習當成實際製造紀錄。",
+      "prompt": "原創矮身虹彩玻璃瓶的工藝設計照片；不對稱薄口、深灰綠器身、不同尺寸斑點沿曲面改變角度；柔和窄高光、有節制的青紫金虹彩，霧灰展台背景。",
+      "promptEn": "Craft design photograph of an original squat iridescent glass vessel, asymmetrical thin rim, gray-green body, irregular dots changing angle with curved surface, soft narrow highlight and restrained teal-violet-gold interference colors, muted gray studio background.",
+      "promptKind": "curator-derived",
+      "image": {
+        "src": "assets/met-favrile-105834.webp",
+        "alt": "Louis Comfort Tiffany（設計）；Tiffany Glass and Decorating Company（製作），Vase｜帶虹光圓點的 Favrile 玻璃瓶",
+        "modification": "由館方在 Wikimedia Commons 提供的原掃描等比例縮小並轉為 WebP；未裁切或調色。",
+        "width": 1280,
+        "height": 1179,
+        "sha256": "d736b289c263129277a1a5a8afcf70c5fcd384842d5a0607af0b9feed1e7d99f"
+      },
+      "source": {
+        "url": "https://www.metmuseum.org/art/collection/search/825",
+        "publisher": "The Metropolitan Museum of Art",
+        "checked": "2026-11-18",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Vase_MET_DP105834.jpg",
+        "credit": "Louis Comfort Tiffany；Tiffany Glass and Decorating Company；The Metropolitan Museum of Art，Gift of H. O. Havemeyer, 1896，96.17.28",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Vase_MET_DP105834.jpg"
+      },
+      "license": {
+        "label": "館方 Open Access・CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
       "id": "photo-icm",
       "library": "photo",
       "title": "通託普林間石牆的抽象移鏡",
@@ -1032,6 +926,41 @@
         "sourceWidth": 5184,
         "sourceHeight": 3456,
         "sha256": "8bd307309eaf5d1d574be13657438b0cd54ba4cd5fec63bbce07143443ed9e2c"
+      }
+    },
+    {
+      "id": "nga-56101",
+      "library": "art",
+      "title": "Fantômas｜方托馬斯",
+      "creator": "Juan Gris",
+      "date": "1915",
+      "technique": "綜合立體派・畫布油彩",
+      "visual": "斜切的木紋桌斷成不同平面，紙張撞上深藍與明黃角塊；一組薄白輪廓跨過色塊，把視線拉向中心。",
+      "method": "館方確認是畫布油彩，不是實物剪貼。新作可繪製仿照片紙張、木紋和棋格，以斜向交界把兩個視角併入同一畫面，再留下少數跨區連線。",
+      "why": "見得到木紋與紙的物件線索，也見得到構圖分割，比沒有辨識錨點的隨機碎片容易閱讀。",
+      "unknown": "未確認落筆或上色順序；形塊可以作顏料練習，不宣稱原作貼有實物。",
+      "prompt": "原創綜合立體派室內靜物油畫，桌面用數個不一致斜角切分；卡紙、砂色木紋、墨藍與檸檬黃形成重疊平面，保留兩條跨區細白線，不要任何清晰字樣。",
+      "promptEn": "Original Synthetic Cubist oil still life, tabletop divided into several inconsistent diagonal perspectives, painted card, sandy wood grain, ink blue and lemon yellow in overlapping planes, two delicate white lines cross the breaks, no legible typography.",
+      "promptKind": "curator-derived",
+      "image": {
+        "src": "assets/nga-56101.webp",
+        "alt": "Juan Gris，Fantômas｜方托馬斯",
+        "modification": "由館方在 Wikimedia Commons 提供的原掃描等比例縮小並轉為 WebP；未裁切或調色。",
+        "width": 1280,
+        "height": 1058,
+        "sha256": "9470d276cc9f978f7e6c9f495a948d14d41152019612e526f85d96b40ec6f343"
+      },
+      "source": {
+        "url": "https://www.nga.gov/artworks/56101-fantomas",
+        "publisher": "National Gallery of Art",
+        "checked": "2026-11-18",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Juan_Gris%2C_Fant%C3%B4mas%2C_1915%2C_NGA_56101.jpg",
+        "credit": "Juan Gris；National Gallery of Art，Chester Dale Fund，1976.59.1",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Juan_Gris%2C_Fant%C3%B4mas%2C_1915%2C_NGA_56101.jpg"
+      },
+      "license": {
+        "label": "館方 Open Access・CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
       }
     },
     {
@@ -1071,6 +1000,42 @@
       }
     },
     {
+      "id": "wc-blender-spring-house",
+      "library": "art",
+      "title": "《Spring》山屋環境概念圖",
+      "titleEn": "Spring — general environment around the house",
+      "creator": "Blender Foundation",
+      "date": "2017-10-13（原發表）",
+      "technique": "動畫場景開發・景深分層概念圖",
+      "visual": "藍灰遠山、白霧與天空糅成一體；近景冰壁、中央偏右的石屋和右側紅衣小人物逐層建立深度。紅衣只佔數個像素，仍是很清楚的比例尺。",
+      "method": "原檔說明記載用多層 Krita 檔，把天、山、房子及瀑布等拆到不同層，以便各自修改。",
+      "why": "把觀眾要讀的距離分開調對比。遠層的山脊輪廓柔化，石屋門框與近處崖緣留下銳線，就不必讓整張圖都塞滿細節。",
+      "unknown": "來源列上傳者 David Revoy／Blender Foundation，未核實單一畫師的完整署名；檔案頁未交代筆刷或光照研究。",
+      "prompt": "原創動畫前期環境概念圖，寬幅，單人避風站在遠離中心的一側岩棚；遠處海鹽白霧、低反差山脊，近景濕岩保留硬邊與反光。分為天空、遠景、建物與前景四層；一個暖色標誌交代比例。不要沿用原作的屋型、人物、冰壁或構圖。",
+      "promptEn": "Original animated-film environment development painting, wide composition. Place a lone wind shelter off-center on a rock ledge. Merge low-contrast distant ridges into salty mist, keep crisp wet edges and reflected light in the foreground. Separate sky, distant land, building and foreground into four editable groups. One warm sign sets scale. Do not reproduce the reference building, characters, ice wall or composition.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Spring-concept_art-house.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Spring-concept_art-house.jpg",
+        "publisher": "Wikimedia Commons（原由 Blender Cloud 發表）",
+        "credit": "David Revoy / Blender Foundation（依檔案頁）",
+        "checked": "2026-11-18",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Spring-concept_art-house.jpg#Summary"
+      },
+      "license": {
+        "label": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "image": {
+        "src": "assets/wc-blender-spring-house.webp",
+        "alt": "石造山屋座落岩台，右側近景有冰柱和紅衣小人物，遠山融入白霧。",
+        "modification": "等比例縮小並重編碼為 WebP；未裁切或調色。",
+        "width": 1100,
+        "height": 551,
+        "sha256": "29c98be6025f1808f957080ac6dd7471d291c89b84b49c41c7c8d4b233baf677"
+      }
+    },
+    {
       "id": "wc-schroeder-shift",
       "library": "photo",
       "title": "太平山頂的移軸城市景",
@@ -1104,6 +1069,41 @@
         "width": 1280,
         "height": 842,
         "sha256": "3aaa5ef71f33a6bd96a0472b9f572092585c876264d1fc4919bf8111743c50d6"
+      }
+    },
+    {
+      "id": "nga-7502",
+      "library": "art",
+      "title": "El sueño de la razón produce monstruos｜理性沉睡，怪物生出",
+      "creator": "Francisco Goya",
+      "date": "1799 年出版",
+      "technique": "蝕刻與飛塵腐蝕（aquatint）",
+      "visual": "薄暖灰色從上半包住飛起的蝙蝠，主角背部在深色鳥群前留亮。網線、墨點與紙白各司其職。",
+      "method": "館方標明以蝕刻與 aquatint 印在簾紋紙上（《Los Caprichos》第 43 版）。做新作時先以蝕刻線定義敘事輪廓，再把細顆粒色調集中在需要過渡的暗區，亮紙不一律重塗。",
+      "why": "細顆粒在不擠滿黑線的情況下營造壓迫氣氛，留白人物仍可讀。",
+      "unknown": "館方未列這件圖的實際腐蝕時間或各次上墨參數；此處不主張任何數值。",
+      "prompt": "單色蝕刻與飛塵腐蝕，虛構夜晚月台，細顆粒灰逐層壓暗，凹版線集中在欄杆與空椅，紙白只留燈下，不使用平滑數位漸層或仿古文字。",
+      "promptEn": "Monochrome etching and aquatint of a fictional night railway platform; layered granular gray, fine intaglio lines concentrated in railings and an empty bench, reserved paper white below the lamp, no smooth digital gradient or mock antique lettering.",
+      "promptKind": "curator-derived",
+      "image": {
+        "src": "assets/nga-7502.webp",
+        "alt": "Francisco Goya 的理性沉睡蝕刻印本，伏桌人物周圍有鳥與蝙蝠",
+        "modification": "由 NGA 捐贈至 Wikimedia Commons 的原掃描等比例縮小、轉為 WebP；未裁切或調色。",
+        "width": 907,
+        "height": 1280,
+        "sha256": "cb627c57a9e0735edee685d8f224c7fd465efe7bf121dfc2cbe9004803a8483d"
+      },
+      "source": {
+        "url": "https://www.nga.gov/artworks/7502-el-sueno-de-la-razon-produce-monstruos-sleep-reason-produces-monsters",
+        "publisher": "National Gallery of Art",
+        "checked": "2026-11-18",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Francisco_de_Goya%2C_El_sue%C3%B1o_de_la_razon_produce_monstruos_%28The_Sleep_of_Reason_Produces_Monsters%29%2C_published_1799%2C_NGA_7502.jpg",
+        "credit": "Francisco Goya；National Gallery of Art，Rosenwald Collection，1943.3.4711.qq",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Francisco_de_Goya%2C_El_sue%C3%B1o_de_la_razon_produce_monstruos_%28The_Sleep_of_Reason_Produces_Monsters%29%2C_published_1799%2C_NGA_7502.jpg"
+      },
+      "license": {
+        "label": "NGA Open Access・CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
       }
     },
     {
@@ -1143,42 +1143,6 @@
       }
     },
     {
-      "id": "wc-wingklee-polar",
-      "library": "photo",
-      "title": "塑膠透明盒中的應力光紋",
-      "titleEn": "Stress-induced birefringence",
-      "creator": "WingkLEE",
-      "date": "2010-06-21",
-      "technique": "偏光攝影・光彈應力紋",
-      "visual": "方盒邊、圓形視野與黑色遮擋框住虹色區域，曲折光紋不像印在盒上的均勻漸層。",
-      "method": "拍攝者稱彩紋來自放在兩片相互交錯偏光片之間的塑膠盒。",
-      "why": "交叉偏光可壓暗未經材料的背景光；塑膠中的應力與厚度分布會改變偏振，形成彎曲的干涉色。練習時可對照旋轉偏光片前後的顏色。",
-      "unknown": "未確認盒子樹脂種類、應力大小、偏光片型號或光源；本圖只能作質性觀察，不能讀成定量應力。",
-      "prompt": "在交叉偏光片中拍攝一片透明硬塑膠，保留實物邊界與光學遮罩。讓虹色條紋沿孔洞與邊角扭轉，局部背景接近黑色，不把顏色畫成塗漆。",
-      "promptEn": "Original crossed-polarizer photo of clear rigid plastic, with real material edges and a dark optical mask. Strain-related rainbow fringes curve around holes and corners against a nearly black background; color appears optically, not as paint.",
-      "promptKind": "curator-derived",
-      "source": {
-        "url": "https://commons.wikimedia.org/wiki/File:Stress_induced_birefringence.jpg",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Stress_induced_birefringence.jpg",
-        "publisher": "Wikimedia Commons",
-        "credit": "WingkLEE",
-        "checked": "2026-11-18",
-        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Stress_induced_birefringence.jpg#Licensing"
-      },
-      "license": {
-        "label": "公有領域（作者明示）",
-        "url": "https://commons.wikimedia.org/wiki/File:Stress_induced_birefringence.jpg#Licensing"
-      },
-      "image": {
-        "src": "assets/wc-wingklee-polar.webp",
-        "alt": "圓形深色遮罩內的透明方盒發出彎曲虹色光紋。",
-        "modification": "等比例縮小並轉為 WebP；未裁切或調色。",
-        "width": 1280,
-        "height": 1110,
-        "sha256": "a501454ab4fe62379542280ddc3f33ebf0a46f89b169594551eb0caeabf33614"
-      }
-    },
-    {
       "id": "kenney-monochrome-rpg",
       "library": "art",
       "title": "Monochrome RPG｜單色村莊模組",
@@ -1215,6 +1179,42 @@
       }
     },
     {
+      "id": "wc-wingklee-polar",
+      "library": "photo",
+      "title": "塑膠透明盒中的應力光紋",
+      "titleEn": "Stress-induced birefringence",
+      "creator": "WingkLEE",
+      "date": "2010-06-21",
+      "technique": "偏光攝影・光彈應力紋",
+      "visual": "方盒邊、圓形視野與黑色遮擋框住虹色區域，曲折光紋不像印在盒上的均勻漸層。",
+      "method": "拍攝者稱彩紋來自放在兩片相互交錯偏光片之間的塑膠盒。",
+      "why": "交叉偏光可壓暗未經材料的背景光；塑膠中的應力與厚度分布會改變偏振，形成彎曲的干涉色。練習時可對照旋轉偏光片前後的顏色。",
+      "unknown": "未確認盒子樹脂種類、應力大小、偏光片型號或光源；本圖只能作質性觀察，不能讀成定量應力。",
+      "prompt": "在交叉偏光片中拍攝一片透明硬塑膠，保留實物邊界與光學遮罩。讓虹色條紋沿孔洞與邊角扭轉，局部背景接近黑色，不把顏色畫成塗漆。",
+      "promptEn": "Original crossed-polarizer photo of clear rigid plastic, with real material edges and a dark optical mask. Strain-related rainbow fringes curve around holes and corners against a nearly black background; color appears optically, not as paint.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Stress_induced_birefringence.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Stress_induced_birefringence.jpg",
+        "publisher": "Wikimedia Commons",
+        "credit": "WingkLEE",
+        "checked": "2026-11-18",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Stress_induced_birefringence.jpg#Licensing"
+      },
+      "license": {
+        "label": "公有領域（作者明示）",
+        "url": "https://commons.wikimedia.org/wiki/File:Stress_induced_birefringence.jpg#Licensing"
+      },
+      "image": {
+        "src": "assets/wc-wingklee-polar.webp",
+        "alt": "圓形深色遮罩內的透明方盒發出彎曲虹色光紋。",
+        "modification": "等比例縮小並轉為 WebP；未裁切或調色。",
+        "width": 1280,
+        "height": 1110,
+        "sha256": "a501454ab4fe62379542280ddc3f33ebf0a46f89b169594551eb0caeabf33614"
+      }
+    },
+    {
       "id": "commons-pixel-lab",
       "library": "art",
       "title": "The Pixel Lab｜共繪剖面異境",
@@ -1248,6 +1248,540 @@
         "width": 1280,
         "height": 508,
         "sha256": "c20b24f88f986eb30888c223a49990f9ca4f201cd9ce2104f0062b205a45588e"
+      }
+    },
+    {
+      "id": "wc-silver-photogram",
+      "library": "photo",
+      "title": "Photopaper UNI3｜銀鹽感光紙的硬幣接觸影像",
+      "creator": "Runner1616",
+      "date": "2017（公開）",
+      "technique": "銀鹽接觸攝影・無鏡頭（photogram）",
+      "visual": "灰藍相紙上有清楚淺圓影，照片右下另有實物硬幣可比對。這是一張記錄技法結果與遮擋物的相片，不是把銀鹽紙掃成正片。",
+      "method": "作者說在日光下用硬幣遮住明膠銀鹽照相紙，留下接觸影像；這不是普魯士藍的 cyanotype。練習可對照貼紙試片與立高少許的遮擋，觀察投影邊的變化。",
+      "why": "不用相機成像，主體只需遮擋到光。紙上淺印與原物放在同一幅，能立即區分實物紋理與留白輪廓。",
+      "unknown": "曝光時長、相紙乳劑規格與顯影或定影做法無法核實，不能把照片的灰藍外觀說成原紙固定色。",
+      "prompt": "攝影教材式原創接觸影像：六枚無文字素金屬片排列於銀鹽相紙，數個淺色圓影帶略軟邊，旁邊同框保留兩枚實物作尺度比較；自然面光，不用相機散景或藍曬重濾鏡。",
+      "promptEn": "Original photographic teaching study of six blank metal disks on gelatin-silver photographic paper, pale round contact shadows of varying edge softness and two actual disks shown beside the sheet for scale, natural surface illumination, no bokeh or heavy cyanotype filter.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Photopaper_UNI3.jpg",
+        "publisher": "Wikimedia Commons",
+        "credit": "Runner1616",
+        "checked": "2026-11-18",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Photopaper_UNI3.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Photopaper_UNI3.jpg"
+      },
+      "license": {
+        "label": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "image": {
+        "src": "assets/wc-silver-photogram.webp",
+        "width": 1280,
+        "height": 950,
+        "alt": "灰藍相紙上有清楚淺圓影，照片右下另有實物硬幣可比對。這是一張記錄技法結果與遮擋物的相片，不是把銀鹽紙掃成正片。",
+        "modification": "由來源的全幅影像等比例縮放並轉為 WebP；未裁切或調色。 轉檔仍按同一授權提供，不代表作者背書。",
+        "sha256": "7c5fde393ce6e6ad31377dfa9cec49613247e2a7f65d248c86d594cbd811b2d3"
+      }
+    },
+    {
+      "id": "met-ohr",
+      "library": "art",
+      "title": "Vase｜擠捏口緣陶瓶",
+      "creator": "George E. Ohr",
+      "date": "約 1897–1900",
+      "technique": "土陶・不對稱器口",
+      "visual": "瓶身是一個鉛直、平穩的卵形，暗色口緣卻折成不規則的薄片；褐色釉面點紋延伸到較光滑的肩部。",
+      "method": "館方標材質為土陶。作另一款時先定平穩的底足與腹部，再在口緣製造少量薄而不規則的折面；高光須隨曲面連續變動。",
+      "why": "規整的腹部讓口緣的變形看起來有意為之，器物不必靠過度扭曲才有識別度。",
+      "unknown": "未查到這件的個別揉捏順序、土坯厚度、釉配方或燒成溫度；折面製作步驟是練習方案。",
+      "prompt": "原創工藝土陶瓶，矮底足和完整卵形腹部，上方薄口向內自由折成三個不對稱面，褐色點狀釉與折邊青黑高光，霧灰工作室背景，不仿任何館藏輪廓。",
+      "promptEn": "Original earthenware vessel, low foot and consistent ovoid body, thin irregular folded rim with three asymmetrical creases, speckled umber glaze and blue-black rim reflections, matte gray studio background, do not copy a museum silhouette.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.metmuseum.org/art/collection/search/19878",
+        "publisher": "The Metropolitan Museum of Art",
+        "credit": "George E. Ohr；The Metropolitan Museum of Art，2017.357.12",
+        "checked": "2026-11-18",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Vase_MET_L.2009.22.261.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Vase_MET_L.2009.22.261.jpg"
+      },
+      "license": {
+        "label": "CC0 1.0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "image": {
+        "src": "assets/met-ohr.webp",
+        "width": 960,
+        "height": 1280,
+        "alt": "瓶身是一個鉛直、平穩的卵形，暗色口緣卻折成不規則的薄片；褐色釉面點紋延伸到較光滑的肩部。",
+        "modification": "由來源的全幅影像等比例縮放並轉為 WebP；未裁切或調色。",
+        "sha256": "8cac13a408aeb1bbe95c3590b43af876f853ff563d7ab9a6a051472f57ad3b89"
+      }
+    },
+    {
+      "id": "wc-alex-darkfield",
+      "library": "photo",
+      "title": "金屬微粒的暗場顯微影像",
+      "titleEn": "Dark field of matter",
+      "creator": "AlexMcAnrdrew",
+      "date": "2019-10-29",
+      "technique": "顯微攝影・光學暗場散射",
+      "visual": "深棕底上，明亮金色細絲與小環散布在規律的暗色方格之間。亮度差使微小邊緣在無地平線的滿版視野中仍然清楚。",
+      "method": "攝影者將此圖上傳為光學顯微鏡的暗場金屬微粒影像，作品頁未附儀器參數。",
+      "why": "暗場阻隔直射照明，讓散射光主導影像。要研究畫面效果，先比較同一物件在明場與暗場下的邊界反差，別只靠後製將背景整體壓黑。",
+      "unknown": "原作者未列放大倍率、照明波段、樣本成分與顏色處理方式；不把色澤當作材質鑑定。",
+      "prompt": "原創顯微暗場金屬微粒：讓斜向散射光點亮微小薄邊，顆粒散布而不重疊，背景保持深暗、仍能看見局部細紋。保留光學不均勻，不加炫光或虛構比例尺。",
+      "promptEn": "Original optical dark-field micrograph of metal particles, oblique-scattering highlights on thin edges, sparse non-overlapping forms, deep background with local faint texture. Keep optical variation; no lens flare or invented scale bar.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Dark_field_of_matter.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Dark_field_of_matter.jpg",
+        "publisher": "Wikimedia Commons",
+        "credit": "AlexMcAnrdrew",
+        "checked": "2026-11-18",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Dark_field_of_matter.jpg#Licensing"
+      },
+      "license": {
+        "label": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "image": {
+        "src": "assets/wc-alex-darkfield.webp",
+        "alt": "金色細絲及發亮的圓形微粒散布在規律黑色方格上。",
+        "modification": "轉為 WebP；未縮放、裁切或調色。",
+        "width": 1280,
+        "height": 960,
+        "sha256": "d28040bff9565d785676476ab7a6550e71b0aa9f93c35b2eaafbc3e28d757d57"
+      }
+    },
+    {
+      "id": "met-degas-monotype",
+      "library": "art",
+      "title": "Landscape｜風景單刷版畫",
+      "creator": "Edgar Degas",
+      "date": "1892",
+      "technique": "油彩單刷版畫・局部粉彩畫出",
+      "visual": "淺灰天空與迷霧山廓沒有硬線；青綠斜坡從棕紫岩層間溢開，幾條乾而淺的色線看起來比大色塊更清楚。",
+      "method": "館方標明油彩單刷版畫，再以粉彩提亮。練習先讓單次壓印留下大片不均勻油色，乾後只在視線要停留的位置加細粉彩，不把霧色補實。",
+      "why": "印壓的大色面帶偶然邊緣，後加粉彩給觀者幾個抓得到的邊界；兩種媒材不是同一種粗糙濾鏡。",
+      "unknown": "未獲本張的壓印強度、油分或加粉具體順序。一般單刷不等於每一種材料都只容許一張試印。",
+      "prompt": "原創山谷單刷版畫：霧灰天、青綠下坡與一條淺棕岩帶，保留斑駁壓印空隙；只在殘牆或遠坡放三四筆乾粉彩提亮，禁止銳利數位描邊。",
+      "promptEn": "Original landscape monotype of a mist-gray sky, jade downslope and light brown rock band, uneven gaps from single plate transfer; add three or four dry pastel marks on an invented wall or distant slope, no digitally sharp outline.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.metmuseum.org/art/collection/search/359362",
+        "publisher": "The Metropolitan Museum of Art",
+        "credit": "Edgar Degas；The Metropolitan Museum of Art，1972.636",
+        "checked": "2026-11-18",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Landscape_MET_DP109518.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Landscape_MET_DP109518.jpg"
+      },
+      "license": {
+        "label": "CC0 1.0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "image": {
+        "src": "assets/met-degas-monotype.webp",
+        "width": 1280,
+        "height": 962,
+        "alt": "淺灰天空與迷霧山廓沒有硬線；青綠斜坡從棕紫岩層間溢開，幾條乾而淺的色線看起來比大色塊更清楚。",
+        "modification": "由來源的全幅影像等比例縮放並轉為 WebP；未裁切或調色。",
+        "sha256": "030b9f0d0061717d8a518b0abb5019aefac7232bf1e2ae12f3afddaf1d841937"
+      }
+    },
+    {
+      "id": "loc-muybridge-sequence",
+      "library": "photo",
+      "title": "飛馳中的馬：十二格動態記錄",
+      "titleEn": "The Horse in Motion: Sallie Gardner",
+      "creator": "Eadweard Muybridge",
+      "date": "1878-06-19",
+      "technique": "動作攝影・多機分時連續拍攝",
+      "visual": "暖褐色印相卡分三列四格。騎手與馬的側面輪廓在不同畫格有清楚可比的角度，背板的刻度協助跟讀步態。",
+      "method": "美國國會圖書館記錄為蛋白印相卡；數位檔來自原件第二份。Commons 所載這次實驗用一排相機，拉線逐台觸發；不同於同一張底片用多次閃光疊影。",
+      "why": "固定側面觀察角度和每格邊界，讓人比較快速動作的不同階段，並可逐格辨識何時四足離地。",
+      "unknown": "未查得十二格各自精確曝光、相鄰時間差和相機設定。掃描器 EXIF 不是十九世紀的攝影器材。",
+      "prompt": "以一致側視拍下原創跳躍動作的十二個瞬間，三列四格。所有畫格對齊同一水平基準、保持相同比例，清楚顯示助跑、起跳、凌空和落地；不要混合成一張殘影。",
+      "promptEn": "Original twelve-frame side-view motion study of a jump, three rows of four. Lock scale, viewpoint and the horizontal datum; distinguish run-up, takeoff, airborne phase and landing. Separate frames, not a single motion trail.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.loc.gov/item/97502309/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Eadweard_Muybridge-Sallie_Gardner_1878.jpg",
+        "publisher": "Library of Congress Prints and Photographs Division（影像取自 Commons 存檔）",
+        "credit": "Eadweard Muybridge / Library of Congress, LC-DIG-ppmsca-06607",
+        "checked": "2026-11-18",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Eadweard_Muybridge-Sallie_Gardner_1878.jpg#Licensing"
+      },
+      "license": {
+        "label": "公有領域（版權期滿）",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/"
+      },
+      "image": {
+        "src": "assets/loc-muybridge-sequence.webp",
+        "alt": "一張暖褐色的舊蛋白印相卡，排有十二格馬與騎手的側面動態。",
+        "modification": "等比例縮小並轉為 WebP；未裁切或調色。",
+        "width": 1280,
+        "height": 798,
+        "sha256": "7b1e30831012452a8b27a1f47b35632bbc3ac481a255f338ba2464f5da1f9c2c"
+      }
+    },
+    {
+      "id": "yale-mezzotint",
+      "library": "art",
+      "title": "To the Society of Goffers at Blackheath｜致高爾夫球會",
+      "creator": "Valentine Green（刻印），據 Lemuel Francis Abbott 原畫",
+      "date": "1790 年出版",
+      "technique": "美柔汀（mezzotint）・黑底提亮",
+      "visual": "棕灰天空、黑帽與外套從深色底浮起，領口與長襪只用少量薄亮灰，整體明暗不是以平滑電腦漸層塗出。",
+      "method": "檔案來源列標準美柔汀，非蝕刻排線。工藝一般先把版面搖點成會印黑的細齒，再由刮削或打磨減弱蓄墨，漸漸做出亮調；本件個別分段未記錄。",
+      "why": "先有暗才磨出高光，留得住微粒和陰影包圍感；這比在白紙上逐層畫黑更能說明美柔汀的明暗方向。",
+      "unknown": "未核實本張的版面材質、齒紋或印壓；第一方網頁目前讀取受限，圖與 CC0 由檔案頁列 Yale 館藏來源。",
+      "prompt": "美柔汀式虛構漁夫與同伴雙人肖像，先以深棕灰版底統合天空與衣服再以刮磨亮調露出領口、帽頂雨點與手背；高光自然衰減，留紙白極少。",
+      "promptEn": "Original mezzotint of a fictional dockworker with a companion, a dark gray-brown plate unifies sky and coats, selectively scraped light tones in collar, hat raindrops, and hands, naturally graduated highlights with very little paper white.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Valentine_Green_-_To_the_Society_of_Goffers_at_Blackheath_-_B1994.4.504_-_Yale_Center_for_British_Art.jpg",
+        "publisher": "Yale Center for British Art",
+        "credit": "Valentine Green（刻印），據 Lemuel Francis Abbott 原畫；Yale Center for British Art，B1994.4.504",
+        "checked": "2026-11-18",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Valentine_Green_-_To_the_Society_of_Goffers_at_Blackheath_-_B1994.4.504_-_Yale_Center_for_British_Art.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Valentine_Green_-_To_the_Society_of_Goffers_at_Blackheath_-_B1994.4.504_-_Yale_Center_for_British_Art.jpg"
+      },
+      "license": {
+        "label": "CC0 1.0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "image": {
+        "src": "assets/yale-mezzotint.webp",
+        "width": 889,
+        "height": 1280,
+        "alt": "棕灰天空、黑帽與外套從深色底浮起，領口與長襪只用少量薄亮灰，整體明暗不是以平滑電腦漸層塗出。",
+        "modification": "由來源的全幅影像等比例縮放並轉為 WebP；未裁切或調色。",
+        "sha256": "f8a00b7871656640e02344c11630e763445415ca50019b8e12ede8f0e09beee2"
+      }
+    },
+    {
+      "id": "wc-diefenbach-rembrandt",
+      "library": "photo",
+      "title": "低調黑白人像：暗側小亮三角",
+      "titleEn": "Portrait with Rembrandt lighting",
+      "creator": "Jill Diefenbach",
+      "date": "2021-01-07",
+      "technique": "肖像攝影・倫勃朗式側上照明",
+      "visual": "人物面向鏡頭，畫面左側臉部受光，右側大面積暗下；暗側近眼下方仍留一小塊亮區，黑色衣物沒有和背景完全融在一起。",
+      "method": "作品以倫勃朗式照明發表，Wikimedia 志工驗證版權人授權。未提供燈位、燈具或實際拍攝圖。",
+      "why": "練習時逐步升高並側移主光，看鼻影與面頰暗影接合後，眼下是否留下小三角。暗側仍須留眼神與輪廓；不要只在後製硬畫一塊亮斑。",
+      "unknown": "原作是否為閃燈、主光角度、是否加補光、轉黑白配方，以及模特另行商用授權，皆未核實；僅用於作品解析，不暗示代言。",
+      "prompt": "原創低調黑白頭肩肖像，鏡頭至眼睛同高，偏高側主光塑造鼻頰陰影，暗側眼下留小三角；背景低亮保留層次、眼神可見、不磨皮。人物五官及衣著完全重新設計。",
+      "promptEn": "Original low-key black-and-white head-and-shoulders portrait, eye-level camera, raised side key shaping the nose and cheek shadows, small light triangle under the far eye. Keep subtle background separation and visible eyes, no skin smoothing; redesign face and clothing.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Portraet_rembrandt_licht.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Portraet_rembrandt_licht.jpg",
+        "publisher": "Wikimedia Commons（版權人授權已核對）",
+        "credit": "Jill Diefenbach",
+        "checked": "2026-11-18",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Portraet_rembrandt_licht.jpg#Licensing"
+      },
+      "license": {
+        "label": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "image": {
+        "src": "assets/wc-diefenbach-rembrandt.webp",
+        "alt": "一名身穿深色上衣的成年男子，面部一側亮一側暗。",
+        "modification": "等比例縮小並轉為 WebP；未裁切或調色。此圖像檔沿用 CC BY-SA 4.0。",
+        "width": 854,
+        "height": 1280,
+        "sha256": "3308215883fba648ab6484e7e455b7dcac6d81597807aa9009ee39feecc6b912"
+      }
+    },
+    {
+      "id": "met-fresco",
+      "library": "art",
+      "title": "Allegorical Figures Representing Virtue and Abundance｜德性與豐饒",
+      "creator": "Giovanni Battista Tiepolo 與工坊",
+      "date": "1760",
+      "technique": "濕壁畫・後轉移至畫布",
+      "visual": "圓形框內，穿長衣的兩位寓意人物以暖灰方式浮在雲上，赭粉底像薄石灰層，遠看近似浮雕但非真正雕刻。",
+      "method": "館方標媒材為濕壁畫、後轉移至畫布。在新作設計以固定視距切工作區，趁灰泥未乾時安排大形；窄色域和亮調先控制體積，不把壁畫當油畫需反覆厚蓋。",
+      "why": "畫框外看得到圓弧，內部灰階的受光方向一致；畫成類浮雕能在天花遠距維持辨識。",
+      "unknown": "未獲此件使用的天然顏料、每天灰泥接縫及轉移年份；畫布是後續承托，不是當年直接畫布作畫。",
+      "prompt": "虛構圖書館天花濕壁畫圓章，兩名穿寬幅長衣的飛行信差，粉赭灰泥底與窄暖灰明暗，雲團承托動勢、圓框留清晰邊，不做真正金屬浮雕。",
+      "promptEn": "Original circular ceiling fresco for a fictional library, two airborne messengers in flowing long garments, rosy ochre plaster with narrow warm gray lights and shadows, clouds support movement; distinct round rim, no physical metal relief.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.metmuseum.org/art/collection/search/437804",
+        "publisher": "The Metropolitan Museum of Art",
+        "credit": "Giovanni Battista Tiepolo and Workshop；The Metropolitan Museum of Art，館藏編號 437804",
+        "checked": "2026-11-18",
+        "imageUrl": "https://images.metmuseum.org/CRDImages/ep/web-large/DP287634.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Virtue_and_Abundance_MET_DP287634.jpg"
+      },
+      "license": {
+        "label": "CC0 1.0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "image": {
+        "src": "assets/met-fresco.webp",
+        "width": 600,
+        "height": 596,
+        "alt": "圓形框內，穿長衣的兩位寓意人物以暖灰方式浮在雲上，赭粉底像薄石灰層，遠看近似浮雕但非真正雕刻。",
+        "modification": "由來源的全幅影像等比例縮放並轉為 WebP；未裁切或調色。",
+        "sha256": "9c421b5ecc3d0a660d471f49c7abefb1a55384c987264ec288835255d4660ba2"
+      }
+    },
+    {
+      "id": "wc-observatoire-stereo",
+      "library": "photo",
+      "title": "巴黎天文台的左右眼立體照",
+      "titleEn": "Observatoire de Paris stereo picture",
+      "creator": "VeronicaInDream",
+      "date": "2019-10-20",
+      "technique": "立體攝影・並排雙視點",
+      "visual": "兩個黑白畫格並列。傾斜的遮棚占同樣位置，但棚邊與背景樹叢的相對距離有細微變化；下緣草地仍平視而非旋轉。",
+      "method": "作者將作品描述為研究中的立體影像技法，提供一組能以雙眼視差閱讀的略不同視點。",
+      "why": "自己拍時要選前、中、後景分離明確的靜物，兩幅保持相同焦段、水平線、曝光和尺度。差別應主要是近景相對背景的水平平移，不是把左幅鏡像。",
+      "unknown": "未核實基線距離、拍攝器材與左右排列所用的精確觀看方式。",
+      "prompt": "拍攝一組原創雙視點立體對照照片：同高並排的兩個水平視點、同尺寸與同曝光，近景白色棚布相對遠處深灰樹群產生細微水平視差。同一場景但不直接複製或鏡像。",
+      "promptEn": "Original side-by-side stereo pair from two horizontal viewpoints at the same height. Lock framing, scale and exposure. A pale near fabric shelter shifts slightly against distant dark trees; two genuine viewpoints, not a duplicated or mirrored image.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Observatoire_de_Paris_Stereo_picture.png",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Observatoire_de_Paris_Stereo_picture.png",
+        "publisher": "Wikimedia Commons",
+        "credit": "VeronicaInDream",
+        "checked": "2026-11-18",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Observatoire_de_Paris_Stereo_picture.png#Licensing"
+      },
+      "license": {
+        "label": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "image": {
+        "src": "assets/wc-observatoire-stereo.webp",
+        "alt": "兩幅黑白棚屋照片並排，棚邊與遠處樹群的相對位置略有不同。",
+        "modification": "轉為 WebP；未縮放、裁切或調色。",
+        "width": 1036,
+        "height": 532,
+        "sha256": "8a23a83e4ff54d4597528cf0022e8d0820643af97c0de5ca540cda53f7e33ee6"
+      }
+    },
+    {
+      "id": "nga-wood-engraving",
+      "library": "art",
+      "title": "Le Juif Errant｜歷史題材木口木刻",
+      "creator": "Georges Rouget（刻印），據 Gustave Doré 原圖",
+      "date": "約 1856",
+      "technique": "木口木刻・黑底裁亮線",
+      "visual": "旅人位於峽谷水上，深墨林地壓住兩邊。水面反光以短白線連成斷裂的亮帶，細樹枝也從黑底先被辨認。",
+      "method": "館方列為木口木刻，刻印歸 Rouget，原圖署 Doré。練習把墨面做黑底，再以細小、清晰的留白線營造水和灌木；以格狀白線完成不同密度，不把所有明暗交給灰濾鏡。",
+      "why": "短線密度足以在小尺寸黑白印刷重現多層灰階，與套色木版的色版分工不同。",
+      "unknown": "未核實本件木材種類或刀具。畫名是歷史物件題名，生成練習不沿用題材或人物。",
+      "prompt": "原創黑白木口木刻，虛構登山者穿過暮色溪谷；深墨石崖與樹叢，短窄白線切出水面反光和葉側，刻線疏密掌握灰階，無文字及舊作場景複製。",
+      "promptEn": "Original black-and-white end-grain wood engraving, fictional hiker crossing a dusk stream, deep ink cliffs and branches, short narrow white lines for reflections and foliage edge, vary cut density for gray, no text or reproduction of the original imagery.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.nga.gov/artworks/56896-le-juif-errant",
+        "publisher": "National Gallery of Art",
+        "credit": "Georges Rouget after Gustave Doré；National Gallery of Art，Ailsa Mellon Bruce Fund，1978.104.8",
+        "checked": "2026-11-18",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Georges_Rouget_after_Gustave_Dor%C3%A9%2C_Le_Juif_Errant%2C_c._1856%2C_NGA_56896.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Georges_Rouget_after_Gustave_Dor%C3%A9%2C_Le_Juif_Errant%2C_c._1856%2C_NGA_56896.jpg"
+      },
+      "license": {
+        "label": "CC0 1.0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "image": {
+        "src": "assets/nga-wood-engraving.webp",
+        "width": 845,
+        "height": 1280,
+        "alt": "旅人位於峽谷水上，深墨林地壓住兩邊。水面反光以短白線連成斷裂的亮帶，細樹枝也從黑底先被辨認。",
+        "modification": "由來源的全幅影像等比例縮放並轉為 WebP；未裁切或調色。",
+        "sha256": "301fdfe3bb1019e87d2973da5abe57a05c4207a871bc494902c7dd4d8eb4a825"
+      }
+    },
+    {
+      "id": "wc-notabene-sabattier",
+      "library": "photo",
+      "title": "暗房再曝光：薩巴捷紙相對照",
+      "titleEn": "Sabattier paper prints",
+      "creator": "N0TABENE",
+      "date": "2016-03-01（檔案頁）",
+      "technique": "銀鹽暗房・薩巴捷部分反轉",
+      "visual": "人物團體構圖重複兩次。左圖大面積偏暗但仍有亮輪廓，右圖大塊黑白互換，部分邊線沒有跟著簡單反相。",
+      "method": "作者的檔案說明：左圖先部分顯影、再曝光、完成顯影；繼而把左圖當紙負片製作右圖。",
+      "why": "重點是表面原有明度只部分反轉，明暗交界可能冒出狹細的線。不應將技巧簡化成把全圖套負片或用強銳化平替。",
+      "unknown": "未核實再曝秒數、顯影液、操作溫度；並排畫面為真紙相掃描，不是數位演算示例。",
+      "prompt": "原創銀鹽暗房風格的明度反轉對照：同一靜物兩版並置，先保留中間調，再以局部反相和細線表現邊界；右版用紙負片翻印的極端黑白。不套全域反相，不加網點。",
+      "promptEn": "Original silver-gelatin-style darkroom reversal comparison, same still life in two prints. Preserve some midtones; introduce selective tonal reversal and thin boundary lines; show an extreme black-white paper-negative reprint at right. No global invert or halftone overlay.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Sabattier_paper_prints.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Sabattier_paper_prints.jpg",
+        "publisher": "Wikimedia Commons",
+        "credit": "N0TABENE",
+        "checked": "2026-11-18",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Sabattier_paper_prints.jpg#Licensing"
+      },
+      "license": {
+        "label": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "image": {
+        "src": "assets/wc-notabene-sabattier.webp",
+        "alt": "兩版黑白團體紙相並排，有部分明暗反轉和亮輪廓。",
+        "modification": "轉為 WebP；未縮放、裁切或調色。此圖像檔沿用 CC BY-SA 4.0。",
+        "width": 576,
+        "height": 447,
+        "sha256": "dc31d2fd8f51668b23b0d5cda502b5d11bd43df9c9c9a44aca08819291a43636"
+      }
+    },
+    {
+      "id": "wc-ivanco-falsecolor",
+      "library": "photo",
+      "title": "亞伯達公路的假色近紅外影像",
+      "titleEn": "Infrared highway",
+      "creator": "N Ivanco（EXIF：Tyler Ivanco）",
+      "date": "2014-03-09",
+      "technique": "光譜影像・近紅外假色呈現",
+      "visual": "狹長畫幅，近乎黑白的劇烈灰階反差中，地面局部帶淡褐色；中央偏左的電線桿切過水平地平線，雲層細節沒有變成純白。",
+      "method": "作者明示近紅外拍攝且以假色發表，檔案頁標注 760 nm。這張卡拆解色彩呈現，與 720 nm 案例的濾鏡與材質明度是同一大類下的不同研究問題。",
+      "why": "需要近紅外材料先區分哪些色彩是呈現選擇，再用中性灰固定參考，讓偏色只服務視覺層級；不要把假色視為肉眼顏色。",
+      "unknown": "未核實相機改裝、通道交換、白平衡或精確波段；不能從成圖逆推一套唯一調色參數。",
+      "prompt": "原創近紅外公路地景，陰暗天幕、亮而有紋理的低雲、淡褐土壤；以近單色的假色映射保留不同表面的反差，不將地面畫成一片大紅，也不憑空發明特定通道公式。",
+      "promptEn": "Original near-infrared road landscape, dark upper sky, luminous textured low clouds, faintly brown ground. Use restrained near-monochrome false color to separate materials; no saturated red wash and no claim about a specific channel recipe.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Infrared_highway.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Infrared_highway.jpg",
+        "publisher": "Wikimedia Commons",
+        "credit": "N Ivanco（EXIF：Tyler Ivanco）",
+        "checked": "2026-11-18",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Infrared_highway.jpg#Licensing"
+      },
+      "license": {
+        "label": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "image": {
+        "src": "assets/wc-ivanco-falsecolor.webp",
+        "alt": "狹長地平線上有電線桿，灰白厚雲與淡褐地面分離。",
+        "modification": "等比例縮小並轉為 WebP；未裁切或調色。此圖像檔沿用 CC BY-SA 4.0。",
+        "width": 1280,
+        "height": 454,
+        "sha256": "822c8aeb1c3e1336df6264a52414a7be87f40b48fca5e5ed4a2bf15a9eb270c9"
+      }
+    },
+    {
+      "id": "wc-schoenherr-planet",
+      "library": "photo",
+      "title": "從 34 張照片到小行星全景",
+      "titleEn": "Making of a Little Planet panorama",
+      "creator": "Maximilian Schönherr",
+      "date": "2017-07-29",
+      "technique": "全景重投影・球極投影",
+      "visual": "直式步驟表從長條全景開始，地面逐步彎成環，最後成為中央圓形陸地，薄薄天空圍住外緣。",
+      "method": "創作者寫明以 34 張照片拼成球面全景，再改成球極投影；調整投影直到兩側在底端相接，最後微旋轉和輕調色。",
+      "why": "先拼好完整全景再轉投影，才能把地面集中到中心而不是用普通魚眼硬扭。收合時檢查步道和地平線在接縫前後是否連續。",
+      "unknown": "未核實鏡頭、拍攝基座、軟體和中間投影數值；原檔保留整個流程，本館沒有拆取最後一格。",
+      "prompt": "原創小行星式攝影：把一處虛構公園的 360 度地景球極投影到平面，草地成中心圓盤、樹和步道沿地平線向外張開，天空留一圈。接縫處路的寬度和方向必須連續。",
+      "promptEn": "Original little-planet photograph: stereographically reproject a 360-degree view of an invented park. Grass forms the central disc, trees and paths radiate toward a clear rim of sky. Preserve path width and direction across the seam.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Making_of_a_Little_Planet_panorama.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Making_of_a_Little_Planet_panorama.jpg",
+        "publisher": "Wikimedia Commons",
+        "credit": "Maximilian Schönherr",
+        "checked": "2026-11-18",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Making_of_a_Little_Planet_panorama.jpg#Licensing"
+      },
+      "license": {
+        "label": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "image": {
+        "src": "assets/wc-schoenherr-planet.webp",
+        "alt": "直列七個步驟，從全景長幅逐步彎成以天空包住的小行星。",
+        "modification": "等比例縮小並轉為 WebP；未裁切或調色。此圖像檔沿用 CC BY-SA 4.0。",
+        "width": 345,
+        "height": 1600,
+        "sha256": "d2debd18f585724e78daab40abfb869db54ab6c77d5a372af13b18698f195314"
+      }
+    },
+    {
+      "id": "wc-mackensen-railpoint",
+      "library": "photo",
+      "title": "列車尾窗的單點透視",
+      "titleEn": "Vanishing point from the California Zephyr",
+      "creator": "Mackensen（Charles Fulton）",
+      "date": "2018-10-20",
+      "technique": "視角與構圖・低地平線單點透視",
+      "visual": "鐵軌自近處兩側收向畫面中間偏低，藍天占去上半部；左側土地較暗，右側的暖色狹帶提供空間方向感。",
+      "method": "作者從行駛路線列車的後方取景，畫面取向朝平行鐵軌縱向；檔案標明 Nexus 6P、約 1/459 秒、f/2、ISO 63。",
+      "why": "一點透視由相機位置和取景方向決定，畫面中心線不是後製補畫。只在公共觀景窗或合法安全點拍攝，別走上鐵軌。",
+      "unknown": "原檔 EXIF 留有較早 NC 標記；以同一權利人檔案頁明示再釋出的 CC BY-SA 4.0 使用。是否透過車窗、是否裁切及 HDR+ 合成張數未核實。",
+      "prompt": "從安全公共觀看位置向虛構高架軌道後方拍攝，平行鐵軌收束於略低於中央的單一消失點，天空保留大片漸層，兩側近地材質差異明顯；不必靠速度模糊營造深度。",
+      "promptEn": "Original rearward rail photograph from a safe public viewing point. Two parallel rails converge toward one point just below center, with a broad graduated sky and contrasting ground textures left and right. Use geometry, not forced speed blur, for depth.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Vanishing_point_from_the_California_Zephyr.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Vanishing_point_from_the_California_Zephyr.jpg",
+        "publisher": "Wikimedia Commons",
+        "credit": "Mackensen（Charles Fulton）",
+        "checked": "2026-11-18",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Vanishing_point_from_the_California_Zephyr.jpg#Licensing"
+      },
+      "license": {
+        "label": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "image": {
+        "src": "assets/wc-mackensen-railpoint.webp",
+        "alt": "直線鐵軌穿過開闊地面，在大片藍天下收至地平線。",
+        "modification": "等比例縮小並轉為 WebP；未裁切或調色。此圖像檔沿用 CC BY-SA 4.0。",
+        "width": 1280,
+        "height": 960,
+        "sha256": "ff5104056aa7215abf3db0e2bfa987ac5ad8878eeca733f68c8485693759801a"
+      }
+    },
+    {
+      "id": "wc-stifle-ringflash",
+      "library": "photo",
+      "title": "環形閃光留下的眼神光",
+      "titleEn": "Human eye ring flash",
+      "creator": "Stifle（Thomas Ralph）",
+      "date": "2021-12-10",
+      "technique": "微距照明・鏡頭同軸環形閃光",
+      "visual": "畫面只取眼睛、睫毛和周圍皮膚。灰藍虹膜中央有兩段發亮圓弧，環形沒有被修成電子式全圓；細微暗線依然可見。",
+      "method": "拍攝者自述以環形閃光照明並特意留下眼神光。EXIF 記錄 Nikon D300S、105 mm、1/100 秒、f/36、ISO 200。",
+      "why": "眼球表面的鏡面反射會顯示光源的實際形狀。環形閃光從鏡頭周圍送光，圖中的環狀反射不同於方形柔光箱留下的亮點；練習可改拍有光澤的小球來比光型。",
+      "unknown": "未核實原作閃燈品牌、功率、工作距離與修圖流程；這組參數不是對著眼睛打閃光的操作建議。",
+      "prompt": "原創近距離眼睛攝影，鏡頭同軸的柔和環狀眼神光以兩段小弧倒映，保留睫毛和皮膚紋理；虹膜保持自然結構，不把反光畫成發亮圖案或修改人物身份。",
+      "promptEn": "Original eye macro with a coaxial ring-flash catchlight visible as two small reflected arcs. Retain eyelashes, skin texture and natural iris structure; no glowing symbols or copied identity.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Human_eye_ring_flash.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Human_eye_ring_flash.jpg",
+        "publisher": "Wikimedia Commons",
+        "credit": "Stifle（Thomas Ralph）",
+        "checked": "2026-11-18",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Human_eye_ring_flash.jpg#Licensing"
+      },
+      "license": {
+        "label": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "image": {
+        "src": "assets/wc-stifle-ringflash.webp",
+        "alt": "灰藍色眼睛的中央映出兩小段圓弧，在放大畫面中可看清睫毛。",
+        "modification": "等比例縮小並轉為 WebP；未裁切或調色。此圖像檔沿用 CC BY-SA 4.0。",
+        "width": 951,
+        "height": 1280,
+        "sha256": "b56c1f089b9e7c1ff438833120cc3e7d746bb87c8dede252659455892d188212"
       }
     }
   ]

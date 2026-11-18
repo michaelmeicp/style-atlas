@@ -132,5 +132,11 @@ try{
   b.onclick=()=>detail(feature,b);
   $('feature-caption').append(el('span',feature.title),el('span',feature.creator+' · '+feature.date));$('feature').hidden=false;
  }
-}catch{error=true}
-ready=true;updateMethods();refreshCoverage();render();
+}catch{
+ error=true;
+ if($('sheet').querySelector('[data-static-case]')){
+  $('count').textContent='互動功能未能載入。仍可瀏覽下方圖格、展開技法與提示詞，或開啟原始來源。';
+ }
+}
+if(!error){$('gallery-controls').hidden=false;ready=true;updateMethods();refreshCoverage();render();}
+else if(!$('sheet').querySelector('[data-static-case]')){ready=true;refreshCoverage();render();}

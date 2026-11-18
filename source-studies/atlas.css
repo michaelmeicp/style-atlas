@@ -17,3 +17,12 @@ dialog{width:min(950px,calc(100% - 22px));max-width:none;max-height:88dvh;paddin
 .method-notes p{line-height:1.65;color:#c4c8ca;margin:0 0 .9rem}
 .method-notes a{color:#e1d9b8;text-underline-offset:.22em}
 @media(max-width:620px){.method-notes{grid-template-columns:minmax(0,1fr)}}
+/* The gallery should be on-screen when a phone opens the bare URL. */
+@media(max-width:700px){
+ .intro{padding:15px 0 7px}.intro h1{font-size:clamp(2rem,9.8vw,3.5rem)}
+ .intro .feature,.intro .explore{display:none}
+}
+.static-card .card-open{display:block;text-decoration:none}
+.static-details{margin:0 8px 8px;font-size:.84rem;color:var(--sub);overflow-wrap:anywhere}
+.static-details summary{min-height:44px;display:list-item;align-content:center;cursor:pointer;padding:8px 0}
+.static-details p{margin-bottom:8px}.static-details a{color:var(--ink)}
