@@ -1,0 +1,283 @@
+# Style Atlas — 作品圖片權利
+
+各圖片依下列授權提供。未對其他創作者的圖片主張同一總授權。
+
+## Wheat Field with Cypresses｜麥田與柏樹
+- 檔案：assets/met-436535.webp
+- 署名：Vincent van Gogh；The Metropolitan Museum of Art，作品編號 436535
+- 來源：https://www.metmuseum.org/art/collection/search/436535
+- 展示權利：Met Open Access・CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://www.metmuseum.org/hubs/open-access
+- 檔案調整：完整畫面等比例縮小、轉為 WebP；未裁切或調色。
+
+## Under the Wave off Kanagawa｜神奈川沖浪裏
+- 檔案：assets/met-39799.webp
+- 署名：Katsushika Hokusai；The Metropolitan Museum of Art，作品編號 39799
+- 來源：https://www.metmuseum.org/art/collection/search/39799
+- 展示權利：Met Open Access・CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://www.metmuseum.org/hubs/open-access
+- 檔案調整：完整畫面等比例縮小、轉為 WebP；未裁切或調色。
+
+## Venice｜威尼斯
+- 檔案：assets/met-12460.webp
+- 署名：John Singer Sargent；The Metropolitan Museum of Art，作品編號 12460
+- 來源：https://www.metmuseum.org/art/collection/search/12460
+- 展示權利：Met Open Access・CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://www.metmuseum.org/hubs/open-access
+- 檔案調整：完整畫面等比例縮小、轉為 WebP；未裁切或調色。
+
+## The Dance Lesson｜舞蹈課
+- 檔案：assets/met-436132.webp
+- 署名：Edgar Degas；The Metropolitan Museum of Art，作品編號 436132
+- 來源：https://www.metmuseum.org/art/collection/search/436132
+- 展示權利：Met Open Access・CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://www.metmuseum.org/hubs/open-access
+- 檔案調整：完整畫面等比例縮小、轉為 WebP；未裁切或調色。
+
+## Jan Six
+- 檔案：assets/met-391886.webp
+- 署名：Rembrandt van Rijn；The Metropolitan Museum of Art，作品編號 391886
+- 來源：https://www.metmuseum.org/art/collection/search/391886
+- 展示權利：Met Open Access・CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://www.metmuseum.org/hubs/open-access
+- 檔案調整：完整畫面等比例縮小、轉為 WebP；未裁切或調色。
+
+## May Milton
+- 檔案：assets/met-333986.webp
+- 署名：Henri de Toulouse-Lautrec；The Metropolitan Museum of Art，作品編號 333986
+- 來源：https://www.metmuseum.org/art/collection/search/333986
+- 展示權利：Met Open Access・CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://www.metmuseum.org/hubs/open-access
+- 檔案調整：完整畫面等比例縮小、轉為 WebP；未裁切或調色。
+
+## Fishing Boats, Key West｜基韋斯特漁船
+- 檔案：assets/met-11120.webp
+- 署名：Winslow Homer；The Metropolitan Museum of Art，作品編號 11120
+- 來源：https://www.metmuseum.org/art/collection/search/11120
+- 展示權利：Met Open Access・CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://www.metmuseum.org/hubs/open-access
+- 檔案調整：完整畫面等比例縮小、轉為 WebP；未裁切或調色。
+
+## Snow Clearing: Landscape after Li Cheng｜王翬雪霽山水
+- 檔案：assets/met-40021.webp
+- 署名：王翬 Wang Hui；The Metropolitan Museum of Art，作品編號 40021
+- 來源：https://www.metmuseum.org/art/collection/search/40021
+- 展示權利：Met Open Access・CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://www.metmuseum.org/hubs/open-access
+- 檔案調整：完整畫面等比例縮小、轉為 WebP；未裁切或調色。
+
+## Pink and Rose
+- 檔案：assets/met-337071.webp
+- 署名：William Morris；The Metropolitan Museum of Art，作品編號 337071
+- 來源：https://www.metmuseum.org/art/collection/search/337071
+- 展示權利：Met Open Access・CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://www.metmuseum.org/hubs/open-access
+- 檔案調整：完整畫面等比例縮小、轉為 WebP；未裁切或調色。
+
+## Jania rubens｜紅藻藍曬
+- 檔案：assets/met-291605.webp
+- 署名：Anna Atkins；The Metropolitan Museum of Art，作品編號 291605
+- 來源：https://www.metmuseum.org/art/collection/search/291605
+- 展示權利：Met Open Access・CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://www.metmuseum.org/hubs/open-access
+- 檔案調整：完整畫面等比例縮小、轉為 WebP；未裁切或調色。
+
+## The Great Wave, Sète｜塞特大浪
+- 檔案：assets/met-261941.webp
+- 署名：Gustave Le Gray；The Metropolitan Museum of Art，作品編號 261941
+- 來源：https://www.metmuseum.org/art/collection/search/261941
+- 展示權利：Met Open Access・CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://www.metmuseum.org/hubs/open-access
+- 檔案調整：完整畫面等比例縮小、轉為 WebP；未裁切或調色。
+
+## Sappho
+- 檔案：assets/met-282044.webp
+- 署名：Julia Margaret Cameron；The Metropolitan Museum of Art，作品編號 282044
+- 來源：https://www.metmuseum.org/art/collection/search/282044
+- 展示權利：Met Open Access・CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://www.metmuseum.org/hubs/open-access
+- 檔案調整：完整畫面等比例縮小、轉為 WebP；未裁切或調色。
+
+## Dancers, Pink and Green｜粉與綠的舞者
+- 檔案：assets/met-436140.webp
+- 署名：Edgar Degas；The Metropolitan Museum of Art，作品編號 436140
+- 來源：https://www.metmuseum.org/art/collection/search/436140
+- 展示權利：Met Open Access・CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://www.metmuseum.org/hubs/open-access
+- 檔案調整：完整畫面等比例縮小、轉為 WebP；未裁切或調色。
+
+## Cape Horn, Columbia River, Oregon｜哥倫比亞河的角岬
+- 檔案：assets/met-286513.webp
+- 署名：Carleton E. Watkins；The Metropolitan Museum of Art，作品編號 286513
+- 來源：https://www.metmuseum.org/art/collection/search/286513
+- 展示權利：Met Open Access・CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://www.metmuseum.org/hubs/open-access
+- 檔案調整：完整畫面等比例縮小、轉為 WebP；未裁切或調色。
+
+## The Rhinoceros｜犀牛（後期明暗套印版）
+- 檔案：assets/met-388409.webp
+- 署名：Albrecht Dürer（原設計）；The Metropolitan Museum of Art，作品編號 388409
+- 來源：https://www.metmuseum.org/art/collection/search/388409
+- 展示權利：Met Open Access・CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://www.metmuseum.org/hubs/open-access
+- 檔案調整：完整畫面等比例縮小、轉為 WebP；未裁切或調色。
+
+## Wasp macro portrait｜黃蜂超微距肖像
+- 檔案：assets/wc-wasp-macro.webp
+- 署名：Retro Lenses
+- 來源：https://commons.wikimedia.org/wiki/File:Wasp_macro_portrait.jpg
+- 展示權利：CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Wasp_macro_portrait.jpg
+- 檔案調整：以檔案頁的影像版本等比例縮放並轉為 WebP；未裁切或調色。
+
+## Common Kingfisher｜普通翠鳥停棲
+- 檔案：assets/wc-kingfisher.webp
+- 署名：Alexis Lours
+- 來源：https://commons.wikimedia.org/wiki/File:Common_Kingfisher_2025_09_28_03.jpg
+- 展示權利：CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Common_Kingfisher_2025_09_28_03.jpg
+- 檔案調整：以檔案頁的影像版本等比例縮放並轉為 WebP；未裁切或調色。
+
+## Milky Way centre｜銀河中心拼接
+- 檔案：assets/wc-guisard-milky-way.webp
+- 署名：ESO/S. Guisard
+- 來源：https://www.eso.org/public/images/eso0934a/
+- 展示權利：CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Guisard_-_Milky_Way.jpg
+- 檔案調整：以檔案頁的影像版本等比例縮放並轉為 WebP；未裁切或調色。
+
+## Songs of Innocence: A Dream｜天真之歌：一個夢
+- 檔案：assets/met-347935.webp
+- 署名：William Blake；The Metropolitan Museum of Art，Rogers Fund, 1917，17.10.26
+- 來源：https://www.metmuseum.org/art/collection/search/347935
+- 展示權利：館方 Open Access・CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Songs_of_Innocence_and_of_Experience-_A_Dream_MET_DP816667.jpg
+- 檔案調整：由館方在 Wikimedia Commons 提供的原掃描等比例縮小並轉為 WebP；未裁切或調色。
+
+## Vase｜帶虹光圓點的 Favrile 玻璃瓶
+- 檔案：assets/met-favrile-105834.webp
+- 署名：Louis Comfort Tiffany；Tiffany Glass and Decorating Company；The Metropolitan Museum of Art，Gift of H. O. Havemeyer, 1896，96.17.28
+- 來源：https://www.metmuseum.org/art/collection/search/825
+- 展示權利：館方 Open Access・CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Vase_MET_DP105834.jpg
+- 檔案調整：由館方在 Wikimedia Commons 提供的原掃描等比例縮小並轉為 WebP；未裁切或調色。
+
+## Fantômas｜方托馬斯
+- 檔案：assets/nga-56101.webp
+- 署名：Juan Gris；National Gallery of Art，Chester Dale Fund，1976.59.1
+- 來源：https://www.nga.gov/artworks/56101-fantomas
+- 展示權利：館方 Open Access・CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Juan_Gris%2C_Fant%C3%B4mas%2C_1915%2C_NGA_56101.jpg
+- 檔案調整：由館方在 Wikimedia Commons 提供的原掃描等比例縮小並轉為 WebP；未裁切或調色。
+
+## 《Spring》山屋環境概念圖
+- 檔案：assets/wc-blender-spring-house.webp
+- 署名：David Revoy / Blender Foundation（依檔案頁）
+- 來源：https://commons.wikimedia.org/wiki/File:Spring-concept_art-house.jpg
+- 展示權利：CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Spring-concept_art-house.jpg#Summary
+- 檔案調整：等比例縮小並重編碼為 WebP；未裁切或調色。
+
+## El sueño de la razón produce monstruos｜理性沉睡，怪物生出
+- 檔案：assets/nga-7502.webp
+- 署名：Francisco Goya；National Gallery of Art，Rosenwald Collection，1943.3.4711.qq
+- 來源：https://www.nga.gov/artworks/7502-el-sueno-de-la-razon-produce-monstruos-sleep-reason-produces-monsters
+- 展示權利：NGA Open Access・CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Francisco_de_Goya%2C_El_sue%C3%B1o_de_la_razon_produce_monstruos_%28The_Sleep_of_Reason_Produces_Monsters%29%2C_published_1799%2C_NGA_7502.jpg
+- 檔案調整：由 NGA 捐贈至 Wikimedia Commons 的原掃描等比例縮小、轉為 WebP；未裁切或調色。
+
+## 斯皮克羅格海岸的生物發光
+- 檔案：assets/photo-bio.webp
+- 署名：Stephan Sprinz
+- 來源：https://commons.wikimedia.org/wiki/File:Meeresleuchten_am_Strand_von_Spiekeroog_04.jpg
+- 展示權利：CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Meeresleuchten_am_Strand_von_Spiekeroog_04.jpg
+- 檔案調整：從所列來源影像等比例縮放及轉為 WebP，未裁切或調色。
+
+## 鎢光底片夜路
+- 檔案：assets/photo-cine.webp
+- 署名：Arandomphotographer
+- 來源：https://commons.wikimedia.org/wiki/File:Long_Exposure_at_Night_of_a_Road_on_Cinestill_800T.jpg
+- 展示權利：CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Long_Exposure_at_Night_of_a_Road_on_Cinestill_800T.jpg
+- 檔案調整：從所列來源影像等比例縮放及轉為 WebP，未裁切或調色。
+
+## 霧水上的舊木棧道
+- 檔案：assets/photo-fine.webp
+- 署名：Faisal Mohammed Hafiz
+- 來源：https://commons.wikimedia.org/wiki/File:Fine_art_-_long_exposure.jpg
+- 展示權利：CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Fine_art_-_long_exposure.jpg
+- 檔案調整：從所列來源影像等比例縮放及轉為 WebP，未裁切或調色。
+
+## 雨街上的單車追攝
+- 檔案：assets/photo-pan.webp
+- 署名：Max Catel（Tiomax80）
+- 來源：https://commons.wikimedia.org/wiki/File:Bike_Panning._(8663144133).jpg
+- 展示權利：CC BY 2.0 https://creativecommons.org/licenses/by/2.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Bike_Panning._(8663144133).jpg
+- 檔案調整：從所列來源影像等比例縮放及轉為 WebP，未裁切或調色。
+
+## 新加坡牛車水針孔街景
+- 檔案：assets/photo-pinhole.webp
+- 署名：Aatu Dorochenko
+- 來源：https://commons.wikimedia.org/wiki/File:Street_in_Sinapore_pinhole.jpg
+- 展示權利：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Street_in_Sinapore_pinhole.jpg
+- 檔案調整：從所列來源影像等比例縮放及轉為 WebP，未裁切或調色。 本站圖檔沿用相同授權。
+
+## 通託普林間石牆的抽象移鏡
+- 檔案：assets/photo-icm.webp
+- 署名：Ann-Sophie Qvarnström（W.carter）
+- 來源：https://commons.wikimedia.org/wiki/File:Intentional_camera_movement_photography_of_stone_wall_in_Tuntorp.jpg
+- 展示權利：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Intentional_camera_movement_photography_of_stone_wall_in_Tuntorp.jpg
+- 檔案調整：從所列來源影像等比例縮放及轉為 WebP，未裁切或調色。 本站圖檔沿用相同授權。
+
+## 水滴擊出的藍色水冠
+- 檔案：assets/wc-valberg-drop.webp
+- 署名：gcardinal（EXIF：Dmitry K Valberg）
+- 來源：https://commons.wikimedia.org/wiki/File:Water_drop,_splash.jpg
+- 展示權利：CC BY 2.0 https://creativecommons.org/licenses/by/2.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Water_drop,_splash.jpg#Licensing
+- 檔案調整：等比例縮小並轉為 WebP；未裁切或調色。
+
+## 太平山頂的移軸城市景
+- 檔案：assets/wc-schroeder-shift.webp
+- 署名：Christian Schröder
+- 來源：https://commons.wikimedia.org/wiki/File:Hong_Kong_Peak_Tilt_Shift_Lens_shifted.jpg
+- 展示權利：CC BY 3.0 https://creativecommons.org/licenses/by/3.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Hong_Kong_Peak_Tilt_Shift_Lens_shifted.jpg#Licensing
+- 檔案調整：等比例縮小並轉為 WebP；未裁切或調色。
+
+## 蠟燭熱羽流的彩色紋影
+- 檔案：assets/wc-settles-schlieren.webp
+- 署名：Settles1
+- 來源：https://commons.wikimedia.org/wiki/File:Schlieren-color-candle-plume.jpg
+- 展示權利：CC BY 3.0 https://creativecommons.org/licenses/by/3.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Schlieren-color-candle-plume.jpg#Licensing
+- 檔案調整：等比例縮小並轉為 WebP；未裁切或調色。
+
+## 塑膠透明盒中的應力光紋
+- 檔案：assets/wc-wingklee-polar.webp
+- 署名：WingkLEE
+- 來源：https://commons.wikimedia.org/wiki/File:Stress_induced_birefringence.jpg
+- 展示權利：公有領域（作者明示） https://commons.wikimedia.org/wiki/File:Stress_induced_birefringence.jpg#Licensing
+- 權利依據：https://commons.wikimedia.org/wiki/File:Stress_induced_birefringence.jpg#Licensing
+- 檔案調整：等比例縮小並轉為 WebP；未裁切或調色。
+
+## Monochrome RPG｜單色村莊模組
+- 檔案：assets/kenney-monochrome-rpg.webp
+- 署名：Kenney（Monochrome RPG 範例）
+- 來源：https://kenney.nl/assets/monochrome-rpg
+- 展示權利：CC0 1.0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Monochrome_RPG_sample.png#Licensing
+- 檔案調整：原尺寸轉無損 WebP；未裁切或重新配色，保留來源標記，並不代表作者推薦。
+
+## The Pixel Lab｜共繪剖面異境
+- 檔案：assets/commons-pixel-lab.webp
+- 署名：Modanung、Drummyfish
+- 來源：https://commons.wikimedia.org/wiki/File:Pixel_Lab.png
+- 展示權利：CC0 1.0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Pixel_Lab.png#Licensing
+- 檔案調整：以最近鄰等比例縮小、轉無損 WebP；未裁切或調色。
