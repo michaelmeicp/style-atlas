@@ -1,15 +1,15 @@
 {
-  "galleryImages": 46,
+  "galleryImages": 47,
   "referenceOnly": 51,
   "stats": {
-    "verifiedPairs": 97,
+    "verifiedPairs": 98,
     "byPlatform": {
       "note": 49,
       "linkedin": 1,
       "substack": 1,
       "taste": 6,
       "monigarr": 1,
-      "budgetpixel": 23,
+      "budgetpixel": 24,
       "commons": 6,
       "venustai": 3,
       "pixmind": 2,
@@ -18,9 +18,9 @@
     },
     "rights": {
       "link-only": 51,
-      "displayable": 46
+      "displayable": 47
     },
-    "distinctStyles": 81,
+    "distinctStyles": 82,
     "repeatCreators": [
       "Tatiana Tsiguleva",
       "リンファ (Rinfa)",
@@ -2061,6 +2061,35 @@
       "imageAudit": "Exact PNG 864×1152 full decode and visual review; as delivered by the verified original post.",
       "creatorStyleSource": "https://justrobstyles.com/s/precision-ink-wash",
       "classification": "art"
+    },
+    {
+      "id": "budgetpixel-justrob-environmental-documentary-grain",
+      "creator": "@justrob via BudgetPixel AI",
+      "platform": "budgetpixel",
+      "channel": "creator-social",
+      "sourceDate": "2026-09-29",
+      "dateBasis": "posted",
+      "verifiedDate": "2026-11-19",
+      "source": "https://budgetpixel.com/p/87819",
+      "promptLocator": "原帖首圖為全身女性站在堆箱前，主 Prompt 欄對應此幅完整原版。",
+      "styleLabel": "仿檔案紀實：陰天低彩、環境道具與可辨粗紋",
+      "resultObservation": "人物站在木箱、麻袋與油罐間，後方卡車、營帳和鐵絲網融入灰霧；衣料和地面有粗紋，髮尾粉色明顯。畫面下緣切到靴子。",
+      "distinctStyleKey": "archival-coarse-grain-environmental-portrait",
+      "distinctReason": "不同於已收的孤立棚拍、復古旅遊坯片或低亮夜雨；這裡用陰天中間調、可讀背景和全畫面統一的粗紋塑造仿紀實場面。",
+      "method": "讓背景保留二至三組生活或工作器物而不是完全虛化；陰天用灰階保持陰影、衣料及地面都可讀，讓小幅色彩不改變紀實感。",
+      "limitation": "合成的虛構營地，非戰地照片或真實檔案。原提示同時要求黑白與粉色髮尾，成圖保留粉色，不是單純未遵循單一黑白要求。靴子在下緣被切，不是完整全身；粗紋並非真實底片證據。未獨立確認提示文字起草者。",
+      "model": "Muse Image 1.0",
+      "rights": "displayable",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0（原帖標示）",
+      "rightsSource": "https://budgetpixel.com/p/87819",
+      "modification": "原始 PNG 位元組未改。",
+      "credit": "仿檔案紀實：陰天低彩、環境道具與可辨粗紋 · @justrob via BudgetPixel AI · CC BY 4.0",
+      "copyPolicy": "僅展示可轉載的成圖；完整提示見作者原帖。",
+      "asset": "assets/budgetpixel-justrob-environmental-documentary-grain.png",
+      "imageAudit": "Original PNG 1344×1792 downloaded, decoded and visually checked; correct per-output prompt and license verified.",
+      "classification": "photo",
+      "creatorStyleSource": "https://justrobstyles.com/s/wartime-documentary"
     }
   ]
 }
