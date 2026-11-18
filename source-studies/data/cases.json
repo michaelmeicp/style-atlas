@@ -8695,6 +8695,621 @@
           ]
         }
       }
+    },
+    {
+      "id": "photo12-diatom-dic",
+      "library": "photo",
+      "title": "同一矽藻，不同對比光路：相差與微分干涉",
+      "titleEn": "Diatom phase-contrast versus DIC comparison",
+      "creator": "NEON（NEON_ja）",
+      "date": "2007-06-15",
+      "technique": "顯微攝影 · 相差／微分干涉對比",
+      "familySuggestion": "differential-interference-microscopy",
+      "visual": "兩面板用相似的軸線排列細長矽藻；一格背景有較明顯的環狀暈邊，另一格較平，微小亮線在細胞兩側分開。",
+      "method": "作者標明 Leica DMRD 成像及兩種模式：相差顯微術和微分干涉對比。DIC 會把局部光程變化轉化成明暗差。",
+      "why": "把光路不同引起的邊緣差與樣品原有形狀分開。DIC 的浮雕感是光學對比，不是直接量測地形。",
+      "unknown": "原文未列每格順序、倍率、光路偏置及數位校色；勿由視覺差推定樣品有自然亮色或精確高度。",
+      "prompt": "原創矽藻雙聯顯微圖，配準同一組針形與舟形外輪廓，一格較有相差暈邊，另一格背景安靜、局部陰陽細邊，兩格不加入 3D 材質或任意細胞器。",
+      "promptEn": "Original matched diatom micrograph diptych: register the same needle- and boat-shaped outlines, show phase halos in one panel and a quieter background with fine paired light/dark edges in the other. Do not render 3D relief or add speculative anatomy.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Diatoms_PhC_DIC.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Diatoms_PhC_DIC.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Diatoms_PhC_DIC.jpg",
+        "publisher": "Wikimedia Commons（作者或原始作品檔案）",
+        "credit": "NEON（NEON_ja）",
+        "checked": "2026-11-18"
+      },
+      "license": {
+        "label": "CC BY-SA 2.5",
+        "url": "https://creativecommons.org/licenses/by-sa/2.5/"
+      },
+      "image": {
+        "src": "assets/photo12-diatom-dic.webp",
+        "alt": "同一矽藻，不同對比光路：相差與微分干涉，NEON（NEON_ja）",
+        "modification": "採來源所示確切圖檔等尺寸轉 WebP；本站未另行縮放、裁切或調色。",
+        "width": 1024,
+        "height": 512,
+        "sourceWidth": 1024,
+        "sourceHeight": 512,
+        "sha256": "73a45bdddd316931aa5a3892c793a80825654ccf91e218c0754d6f9bc6d0d5ee",
+        "sourceFileSha256": "da927bccc15d5443e2c0d2a1bfb0d2903d402b2531d66c29ad52006f35d45cba",
+        "webpFileSha256": "73a45bdddd316931aa5a3892c793a80825654ccf91e218c0754d6f9bc6d0d5ee"
+      },
+      "displayKind": "technique",
+      "family": {
+        "id": "differential-interference-microscopy",
+        "zh": "微分干涉顯微",
+        "en": "Differential interference microscopy",
+        "aliases": [
+          "DIC microscopy",
+          "微分干涉"
+        ],
+        "bucket": {
+          "id": "photo-optic",
+          "zh": "光學取景、投影及透視",
+          "en": "Optical capture, projection and perspective",
+          "aliases": [
+            "鏡頭",
+            "視角",
+            "projection",
+            "optics"
+          ]
+        }
+      }
+    },
+    {
+      "id": "photo12-converter-color-fringe",
+      "library": "photo",
+      "title": "廣角轉接鏡：屋簷高反差邊緣的色差",
+      "titleEn": "Wide-converter chromatic-fringe comparison",
+      "creator": "Stan Zurek",
+      "date": "2006-07-05",
+      "technique": "加裝廣角轉接鏡 · 同一相機邊線比較",
+      "familySuggestion": "chromatic-aberration-diagnostics",
+      "visual": "上下是同一古典立面的窗柱和屋簷，上圖邊線較乾淨，下圖尤其右側可見藍橙偏移。",
+      "method": "作者以 Sony V3 內置鏡頭拍上圖，下圖在同一相機加前置廣角轉接鏡。原頁指出深淺交界的彩邊特別清楚。",
+      "why": "比較時優先看同一個靠邊、高反差輪廓；不要把軸外彩邊和整幅白平衡或邊緣銳化誤作一種問題。",
+      "unknown": "未列焦段匹配、對焦條件、軟體校正設定與色差類型的測量，不做定量結論。",
+      "prompt": "原創同一棟淡色石樓的上下對照片，上圖屋簷對天空邊緣較中性，下圖右側柱邊有微弱藍橙彩邊；保持構圖相似，不用整幅 3D 眼鏡位移。",
+      "promptEn": "Original paired views of the same pale stone facade; upper roof skyline is fairly neutral, lower image has restrained blue-orange fringing near the right columns. Preserve like-for-like framing, no full-image 3D-glasses displacement.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Chromatic_aberration_(comparison).jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Chromatic_aberration_(comparison).jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Chromatic_aberration_(comparison).jpg",
+        "publisher": "Wikimedia Commons（作者或原始作品檔案）",
+        "credit": "Stan Zurek",
+        "checked": "2026-11-18"
+      },
+      "license": {
+        "label": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      "image": {
+        "src": "assets/photo12-converter-color-fringe.webp",
+        "alt": "廣角轉接鏡：屋簷高反差邊緣的色差，Stan Zurek",
+        "modification": "採來源所示確切圖檔等尺寸轉 WebP；本站未另行縮放、裁切或調色。",
+        "width": 423,
+        "height": 339,
+        "sourceWidth": 423,
+        "sourceHeight": 339,
+        "sha256": "eb4986f5d12ace3744a02770ea3ea18db44b0421f5a35e8f1934a43056c85ad3",
+        "sourceFileSha256": "b4626f9fb8c1f400387bcacf779fba158c8243b3289f4d02ab1eaa425028dd78",
+        "webpFileSha256": "eb4986f5d12ace3744a02770ea3ea18db44b0421f5a35e8f1934a43056c85ad3"
+      },
+      "displayKind": "technique",
+      "family": {
+        "id": "chromatic-aberration-diagnostics",
+        "zh": "鏡頭色差診斷",
+        "en": "Chromatic aberration diagnostics",
+        "aliases": [
+          "chromatic fringe",
+          "鏡頭色邊"
+        ],
+        "bucket": {
+          "id": "photo-optic",
+          "zh": "光學取景、投影及透視",
+          "en": "Optical capture, projection and perspective",
+          "aliases": [
+            "鏡頭",
+            "視角",
+            "projection",
+            "optics"
+          ]
+        }
+      }
+    },
+    {
+      "id": "photo12-mirror-heron",
+      "library": "photo",
+      "title": "反射式長鏡：水邊散景亮點形成空心圓",
+      "titleEn": "Catadioptric mirror-lens ring bokeh",
+      "creator": "Mark Wagner",
+      "date": "2007-06-07",
+      "technique": "折反射鏡頭 · 環形失焦斑",
+      "familySuggestion": "catadioptric-annular-bokeh",
+      "visual": "涉禽的頭與頸部清楚，對岸草色與近水小亮點較柔；端詳離焦小亮點可見少量淡輪廓，不是每個出焦區都呈明顯空心環。",
+      "method": "作者標明照片用來示範折反射式鏡頭產生的環狀散景。中央遮擋讓部分出焦點變成環，不等於成像畫面本身有孔。",
+      "why": "先找背景小亮點和焦外距離，而不是對整幅套圈形高光；主體輪廓仍可維持自然、清晰。",
+      "unknown": "未公布具體折反射型號、主體距離或失焦位置，不能推定壓縮比例和環半徑。",
+      "prompt": "原創河岸長鏡頭涉禽照，羽毛和眼部清楚；在遠處水光或小葉輪廓附近只留少數低反差空心散景，不做畫面全覆蓋的圈圈。",
+      "promptEn": "Original telephoto riverside bird image with sharp feathers and eye; only a few low-contrast hollow highlights on distant water or foliage, no blanket circular overlays.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Heron_and_donut_bokeh_20070607.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Heron_and_donut_bokeh_20070607.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Heron_and_donut_bokeh_20070607.jpg",
+        "publisher": "Wikimedia Commons（作者或原始作品檔案）",
+        "credit": "Mark Wagner",
+        "checked": "2026-11-18"
+      },
+      "license": {
+        "label": "CC BY 2.5",
+        "url": "https://creativecommons.org/licenses/by/2.5/"
+      },
+      "image": {
+        "src": "assets/photo12-mirror-heron.webp",
+        "alt": "反射式長鏡：水邊散景亮點形成空心圓，Mark Wagner",
+        "modification": "以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。",
+        "width": 1400,
+        "height": 931,
+        "sourceWidth": 3008,
+        "sourceHeight": 2000,
+        "sha256": "1014706005036f97caf7f6771745918bcb04ec1d3a938587c4cb2b11851992e3",
+        "sourceFileSha256": "9c44aad79060b562a7ee6256433663a69787ceb1da23d5680a4751516897a4f1",
+        "webpFileSha256": "1014706005036f97caf7f6771745918bcb04ec1d3a938587c4cb2b11851992e3"
+      },
+      "family": {
+        "id": "catadioptric-annular-bokeh",
+        "zh": "折反射環形散景",
+        "en": "Catadioptric annular bokeh",
+        "aliases": [
+          "mirror lens bokeh",
+          "環形失焦斑"
+        ],
+        "bucket": {
+          "id": "photo-optic",
+          "zh": "光學取景、投影及透視",
+          "en": "Optical capture, projection and perspective",
+          "aliases": [
+            "鏡頭",
+            "視角",
+            "projection",
+            "optics"
+          ]
+        }
+      }
+    },
+    {
+      "id": "photo12-flower-reflected-uv",
+      "library": "photo",
+      "title": "同一花朵的可見與紫外：反射差藏出花心圖樣",
+      "titleEn": "Paired visible and reflected-UV nectar guide",
+      "creator": "Plantsurfer",
+      "date": "1999 年 9 月",
+      "technique": "反射 UV 與可見光對照 · 花蜜導引圖樣",
+      "familySuggestion": "reflected-ultraviolet-photography",
+      "visual": "左格黃色花冠光澤強，右格帶淡紫的花瓣中央有較深的楔形區；兩格共同保留花冠結構。",
+      "method": "作者自攝 Mimulus，比較可見光和紫外光照片，顯示花蜜導引圖樣。這是不同波段的反射成像，不是燈照後材料發出可見光的螢光。",
+      "why": "用同一形態比較不同光譜的相對明暗，不能把數位擬色等同實際顏色，也不能等同蜂眼的完整感知。",
+      "unknown": "未公布濾鏡頻帶、光源和曝光，不能以像素推出反射率；勿用無護具紫外照明重現。 右圖色調不代表人可見的真實顏色，也非已知拍攝光譜。",
+      "prompt": "原創小花雙聯圖：左側可見光下金黃花冠，右側同一花形以反射紫外的灰藍階示意中央深色楔形，黑底、配準、無螢光發亮，顏色只作表示。",
+      "promptEn": "Original paired flower study: golden visible-light corolla on left, matching corolla in subdued gray-blue reflected-UV representation on right with a darker central wedge. Matched position, black background, no emitted glow; colors are explanatory.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Mimulus_nectar_guide_UV_VIS.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Mimulus_nectar_guide_UV_VIS.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Mimulus_nectar_guide_UV_VIS.jpg",
+        "publisher": "Wikimedia Commons（作者或原始作品檔案）",
+        "credit": "Plantsurfer",
+        "checked": "2026-11-18"
+      },
+      "license": {
+        "label": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      "image": {
+        "src": "assets/photo12-flower-reflected-uv.webp",
+        "alt": "同一花朵的可見與紫外：反射差藏出花心圖樣，Plantsurfer",
+        "modification": "採來源所示確切圖檔等尺寸轉 WebP；本站未另行縮放、裁切或調色。",
+        "width": 768,
+        "height": 463,
+        "sourceWidth": 768,
+        "sourceHeight": 463,
+        "sha256": "0e2ab5113d6884eace6ea4366992ec71bc84978eb2056aa4f6b1eb75f1c67af5",
+        "sourceFileSha256": "ca8785a1fde6cc49efe42f99f16b7042bbc24c039594ae4772c173a0cc3b3e01",
+        "webpFileSha256": "0e2ab5113d6884eace6ea4366992ec71bc84978eb2056aa4f6b1eb75f1c67af5"
+      },
+      "displayKind": "technique",
+      "family": {
+        "id": "reflected-ultraviolet-photography",
+        "zh": "反射紫外成像",
+        "en": "Reflected ultraviolet imaging",
+        "aliases": [
+          "UV photography",
+          "反射UV"
+        ],
+        "bucket": {
+          "id": "photo-spectral",
+          "zh": "光譜與光學對比",
+          "en": "Spectral and optical contrast",
+          "aliases": [
+            "濾鏡",
+            "波長",
+            "optical contrast",
+            "spectral"
+          ]
+        }
+      }
+    },
+    {
+      "id": "photo12-hood-veiling-flare",
+      "library": "photo",
+      "title": "遮光罩前後：保住景物陰影反差",
+      "titleEn": "Lens hood versus veiling flare at locked exposure",
+      "creator": "Ggia",
+      "date": "2010-07-06",
+      "technique": "非成像雜散光 · 遮光罩可讀比較",
+      "familySuggestion": "veiling-flare-control",
+      "visual": "兩格暗色海岸構圖近似，左格岩地、海水和天光灰霧較明顯，右格陰影較實。",
+      "method": "作者列同一 Nikon D700 手動設定 ISO 640、1/160 秒、50 mm、f/16；左格不裝罩，右格裝罩，希望示範雜散光會影響全幅明暗。",
+      "why": "遮線限於非構圖光才有效，罩太長會遮畫面。不應把反差變化和單純提亮曝光混在一起，也不要把所有鬼影都假定可由罩消除。",
+      "unknown": "未記錄所有戶外光條件或罩體型號，亦不是量化眩光測試。",
+      "prompt": "原創暗色石灘全景的對照圖；左有輕灰的低反差霧感和少量離軸鬼影，右罩住非構圖光後陰影和石紋更可辨。構圖、曝光一致，不套大彩色光斑。",
+      "promptEn": "Original matched dark-rock shore exposures: left has subtle veiling haze and a small off-axis ghost; right suppresses stray light and retains deeper shadow and stone texture. Lock composition and exposure; avoid large added flares.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:20100706_lens_flare_example_comparison_lens_hood.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:20100706_lens_flare_example_comparison_lens_hood.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/20100706_lens_flare_example_comparison_lens_hood.jpg",
+        "publisher": "Wikimedia Commons（作者或原始作品檔案）",
+        "credit": "Ggia",
+        "checked": "2026-11-18"
+      },
+      "license": {
+        "label": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      "image": {
+        "src": "assets/photo12-hood-veiling-flare.webp",
+        "alt": "遮光罩前後：保住景物陰影反差，Ggia",
+        "modification": "以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。 轉檔沿用原授權。",
+        "width": 1400,
+        "height": 479,
+        "sourceWidth": 3626,
+        "sourceHeight": 1241,
+        "sha256": "976f5cfe75dcaf1ae23b10e2970bfaa66799f13d31696821813b9c61af9ca9cc",
+        "sourceFileSha256": "7d9b172b06eada23fc633c011f97646269babb555f8fd1d3bddae4839c02fdfd",
+        "webpFileSha256": "976f5cfe75dcaf1ae23b10e2970bfaa66799f13d31696821813b9c61af9ca9cc"
+      },
+      "displayKind": "technique",
+      "family": {
+        "id": "veiling-flare-control",
+        "zh": "遮光與霧化眩光",
+        "en": "Veiling flare control",
+        "aliases": [
+          "lens hood",
+          "霧化雜散光"
+        ],
+        "bucket": {
+          "id": "photo-optic",
+          "zh": "光學取景、投影及透視",
+          "en": "Optical capture, projection and perspective",
+          "aliases": [
+            "鏡頭",
+            "視角",
+            "projection",
+            "optics"
+          ]
+        }
+      }
+    },
+    {
+      "id": "photo12-sensor-plane-dust",
+      "library": "photo",
+      "title": "平滑天空診斷：區分感光面污點與景物",
+      "titleEn": "Sensor-plane dust and moisture in a sky image",
+      "creator": "Øyvind Holmstad",
+      "date": "2019-03-18",
+      "technique": "感光面污點 · 平滑亮區診斷",
+      "familySuggestion": "sensor-plane-contamination",
+      "visual": "藍天和白雲之上有零散深色瑕點，部分圓點較小，另有不規則深痕。",
+      "method": "作者說這是全片幅無反遇到感光面灰塵及受潮的例子，灰塵往往顯示為較圓的小點。",
+      "why": "診斷時可看不同照片中污點是否留在相同像面位置，而不要把雲紋、遠鳥或鏡頭斑點一概認為灰塵。此圖單張只能示意。",
+      "unknown": "未提供實際機身清潔檢驗、光圈變因和前後測，不能用污點外觀確診特定硬體故障。",
+      "prompt": "原創相機診斷圖：大面積平滑藍天和幾團白雲，固定像面位置有少量低反差小黑點和一處形狀不規則暗痕，不當作流星或自然雲紋。",
+      "promptEn": "Original diagnostic image of large smooth blue sky and a few white clouds; sparse low-contrast dark marks at image-plane positions, one mildly irregular patch, no inference that these are meteors or natural cloud markings.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Sensor_dust_and_moisture.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Sensor_dust_and_moisture.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Sensor_dust_and_moisture.jpg",
+        "publisher": "Wikimedia Commons（作者或原始作品檔案）",
+        "credit": "Øyvind Holmstad",
+        "checked": "2026-11-18"
+      },
+      "license": {
+        "label": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "image": {
+        "src": "assets/photo12-sensor-plane-dust.webp",
+        "alt": "平滑天空診斷：區分感光面污點與景物，Øyvind Holmstad",
+        "modification": "以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。 轉檔沿用原授權。",
+        "width": 1400,
+        "height": 933,
+        "sourceWidth": 6000,
+        "sourceHeight": 4000,
+        "sha256": "3edd4c50e5f5338d0311a9705d5b84a8e28794cf536a139656106789d39363ad",
+        "sourceFileSha256": "996e2e7504480eae8edf0b7038c82e037ab2043f54b36c365c4879f5d2a6023d",
+        "webpFileSha256": "3edd4c50e5f5338d0311a9705d5b84a8e28794cf536a139656106789d39363ad"
+      },
+      "displayKind": "technique",
+      "family": {
+        "id": "sensor-plane-contamination",
+        "zh": "感光面污點診斷",
+        "en": "Sensor-plane contamination diagnostics",
+        "aliases": [
+          "sensor dust",
+          "感光面污點"
+        ],
+        "bucket": {
+          "id": "photo-optic",
+          "zh": "光學取景、投影及透視",
+          "en": "Optical capture, projection and perspective",
+          "aliases": [
+            "鏡頭",
+            "視角",
+            "projection",
+            "optics"
+          ]
+        }
+      }
+    },
+    {
+      "id": "photo12-rolling-lightning",
+      "library": "photo",
+      "title": "電子逐行讀取：閃電把畫面分成兩段",
+      "titleEn": "Rolling-readout boundary in a lightning photo",
+      "creator": "Kalleboo",
+      "date": "最遲 2009-09-28 公開",
+      "technique": "CMOS 逐行讀取 · 短暫光線不同步",
+      "familySuggestion": "rolling-shutter-temporal-aliasing",
+      "visual": "上方能看到閃電枝線，天空中突現水平亮度邊界，界線下方仍可看出屋頂、窗光和偏暗的雲。",
+      "method": "作者指出此閃電相片展示 CMOS rolling shutter；極短亮變碰上感光列先後取樣，所以水平界線並非景物表面。",
+      "why": "不同於主體被逐行採集扭斜，這張亮度變化本身也可揭露取樣時差。不要用拍攝秒數猜每列延遲。",
+      "unknown": "曝光日期、手機型號、列方向與讀取時間未列；不建議在暴風雨中暴露於室外重拍。",
+      "prompt": "原創從安全室內看遠處暴風雨，閃電枝線在上方，畫面有一道淡水平亮度斷界代表逐行時間差，屋頂和窗光連續，不畫拼貼分格。",
+      "promptEn": "Original distant storm seen from safe indoors: lightning branches above, a subtle horizontal luminance boundary evokes row-time mismatch while roofs and window lights continue through the frame. Not a panel collage.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Lightning_rolling_shutter.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Lightning_rolling_shutter.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Lightning_rolling_shutter.jpg",
+        "publisher": "Wikimedia Commons（作者或原始作品檔案）",
+        "credit": "Kalleboo",
+        "checked": "2026-11-18"
+      },
+      "license": {
+        "label": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      "image": {
+        "src": "assets/photo12-rolling-lightning.webp",
+        "alt": "電子逐行讀取：閃電把畫面分成兩段，Kalleboo",
+        "modification": "以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。 轉檔沿用原授權。",
+        "width": 1400,
+        "height": 1050,
+        "sourceWidth": 2048,
+        "sourceHeight": 1536,
+        "sha256": "2478affb0730d4f7dbdd55c1dadf85cb681732374c3eb3ce894d566aa505dd52",
+        "sourceFileSha256": "40c4610e6cc3c14b52d3b602cec98d41cffdecc08185a24b443923dbbbeecb88",
+        "webpFileSha256": "2478affb0730d4f7dbdd55c1dadf85cb681732374c3eb3ce894d566aa505dd52"
+      },
+      "displayKind": "technique",
+      "family": {
+        "id": "rolling-shutter-temporal-aliasing",
+        "zh": "逐行讀取的時間錯位",
+        "en": "Rolling-shutter time aliasing",
+        "aliases": [
+          "rolling shutter",
+          "逐行快門"
+        ],
+        "bucket": {
+          "id": "photo-time",
+          "zh": "快門、時間取樣與相機動作",
+          "en": "Shutter, time sampling and camera motion",
+          "aliases": [
+            "曝光",
+            "慢快門",
+            "time",
+            "movement"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-jo-nin-four-color-monotype",
+      "library": "art",
+      "title": "Jo Nin｜尋覓（À la recherche）",
+      "creator": "Jo Nin",
+      "date": "1995 年",
+      "technique": "四色油彩單刷版畫・轉印色面穿過紙白",
+      "familyId": "monotype-direct-transfer",
+      "visual": "人像以深色輪廓朝右，紅橘色顆粒從肩頸擴到背景，身旁不規則露出紙白，紙邊留有未滿版的空地。",
+      "method": "作者記錄原作在 600 × 800 mm 書印紙上以油彩作四色單刷。安全對照：放大深色輪廓和紅色區的接點，分別記錄連續線、碎點及裸紙；另拿一張只有平塗的印樣對照。",
+      "why": "這件示範多色並不等於多版套印，強輪廓和較鬆散的色層能以不同密度組織同一張圖。",
+      "unknown": "來源未說四種原色、版材、試印次序或如何製成深色輪廓；不以圖上顆粒推斷工具。",
+      "prompt": "原創四色油彩單刷構圖，側身植物剪影立在赭紅和灰綠顆粒前，靠深色線定形，四邊刻意留出不規則紙白，非原畫構圖。",
+      "promptEn": "Original four-color oil monotype composition: an invented side-facing plant silhouette in front of red earth and grey-green broken pigment, with a stable dark boundary and irregular bare paper near the edges. Do not copy the original artwork.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:A_la_recherche_-_Monotypie_-_1995_-_Jo_Nin_-_Maler_und_Grafiker.jpg",
+        "publisher": "Wikimedia Commons",
+        "credit": "Jo Nin / Wikimedia Commons. Original work. CC BY-SA 4.0.",
+        "checked": "2026-11-18",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/A_la_recherche_-_Monotypie_-_1995_-_Jo_Nin_-_Maler_und_Grafiker.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:A_la_recherche_-_Monotypie_-_1995_-_Jo_Nin_-_Maler_und_Grafiker.jpg"
+      },
+      "license": {
+        "label": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "image": {
+        "src": "assets/wc-jo-nin-four-color-monotype.webp",
+        "width": 906,
+        "height": 1200,
+        "alt": "人像以深色輪廓朝右，紅橘色顆粒從肩頸擴到背景，身旁不規則露出紙白，紙邊留有未滿版的空地。",
+        "modification": "等比例縮小並轉存 WebP，未裁切或調色。 轉檔圖維持同一授權，不代表作者背書。",
+        "sha256": "f357b61275e596cb7585cb2f99ab6c18980d7ef7dd09338b5f91808fd1f6ad20"
+      },
+      "family": {
+        "id": "monotype-transfer-printing",
+        "zh": "單刷轉印",
+        "en": "Monotype transfer printing",
+        "aliases": [
+          "單刷",
+          "單次轉印",
+          "monotype",
+          "monoprint"
+        ],
+        "bucket": {
+          "id": "art-print",
+          "zh": "版畫與圖案製作",
+          "en": "Printmaking and pattern construction",
+          "aliases": [
+            "印製",
+            "版式",
+            "press",
+            "pattern"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-jane-furst-drypoint-monotype",
+      "library": "art",
+      "title": "Jane Furst｜新月下的皇家駁船（初版）",
+      "creator": "Jane Furst",
+      "date": "2014 年",
+      "technique": "乾刻線與單刷結合・規律線束及大暗色域",
+      "familyId": "intaglio-matrix-printing",
+      "visual": "天際上方有淺色小月，中央船首和帆線細密；下方近黑色面以分離的珊瑚、貝和生物形狀打斷，上下亮度落差很大。",
+      "method": "作者直接將此件描述為乾刻加單刷。把圖分為細線群與連續色域兩張描記，再比和單用線的凹版、以及沒有固定線網的單刷；只做紙上比較，不重建製版條件。",
+      "why": "線性骨架可吸收細節，大面色域保留對比。技巧重點是並存，不是從照片猜哪一刀是乾刻。",
+      "unknown": "作者用語包含 etching，未列酸、版材、刻線位置或壓印順序；不從詞把乾刻轉成化學蝕刻教學。場景不是考古復原。",
+      "prompt": "原創港口版畫概念，以細密且規律的漁具垂線，對比單刷暗潮的大面和稀疏淺色漂植物，畫面不使用原船、月亮位置或原生物剪影。",
+      "promptEn": "Original harbor print concept combining measured lines of invented fishing gear with a broad dark monotype tide and sparse pale floating plants. Do not copy the vessel, moon placement or shapes of the reference organisms.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Royal_Barge_with_new_moon_%2C1st_version_2014.jpg",
+        "publisher": "Wikimedia Commons",
+        "credit": "Jane Furst / Wikimedia Commons. Original work. CC BY-SA 4.0.",
+        "checked": "2026-11-18",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Royal_Barge_with_new_moon_%2C1st_version_2014.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Royal_Barge_with_new_moon_%2C1st_version_2014.jpg"
+      },
+      "license": {
+        "label": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "image": {
+        "src": "assets/wc-jane-furst-drypoint-monotype.webp",
+        "width": 990,
+        "height": 1280,
+        "alt": "天際上方有淺色小月，中央船首和帆線細密；下方近黑色面以分離的珊瑚、貝和生物形狀打斷，上下亮度落差很大。",
+        "modification": "等比例縮小並轉存 WebP，未裁切或調色。 轉檔圖維持同一授權，不代表作者背書。",
+        "sha256": "debf1d72c8fe671c64850a78ab78acbab80002cbd83d2810e6d60e3806fae62a"
+      },
+      "family": {
+        "id": "intaglio-matrix-printing",
+        "zh": "藝術凹版印刷",
+        "en": "Artist-drawn intaglio printing",
+        "aliases": [
+          "蝕刻",
+          "乾刻",
+          "點刻",
+          "飛塵腐蝕",
+          "美柔汀",
+          "etching",
+          "drypoint",
+          "aquatint",
+          "mezzotint",
+          "stipple"
+        ],
+        "bucket": {
+          "id": "art-print",
+          "zh": "版畫與圖案製作",
+          "en": "Printmaking and pattern construction",
+          "aliases": [
+            "印製",
+            "版式",
+            "press",
+            "pattern"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-sevres-handle-assembly",
+      "library": "art",
+      "title": "Sèvres｜瓷杯耳的加附件工序",
+      "creator": "Coyau（攝影）；Sèvres 國立瓷器製造所工坊（製作）",
+      "date": "2013 年（工序攝影）",
+      "technique": "瓷器附加部件・杯身和環形耳分件",
+      "familyId": "fired-clay-forming",
+      "visual": "手握一件淺色杯身，內彎的杯耳由上方向外突出；相機對焦在耳與杯身相接處，背景柔化。",
+      "method": "照片作者記錄早餐杯杯耳已黏接，Sèvres 工坊的第一手說明亦把杯耳、流嘴和鈕列為這個專門工序的部件。用照片標出環耳兩端與器身接點，再和同一塊黏土整形成輪廓的例子對照。",
+      "why": "分件使環耳的方向與杯身曲線可以獨立看，不等於裝飾線或釉色。",
+      "unknown": "精確杯耳成形法、黏接介質、乾燥和燒製條件未由這一張照片驗明。不提供製瓷操作；作者不應被誤作工藝師姓名。",
+      "prompt": "原創瓷器工藝照片構圖，未上色的小花器和分件環形把手相接，近攝標出環兩端與器面交界；用霧光和簡潔背景，不照搬原器型。",
+      "promptEn": "Original process-photography concept of an uncolored small ceramic vase joined to a separate loop handle. Highlight both junctions with diffuse light and a clean background, without copying the specific vessel.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:S%C3%A8vres_-_Grand_atelier_-_garnissage_%26_d%C3%A9coupage_27.jpg",
+        "publisher": "Wikimedia Commons",
+        "credit": "Coyau / Wikimedia Commons, CC BY-SA 3.0. The photographed craft process is at the Manufacture nationale de Sèvres. Photograph made as part of the Wikimedia France and Sèvres – Cité de la céramique partnership; no endorsement implied.",
+        "checked": "2026-11-18",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/S%C3%A8vres_-_Grand_atelier_-_garnissage_%26_d%C3%A9coupage_27.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:S%C3%A8vres_-_Grand_atelier_-_garnissage_%26_d%C3%A9coupage_27.jpg"
+      },
+      "license": {
+        "label": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "note": "此授權針對工序紀錄照，制作者和攝影者不同。不視為任何杯形的製造、再設計許可或館方背書。"
+      },
+      "image": {
+        "src": "assets/wc-sevres-handle-assembly.webp",
+        "width": 1280,
+        "height": 853,
+        "alt": "手握一件淺色杯身，內彎的杯耳由上方向外突出；相機對焦在耳與杯身相接處，背景柔化。",
+        "modification": "等比例縮小並轉存 WebP，未裁切或調色。 轉檔圖維持同一授權，不代表作者背書。",
+        "sha256": "f0d78c0fb90405c13b0656ebb10934de98c891df856014c46aee94a8a8e63c8d"
+      },
+      "displayKind": "technique",
+      "family": {
+        "id": "fired-clay-forming",
+        "zh": "陶土造型與燒成",
+        "en": "Clay forming and firing",
+        "aliases": [
+          "土陶",
+          "釉面",
+          "earthenware",
+          "ceramic"
+        ],
+        "bucket": {
+          "id": "art-object",
+          "zh": "立體材料與工藝",
+          "en": "Objects and crafted materials",
+          "aliases": [
+            "材料",
+            "工藝",
+            "craft",
+            "object"
+          ]
+        }
+      }
     }
   ]
 }

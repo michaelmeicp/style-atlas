@@ -1147,3 +1147,84 @@
 - 展示權利：CC0 https://creativecommons.org/publicdomain/zero/1.0/
 - 權利依據：https://commons.wikimedia.org/wiki/File:Coverlet_MET_244673.jpg
 - 檔案調整：等比例縮小並轉存 WebP，未裁切或調色。
+
+## 同一矽藻，不同對比光路：相差與微分干涉
+- 檔案：assets/photo12-diatom-dic.webp
+- 署名：NEON（NEON_ja）
+- 來源：https://commons.wikimedia.org/wiki/File:Diatoms_PhC_DIC.jpg
+- 展示權利：CC BY-SA 2.5 https://creativecommons.org/licenses/by-sa/2.5/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Diatoms_PhC_DIC.jpg
+- 檔案調整：採來源所示確切圖檔等尺寸轉 WebP；本站未另行縮放、裁切或調色。
+
+## 廣角轉接鏡：屋簷高反差邊緣的色差
+- 檔案：assets/photo12-converter-color-fringe.webp
+- 署名：Stan Zurek
+- 來源：https://commons.wikimedia.org/wiki/File:Chromatic_aberration_(comparison).jpg
+- 展示權利：CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Chromatic_aberration_(comparison).jpg
+- 檔案調整：採來源所示確切圖檔等尺寸轉 WebP；本站未另行縮放、裁切或調色。
+
+## 反射式長鏡：水邊散景亮點形成空心圓
+- 檔案：assets/photo12-mirror-heron.webp
+- 署名：Mark Wagner
+- 來源：https://commons.wikimedia.org/wiki/File:Heron_and_donut_bokeh_20070607.jpg
+- 展示權利：CC BY 2.5 https://creativecommons.org/licenses/by/2.5/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Heron_and_donut_bokeh_20070607.jpg
+- 檔案調整：以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。
+
+## 同一花朵的可見與紫外：反射差藏出花心圖樣
+- 檔案：assets/photo12-flower-reflected-uv.webp
+- 署名：Plantsurfer
+- 來源：https://commons.wikimedia.org/wiki/File:Mimulus_nectar_guide_UV_VIS.jpg
+- 展示權利：CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Mimulus_nectar_guide_UV_VIS.jpg
+- 檔案調整：採來源所示確切圖檔等尺寸轉 WebP；本站未另行縮放、裁切或調色。
+
+## 遮光罩前後：保住景物陰影反差
+- 檔案：assets/photo12-hood-veiling-flare.webp
+- 署名：Ggia
+- 來源：https://commons.wikimedia.org/wiki/File:20100706_lens_flare_example_comparison_lens_hood.jpg
+- 展示權利：CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:20100706_lens_flare_example_comparison_lens_hood.jpg
+- 檔案調整：以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。 轉檔沿用原授權。
+
+## 平滑天空診斷：區分感光面污點與景物
+- 檔案：assets/photo12-sensor-plane-dust.webp
+- 署名：Øyvind Holmstad
+- 來源：https://commons.wikimedia.org/wiki/File:Sensor_dust_and_moisture.jpg
+- 展示權利：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Sensor_dust_and_moisture.jpg
+- 檔案調整：以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。 轉檔沿用原授權。
+
+## 電子逐行讀取：閃電把畫面分成兩段
+- 檔案：assets/photo12-rolling-lightning.webp
+- 署名：Kalleboo
+- 來源：https://commons.wikimedia.org/wiki/File:Lightning_rolling_shutter.jpg
+- 展示權利：CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Lightning_rolling_shutter.jpg
+- 檔案調整：以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。 轉檔沿用原授權。
+
+## Jo Nin｜尋覓（À la recherche）
+- 檔案：assets/wc-jo-nin-four-color-monotype.webp
+- 署名：Jo Nin / Wikimedia Commons. Original work. CC BY-SA 4.0.
+- 來源：https://commons.wikimedia.org/wiki/File:A_la_recherche_-_Monotypie_-_1995_-_Jo_Nin_-_Maler_und_Grafiker.jpg
+- 展示權利：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:A_la_recherche_-_Monotypie_-_1995_-_Jo_Nin_-_Maler_und_Grafiker.jpg
+- 檔案調整：等比例縮小並轉存 WebP，未裁切或調色。 轉檔圖維持同一授權，不代表作者背書。
+
+## Jane Furst｜新月下的皇家駁船（初版）
+- 檔案：assets/wc-jane-furst-drypoint-monotype.webp
+- 署名：Jane Furst / Wikimedia Commons. Original work. CC BY-SA 4.0.
+- 來源：https://commons.wikimedia.org/wiki/File:Royal_Barge_with_new_moon_%2C1st_version_2014.jpg
+- 展示權利：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Royal_Barge_with_new_moon_%2C1st_version_2014.jpg
+- 檔案調整：等比例縮小並轉存 WebP，未裁切或調色。 轉檔圖維持同一授權，不代表作者背書。
+
+## Sèvres｜瓷杯耳的加附件工序
+- 檔案：assets/wc-sevres-handle-assembly.webp
+- 署名：Coyau / Wikimedia Commons, CC BY-SA 3.0. The photographed craft process is at the Manufacture nationale de Sèvres. Photograph made as part of the Wikimedia France and Sèvres – Cité de la céramique partnership; no endorsement implied.
+- 來源：https://commons.wikimedia.org/wiki/File:S%C3%A8vres_-_Grand_atelier_-_garnissage_%26_d%C3%A9coupage_27.jpg
+- 展示權利：CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:S%C3%A8vres_-_Grand_atelier_-_garnissage_%26_d%C3%A9coupage_27.jpg
+- 補充：此授權針對工序紀錄照，制作者和攝影者不同。不視為任何杯形的製造、再設計許可或館方背書。
+- 檔案調整：等比例縮小並轉存 WebP，未裁切或調色。 轉檔圖維持同一授權，不代表作者背書。

@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "goal": 500,
-  "verifiedTechniques": 20,
+  "verifiedTechniques": 29,
   "byLibrary": {
-    "art": 8,
-    "photo": 12
+    "art": 14,
+    "photo": 15
   },
   "entries": [
     {
@@ -405,6 +405,186 @@
         "control": "保留題材及觀看光線等可控條件",
         "comparison": "在館方放大圖或合法質感樣中，比灰階影調區與色塊邊緣定位，找主版影調與彩色版的不同作用。",
         "passSignal": "有獨立攝影機械製得的影調主版，不是單純多石分色以每塊石版共同承擔全部形。"
+      }
+    },
+    {
+      "id": "shearing-dic-microscopy",
+      "library": "photo",
+      "name": {
+        "zh": "顯微微分干涉對比",
+        "en": "Sheared differential interference contrast microscopy"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Diatoms_PhC_DIC.jpg",
+      "parentFamily": "differential-interference-microscopy",
+      "observed": "同一矽藻不同成像光路效果有直接對照。",
+      "method": "作者標明 Leica DMRD 成像及兩種模式：相差顯微術和微分干涉對比。DIC 會把局部光程變化轉化成明暗差。",
+      "limits": "不知道細胞實際高度；微影不是實物地形。",
+      "nearest": "顯微相差成像",
+      "difference": "DIC 分開的光束干涉使鄰部相位差化成有方向的亮暗；相差影像則不以同一雙光束剪切呈現。",
+      "comparison": {
+        "control": "使用已核對公開影像，固定觀看比例",
+        "comparison": "只比較同一安全既有標本的館方/作者對照，在同倍率和顯示尺度辨別方向性與暈邊。",
+        "passSignal": "DIC 分開的光束干涉使鄰部相位差化成有方向的亮暗；相差影像則不以同一雙光束剪切呈現。"
+      }
+    },
+    {
+      "id": "central-obstruction-annular-blur",
+      "library": "photo",
+      "name": {
+        "zh": "折反射光路的環形失焦",
+        "en": "Catadioptric central-obstruction blur"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Heron_and_donut_bokeh_20070607.jpg",
+      "parentFamily": "catadioptric-annular-bokeh",
+      "observed": "畫面失焦高光可見多個中空環而非實圓，作者列折反射鏡頭。",
+      "method": "作者標明照片用來示範折反射式鏡頭產生的環狀散景。中央遮擋讓部分出焦點變成環，不等於成像畫面本身有孔。",
+      "limits": "未知精確焦距、焦點與光圈實際值。",
+      "nearest": "一般無遮擋失焦光斑",
+      "difference": "有中央遮擋的瞳形重畫失焦點；一般無遮擋鏡頭把光點成為實圓或多邊形。",
+      "comparison": {
+        "control": "使用已核對公開影像，固定觀看比例",
+        "comparison": "比較開放器材圖中的同類失焦小亮點，查中空中心是否普遍而非單一布景圓環。",
+        "passSignal": "有中央遮擋的瞳形重畫失焦點；一般無遮擋鏡頭把光點成為實圓或多邊形。"
+      }
+    },
+    {
+      "id": "reflected-uv-nonvisible-texture",
+      "library": "photo",
+      "name": {
+        "zh": "通過波段隔離的反射紫外",
+        "en": "Reflected ultraviolet band-separated capture"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mimulus_nectar_guide_UV_VIS.jpg",
+      "parentFamily": "reflected-ultraviolet-photography",
+      "observed": "同朵花的可見光及 UV 參照中，花瓣深淺分布不同。",
+      "method": "作者自攝 Mimulus，比較可見光和紫外光照片，顯示花蜜導引圖樣。這是不同波段的反射成像，不是燈照後材料發出可見光的螢光。",
+      "limits": "無法由比較確定精確波長、相機、色彩映射或授粉結果。",
+      "nearest": "可見紫外螢光",
+      "difference": "記錄目標反射的紫外，不是激發物質後拍到它發出可見光。",
+      "comparison": {
+        "control": "使用已核對公開影像，固定觀看比例",
+        "comparison": "比較作者已公開的兩種成像，對照同一結構的不同深淺。不要自行使用高強度 UV 裝置。",
+        "passSignal": "記錄目標反射的紫外，不是激發物質後拍到它發出可見光。"
+      }
+    },
+    {
+      "id": "cmyk-screen-registration",
+      "library": "art",
+      "name": {
+        "zh": "CMYK 網版網點對位",
+        "en": "CMYK screen-printed halftone registration"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PrintLayers500px.gif",
+      "parentFamily": "screen-matrix-color-separation",
+      "observed": "展示的青洋紅黃黑分版和兩張狀態圖，右下對位較整齊。",
+      "method": "作者的原作文件標明 CMYK 網版四色分層。",
+      "limits": "原來刮板、壓力、網角和分版順序未證實。",
+      "nearest": "multi-matrix-planographic-lithography",
+      "difference": "色面透過網孔而非平面油水相斥；同一彩版偏位不算新技法。",
+      "comparison": {
+        "control": "選同一個格線十字；比較正對和偏位格",
+        "comparison": "與油水相斥石版套印對照，或數位疊兩張簡單透明方格",
+        "passSignal": "偏位十字出現可定位的單色邊，對位後縮小"
+      }
+    },
+    {
+      "id": "makie-powder-lacquer-inlay",
+      "library": "art",
+      "name": {
+        "zh": "黑漆金蒔繪配螺鈿",
+        "en": "Gold maki-e lacquer with mother-of-pearl inlay"
+      },
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/40494",
+      "parentFamily": "lacquer-powder-and-inlay",
+      "observed": "矩形件有束狀窄金線和寬片狀藍灰面。",
+      "method": "館方列金蒔繪、黑漆及珍珠母鑲嵌；另一圓配件另列掐絲。",
+      "limits": "未核實本件漆層、金粉粒度、研磨或反光視角。",
+      "nearest": "silver-wire-cloisonne-cells",
+      "difference": "兩類表面訊號由金粉漆線與嵌片形成，並非金屬線隔出琺瑯格。",
+      "comparison": {
+        "control": "在相同裁幅描出金線窄域和亮片廣域",
+        "comparison": "與掐絲上色的閉合色域並置",
+        "passSignal": "線路跟方向而亮片提供更大略連續的高光面"
+      }
+    },
+    {
+      "id": "silver-wire-cloisonne-cells",
+      "library": "art",
+      "name": {
+        "zh": "銀線分區掐絲琺瑯",
+        "en": "Silver-wire cloisonné cells"
+      },
+      "sourceUrl": "https://artmuseum.princeton.edu/art/collections/objects/43321",
+      "parentFamily": "vitreous-surface-craft",
+      "observed": "近黑器腹和花葉色域分開，細小花紋集中在頸部。",
+      "method": "普林斯頓館方列銀線掐絲琺瑯與鎏金黃銅配件。",
+      "limits": "此小圖不能數清每個絲線接點，也沒有本件各次燒製資料。",
+      "nearest": "makie-powder-lacquer-inlay",
+      "difference": "閉合金屬線隔開釉色，與粉末在漆上沿線或另鑲亮片不同。",
+      "comparison": {
+        "control": "在足夠清楚的同館圖或安全圖稿描記花瓣分隔線",
+        "comparison": "比較自由推移的釉色和先以線成分區的兩個圖稿",
+        "passSignal": "分區樣可先用線界預測色塊停止處，不把裸金口當隔線"
+      }
+    },
+    {
+      "id": "hollow-cut-paper-negative-mask",
+      "library": "art",
+      "name": {
+        "zh": "中空剪紙的負形底襯",
+        "en": "Hollow-cut paper negative mask"
+      },
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/825946",
+      "parentFamily": "cut-paper-shape-construction",
+      "observed": "白紙中的整片藍側臉靠切邊顯形；外緣也呈藍框。",
+      "method": "館方媒材確列 hollow cut paper。",
+      "limits": "沒有背面或工具；不據圖確認每處膠合或底襯可取出。",
+      "nearest": "cut-paper positive silhouette",
+      "difference": "顯形是淺紙穿孔露底，不是把主角色紙留作實體剪形。",
+      "comparison": {
+        "control": "另以簡單自畫輪廓比較負形開窗，換兩張不同顏色底紙",
+        "comparison": "同形剪成實色剪影貼於底紙",
+        "passSignal": "只改底紙時負形主角換色，實形主角顏色不變"
+      }
+    },
+    {
+      "id": "floating-marble-paper-album-mount",
+      "library": "art",
+      "name": {
+        "zh": "浮紋紙轉印再作裝裱",
+        "en": "Transferred marbled paper as album mount"
+      },
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/453166",
+      "parentFamily": "floating-pigment-paper-marbling",
+      "observed": "兩頁框外浮紋不同，橫向文字塊有穩定的清楚框線。",
+      "method": "館方記書法貼於不同紋樣的浮紋紙頁上，邊緣媒材記 marbled paper。",
+      "limits": "作者為書法家；邊紙製作者、浴液和分頁製作次序未核實。",
+      "nearest": "direct decorative painting",
+      "difference": "浮紋形成於獨立紙材再裝裱，不需在正文頁直接描畫曲線。",
+      "comparison": {
+        "control": "在既有兩頁浮紋的影像上量框內外密度，檢查紋樣有否穿越線框",
+        "comparison": "與把紋樣直接畫在全頁後填字的樣紙比",
+        "passSignal": "紋樣範圍被獨立裝裱邊緣截斷，閱讀區不承受同一連續紋樣"
+      }
+    },
+    {
+      "id": "wood-veneer-tonal-marquetry",
+      "library": "art",
+      "name": {
+        "zh": "木皮拼鑲的材料明暗",
+        "en": "Tonal assembly with fitted wood veneers"
+      },
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/198715",
+      "parentFamily": "cut-wood-marquetry",
+      "observed": "櫃面呈褐色木紋，明暗拼成具輪廓的人物和布樣。",
+      "method": "館方記細小天然色差木材鑲嵌成圖，材料表亦有部分染色木。",
+      "limits": "不為此一區各片指定木種、刀具或膠層。",
+      "nearest": "painted faux wood or tone",
+      "difference": "材料本身選色後以小片拼構，而非在一整片木紋上油彩描出同樣色度。",
+      "comparison": {
+        "control": "用既有參考或三灰階紙片拼曲面，標出片的邊界",
+        "comparison": "與同形物由顏料畫漸層比較",
+        "passSignal": "片內仍有原材料紋理，階差與拼接邊界對齊；畫漸層沒有必要的拼縫"
       }
     }
   ]
