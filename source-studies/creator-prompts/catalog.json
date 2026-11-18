@@ -1,15 +1,15 @@
 {
-  "galleryImages": 42,
+  "galleryImages": 44,
   "referenceOnly": 51,
   "stats": {
-    "verifiedPairs": 93,
+    "verifiedPairs": 95,
     "byPlatform": {
       "note": 49,
       "linkedin": 1,
       "substack": 1,
       "taste": 6,
       "monigarr": 1,
-      "budgetpixel": 19,
+      "budgetpixel": 21,
       "commons": 6,
       "venustai": 3,
       "pixmind": 2,
@@ -18,9 +18,9 @@
     },
     "rights": {
       "link-only": 51,
-      "displayable": 42
+      "displayable": 44
     },
-    "distinctStyles": 77,
+    "distinctStyles": 79,
     "repeatCreators": [
       "Tatiana Tsiguleva",
       "リンファ (Rinfa)",
@@ -30,6 +30,7 @@
       "Yuna | AI Lab by Unlit Inc.",
       "田中勇道",
       "@justrob via BudgetPixel AI",
+      "@michellemichaels via BudgetPixel AI",
       "@suga2309 via BudgetPixel AI"
     ]
   },
@@ -1956,6 +1957,56 @@
       "asset": "assets/budgetpixel-suga2309-cabin-window-aperture-firelight.png",
       "imageAudit": "Publisher original direct file decoded as PNG 1312×736 despite remote .jpg path; exact file bytes preserved and visually reviewed.",
       "classification": "art"
+    },
+    {
+      "id": "budgetpixel-michellemichaels-pink-ghost-portrait",
+      "creator": "@michellemichaels via BudgetPixel AI",
+      "platform": "budgetpixel",
+      "channel": "creator-social",
+      "sourceDate": "2026-10-25",
+      "dateBasis": "posted",
+      "verifiedDate": "2026-11-19",
+      "source": "https://budgetpixel.com/p/99323",
+      "promptLocator": "原帖單幅圖下 Prompt 欄；帳號公開貼出，不宣稱指令由本人獨立撰寫。",
+      "styleLabel": "半透明雙人像：大柔層與小銳層",
+      "resultObservation": "左上放大的粉髮臉部淡入灰藍天空，右下較小人像邊緣清楚；兩層都是抬頭姿態，髮絲向右延伸。",
+      "distinctStyleKey": "pink-ghost-portrait",
+      "distinctReason": "不是赭色平面輪廓內嵌圖案；以同一面容的大小、透明度與清晰度差建立攝影式疊層，亦不同於既有玫瑰雙曝失敗並置。",
+      "limitation": "大臉仍睜眼，小臉閉眼，未完整遵循雙層閉眼要求。生成式疊像不是實際相機雙重曝光；提示中的品牌及鏡頭形容不代表合作或器材。",
+      "model": "SeeDream 5.0 Flash",
+      "rights": "displayable",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0（原帖標示）",
+      "rightsSource": "https://budgetpixel.com/p/99323",
+      "modification": "原始PNG位元組未改；本地副檔名依實際格式。",
+      "credit": "半透明雙人像：大柔層與小銳層 · @michellemichaels via BudgetPixel AI · CC BY 4.0",
+      "copyPolicy": "只展示授權成圖，完整指令見原帖；未獨立核實文字起草者。",
+      "asset": "assets/budgetpixel-michellemichaels-pink-ghost-portrait.png"
+    },
+    {
+      "id": "budgetpixel-michellemichaels-fairy-dew-backlight",
+      "creator": "@michellemichaels via BudgetPixel AI",
+      "platform": "budgetpixel",
+      "channel": "creator-social",
+      "sourceDate": "2026-11-15",
+      "dateBasis": "posted",
+      "verifiedDate": "2026-11-19",
+      "source": "https://budgetpixel.com/p/107690",
+      "promptLocator": "原帖單幅圖下 Prompt 欄；帳號公開貼出，不宣稱指令由本人獨立撰寫。",
+      "styleLabel": "奇幻微距：透光翅脈與露珠亮點",
+      "resultObservation": "蘑菇上的小仙子及翅脈有透光亮邊，菇面大露珠含森林色塊；苔蘚近景清晰，後方樹林模糊。",
+      "distinctStyleKey": "fairy-dew-backlight",
+      "distinctReason": "以露珠和翅脈的尺度對比、局部透光及近清遠糊建立微型場景，不是既有盆景玻璃罩或液體高速凍結。",
+      "limitation": "短提示只指定微距仙子、蘑菇與晨光露珠；翅脈及構圖是成品觀察，不當作作者明定參數。生成場景不是真實生物或光學實驗。原檔約6.89MB，向下捲動載入時可能較慢。",
+      "model": "SeeDream 5.0 Flash",
+      "rights": "displayable",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0（原帖標示）",
+      "rightsSource": "https://budgetpixel.com/p/107690",
+      "modification": "原始PNG位元組未改；本地副檔名依實際格式。",
+      "credit": "奇幻微距：透光翅脈與露珠亮點 · @michellemichaels via BudgetPixel AI · CC BY 4.0",
+      "copyPolicy": "只展示授權成圖，完整指令見原帖；未獨立核實文字起草者。",
+      "asset": "assets/budgetpixel-michellemichaels-fairy-dew-backlight.png"
     }
   ]
 }
