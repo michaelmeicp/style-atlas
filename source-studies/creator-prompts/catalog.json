@@ -1,15 +1,15 @@
 {
-  "galleryImages": 44,
+  "galleryImages": 46,
   "referenceOnly": 51,
   "stats": {
-    "verifiedPairs": 95,
+    "verifiedPairs": 97,
     "byPlatform": {
       "note": 49,
       "linkedin": 1,
       "substack": 1,
       "taste": 6,
       "monigarr": 1,
-      "budgetpixel": 21,
+      "budgetpixel": 23,
       "commons": 6,
       "venustai": 3,
       "pixmind": 2,
@@ -18,9 +18,9 @@
     },
     "rights": {
       "link-only": 51,
-      "displayable": 44
+      "displayable": 46
     },
-    "distinctStyles": 79,
+    "distinctStyles": 81,
     "repeatCreators": [
       "Tatiana Tsiguleva",
       "リンファ (Rinfa)",
@@ -2007,6 +2007,60 @@
       "credit": "奇幻微距：透光翅脈與露珠亮點 · @michellemichaels via BudgetPixel AI · CC BY 4.0",
       "copyPolicy": "只展示授權成圖，完整指令見原帖；未獨立核實文字起草者。",
       "asset": "assets/budgetpixel-michellemichaels-fairy-dew-backlight.png"
+    },
+    {
+      "id": "budgetpixel-michellemichaels-temporal-zoning",
+      "creator": "@michellemichaels via BudgetPixel AI",
+      "platform": "budgetpixel",
+      "channel": "creator-social",
+      "sourceDate": "2026-11-05",
+      "dateBasis": "posted",
+      "verifiedDate": "2026-11-19",
+      "source": "https://budgetpixel.com/p/103766",
+      "promptLocator": "原帖單幅圖下 Prompt 欄，左右時代分區與中央人物、鐘塔的指令；只確認帳號發布，不宣稱獨立撰寫。",
+      "styleLabel": "時間分區全景：中央錨點與跨區光帶",
+      "resultObservation": "左側柱廊、古堡、帆船與蒸汽火車混合，右側高塔及飛行器進入紫色天空；中央人物和鐘塔形成強垂直軸，金藍光帶穿過兩側。現代玻璃建築及車流靠近中心兩旁。",
+      "distinctStyleKey": "horizontal-time-zones-shared-light-axis",
+      "distinctReason": "不是單一景深分層或一般冷暖對照；左右配置不同時間語彙，再用共用光帶及中央人物鐘塔維持整幅視覺連續。",
+      "limitation": "生成式科幻拼景，不是歷史記錄或實拍。現代元素散在中央兩側，不是乾淨獨立的第三分區；不視為全部三區要求完美達成。原檔1424×800，不是提示聲稱的8K；不宣稱實際IMAX器材。",
+      "model": "SeeDream 5.0 Flash",
+      "rights": "displayable",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0（原帖標示）",
+      "rightsSource": "https://budgetpixel.com/p/103766",
+      "modification": "原始 PNG 位元組未改；比例顯示。",
+      "credit": "The Eternal Collision · @michellemichaels via BudgetPixel AI · CC BY 4.0",
+      "copyPolicy": "只展示授權成圖，完整指令請見原帖。",
+      "asset": "assets/budgetpixel-michellemichaels-temporal-zoning.png"
+    },
+    {
+      "id": "budgetpixel-justrob-precision-wash-drafting-grid",
+      "creator": "@justrob via BudgetPixel AI",
+      "platform": "budgetpixel",
+      "channel": "creator-social",
+      "sourceDate": "2026-11-11",
+      "dateBasis": "posted",
+      "verifiedDate": "2026-11-19",
+      "source": "https://budgetpixel.com/p/106325",
+      "promptLocator": "原帖第二張：粉櫻花側臉；圖下的完整 Prompt 對應此成圖。",
+      "styleLabel": "製圖格線入畫：透明平面切入細墨線側臉",
+      "resultObservation": "墨線明確畫出眼、鼻和柱狀頸線，臉和衣料上有透明藍黃稜面；細直格線跨過空白與肩線，不取代輪廓。",
+      "distinctStyleKey": "drafting-grid-translucent-planes-ink-profile",
+      "distinctReason": "不同於千禧產品背景的線框網或競逐方向的抽象碎形；圖層作用是讓製圖線進到肖像與留白。",
+      "method": "先鎖定清楚側臉輪廓；格線用低密度細線，半透明幾何按鼻尖、頸部與衣緣取點。確認圖層不遮眼和唇。",
+      "limitation": "Flux 模擬墨線及淡彩，非實際畫作；第二張有額外主體描述，不能與首圖交叉搭配。 製圖線只是視覺語彙，沒有可靠尺寸或工程標註；不宣稱原指令由發帖者獨立起草。",
+      "model": "Flux 1.1 Pro",
+      "rights": "displayable",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseLabel": "CC0 1.0（原帖標示）",
+      "rightsSource": "https://budgetpixel.com/p/106325",
+      "modification": "原始 PNG 位元組未改；等比展示。",
+      "credit": "製圖格線入畫：透明平面切入細墨線側臉 · @justrob via BudgetPixel AI · CC0 1.0",
+      "copyPolicy": "只展示可轉載成圖；完整創作者發布的指令見原帖。",
+      "asset": "assets/budgetpixel-justrob-precision-wash-drafting-grid.png",
+      "imageAudit": "Exact PNG 864×1152 full decode and visual review; as delivered by the verified original post.",
+      "creatorStyleSource": "https://justrobstyles.com/s/precision-ink-wash",
+      "classification": "art"
     }
   ]
 }
