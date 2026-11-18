@@ -33,6 +33,7 @@ function detail(c,opener){
  title.append(h);if(c.titleEn)title.append(el('p',c.titleEn,'detail-meta'));
  title.append(el('p',[c.creator,c.date,langLabel[c.library],text(c.technique)].filter(Boolean).join(' · '),'detail-meta'));
  if(c.family?.zh)title.append(el('p','技法家族：'+c.family.zh,'detail-meta'));
+ if(c.displayKind==='technique')title.append(el('p','技法示範／對照圖','technique-label'));
  const close=button('×',()=>d.close(),'close');close.dataset.close='';close.setAttribute('aria-label','關閉案例詳情');
  head.append(title,close);
  const zoom=el('div',null,'zoom'), img=photo(c);
@@ -51,7 +52,7 @@ function detail(c,opener){
  addSource('展示權利',external(c.license.url)?link(c.license.label,c.license.url):c.license.label);
  if(external(c.source.rightsUrl))addSource('權利依據',link('核對原始授權紀錄',c.source.rightsUrl));
  addSource('來源核對日期',c.source.checked);
- addSource('署名',c.source.credit||c.creator);
+ addSource('署名',external(c.source.creditUrl)?link(c.source.credit||c.creator,c.source.creditUrl):(c.source.credit||c.creator));
  if(external(c.source.imageUrl))addSource('來源影像',link('在來源站開啟',c.source.imageUrl));
  if(c.license.note)addSource('權利補充',c.license.note);
  const analysis=el('div',null,'analysis');
@@ -85,8 +86,11 @@ function showCase(c){
  const captions=el('span',null,'card-text'),upper=el('span',null,'card-top');
  upper.append(el('span',text(c.technique)),el('span',c.serial,'num'));
  captions.append(upper,el('strong',c.title),el('span',c.creator+' · '+c.date,'card-credit'));
+ if(c.displayKind==='technique')captions.append(el('span','技法示範／對照圖','technique-label'));
  if(c.source.credit&&c.source.credit!==c.creator)captions.append(el('span',c.source.credit,'card-credit'));
- control.append(photo(c,true),captions);card.append(control);return card;
+ control.append(photo(c,true),captions);card.append(control);
+ if(external(c.source.creditUrl)){const credit=link(c.source.credit||c.creator,c.source.creditUrl);credit.className='linked-credit';card.append(credit);}
+ return card;
 }
 function updateMethods(){
  const sel=$('method'),keep=sel.value;

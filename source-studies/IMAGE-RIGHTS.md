@@ -585,3 +585,76 @@
 - 展示權利：CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
 - 權利依據：https://commons.wikimedia.org/wiki/File:SuicideMartinRevAlanVega.jpg#Licensing
 - 檔案調整：等比例縮小並轉為 WebP；未裁切或調色。此圖像檔沿用 CC BY-SA 3.0。
+
+## PrintLayers500px｜四色網版印刷與對位對照
+- 檔案：assets/wc-screen-cmyk.webp
+- 署名：Nicholas Smith
+- 來源：https://commons.wikimedia.org/wiki/File:PrintLayers500px.gif
+- 展示權利：CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:PrintLayers500px.gif
+- 檔案調整：從作者原 15 幀 GIF 擷取 0、2、4、6、8、10（從零計）六個完整畫幅，等比例縮小並排為靜態 WebP，加英語階段標籤；未調色或裁切原幀。 轉檔圖像沿用同一授權，不代表作者背書。
+
+## Material Collage｜材料拼貼與空隙
+- 檔案：assets/wc-material-jehle.webp
+- 署名：Manfred Jehle
+- 來源：https://commons.wikimedia.org/wiki/File:Material_Collage_-_Manfred_Jehle.jpg
+- 展示權利：CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Material_Collage_-_Manfred_Jehle.jpg
+- 檔案調整：以來源圖轉為 WebP；未另行縮放、裁切或調色。
+
+## 明 程嘉燧（傳）園鷄圖 扇｜Landscape with Chicken
+- 檔案：assets/met-rooster-gold.webp
+- 署名：Attributed to Cheng Jiasui. The Metropolitan Museum of Art, John Stewart Kennedy Fund, 1913 (13.100.65).
+- 來源：https://www.metmuseum.org/art/collection/search/35986
+- 展示權利：CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:%E6%98%8E_%EF%BC%88%E5%82%B3%EF%BC%89%E7%A8%8B%E5%98%89%E7%87%A7_%E9%87%91%E7%AE%8B%E6%B0%B4%E5%A2%A8%E5%85%AC%E9%B7%84%E5%9C%96%E6%89%87%E9%A0%81-A_Rooster_near_Trees_MET_DP153842.jpg
+- 檔案調整：等比例縮小並轉為 WebP；未裁切或調色。
+
+## 海王星：自適應光學開關比較
+- 檔案：assets/photo6-adaptive.webp
+- 署名：ESO/P. Weilbacher (AIP)
+- 來源：https://eso.org/public/images/eso1824b/
+- 展示權利：CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
+- 權利依據：https://www.eso.org/public/outreach/copyright/
+- 檔案調整：以來源圖等比例縮小並轉為 WebP，未裁切或調色。
+
+## 螺絲見到雙視點：紅青顯微立體
+- 檔案：assets/photo6-stereo-micro.webp
+- 署名：SecretDisc
+- 來源：https://commons.wikimedia.org/wiki/File:Screw_Anaglyph.jpg
+- 展示權利：CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Screw_Anaglyph.jpg
+- 檔案調整：以來源圖等比例縮小並轉為 WebP，未裁切或調色。 轉檔沿用原授權。
+
+## 阿拉斯加山峰的紅濾鏡黑白照
+- 檔案：assets/photo6-red-filter.webp
+- 署名：Andrew Shiva / Wikipedia
+- 來源：https://commons.wikimedia.org/wiki/File:Mountain_Peak,_Alaska_(1999).jpg
+- 展示權利：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Mountain_Peak,_Alaska_(1999).jpg
+- 檔案調整：以來源圖等比例縮小並轉為 WebP，未裁切或調色。 轉檔沿用原授權。
+
+## 銅幣上的 2:1 微距
+- 檔案：assets/photo6-coin-macro.webp
+- 署名：Luc Viatour / https://Lucnix.be
+- 來源：https://commons.wikimedia.org/wiki/File:Macro-2_1_Luc_Viatour.jpg
+- 展示權利：CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Macro-2_1_Luc_Viatour.jpg
+- 補充：攝影圖檔的署名與 CC BY-SA 3.0 與硬幣圖樣的權利分開。此處只按歐盟委員會的歐元共用面忠實平面影像規則展示：https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ%3AC%3A2011%3A041%3A0004%3A0006%3AEN%3APDF
+- 檔案調整：以來源圖等比例縮小並轉為 WebP，未裁切或調色。 轉檔沿用原授權。
+
+## 液柱兩個瞬間：藍黃延遲閃光
+- 檔案：assets/photo6-gel-pulses.webp
+- 署名：Joe Dyer
+- 來源：https://commons.wikimedia.org/wiki/File:Twin_Ring_Milk_Splash_(6972247882).jpg
+- 展示權利：CC BY 2.0 https://creativecommons.org/licenses/by/2.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Twin_Ring_Milk_Splash_(6972247882).jpg
+- 檔案調整：以來源圖等比例縮小並轉為 WebP，未裁切或調色。
+
+## 木星波帶：短幀擇優成像
+- 檔案：assets/photo6-lucky-frames.webp
+- 署名：Stub Mandrel
+- 來源：https://commons.wikimedia.org/wiki/File:Jupiter_with_Lucky_Imaging.jpg
+- 展示權利：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Jupiter_with_Lucky_Imaging.jpg
+- 檔案調整：以來源圖轉為 WebP；未另行縮放、裁切或調色。轉檔沿用原授權。

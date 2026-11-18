@@ -799,7 +799,8 @@
         "publisher": "Wikimedia Commons",
         "credit": "ESO/S. Guisard",
         "checked": "2026-11-18",
-        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Guisard_-_Milky_Way.jpg"
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Guisard_-_Milky_Way.jpg",
+        "creditUrl": "https://www.eso.org/public/images/eso0934a/"
       },
       "license": {
         "label": "CC BY 4.0",
@@ -4417,6 +4418,569 @@
             "視角",
             "projection",
             "optics"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-screen-cmyk",
+      "library": "art",
+      "title": "PrintLayers500px｜四色網版印刷與對位對照",
+      "creator": "Nicholas Smith",
+      "date": "2011-11-02（作者標註日期）",
+      "technique": "四色網版印刷・網點與套色對位",
+      "familyId": "screen-matrix-color-separation",
+      "visual": "六格靜圖顯示青、洋紅、黃、黑四個單色版，以及原 GIF 裡有套色偏位與對準的同一張網格；偏位格線旁溢出成細色邊，對準時回到整齊的紙色線。",
+      "method": "作者的 15 幀原 GIF 指明是 CMYK screen print 四版實例。練習可先按青洋紅黃黑分版印出小階調表，以同一張紙標記共同對位點，留白格線可直接辨別哪一版偏移；不要只盯著最深色塊。",
+      "why": "印刷質感不是把雜點撒到數碼漸層。對位對比顯示實際位置錯誤如何變色；同一份示範不會因六格而計六例。",
+      "unknown": "原件未公開網目、刮板壓力、網角或確切疊墨順序。此頁側重分版和對位，沒把顯示幀次序說成原來印刷順序。",
+      "prompt": "原創四色網版印刷試張：顯示青、洋紅、黃與黑的獨立半色調分版樣本，以及同一份虛構對位格的疊印結果；小面積可見真實網點、紙白邊保持乾淨，示範性套印色邊僅一小段。不要仿編來源圖。",
+      "promptEn": "Original CMYK screen-print proof, four genuinely separate cyan, magenta, yellow and black halftone plates and an overprint on an invented alignment grid; visible restrained screen dots and clean paper-white divisions, one small misregistration area for comparison, not a recreation of the reference.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:PrintLayers500px.gif",
+        "publisher": "Wikimedia Commons",
+        "credit": "Nicholas Smith",
+        "checked": "2026-11-18",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/PrintLayers500px.gif",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:PrintLayers500px.gif"
+      },
+      "license": {
+        "label": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      "image": {
+        "src": "assets/wc-screen-cmyk.webp",
+        "width": 1260,
+        "height": 1140,
+        "alt": "六格靜圖顯示青、洋紅、黃、黑四個單色版，以及原 GIF 裡有套色偏位與對準的同一張網格；偏位格線旁溢出成細色邊，對準時回到整齊的紙色線。",
+        "modification": "從作者原 15 幀 GIF 擷取 0、2、4、6、8、10（從零計）六個完整畫幅，等比例縮小並排為靜態 WebP，加英語階段標籤；未調色或裁切原幀。 轉檔圖像沿用同一授權，不代表作者背書。",
+        "sha256": "f070c71b60d9fc61fd86adf8d91f27ff22ed6e6940fef41c2415987006e23c0d"
+      },
+      "displayKind": "technique",
+      "family": {
+        "id": "screen-matrix-color-separation",
+        "zh": "網版分色與對位",
+        "en": "Screen-matrix color separations",
+        "aliases": [
+          "網點",
+          "套色",
+          "screen-printing",
+          "CMYK",
+          "registration"
+        ],
+        "bucket": {
+          "id": "art-print",
+          "zh": "版畫與圖案製作",
+          "en": "Printmaking and pattern construction",
+          "aliases": [
+            "印製",
+            "版式",
+            "press",
+            "pattern"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-material-jehle",
+      "library": "art",
+      "title": "Material Collage｜材料拼貼與空隙",
+      "creator": "Manfred Jehle",
+      "date": "2021（圖像記錄）",
+      "technique": "材料拼貼・厚薄與孔隙的立體掛組",
+      "familyId": "object-material-assemblage",
+      "visual": "綠灰材料的折褶和幾個真正穿透到底色的孔形成主體，左邊細長向上伸展的物件像骨架，焦點不是平貼的新聞圖像而是輪廓厚度與空隙。",
+      "method": "作者發布本件作為自己的 Material Collage。可把懸掛骨架、材質實面、透空三者分開設計，從門窗式的幾個穿孔開始，按希望的疏密留邊，再拍中性背景防止白洞看似顏料。",
+      "why": "孔隙不只提供留白：折邊微弱陰影和穿透到底色的反差讓厚度可讀。這與平貼紙塊的二維拼貼是不同操作。",
+      "unknown": "檔案未提供黏結劑、結構材、紙種或展品尺寸；只記錄可見形態，不由外觀假定是金屬、布或紙漿。",
+      "prompt": "原創綠灰材料掛組，一側有細木支架，中心薄層曲面曲折、具不同大小的透孔；中性色背景穿透洞口，側緣受光，保留分明的折深，不仿原作品形狀。",
+      "promptEn": "Original green-gray hanging material assemblage, slim support at one side with a contoured thin central surface in gently crumpled folds and holes of differing sizes; neutral ground remains visible through the holes, grazing edge lights, do not reproduce the source silhouette.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Material_Collage_-_Manfred_Jehle.jpg",
+        "publisher": "Wikimedia Commons",
+        "credit": "Manfred Jehle",
+        "checked": "2026-11-18",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Material_Collage_-_Manfred_Jehle.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Material_Collage_-_Manfred_Jehle.jpg"
+      },
+      "license": {
+        "label": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "image": {
+        "src": "assets/wc-material-jehle.webp",
+        "width": 331,
+        "height": 500,
+        "alt": "綠灰材料的折褶和幾個真正穿透到底色的孔形成主體，左邊細長向上伸展的物件像骨架，焦點不是平貼的新聞圖像而是輪廓厚度與空隙。",
+        "modification": "以來源圖轉為 WebP；未另行縮放、裁切或調色。",
+        "sha256": "31e9ac10b0cbdacca090c7ac78d6ef56f6d2ac33c11f27789a13543b74750417"
+      },
+      "family": {
+        "id": "object-material-assemblage",
+        "zh": "立體材料組合",
+        "en": "Three-dimensional material assemblage",
+        "aliases": [
+          "材料拼貼",
+          "立體構成",
+          "孔隙",
+          "assemblage",
+          "material collage"
+        ],
+        "bucket": {
+          "id": "art-object",
+          "zh": "立體材料與工藝",
+          "en": "Objects and crafted materials",
+          "aliases": [
+            "材料",
+            "工藝",
+            "craft",
+            "object"
+          ]
+        }
+      }
+    },
+    {
+      "id": "met-rooster-gold",
+      "library": "art",
+      "title": "明 程嘉燧（傳）園鷄圖 扇｜Landscape with Chicken",
+      "creator": "Attributed to Cheng Jiasui（傳程嘉燧）",
+      "date": "明—清（館方時期）",
+      "technique": "金箋水墨扇面・按弧形分配景物",
+      "familyId": "waterborne-paper-painting",
+      "visual": "扇面左側留出疏空和斜落款，雞與草木集中於中央偏右；枝葉順扇形邊緣伸展，墨色和淡金底彼此分離。",
+      "method": "大都會博物館記錄為金箋水墨摺扇、後裝裱作冊頁。按實際弧形先排疏密，把較重枝葉和主角放在同側，讓較淡的墨線引向對側空區。",
+      "why": "扇形的邊界與留白共同主導閱讀，色紙本身是底色，不是普通墨畫附上金色框。",
+      "unknown": "館方為歸屬傳程嘉燧，非確定作者；紙材處理與金成分均未核實，不稱金箔。",
+      "prompt": "原創淡赭金箋扇面，細墨枯葉和一隻虛構小鳥偏右，植物按扇緣弧度伸展；左半保留疏空，墨有兩級濃淡，不仿題字或印記。",
+      "promptEn": "Original ink composition on muted gold-toned fan paper, fine wilting leaves and an imagined little bird right of center, stems following the arc; generous breathing room left, two ink values, no copied lettering or seals.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.metmuseum.org/art/collection/search/35986",
+        "publisher": "The Metropolitan Museum of Art",
+        "credit": "Attributed to Cheng Jiasui. The Metropolitan Museum of Art, John Stewart Kennedy Fund, 1913 (13.100.65).",
+        "checked": "2026-11-18",
+        "imageUrl": "https://images.metmuseum.org/CRDImages/as/web-large/DP153842.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:%E6%98%8E_%EF%BC%88%E5%82%B3%EF%BC%89%E7%A8%8B%E5%98%89%E7%87%A7_%E9%87%91%E7%AE%8B%E6%B0%B4%E5%A2%A8%E5%85%AC%E9%B7%84%E5%9C%96%E6%89%87%E9%A0%81-A_Rooster_near_Trees_MET_DP153842.jpg"
+      },
+      "license": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "image": {
+        "src": "assets/met-rooster-gold.webp",
+        "width": 598,
+        "height": 289,
+        "alt": "扇面左側留出疏空和斜落款，雞與草木集中於中央偏右；枝葉順扇形邊緣伸展，墨色和淡金底彼此分離。",
+        "modification": "等比例縮小並轉為 WebP；未裁切或調色。",
+        "sha256": "d8ebfc73cd83377f2837b8e8de0c79cf02f88ffa17019abba52bb5f102ac4490"
+      },
+      "family": {
+        "id": "waterborne-paper-painting",
+        "zh": "紙本水性繪畫",
+        "en": "Waterborne painting on paper",
+        "aliases": [
+          "水彩",
+          "水粉",
+          "水墨",
+          "自然史插畫",
+          "gouache",
+          "watercolor",
+          "ink wash",
+          "scientific illustration"
+        ],
+        "bucket": {
+          "id": "art-2d",
+          "zh": "平面原畫與字形",
+          "en": "Two-dimensional art and lettering",
+          "aliases": [
+            "畫稿",
+            "書法",
+            "illustration",
+            "painting",
+            "lettering"
+          ]
+        }
+      }
+    },
+    {
+      "id": "photo6-adaptive",
+      "library": "photo",
+      "title": "海王星：自適應光學開關比較",
+      "titleEn": "Neptune from the VLT with and without adaptive optics",
+      "creator": "ESO／P. Weilbacher",
+      "date": "2018-07-18（發布）",
+      "technique": "行星攝影・即時校正波前",
+      "familySuggestion": "天文合成與成像（既有；天文設施即時光學校正子技法）",
+      "visual": "左邊的藍色行星輪廓清、亮帶可辨；右邊外緣像被光暈淹沒。兩幅共用黑底，便於看空間細節和模糊的差異。",
+      "method": "ESO 說明圖像是在 VLT 測試 MUSE/GALACSI 窄視場自適應光學時得到；左側開啟，右側關閉。自適應光學在擷取過程補償部分波前畸變，不是對同一數碼檔加銳化。",
+      "why": "大氣擾動令星點或行星邊緣攤開。補償波前可讓近鄰明暗細節重新分開；與逐幀擇優、同域時間堆疊或跨天區拼圖是不同階段。",
+      "unknown": "紀錄未在這頁列每張曝光時間、波段映射、實際天氣或完整後製；不能用這張比較保證其他裝置的改善倍率。 成像濾鏡約跨 551–920 nm；不能把所見藍色稱為人眼真色。",
+      "prompt": "虛構冰巨行星的科學攝影演示：同尺度雙圖、全黑背景。左側保留有物理細節的窄雲帶和清楚盤緣，右側保留相同姿態與整體亮度但細節被大氣視寧度散開。無數據標籤、文字、過度銳化光邊。",
+      "promptEn": "Scientific-imaging study of a fictional ice giant: two equally scaled frames on black. Left preserves narrow plausible cloud streaks and a defined disk; right preserves the same pose and overall brightness but atmospheric seeing blurs local structure. No data labels, text or sharpening halos.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://eso.org/public/images/eso1824b/",
+        "imageUrl": "https://cdn.eso.org/images/large/eso1824b.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "publisher": "European Southern Observatory",
+        "credit": "ESO/P. Weilbacher (AIP)",
+        "checked": "2026-11-18",
+        "rightsUrl": "https://www.eso.org/public/outreach/copyright/",
+        "creditUrl": "https://eso.org/public/images/eso1824b/"
+      },
+      "license": {
+        "label": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "image": {
+        "src": "assets/photo6-adaptive.webp",
+        "alt": "海王星：自適應光學開關比較，ESO／P. Weilbacher",
+        "modification": "以來源圖等比例縮小並轉為 WebP，未裁切或調色。",
+        "width": 1400,
+        "height": 723,
+        "sourceWidth": 2416,
+        "sourceHeight": 1248,
+        "sha256": "b21dabcee3222274517ec1c3ea0a733aca744415838c75e43e0caa41113755b3"
+      },
+      "displayKind": "technique",
+      "family": {
+        "id": "adaptive-optical-correction",
+        "zh": "即時光學像差補償",
+        "en": "Adaptive optical wavefront correction",
+        "aliases": [
+          "自適應光學",
+          "波前",
+          "adaptive optics"
+        ],
+        "bucket": {
+          "id": "photo-optic",
+          "zh": "光學取景、投影及透視",
+          "en": "Optical capture, projection and perspective",
+          "aliases": [
+            "鏡頭",
+            "視角",
+            "projection",
+            "optics"
+          ]
+        }
+      }
+    },
+    {
+      "id": "photo6-stereo-micro",
+      "library": "photo",
+      "title": "螺絲見到雙視點：紅青顯微立體",
+      "titleEn": "Screw anaglyph from a stereo microscope",
+      "creator": "SecretDisc",
+      "date": "2008-07-06（檔案上傳）",
+      "technique": "顯微立體・紅青雙視點疊合",
+      "familySuggestion": "立體顯示與重投影（既有；紅青融合，不是平行並排）",
+      "visual": "斜放螺絲的牙峰和頭部邊緣看到紅、青的微小錯開；背景大體維持中性。不同線段的偏移並非完全一樣。",
+      "method": "作者說明使用 Olympus SZX12 立體顯微鏡，有可滑動物鏡轉盤，標稱放大 3.5×。這是紅青 anaglyph 疊合的結果：兩個視角各以不同色通道呈現，再用對應濾色鏡觀看。",
+      "why": "牙紋各層的位移差可表現前後，而不是替所有邊沿加同等色散；重點是把垂直誤差對齊，只保留有用水平視差。",
+      "unknown": "原作者沒有公開兩視點平移量、通道組合、零視差設定或拍攝順序；日期用上傳標記，不當作拍攝日期。",
+      "prompt": "用虛構鑄鐵小鑽頭做紅青顯微立體照片。把兩個輕微橫向差異的視圖疊合，輪緣和螺旋切線的色邊隨遠近改變；光線柔和、底色中性，禁止套滿整幅的固定色散或垂直拖影。",
+      "promptEn": "Red-cyan stereomicroscope image of an invented cast-iron drill bit. Overlay two slightly offset true viewpoints, let horizontal red/cyan edge displacement vary with depth on the rim and helix, soft light and neutral backdrop, no uniform chromatic-aberration overlay or vertical smearing.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Screw_Anaglyph.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Screw_Anaglyph.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "publisher": "Wikimedia Commons",
+        "credit": "SecretDisc",
+        "checked": "2026-11-18",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Screw_Anaglyph.jpg"
+      },
+      "license": {
+        "label": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      "image": {
+        "src": "assets/photo6-stereo-micro.webp",
+        "alt": "螺絲見到雙視點：紅青顯微立體，SecretDisc",
+        "modification": "以來源圖等比例縮小並轉為 WebP，未裁切或調色。 轉檔沿用原授權。",
+        "width": 1400,
+        "height": 1044,
+        "sourceWidth": 2058,
+        "sourceHeight": 1534,
+        "sha256": "31edf4e3bb7fd832763cbfea7a29e0aaaa0e94926af4ad3c87a34be7399a7c85"
+      },
+      "family": {
+        "id": "stereoscopic-imaging",
+        "zh": "雙視點立體成像",
+        "en": "Stereoscopic imaging",
+        "aliases": [
+          "左右視點",
+          "立體",
+          "雙目",
+          "stereo pair",
+          "binocular",
+          "stereoscopy"
+        ],
+        "bucket": {
+          "id": "photo-optic",
+          "zh": "光學取景、投影及透視",
+          "en": "Optical capture, projection and perspective",
+          "aliases": [
+            "鏡頭",
+            "視角",
+            "projection",
+            "optics"
+          ]
+        }
+      }
+    },
+    {
+      "id": "photo6-red-filter",
+      "library": "photo",
+      "title": "阿拉斯加山峰的紅濾鏡黑白照",
+      "titleEn": "Mountain Peak, Alaska",
+      "creator": "Andrew Shiva",
+      "date": "1999-07",
+      "technique": "黑白攝影・鏡前紅色反差濾鏡",
+      "familySuggestion": "濾鏡、波段與反光（既有；黑白色光過濾子技法）",
+      "visual": "深岩從帶層次的灰雲前拔起，山腳雪地亮但能辨小紋理；黑白對比集中在山形、雪線和雲層之間。",
+      "method": "原作者列 Mamiya 645 Pro、中片幅 Agfa Scala-200 黑白片、鏡前紅濾鏡、ISO 200、手動與三腳架。紅濾鏡會選擇性減少部分藍光；風景中的藍天通常變深，紅黃區域相對亮。這幅陰天實際影響不能從成圖倒推。",
+      "why": "把原景的光譜差異轉成灰階，而非全域提高反差。可練同一類景色先對比不同濾鏡，再用有亮雪、有中灰雲、有深岩的測光來保留階調。",
+      "unknown": "快門、光圈、濾鏡的精確型號、當日雲層色和掃描曲線未核實；不稱紅外或數碼黑白濾鏡。",
+      "prompt": "虛構峽谷雪峰，模擬黑白底片的鏡前紅濾鏡反差，以深灰岩、可辨灰雲、細紋理留白劃分三層；較冷天空區降灰、積雪保留中亮細節，沒有高反差光暈或空白死黑。",
+      "promptEn": "Invented snowy ravine in a black-and-white film red-filter interpretation: separate deep-gray rock, textured cloud gray and finely detailed snow, bias cool sky regions darker while retaining bright snow detail, no HDR halos or crushed black holes.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Mountain_Peak,_Alaska_(1999).jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Mountain_Peak%2C_Alaska_%281999%29.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "publisher": "Wikimedia Commons",
+        "credit": "Andrew Shiva / Wikipedia",
+        "checked": "2026-11-18",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Mountain_Peak,_Alaska_(1999).jpg"
+      },
+      "license": {
+        "label": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "image": {
+        "src": "assets/photo6-red-filter.webp",
+        "alt": "阿拉斯加山峰的紅濾鏡黑白照，Andrew Shiva",
+        "modification": "以來源圖等比例縮小並轉為 WebP，未裁切或調色。 轉檔沿用原授權。",
+        "width": 1400,
+        "height": 901,
+        "sourceWidth": 4065,
+        "sourceHeight": 2615,
+        "sha256": "e46b5f753b7f04276325822a4204125c9f360d9460531a6e78517d0f520a60d5"
+      },
+      "family": {
+        "id": "film-spectral-response",
+        "zh": "底片感色與高光反應",
+        "en": "Film spectral and highlight response",
+        "aliases": [
+          "鎢光底片",
+          "高光暈",
+          "halation",
+          "color negative",
+          "tungsten film"
+        ],
+        "bucket": {
+          "id": "photo-paper",
+          "zh": "感光紙、暗房與印相",
+          "en": "Photosensitive media, darkroom and printing",
+          "aliases": [
+            "銀鹽",
+            "印相",
+            "暗房",
+            "print",
+            "film"
+          ]
+        }
+      }
+    },
+    {
+      "id": "photo6-coin-macro",
+      "library": "photo",
+      "title": "銅幣上的 2:1 微距",
+      "titleEn": "Macro photography magnification of 2:1",
+      "creator": "Luc Viatour",
+      "date": "2007",
+      "technique": "靜物微距・增距鏡的 2:1 放大",
+      "familySuggestion": "近攝、倍率與景深（既有；光學倍率子技法）",
+      "visual": "銅幣只佔局部畫幅，圓弧外緣從左側延伸到右上。字的凸緣與底面的細小麻點分得很開，冷藍背景是襯底而非主體。",
+      "method": "作者提供 Nikon D80、Sigma 150 mm f/2.8 微距鏡與 2× 增距鏡，說明成像倍率 2:1；檔案約 2/3 秒。這裡的 2:1 指影像在感光面上的線性倍率，不是網頁展示大小。",
+      "why": "讓凸字面大致平行感光面，才不會在狹窄清晰深度下只剩局部角落清楚；留下銅色、斜入光亮邊與背景的區隔。",
+      "unknown": "燈型、支撐、是否堆疊和影像裁剪資訊沒有披露；不能稱作作者使用了微距堆焦或棚燈陣列。",
+      "prompt": "虛構圓銅章的一角，2:1 光學微距效果，薄的浮雕邊與銅粒清楚，物面與感光平面大致平行；豎側只一線高光、冷石藍背景留窄邊，不再現實際貨幣、商標或字樣。",
+      "promptEn": "Invented circular copper token detail, optical 2:1 macro feeling, crisp slender relief edges and fine copper pitting, face almost parallel to the sensor, a narrow sidelight ridge and slim cool slate-blue backdrop, no actual currency, logos or inscriptions.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Macro-2_1_Luc_Viatour.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Macro-2_1_Luc_Viatour.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "publisher": "Wikimedia Commons",
+        "credit": "Luc Viatour / https://Lucnix.be",
+        "checked": "2026-11-18",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Macro-2_1_Luc_Viatour.jpg"
+      },
+      "license": {
+        "label": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "note": "攝影圖檔的署名與 CC BY-SA 3.0 與硬幣圖樣的權利分開。此處只按歐盟委員會的歐元共用面忠實平面影像規則展示：https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ%3AC%3A2011%3A041%3A0004%3A0006%3AEN%3APDF"
+      },
+      "image": {
+        "src": "assets/photo6-coin-macro.webp",
+        "alt": "銅幣上的 2:1 微距，Luc Viatour",
+        "modification": "以來源圖等比例縮小並轉為 WebP，未裁切或調色。 轉檔沿用原授權。",
+        "width": 1400,
+        "height": 941,
+        "sourceWidth": 3880,
+        "sourceHeight": 2608,
+        "sha256": "6ad730f48fa98b24568bd0c48f375b512a68919acecbdef0095e9f8c5c970062"
+      },
+      "family": {
+        "id": "optical-closeup-magnification",
+        "zh": "光學近攝倍率",
+        "en": "Optical close-up reproduction ratio",
+        "aliases": [
+          "倍率",
+          "光學微距",
+          "macro magnification",
+          "reproduction ratio"
+        ],
+        "bucket": {
+          "id": "photo-optic",
+          "zh": "光學取景、投影及透視",
+          "en": "Optical capture, projection and perspective",
+          "aliases": [
+            "鏡頭",
+            "視角",
+            "projection",
+            "optics"
+          ]
+        }
+      }
+    },
+    {
+      "id": "photo6-gel-pulses",
+      "library": "photo",
+      "title": "液柱兩個瞬間：藍黃延遲閃光",
+      "titleEn": "Twin Ring Milk Splash",
+      "creator": "Joe Dyer",
+      "date": "2012-04-22",
+      "technique": "混色雙閃・毫秒相位分離",
+      "familySuggestion": "閃光、動態與環境光（既有；單張多脈衝對時）",
+      "visual": "黑底上的液柱呈藍黃雙色，最上方有較小藍圓片，黃色展開成更寬水冠；液滴銳利，兩道形態沒有糊成連續線。",
+      "method": "作者記錄單張曝光，兩支指定色片 YN560（1/32 功率）。藍光由液滴控制器觸發；右側黃光另行延遲 7 毫秒。相機 Canon 7D，100 mm、1/10 秒、f/14，房間昏暗。",
+      "why": "快門打開時間比動作長；低環境光下，凍結形狀的是各次短閃，而兩種色彩標記同一液柱的不同時間。普通多燈彩色補光沒有這時間分離效果。",
+      "unknown": "作者沒公開燈的確切閃光持續時間、液滴形狀輸入、壓力或顯影曲線；7 毫秒是個案設定，不是通則。",
+      "prompt": "實拍風單張微距，虛構淺色液體回彈，兩道短閃在不同瞬間留下青藍細冠與暖黃較寬冠，背景全暗、粒子邊緣銳利，光從兩側標記形狀，不要連續漸層拖尾或後置疊色濾鏡。",
+      "promptEn": "Single-exposure macro photograph with a rebounding fictional pale liquid, two timed short flashes mark a cyan narrow crown and a golden wider crown at different instants, black room, sharply resolved droplets, side colors describe shape, no continuous gradient smears or global overlay.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Twin_Ring_Milk_Splash_(6972247882).jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Twin_Ring_Milk_Splash_%286972247882%29.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "publisher": "Wikimedia Commons",
+        "credit": "Joe Dyer",
+        "checked": "2026-11-18",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Twin_Ring_Milk_Splash_(6972247882).jpg"
+      },
+      "license": {
+        "label": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "image": {
+        "src": "assets/photo6-gel-pulses.webp",
+        "alt": "液柱兩個瞬間：藍黃延遲閃光，Joe Dyer",
+        "modification": "以來源圖等比例縮小並轉為 WebP，未裁切或調色。",
+        "width": 1050,
+        "height": 1400,
+        "sourceWidth": 1536,
+        "sourceHeight": 2048,
+        "sha256": "ee4a00ebd0aa1042ff6ae449af87a3c080b4d4c09177e526be419c7e22295ff1"
+      },
+      "family": {
+        "id": "flash-lighting",
+        "zh": "閃光塑形與凝結",
+        "en": "Flash lighting and motion freezing",
+        "aliases": [
+          "凝結水冠",
+          "環形閃光",
+          "flash",
+          "strobe",
+          "ring flash",
+          "splash"
+        ],
+        "bucket": {
+          "id": "photo-light",
+          "zh": "照明、光源與材質表現",
+          "en": "Illumination and material depiction",
+          "aliases": [
+            "打燈",
+            "閃光",
+            "studio light"
+          ]
+        }
+      }
+    },
+    {
+      "id": "photo6-lucky-frames",
+      "library": "photo",
+      "title": "木星波帶：短幀擇優成像",
+      "titleEn": "Jupiter with Lucky Imaging",
+      "creator": "Stub Mandrel",
+      "date": "2017-05-15（上傳紀錄）",
+      "technique": "行星攝影・短幀擇優與對齊",
+      "familySuggestion": "天文合成與成像（既有；按清晰度挑選，不是時間最大值）",
+      "visual": "木星的盤面在黑背景正中，畫面中所占範圍不大，米白、灰褐雲帶有數條，邊緣仍保持自然柔順。",
+      "method": "作者把圖明確標作 150 mm 口徑望遠鏡的 lucky imaging。ESO 的技術資料說，這種方法從大量短幀中挑出大氣扭曲較少的部分，再對齊而後合成。作者未披露實際對齊軟體；也不與即時波前修正混用。",
+      "why": "與逐像素保留亮軌跡的最大值堆疊不同，目標是找同一主要物體的短暫清晰時刻；對齊先後幀後影像細節不會因盤面抖動而互相沖淡。",
+      "unknown": "每幀曝光、視寧度、選幀比例、銳化及實際測得解析度未驗證；不採用檔案頁口徑解析度的推測值。",
+      "prompt": "一張虛構氣體行星的地面望遠鏡照片，按短幀擇優的外觀呈現，保留柔和圓盤和數條淡赭、米灰與粉褐橫帶，細部低調、影像外純黑，不要高銳化白邊或星空背景。",
+      "promptEn": "Ground-based telescope photograph of an invented gas giant with the look of selecting and aligning sharp short frames: a soft natural disk with a few understated ochre, beige gray and rose-brown bands, quietly resolved details, outside is black, no artificial white sharpening rim or added star field.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Jupiter_with_Lucky_Imaging.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Jupiter_with_Lucky_Imaging.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "publisher": "Wikimedia Commons",
+        "credit": "Stub Mandrel",
+        "checked": "2026-11-18",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Jupiter_with_Lucky_Imaging.jpg"
+      },
+      "license": {
+        "label": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "image": {
+        "src": "assets/photo6-lucky-frames.webp",
+        "alt": "木星波帶：短幀擇優成像，Stub Mandrel",
+        "modification": "以來源圖轉為 WebP；未另行縮放、裁切或調色。轉檔沿用原授權。",
+        "width": 769,
+        "height": 769,
+        "sourceWidth": 769,
+        "sourceHeight": 769,
+        "sha256": "9e1413a840b8d1a65af38e40744d03087eb52e4d3132faa28015534f30195211"
+      },
+      "family": {
+        "id": "stack-compositing",
+        "zh": "同範圍堆疊合成",
+        "en": "Stack-based composite assembly",
+        "aliases": [
+          "焦點堆疊",
+          "時間堆疊",
+          "最大值",
+          "focus stack",
+          "temporal stack",
+          "max blend"
+        ],
+        "bucket": {
+          "id": "photo-compute",
+          "zh": "計算合成與重投影",
+          "en": "Computational assembly and reprojection",
+          "aliases": [
+            "堆疊",
+            "數位後製",
+            "computational",
+            "stacking"
           ]
         }
       }
