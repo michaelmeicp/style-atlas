@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "goal": 500,
-  "verifiedTechniques": 29,
+  "verifiedTechniques": 39,
   "byLibrary": {
-    "art": 14,
-    "photo": 15
+    "art": 21,
+    "photo": 18
   },
   "entries": [
     {
@@ -585,6 +585,206 @@
         "control": "用既有參考或三灰階紙片拼曲面，標出片的邊界",
         "comparison": "與同形物由顏料畫漸層比較",
         "passSignal": "片內仍有原材料紋理，階差與拼接邊界對齊；畫漸層沒有必要的拼縫"
+      }
+    },
+    {
+      "id": "mezzotint-burnished-burr",
+      "library": "art",
+      "name": {
+        "zh": "美柔汀毛刺減墨",
+        "en": "Mezzotint burnished burr"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Valentine_Green_-_To_the_Society_of_Goffers_at_Blackheath_-_B1994.4.504_-_Yale_Center_for_British_Art.jpg",
+      "parentFamily": "intaglio-matrix-printing",
+      "observed": "兩個人物由大片棕黑連續調中浮出，領口與腿襪是明顯較輕的面。",
+      "method": "耶魯館藏官方影像的檔案記錄列美柔汀；大都會的印刷技法文件解釋此法先在版上形成整面蓄墨毛刺，再磨平部分使其少蓄墨。",
+      "limits": "本幅每段滾點與磨光的順序和壓印狀況未知，不能藉此照片估印次。",
+      "nearest": "granular-aquatint-intaglio",
+      "difference": "美柔汀從蓄墨毛刺以磨光減墨，飛塵腐蝕以顆粒阻蝕形成凹點；同為連續調不等於同機制。",
+      "comparison": {
+        "control": "只在可讀取的館方掃描比較陰影過渡處的色階與紋理",
+        "comparison": "與有方向的蝕刻排線和灰調飛塵例並置；三者可用紙上點陣類比，不使用版材工具",
+        "passSignal": "暗底到亮面由連續蓄墨差帶出，不能只靠畫量多寡分辨；確定機制仍以媒材記錄為準"
+      }
+    },
+    {
+      "id": "oil-monotype-afterprint-pastel",
+      "library": "art",
+      "name": {
+        "zh": "油彩單刷之後加粉彩",
+        "en": "Oil monotype with post-transfer pastel"
+      },
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/359362",
+      "parentFamily": "monotype-transfer-printing",
+      "observed": "山坡和天空保有大片模糊暗亮，細淺線狀部位較易分辨。",
+      "method": "大都會館方指出有色油彩單刷後覆上擦抹粉彩。",
+      "limits": "不把每個可見色斑指定給粉彩或油墨，未確認紙纖維、版材和壓力。",
+      "nearest": "direct monotype transfer",
+      "difference": "固定有第二個印後手畫階段，與重新分色、乾刻線骨架或純轉印不同。",
+      "comparison": {
+        "control": "在安全紙上用已有淡色轉印作底，再以乾性色鉛筆加少量形狀；對照同底未覆畫",
+        "comparison": "對照四色純油彩單刷不另覆粉彩的作者紀錄",
+        "passSignal": "底面相近時，上層新增可辨的擦畫質地，而轉印本身不必再多一次"
+      }
+    },
+    {
+      "id": "ceramic-body-separate-handle-join",
+      "library": "art",
+      "name": {
+        "zh": "瓷器分件杯耳附接",
+        "en": "Separate ceramic handle attachment"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:S%C3%A8vres_-_Grand_atelier_-_garnissage_%26_d%C3%A9coupage_27.jpg",
+      "parentFamily": "fired-clay-forming",
+      "observed": "環形耳從亮色杯身突出，在接合區可見貼近器表的端部。",
+      "method": "Coyau 紀錄是同一工坊早餐杯已黏上的耳把；Sèvres 自己也列杯耳、流嘴、鈕等分件工序。",
+      "limits": "照片沒有顯示黏結介質、成形先後或真的經歷的燒製條件。",
+      "nearest": "integral vessel body forming",
+      "difference": "造型邊界包含原先分開製作的部件接點，而不是由一塊材料同捏、同切。",
+      "comparison": {
+        "control": "在圖上標出環兩端與器壁相遇的位置，以安全插片紙模型展示部件可改角度",
+        "comparison": "和同坯一體成形的紙模型輪廓比較",
+        "passSignal": "同一器身輪廓保留，獨立把件方向和兩端間距可改；這不是在器表塗畫弧線"
+      }
+    },
+    {
+      "id": "letterpress-platen-inking-print-cycle",
+      "library": "art",
+      "name": {
+        "zh": "凸版壓印與滾墨循環",
+        "en": "Letterpress platen inking and impression cycle"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Printing_in_a_letterpress.webm",
+      "parentFamily": "relief-matrix-printing",
+      "observed": "紅圓盤與其他部件位置在四時點改變，可見工作者持紙、紙與機器之相對位置。",
+      "method": "Panigrahi 原片說明在 Cuttack 的 Sansar Press 拍奧里亞語凸版；四格來自同一影片。",
+      "limits": "放大圖不能確定刻字是否活字、機型、部分停格的接觸壓力和來源首尾之外的工序。",
+      "nearest": "manual relief rubbing and blind emboss",
+      "difference": "有機械送墨和壓印週期且以墨出圖，不只是無墨壓紋或手持擦印。",
+      "comparison": {
+        "control": "播放原片並逐格標紅盤、滾墨部件和紙位置；不自行操作",
+        "comparison": "與不動版面的手工擦印，或只看靜態版面相比",
+        "passSignal": "位置變化規律反覆，能把供墨和入出紙分成不同可觀察時點"
+      }
+    },
+    {
+      "id": "reversed-coupled-lens-magnification",
+      "library": "photo",
+      "name": {
+        "zh": "雙鏡反接放大",
+        "en": "Reversed coupled-lens magnification"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PencilTip.jpg",
+      "parentFamily": "reverse-coupled-macro",
+      "observed": "鉛筆尖的顆粒和表面紋路佔大幅畫面。",
+      "method": "作者以 Tamron 90 mm 微距鏡接反裝 Pentax 28 mm；其測試約 3.2:1、約 4 公分工作距離。作者提出兩鏡濾鏡口徑不一可能造成暗角。",
+      "limits": "暗角來源為作者推測；此鏡組量測不能推廣到其他搭配。",
+      "nearest": "單支微距鏡或單鏡反接",
+      "difference": "機身側鏡頭正常安裝，前端再反接第二枚鏡頭；並非單一鏡頭接環。",
+      "comparison": {
+        "control": "同一靜物或同一既有資料，以固定觀看尺度比較",
+        "comparison": "保持光線和主鏡設定，對照同一靜物裝與不裝反接鏡組的畫面覆蓋和暗角。",
+        "passSignal": "機身側鏡頭正常安裝，前端再反接第二枚鏡頭；並非單一鏡頭接環。"
+      }
+    },
+    {
+      "id": "preset-unattended-wildlife-capture",
+      "library": "photo",
+      "name": {
+        "zh": "預架式無人值守取景",
+        "en": "Preset unattended wildlife capture"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leopard_at_Night.jpg",
+      "parentFamily": "unattended-wildlife-trap",
+      "observed": "夜間取景同時保留個體和環境。",
+      "method": "攝影者自述此為夜間相機陷阱影像。可確認無人值守的相機捕捉；來源不說觸發器、閃光形式、相機位置或是否用其他輔助設備。",
+      "limits": "原作者標相機陷阱，未提供確切觸發或補光。",
+      "nearest": "有人操作的跟拍或棚拍",
+      "difference": "不由攝影者現場追焦取景；機位先設定，等待行為進框。",
+      "comparison": {
+        "control": "同一靜物或同一既有資料，以固定觀看尺度比較",
+        "comparison": "用現成、已獲准的公開圖像對照；查看框定環境是否維持、事件是否從預設方向進場，不推測私人棲位。",
+        "passSignal": "不由攝影者現場追焦取景；機位先設定，等待行為進框。"
+      }
+    },
+    {
+      "id": "chine-colle-backed-transfer-lithography",
+      "library": "art",
+      "name": {
+        "zh": "薄印紙與厚背紙的複合托裱",
+        "en": "Chine-collé thin print sheet and backing"
+      },
+      "sourceUrl": "https://www.nga.gov/artworks/79162-holy-family-does",
+      "parentFamily": "planographic-lithography",
+      "observed": "下沿有淺紙邊、深色印場和紅章，放大仍可看見深色枝葉網。",
+      "method": "NGA 列本作媒材，Getty 的技法用語定義薄紙承印與厚紙承托。兩者不證明本件是在壓印的哪一刻貼合。",
+      "limits": "本件確切紙種、貼裱做法及內外層厚度未知；不保證見到的每個邊緣即薄紙邊。",
+      "nearest": "multi-matrix-planographic-lithography",
+      "difference": "改變的是承印層與背襯的組合，不是石版油墨分色和套準。",
+      "comparison": {
+        "control": "在安全示意中把同圖印在一張厚紙及一張薄紙加背紙，比邊界和支撐韌性。",
+        "comparison": "用單紙轉寫石版做紙上版面對照；不以不同主題作對照。",
+        "passSignal": "薄印區可辨，背紙仍支撐外邊；圖像轉寫至石版的步驟不能由紙邊照片推定。"
+      }
+    },
+    {
+      "id": "mishima-ceramic-recessed-decoration",
+      "library": "art",
+      "name": {
+        "zh": "三島式凹槽嵌飾",
+        "en": "Recessed Mishima ceramic decoration"
+      },
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/63118",
+      "parentFamily": "fired-clay-forming",
+      "observed": "黑白照可見局部較有界線的裝飾形和更散的器表斑痕，不由此判斷顏色。",
+      "method": "本作館藏確稱三島嵌飾；同館另件唐津例才有刻凹、填入白泥漿再擦除的細節。",
+      "limits": "本件配方與各步未記；切槽深度和白泥不能從另一件照搬。",
+      "nearest": "ceramic-body-separate-handle-join",
+      "difference": "這是面層有界的填飾，和以部件形成可握器形是不同機制。",
+      "comparison": {
+        "control": "以已完成樣品影像或安全紙模型在掠光下標出三處圖案邊，不重作入窯製程。",
+        "comparison": "與有凸出輪廓的紫砂浮雕和無意圖釉裂作對照。",
+        "passSignal": "裝飾限制在另一材料嵌入的圖域，而非器表浮出或裂紋自行走向。"
+      }
+    },
+    {
+      "id": "edge-standing-paper-strip-quilling",
+      "library": "art",
+      "name": {
+        "zh": "立邊窄紙帶卷紙",
+        "en": "Edge-standing strip paper quilling"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paper_art_2.jpg",
+      "parentFamily": "paper-strip-construction",
+      "observed": "圖的下部行李形內部可見多個捲環；窗框外觀比捲紙環扁平。",
+      "method": "Ajibola Adekanmbi 原作文件明示是 quilling。",
+      "limits": "紙帶厚度、膠類及線圈精確直徑未公布，不能從照片倒推。",
+      "nearest": "hollow-cut-paper-negative-mask",
+      "difference": "負形剪紙是穿透平紙露底，卷紙的形狀由在底面上立起的紙帶構成。",
+      "comparison": {
+        "control": "以光源方向相同的紙製樣對比裝在底板的直立窄帶和畫出的同形色線。",
+        "comparison": "與剪成同輪廓的平放紙片，或既有色片剪影對照。",
+        "passSignal": "立邊樣從低斜角看到紙高、內孔和自投影，平貼色片不能重現同一深度變化。"
+      }
+    },
+    {
+      "id": "daguerreotype-direct-positive-metal-plate",
+      "library": "photo",
+      "name": {
+        "zh": "鍍銀金屬板直接正像",
+        "en": "Daguerreotype direct-positive metal plate"
+      },
+      "sourceUrl": "https://www.loc.gov/item/2004664181/",
+      "parentFamily": "daguerreotype-plate-imaging",
+      "observed": "可見金棕色調和圖像／邊界；數位翻拍不能展現原銀版在不同入射角度的明暗變化。",
+      "method": "國會圖書館把原件列為金調翻拷銀版；本站所示為館方膠片翻拍的數位檔，不是直接掃描金屬原版。",
+      "limits": "無法只靠線上影像還原拍攝、翻拷器材、配方或精確曝光。",
+      "nearest": "Van Dyke contact print or negative-to-paper silver print",
+      "difference": "正像所在基材不同；只計銀版原理，不再拆金調、反轉或翻拷。",
+      "comparison": {
+        "control": "使用館方數位圖與工藝說明，不做化學或加熱實驗。",
+        "comparison": "比較一件銀版和一件需要底片後印的銀鹽相紙，記下成像所在實體支持層、是否有底片階段。",
+        "passSignal": "銀版照片原像直接落在金屬板；負片沖印的最終圖不留在曝光載體。"
       }
     }
   ]

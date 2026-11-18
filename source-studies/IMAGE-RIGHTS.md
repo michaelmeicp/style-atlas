@@ -1228,3 +1228,52 @@
 - 權利依據：https://commons.wikimedia.org/wiki/File:S%C3%A8vres_-_Grand_atelier_-_garnissage_%26_d%C3%A9coupage_27.jpg
 - 補充：此授權針對工序紀錄照，制作者和攝影者不同。不視為任何杯形的製造、再設計許可或館方背書。
 - 檔案調整：等比例縮小並轉存 WebP，未裁切或調色。 轉檔圖維持同一授權，不代表作者背書。
+
+## 雙鏡反接：在鉛筆尖看見木纖維與石墨
+- 檔案：assets/photo13-reverse-coupled-pencil.webp
+- 署名：Christian Fischer
+- 來源：https://commons.wikimedia.org/wiki/File:PencilTip.jpg
+- 展示權利：CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:PencilTip.jpg
+- 檔案調整：以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。 轉檔沿用原授權。
+
+## 無人值守的夜間動物攝影：預先架設相機，記錄動物經過
+- 檔案：assets/photo13-night-camera-trap.webp
+- 署名：Dasdhritiman
+- 來源：https://commons.wikimedia.org/wiki/File:Leopard_at_Night.jpg
+- 展示權利：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Leopard_at_Night.jpg
+- 檔案調整：以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。 轉檔沿用原授權。
+
+## 金色反光板導窗光：暖色微距與壓暗背景
+- 檔案：assets/photo13-gold-reflected-flower.webp
+- 署名：Pedro Szekely
+- 來源：https://commons.wikimedia.org/wiki/File:Flower_(5920506737).jpg
+- 展示權利：CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Flower_(5920506737).jpg
+- 補充：Commons 於 2013-01-29 核對 Flickr 同檔為 CC BY-SA 2.0；原發表本次亦成功讀回著作與作者說明。
+- 檔案調整：以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。 轉檔沿用原授權。
+
+## Rodolphe Bresdin｜與鹿同在的聖家族
+- 檔案：assets/nga-bresdin-chine-colle.webp
+- 署名：Rodolphe Bresdin, National Gallery of Art, 1994.60.6. The official image is free and in the public domain.
+- 來源：https://www.nga.gov/artworks/79162-holy-family-does
+- 展示權利：Public Domain https://creativecommons.org/publicdomain/mark/1.0/
+- 權利依據：https://www.nga.gov/terms-and-notices
+- 檔案調整：等比例縮小並轉存 WebP，未裁切或調色。
+
+## 樂燒陶碗｜三島式嵌飾
+- 檔案：assets/met-raku-mishima-inlay.webp
+- 署名：The Metropolitan Museum of Art, The H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929 (29.100.641).
+- 來源：https://www.metmuseum.org/art/collection/search/63118
+- 展示權利：CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://www.metmuseum.org/hubs/open-access
+- 檔案調整：等比例縮小並轉存 WebP，未裁切或調色。
+
+## 翻拷銀版相片：金調金屬面與影像左右反轉
+- 檔案：assets/photo14-gold-toned-dag-reversal.webp
+- 署名：Library of Congress, Prints and Photographs Division, LC-USZC4-4770
+- 來源：https://www.loc.gov/item/2004664181/
+- 展示權利：Public Domain (LOC daguerreotype collection) https://www.loc.gov/collections/daguerreotypes/about-this-collection/rights-and-access/
+- 權利依據：https://www.loc.gov/collections/daguerreotypes/about-this-collection/rights-and-access/
+- 檔案調整：以館方公開數位版本等比例縮小（如超過 1400 px）並轉為 WebP，未裁切或調色。

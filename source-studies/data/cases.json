@@ -9310,6 +9310,367 @@
           ]
         }
       }
+    },
+    {
+      "id": "photo13-reverse-coupled-pencil",
+      "library": "photo",
+      "title": "雙鏡反接：在鉛筆尖看見木纖維與石墨",
+      "titleEn": "Reverse-coupled two-lens pencil macro",
+      "creator": "Christian Fischer",
+      "date": "2010-09-30",
+      "technique": "90 mm 微距鏡加反裝 28 mm 廣角",
+      "familySuggestion": "reverse-coupled-macro",
+      "visual": "白與淺藍背景前，木材纖維和深石墨的界線清楚，四角出現明顯遮暗，前後只有薄薄的焦區。",
+      "method": "作者以 Tamron 90 mm 微距鏡接反裝 Pentax 28 mm；其測試約 3.2:1、約 4 公分工作距離。作者提出兩鏡濾鏡口徑不一可能造成暗角。",
+      "why": "反接第二支鏡頭增加近攝倍率，並非原本把鏡頭推離影像感光面的接寫環。先決定要讀的尖端材料，再處理極淺景深和暗角。",
+      "unknown": "暗角原因只是作者假說；不能把這一組數字當成所有鏡頭共通比率或景深。",
+      "prompt": "原創石墨筆尖超近攝，木纖維與深石墨交界清楚，只有極薄焦平面，背景潔淨；容許輕微鏡頭自然暗角，不做重數位黑框或深景深堆疊。",
+      "promptEn": "Original graphite pencil ultra-close-up: wood fibers and dark graphite boundary are readable within a thin focus plane, clean background, small natural lens vignette, no heavy black border or exaggerated focus stacking.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:PencilTip.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:PencilTip.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/PencilTip.jpg",
+        "publisher": "Wikimedia Commons（作者或原始作品檔案）",
+        "credit": "Christian Fischer",
+        "checked": "2026-11-18"
+      },
+      "license": {
+        "label": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      "image": {
+        "src": "assets/photo13-reverse-coupled-pencil.webp",
+        "alt": "雙鏡反接：在鉛筆尖看見木纖維與石墨，Christian Fischer",
+        "modification": "以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。 轉檔沿用原授權。",
+        "width": 1400,
+        "height": 930,
+        "sourceWidth": 4672,
+        "sourceHeight": 3104,
+        "sha256": "d833dee5f6d4256dbb3810a2a68be750a1d3cbc3a872cde1be733747d66b3ae6",
+        "sourceFileSha256": "ed632440c0547f6cb74ff59a4548e03b4335319f44da3aae004a5995c13f3a67",
+        "webpFileSha256": "d833dee5f6d4256dbb3810a2a68be750a1d3cbc3a872cde1be733747d66b3ae6"
+      },
+      "family": {
+        "id": "reverse-coupled-macro",
+        "zh": "雙鏡反接微距",
+        "en": "Reversed dual-lens macro",
+        "aliases": [],
+        "bucket": {
+          "id": "photo-optic",
+          "zh": "光學取景、投影及透視",
+          "en": "Optical capture, projection and perspective",
+          "aliases": [
+            "鏡頭",
+            "視角",
+            "projection",
+            "optics"
+          ]
+        }
+      }
+    },
+    {
+      "id": "photo13-night-camera-trap",
+      "library": "photo",
+      "title": "無人值守的夜間動物攝影：預先架設相機，記錄動物經過",
+      "titleEn": "Unattended nighttime wildlife camera-trap image",
+      "creator": "Dasdhritiman",
+      "date": "2012-07-11",
+      "technique": "夜間野生動物相機陷阱 · 預先架設取景",
+      "familySuggestion": "unattended-camera-trap",
+      "visual": "豹身和前景乾草明亮，近地水平的構圖讓步態可辨，遠處樹林幾乎留黑。",
+      "method": "攝影者自述此為夜間相機陷阱影像。可確認無人值守的相機捕捉；來源不說觸發器、閃光形式、相機位置或是否用其他輔助設備。",
+      "why": "把成像設計放在預先固定的畫面與主體可能經過的位置，有別跟拍或遠端手動快門。合法設置且不打擾野生動物，照片不要傳達精確架點。",
+      "unknown": "不推定熱感應、紅外補光、機身型號、精確站點或動物行為成因。",
+      "prompt": "原創夜間林邊相機陷阱感影像，未指定任何保護區，斑紋野生大型貓科從草緣步過，較亮近景和安靜黑森林形成區隔，保留自然姿勢和環境。",
+      "promptEn": "Original unattended-camera-style night wildlife image, no identified reserve: a fictional spotted wild cat walks quietly along dry grasses, well-recorded foreground against subdued woodland, natural posture, no aggressive pose or visible station.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Leopard_at_Night.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Leopard_at_Night.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Leopard_at_Night.jpg",
+        "publisher": "Wikimedia Commons（作者或原始作品檔案）",
+        "credit": "Dasdhritiman",
+        "checked": "2026-11-18"
+      },
+      "license": {
+        "label": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "image": {
+        "src": "assets/photo13-night-camera-trap.webp",
+        "alt": "無人值守的夜間動物攝影：預放相機保留自然動線，Dasdhritiman",
+        "modification": "以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。 轉檔沿用原授權。",
+        "width": 1400,
+        "height": 934,
+        "sourceWidth": 1523,
+        "sourceHeight": 1016,
+        "sha256": "4e0443d8d929bdbec40da0bdc5c5ee3b0eaaec353faecb8e77f562cb277665af",
+        "sourceFileSha256": "ebca7e8c3ea2295dca6083f8cc7f4c8e4a88044a3b44db51467f5727a8896b80",
+        "webpFileSha256": "4e0443d8d929bdbec40da0bdc5c5ee3b0eaaec353faecb8e77f562cb277665af"
+      },
+      "family": {
+        "id": "unattended-wildlife-trap",
+        "zh": "無人值守野生動物攝影",
+        "en": "Unattended wildlife capture",
+        "aliases": [],
+        "bucket": {
+          "id": "photo-time",
+          "zh": "快門、時間取樣與相機動作",
+          "en": "Shutter, time sampling and camera motion",
+          "aliases": [
+            "曝光",
+            "慢快門",
+            "time",
+            "movement"
+          ]
+        }
+      }
+    },
+    {
+      "id": "photo13-gold-reflected-flower",
+      "library": "photo",
+      "title": "金色反光板導窗光：暖色微距與壓暗背景",
+      "titleEn": "Window-light flower macro with gold reflector",
+      "creator": "Pedro Szekely",
+      "date": "2011-07-09",
+      "technique": "暖反光返光 · 背景和花瓣分別調整",
+      "familySuggestion": "lit-subject-and-surface（返窗光與局部色階）",
+      "visual": "黃花蕊突出在紅色花瓣上，背景接近黑，但前景仍有紅色體積和邊緣細節。",
+      "method": "作者在室內開數盞燈，用金色反光板把窗光導入主體，另以 Nik Viveza 降低原本褐色背景亮度、調整過亮前花瓣。",
+      "why": "拍攝時控制色溫與方向，修圖時控制背景與亮花瓣，不能把黑背景全歸功於光圈，也不把金色反光板自動等同柔光。",
+      "unknown": "未提供窗光與室內燈比例、反光面積、實際色值和後製滑桿。",
+      "prompt": "原創紅花和黃蕊的側向微距，暖窗光經金色板返入局部，背景保留極低暗層，前瓣避免過亮；對比有立體但不畫強光暈。",
+      "promptEn": "Original side-on macro of red petals and yellow stamens with selectively warm reflected window light. Very dark background retains a trace of tone and front petals avoid clipping; dimensional contrast without overt bloom.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Flower_(5920506737).jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flower_(5920506737).jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Flower_(5920506737).jpg",
+        "publisher": "Wikimedia Commons（作者或原始作品檔案）",
+        "credit": "Pedro Szekely",
+        "checked": "2026-11-18",
+        "creatorUrl": "https://www.flickr.com/photos/pedrosz/5920506737/"
+      },
+      "license": {
+        "label": "CC BY-SA 2.0",
+        "url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "note": "Commons 於 2013-01-29 核對 Flickr 同檔為 CC BY-SA 2.0；原發表本次亦成功讀回著作與作者說明。"
+      },
+      "image": {
+        "src": "assets/photo13-gold-reflected-flower.webp",
+        "alt": "金色反光板導窗光：暖色微距與壓暗背景，Pedro Szekely",
+        "modification": "以核對後的來源檔等比例縮小（如超過 1400 px）及轉為 WebP，未裁切或調色。 轉檔沿用原授權。",
+        "width": 1400,
+        "height": 936,
+        "sourceWidth": 1795,
+        "sourceHeight": 1200,
+        "sha256": "eef93394fd5e4c34b588a238c7c1ee17dcd160b4acaa02de9f76ca6e549bd47c",
+        "sourceFileSha256": "3d1b7626465eb97e8dbc69e79d38a50f0c7bb9a530c83429f46349484b345955",
+        "webpFileSha256": "eef93394fd5e4c34b588a238c7c1ee17dcd160b4acaa02de9f76ca6e549bd47c"
+      },
+      "family": {
+        "id": "lit-subject-and-surface",
+        "zh": "主體及表面照明",
+        "en": "Subject and surface lighting",
+        "aliases": [
+          "倫勃朗光",
+          "掠射側光",
+          "高調",
+          "Rembrandt light",
+          "raking light",
+          "high key"
+        ],
+        "bucket": {
+          "id": "photo-light",
+          "zh": "照明、光源與材質表現",
+          "en": "Illumination and material depiction",
+          "aliases": [
+            "打燈",
+            "閃光",
+            "studio light"
+          ]
+        }
+      }
+    },
+    {
+      "id": "nga-bresdin-chine-colle",
+      "library": "art",
+      "title": "Rodolphe Bresdin｜與鹿同在的聖家族",
+      "creator": "Rodolphe Bresdin",
+      "date": "1878 年",
+      "technique": "薄紙托裱的轉寫石版（chine collé）",
+      "familyId": "planographic-lithography",
+      "visual": "密林的枝葉形成深褐近黑細網，幾處淡光穿透葉面，印面下方有淺紙外邊和小紅章。",
+      "method": "NGA 記錄為黑色轉寫石版與 chine collé。Getty 的用語定義說明圖印在薄紙，再有厚紙承托；本件的貼附時序未知。用兩種紙的安全示意比較印面、支撐紙與留白邊界。",
+      "why": "技法有兩種分別要記：圖如何轉上石版，以及圖印在哪種紙上；外紙保留結構支撐，薄紙可作細節辨識的觀察樣本。",
+      "unknown": "確切附著劑、紙種與圖從何種畫紙轉寫未記；成品的細節不能證明它比直接畫石更精細，也不能把所有明暗界視為薄紙邊。",
+      "prompt": "以一張原創深林版畫概念，比細枝小粒與大片暗部，構思薄暖灰紙位於淺色背紙上並保留可辨底邊；不重現人物構圖或原作品印章。",
+      "promptEn": "Create an original imagined woodland print study, contrasting fine branch marks with broad shadows, on thin warm-grey paper set over a paler support with a legible lower margin. No original characters or museum stamp.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.nga.gov/artworks/79162-holy-family-does",
+        "publisher": "National Gallery of Art",
+        "credit": "Rodolphe Bresdin, National Gallery of Art, 1994.60.6. The official image is free and in the public domain.",
+        "checked": "2026-11-18",
+        "imageUrl": "https://api.nga.gov/iiif/089166a6-2026-411c-be73-5e99c7031d5d/full/full/0/default.jpg?attachment_filename=the_holy_family_with_the_does_1994.60.6.jpg",
+        "rightsUrl": "https://www.nga.gov/terms-and-notices"
+      },
+      "license": {
+        "label": "Public Domain",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/"
+      },
+      "image": {
+        "src": "assets/nga-bresdin-chine-colle.webp",
+        "width": 934,
+        "height": 1280,
+        "alt": "密林的枝葉形成深褐近黑細網，幾處淡光穿透葉面，印面下方有淺紙外邊和小紅章。",
+        "modification": "等比例縮小並轉存 WebP，未裁切或調色。",
+        "sha256": "7f8bdeaaf0bbde5fe6cf621f3ecd916ec8356175d83f2c9318a3f2a3f676af5a"
+      },
+      "family": {
+        "id": "planographic-lithography",
+        "zh": "石版平版印刷",
+        "en": "Planographic lithography",
+        "aliases": [
+          "石版",
+          "海報",
+          "石印",
+          "lithography",
+          "poster"
+        ],
+        "bucket": {
+          "id": "art-print",
+          "zh": "版畫與圖案製作",
+          "en": "Printmaking and pattern construction",
+          "aliases": [
+            "印製",
+            "版式",
+            "press",
+            "pattern"
+          ]
+        }
+      }
+    },
+    {
+      "id": "met-raku-mishima-inlay",
+      "library": "art",
+      "title": "樂燒陶碗｜三島式嵌飾",
+      "creator": "日本桃山時代窯作（館方未列個別工藝師）",
+      "date": "約 1600 年",
+      "technique": "陶器嵌飾・三島式低處填入材料",
+      "familyId": "fired-clay-forming",
+      "visual": "黑白館照中，淺筒形碗的外壁有局部圖樣，表面顆粒微亮，底足和寬口之間線條變化明顯。",
+      "method": "大都會館方列三島式嵌飾、細裂紋釉、略凹點的表面。同館另一件唐津藏品才有明載刻凹、白色泥漿填入和擦磨的工序；用兩份記錄比較嵌飾和單純釉裂，不把後一件的材料配方挪給本件。",
+      "why": "圖案是嵌入面層的組織，與陶坯凸起浮雕或釉面自身的隨機裂紋有別。重點是有意圖的圖樣出現在哪層。",
+      "unknown": "本圖為實際館方黑白檔，不補染。未從此圖確認釉色，亦不猜嵌料、刻刀、原料配比或實際燒成次序。",
+      "prompt": "原創淺腹陶碗材料研究圖，局部植物紋以有邊界的嵌飾呈現，小範圍細裂紋留作對照，側光和中性黑白畫面，不複製原碗花紋。",
+      "promptEn": "Original neutral monochrome material study of a shallow ceramic bowl: use a clearly delimited inlaid botanical motif and a small separate glaze-craquelure area as observable contrasts under lateral illumination. Do not copy the museum decoration.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.metmuseum.org/art/collection/search/63118",
+        "publisher": "The Metropolitan Museum of Art",
+        "credit": "The Metropolitan Museum of Art, The H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929 (29.100.641).",
+        "checked": "2026-11-18",
+        "imageUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/63118/77941/main-image",
+        "rightsUrl": "https://www.metmuseum.org/hubs/open-access"
+      },
+      "license": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "image": {
+        "src": "assets/met-raku-mishima-inlay.webp",
+        "width": 900,
+        "height": 534,
+        "alt": "黑白館照中，淺筒形碗的外壁有局部圖樣，表面顆粒微亮，底足和寬口之間線條變化明顯。",
+        "modification": "等比例縮小並轉存 WebP，未裁切或調色。",
+        "sha256": "208ba4d208afbd103ff7c77c580a60b5fa7b8bd9605904914a316407d8c754ee"
+      },
+      "family": {
+        "id": "fired-clay-forming",
+        "zh": "陶土造型與燒成",
+        "en": "Clay forming and firing",
+        "aliases": [
+          "土陶",
+          "釉面",
+          "earthenware",
+          "ceramic"
+        ],
+        "bucket": {
+          "id": "art-object",
+          "zh": "立體材料與工藝",
+          "en": "Objects and crafted materials",
+          "aliases": [
+            "材料",
+            "工藝",
+            "craft",
+            "object"
+          ]
+        }
+      }
+    },
+    {
+      "id": "photo14-gold-toned-dag-reversal",
+      "library": "photo",
+      "title": "翻拷銀版相片：金調金屬面與影像左右反轉",
+      "titleEn": "Gold-toned copy daguerreotype, reversed Niagara Falls",
+      "creator": "Mathew B. Brady（館方列名）；原作可能為 Platt D. Babbitt",
+      "date": "1853 至 1860 年間",
+      "technique": "半片銀版相片 · 金調 · 翻拷反轉",
+      "familySuggestion": "daguerreotype-copy-gold-toning",
+      "visual": "銀版表面留有明顯刮痕及邊緣反光。低反差的瀑布和陰暗岸邊中，有小群人與岸線分離。白邊和編號是數位來源本身的紀錄。",
+      "method": "美國國會圖書館記錄此為金調半片 daguerreotype 的反向翻拷；館方只將原圖可能歸於 Platt D. Babbitt。這是館方彩色膠片翻拍數位件，不是當年直接的攝影底片。",
+      "why": "銀版直接正像的觀看與光線角度有關；翻拷可引入左右反轉，修復時須保留物件哪一面及複製關係，不憑記憶把地理影像翻回。",
+      "unknown": "這張沒有原版照、觀片照明、製造或金調配方。不可確定翻拷步驟或從照片推算瀑布曝光時間。",
+      "prompt": "原創 19 世紀銀版觀景照片：遠處瀑流淡淺、深岸線有幾個不可辨識的剪影；微暖銀面反射，不用大片黃色濾鏡，左右視角保留為翻拷版本，不加誤導性館藏標號。",
+      "promptEn": "Original nineteenth-century plate-study view of a distant pale waterfall and dark banks with a few unidentifiable figures, restrained warm metallic reflection without blanket yellow; present as a fictional reversed-copy view without fake archival identifiers.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.loc.gov/item/2004664181/",
+        "rightsUrl": "https://www.loc.gov/collections/daguerreotypes/about-this-collection/rights-and-access/",
+        "imageUrl": "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g04000/3g04700/3g04770v.jpg",
+        "publisher": "Library of Congress Prints & Photographs Division",
+        "credit": "Library of Congress, Prints and Photographs Division, LC-USZC4-4770",
+        "checked": "2026-11-18"
+      },
+      "license": {
+        "label": "Public Domain (LOC daguerreotype collection)",
+        "url": "https://www.loc.gov/collections/daguerreotypes/about-this-collection/rights-and-access/"
+      },
+      "image": {
+        "src": "assets/photo14-gold-toned-dag-reversal.webp",
+        "alt": "翻拷銀版相片：金調金屬面與影像左右反轉，Mathew B. Brady（館方列名）；原作可能為 Platt D. Babbitt",
+        "modification": "以館方公開數位版本等比例縮小（如超過 1400 px）並轉為 WebP，未裁切或調色。",
+        "width": 1024,
+        "height": 818,
+        "sourceWidth": 1024,
+        "sourceHeight": 818,
+        "sha256": "46dcf12efe5c1a41740645c32fbefd1515a9289a64b2013e3740bec52c6b9764",
+        "sourceFileSha256": "14f487b512f8ba74f62d497992b26ea613bf764d9ae100a0d2c5a1d528babeee",
+        "webpFileSha256": "46dcf12efe5c1a41740645c32fbefd1515a9289a64b2013e3740bec52c6b9764"
+      },
+      "family": {
+        "id": "daguerreotype-plate-imaging",
+        "zh": "銀版直接成像",
+        "en": "Daguerreotype plate imaging",
+        "aliases": [
+          "daguerreotype",
+          "銀版照相"
+        ],
+        "bucket": {
+          "id": "photo-paper",
+          "zh": "感光紙、暗房與印相",
+          "en": "Photosensitive media, darkroom and printing",
+          "aliases": [
+            "銀鹽",
+            "印相",
+            "暗房",
+            "print",
+            "film"
+          ]
+        }
+      }
     }
   ]
 }
