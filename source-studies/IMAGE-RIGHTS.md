@@ -401,3 +401,123 @@
 - 展示權利：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
 - 權利依據：https://commons.wikimedia.org/wiki/File:Human_eye_ring_flash.jpg#Licensing
 - 檔案調整：等比例縮小並轉為 WebP；未裁切或調色。此圖像檔沿用 CC BY-SA 4.0。
+
+## Directional light and photographic texture｜石面刮側光
+- 檔案：assets/wc-raking-light.webp
+- 署名：Tomascastelazo
+- 來源：https://commons.wikimedia.org/wiki/File:Directional_light_and_photographic_texture.jpg
+- 展示權利：CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Directional_light_and_photographic_texture.jpg
+- 檔案調整：等比例縮小並轉為 WebP；未裁切或調色。 轉檔圖像沿用同一授權，不代表作者背書。
+
+## Multiple exposure｜暗房雙景夢境
+- 檔案：assets/wc-darkroom-dream.webp
+- 署名：Nancy Wong
+- 來源：https://commons.wikimedia.org/wiki/File:Multiple_exposure.jpg
+- 展示權利：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Multiple_exposure.jpg
+- 檔案調整：等比例縮小並轉為 WebP；未裁切或調色。 轉檔圖像沿用同一授權，不代表作者背書。
+
+## 照相凹版裡的側面肖像
+- 檔案：assets/photo4-gravure.webp
+- 署名：Frank Eugene；National Gallery of Art, Washington, 2002.120.5
+- 來源：https://www.nga.gov/artworks/127432-alfred-stieglitz
+- 展示權利：公有領域標記 1.0 https://creativecommons.org/publicdomain/mark/1.0/
+- 權利依據：https://www.nga.gov/artworks/127432-alfred-stieglitz
+- 檔案調整：以來源提供的影像轉為 WebP；未另行縮放、裁切或調色。
+
+## 波美拉尼亞風景：重鉻酸膠相紙
+- 檔案：assets/photo4-gum.webp
+- 署名：Hugo Henneberg；The Met，Alfred Stieglitz Collection, 1933
+- 來源：https://www.metmuseum.org/art/collection/search/267829
+- 展示權利：Met Open Access・CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://www.metmuseum.org/art/collection/search/267829
+- 檔案調整：以來源提供的影像轉為 WebP；未另行縮放、裁切或調色。
+
+## 灰階鉑金印相自畫像
+- 檔案：assets/photo4-platinum.webp
+- 署名：Thomas Eakins；The Met，Gilman Collection, Museum Purchase, 2005
+- 來源：https://www.metmuseum.org/art/collection/search/285754
+- 展示權利：Met Open Access・CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://www.metmuseum.org/art/collection/search/285754
+- 檔案調整：按來源影像比例縮小並轉成 WebP；未裁切或調色。
+
+## 碳素相紙上的瓦茨肖像
+- 檔案：assets/photo4-carbon.webp
+- 署名：Julia Margaret Cameron；The Met，Alfred Stieglitz Collection, 1949
+- 來源：https://www.metmuseum.org/art/collection/search/269431
+- 展示權利：Met Open Access・CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://www.metmuseum.org/art/collection/search/269431
+- 檔案調整：以來源提供的影像轉為 WebP；未另行縮放、裁切或調色。
+
+## 白底金屬游標尺
+- 檔案：assets/photo4-highkey.webp
+- 署名：Lucasbosch
+- 來源：https://commons.wikimedia.org/wiki/File:TESA_CCMA-P_150_mm_0.02_mm_dial_caliper.jpg
+- 展示權利：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:TESA_CCMA-P_150_mm_0.02_mm_dial_caliper.jpg
+- 檔案調整：以來源提供的影像轉為 WebP；未另行縮放、裁切或調色。轉檔沿用相同授權。
+
+## 夜空運動軌跡的最大值堆疊
+- 檔案：assets/photo4-temporal.webp
+- 署名：Martin Bernardi
+- 來源：https://commons.wikimedia.org/wiki/File:Starlink_9,_CZ-2C_RB_and_geosats_100mm.jpg
+- 展示權利：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Starlink_9,_CZ-2C_RB_and_geosats_100mm.jpg
+- 檔案調整：按來源影像比例縮小並轉成 WebP；未裁切或調色。 轉檔沿用相同授權。
+
+## Braque Letterpress Print｜字母疊印靜物
+- 檔案：assets/wc-letterpress-braque.webp
+- 署名：Alan Kitching
+- 來源：https://commons.wikimedia.org/wiki/File:Braque_Letterpress_Print.jpg
+- 展示權利：CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Braque_Letterpress_Print.jpg
+- 檔案調整：等比例縮小並轉為 WebP；未裁切或調色。
+
+## The Labors of the Months: Ploughing｜月份勞作：耕田
+- 檔案：assets/met-penicaud-enamel.webp
+- 署名：或出自 Jean II Pénicaud 工坊；The Metropolitan Museum of Art，The Friedsam Collection，32.100.259
+- 來源：https://www.metmuseum.org/art/collection/search/197115
+- 展示權利：Met Open Access・CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:The_Labors_of_the_Months-_Ploughing_%28September%29_MET_88443.jpg
+- 檔案調整：等比例縮小並轉為 WebP；未裁切或調色。
+
+## Fabric Design with Stripes｜條紋織品圖樣
+- 檔案：assets/met-poiret-pattern.webp
+- 署名：歸於 Paul Poiret；The Metropolitan Museum of Art，1984.1176.4
+- 來源：https://www.metmuseum.org/art/collection/search/353514
+- 展示權利：Met Open Access・CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Fabric_Design_with_Stripes_MET_DP807945.jpg
+- 檔案調整：等比例縮小並轉為 WebP；未裁切或調色。
+
+## Perca fluviatilis illustration｜河鱸自然史插畫
+- 檔案：assets/wc-gouache-perch.webp
+- 署名：Polymathie
+- 來源：https://commons.wikimedia.org/wiki/File:Perca_fluviatilis_illustration.jpg
+- 展示權利：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Perca_fluviatilis_illustration.jpg
+- 檔案調整：等比例縮小並轉為 WebP；未裁切或調色。 轉檔圖像沿用同一授權，不代表作者背書。
+
+## Writing & Illuminating & Lettering｜紅首字母與黑墨抄寫版面
+- 檔案：assets/wc-edward-lettering.webp
+- 署名：Edward Johnston（1906 書法）；Gwenddolen（2010 照片，CC BY 2.0）
+- 來源：https://commons.wikimedia.org/wiki/File:Edward_Johnston%2C_Writing_and_Illuminating_and_Lettering_%284935595370%29.jpg
+- 展示權利：CC BY 2.0（照片） https://creativecommons.org/licenses/by/2.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Edward_Johnston%2C_Writing_and_Illuminating_and_Lettering_%284935595370%29.jpg
+- 檔案調整：等比例縮小並轉為 WebP；未裁切或調色。
+
+## Francis Grose｜點刻凹版人物
+- 檔案：assets/yale-bartolozzi.webp
+- 署名：Francesco Bartolozzi；Yale Center for British Art，B1978.43.614
+- 來源：https://commons.wikimedia.org/wiki/File:Francesco_Bartolozzi_-_Francis_Grose_-_B1978.43.614_-_Yale_Center_for_British_Art.jpg
+- 展示權利：Yale 館藏影像・CC0 https://creativecommons.org/publicdomain/zero/1.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Francesco_Bartolozzi_-_Francis_Grose_-_B1978.43.614_-_Yale_Center_for_British_Art.jpg
+- 檔案調整：等比例縮小並轉為 WebP；未裁切或調色。
+
+## Paper art 2｜立邊卷紙室內佈景
+- 檔案：assets/wc-quilling-paper-art.webp
+- 署名：Ajibola Eedris Adekanmbi（Adeedris）
+- 來源：https://commons.wikimedia.org/wiki/File:Paper_art_2.jpg
+- 展示權利：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+- 權利依據：https://commons.wikimedia.org/wiki/File:Paper_art_2.jpg
+- 檔案調整：等比例縮小並轉為 WebP；未裁切或調色。 轉檔圖像沿用同一授權，不代表作者背書。

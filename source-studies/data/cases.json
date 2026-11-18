@@ -1783,6 +1783,558 @@
         "height": 1280,
         "sha256": "b56c1f089b9e7c1ff438833120cc3e7d746bb87c8dede252659455892d188212"
       }
+    },
+    {
+      "id": "wc-raking-light",
+      "library": "photo",
+      "title": "Directional light and photographic texture｜石面刮側光",
+      "creator": "Tomascastelazo",
+      "date": "2011-08-13",
+      "technique": "材質攝影・低角度掠射側光",
+      "familyId": "raking-side-light-texture",
+      "visual": "淺赭色石面的小凹孔和細裂紋有短暗影；柱槽投出較深且方向一致的影。大塊直線與局部細紋同時可辨。",
+      "method": "作者分享此圖作為方向性照明如何顯出近乎平面的紋理的實例。練習可先將光置於貼近材質平面的一側，微調燈的高度讓小孔分離而非全黑，再以較正面的光比較同一塊面。",
+      "why": "影的長度受物面凹凸及入射角共同影響。不用提高全幅銳化，就能令原本平淡的小表面起伏顯現。",
+      "unknown": "照明入射精確角度、是否用了反光板及光源未確認；這是材質用光而非倫勃朗人像。",
+      "prompt": "原創建築石材細節照片，一段帶長短凹槽的淺赭石材，單一低角度側光沿石面滑過，讓石孔及淺裂長出微陰影；控制亮面不過曝，不用清晰度濾鏡與過度 HDR。",
+      "promptEn": "Original architectural texture photo of fictional sand-colored stone and shallow fluting; one low-angle raking side light skims the surface, leaving fine shadows in pores and fissures, protect bright details, avoid global clarity sharpening and excessive HDR.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Directional_light_and_photographic_texture.jpg",
+        "publisher": "Wikimedia Commons",
+        "credit": "Tomascastelazo",
+        "checked": "2026-11-18",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Directional_light_and_photographic_texture.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Directional_light_and_photographic_texture.jpg"
+      },
+      "license": {
+        "label": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      "image": {
+        "src": "assets/wc-raking-light.webp",
+        "width": 850,
+        "height": 1280,
+        "alt": "淺赭色石面的小凹孔和細裂紋有短暗影；柱槽投出較深且方向一致的影。大塊直線與局部細紋同時可辨。",
+        "modification": "等比例縮小並轉為 WebP；未裁切或調色。 轉檔圖像沿用同一授權，不代表作者背書。",
+        "sha256": "14c5dc50e7ba4c41624dbc2583fdec221942a86001418b2b3b101395921c3e05"
+      }
+    },
+    {
+      "id": "wc-darkroom-dream",
+      "library": "photo",
+      "title": "Multiple exposure｜暗房雙景夢境",
+      "creator": "Nancy Wong",
+      "date": "2022-05-10（檔案記錄）",
+      "technique": "暗房・多重曝光",
+      "familyId": "analog-combination-print",
+      "visual": "右側躺著的人是暗調，左上窗格另有一個明亮坐姿；兩區在窗框邊緣形成界面，近看並非兩隻透明人互穿。",
+      "method": "作者明說在暗房用多重曝光表達夢境。一般暗房練習可以先定一個主曝光，再測試用黑遮片留出第二場面的窗格，保持融合邊界不侵吞主場面。此處遮罩示範是策展練習，不是她公布的實際方法。",
+      "why": "讓暗處容納主要敘事，亮窗承接第二景，觀者能讀出兩個空間，不必把底片全幅疊到難辨。",
+      "unknown": "遮片是否為原作所用、曝光秒數、紙種與相中人的授權均未核實。這是展示重用作品，不代表人物形象另有商業授權。",
+      "prompt": "原創黑白銀鹽暗房夢境，以虛構長椅和雨窗作主景；窗格局部嵌入完全不同的海岸燈影，保持框邊可辨、主影層深、第二景明亮而簡，無名人或肖像。",
+      "promptEn": "Original black-and-white silver-gelatin darkroom dream image: an invented empty bench by a rain window; a distinct distant coastal light appears selectively inside one pane, preserve the frame edge, let the primary scene stay shadowed and the second sparse and bright, no portraits or public figures.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Multiple_exposure.jpg",
+        "publisher": "Wikimedia Commons",
+        "credit": "Nancy Wong",
+        "checked": "2026-11-18",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Multiple_exposure.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Multiple_exposure.jpg"
+      },
+      "license": {
+        "label": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "image": {
+        "src": "assets/wc-darkroom-dream.webp",
+        "width": 1280,
+        "height": 977,
+        "alt": "右側躺著的人是暗調，左上窗格另有一個明亮坐姿；兩區在窗框邊緣形成界面，近看並非兩隻透明人互穿。",
+        "modification": "等比例縮小並轉為 WebP；未裁切或調色。 轉檔圖像沿用同一授權，不代表作者背書。",
+        "sha256": "4ce4f9d109df679c6a6e47441cc5b8b4042fd49f3100804e918c7be11c160f35"
+      }
+    },
+    {
+      "id": "photo4-gravure",
+      "library": "photo",
+      "title": "照相凹版裡的側面肖像",
+      "titleEn": "Alfred Stieglitz — photogravure",
+      "creator": "Frank Eugene",
+      "date": "約 1901",
+      "technique": "照相凹版・墨層深淺",
+      "visual": "相中人轉向右方，臉部和髭鬚由有限的高光勾出；深衣和背景大部分留在相近暗階，沒有丟掉頭髮輪廓。",
+      "method": "美國國家藝廊列媒材為 photogravure，即感光轉製凹版後用油墨壓印成像，不是直出銀鹽相紙；此處的用光是畫面觀察，並非攝影者的照明紀錄。",
+      "why": "深淺不同的凹槽在紙上承載不同墨量，容許接續細而柔的中暗階。練習時先在低調畫面中保住面部與衣料明暗層次，再加近看才可見的紙墨質感。",
+      "unknown": "所用紙張、蝕刻分段、墨色及照明未核實；館方並未證明目前的數碼色調等同原印。",
+      "prompt": "虛構成年劇場技師的深調三分之二側面像，照相凹版印刷質感，近黑背景中只分辨出窄臉光、頭髮、舊工作外套三層，細密暖黑墨色映在未塗布紙上，避免粗大的半色調點、無字。",
+      "promptEn": "Low-key three-quarter portrait of a fictional adult theater technician, photogravure print character, a narrow facial highlight plus legible hair and worn workwear against almost-black background, subtle warm-black ink on uncoated paper, no coarse halftone dots or words.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.nga.gov/artworks/127432-alfred-stieglitz",
+        "imageUrl": "https://api.nga.gov/iiif/6f1da899-d8af-4536-902c-63e40e556da8/full/!800,800/0/default.jpg",
+        "publisher": "National Gallery of Art",
+        "credit": "Frank Eugene；National Gallery of Art, Washington, 2002.120.5",
+        "checked": "2026-11-18",
+        "rightsUrl": "https://www.nga.gov/artworks/127432-alfred-stieglitz"
+      },
+      "license": {
+        "label": "公有領域標記 1.0",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/"
+      },
+      "image": {
+        "src": "assets/photo4-gravure.webp",
+        "alt": "照相凹版裡的側面肖像，Frank Eugene",
+        "modification": "以來源提供的影像轉為 WebP；未另行縮放、裁切或調色。",
+        "width": 548,
+        "height": 800,
+        "sourceWidth": 548,
+        "sourceHeight": 800,
+        "sha256": "80f6c1ae4b3e76c8ed7c7093ec38b793829853f8dd25d47adcc9cf3507923081"
+      }
+    },
+    {
+      "id": "photo4-gum",
+      "library": "photo",
+      "title": "波美拉尼亞風景：重鉻酸膠相紙",
+      "titleEn": "Motiv aus Pommern",
+      "creator": "Hugo Henneberg",
+      "date": "1895–96 拍攝；1902 印製",
+      "technique": "顏料照相印相・重鉻酸膠",
+      "visual": "樹幹把垂直畫幅分成兩側，路面和遠處房屋只留簡略輪廓。暖棕霧光、深色樹塊和可見顆粒讓它介於照片與木炭習作之間。",
+      "method": "大都會博物館確認媒材是 gum bichromate print，並記錄作者做這類作品時用多個顯影階段。這是選擇輸出顏料、控制畫面層次的印相步驟，不是把寫實照片先銳化再套濾鏡。",
+      "why": "保留拍攝得到的透視骨架，在亮地和葉群的過渡讓顏料紋理漸顯，避免把整幅抹成均勻粗粒。",
+      "unknown": "展品沒列本件顏料色號、塗佈次數及顯影時間；不把其作法等同於相同年代其他作者。",
+      "prompt": "用重鉻酸膠印相視覺語言描寫虛構農舍遠景，前景土路淺暖褐，一枝細樹連接上下，遠處建物只留柔和明暗輪廓，暖棕顏料紙紋在中間調出現，不要鏡頭銳化或均勻數碼顆粒。",
+      "promptEn": "Invented farm landscape with the visual language of a gum bichromate print: softly warm-brown dirt path, a narrow tree links top and bottom, distant buildings resolve as restrained tonal masses, warm-brown pigment-on-paper grain chiefly in the midtones, no sharpening or uniform digital noise.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.metmuseum.org/art/collection/search/267829",
+        "imageUrl": "https://images.metmuseum.org/CRDImages/ph/web-large/DP109620.jpg",
+        "publisher": "The Metropolitan Museum of Art",
+        "credit": "Hugo Henneberg；The Met，Alfred Stieglitz Collection, 1933",
+        "checked": "2026-11-18",
+        "rightsUrl": "https://www.metmuseum.org/art/collection/search/267829"
+      },
+      "license": {
+        "label": "Met Open Access・CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "image": {
+        "src": "assets/photo4-gum.webp",
+        "alt": "波美拉尼亞風景：重鉻酸膠相紙，Hugo Henneberg",
+        "modification": "以來源提供的影像轉為 WebP；未另行縮放、裁切或調色。",
+        "width": 447,
+        "height": 625,
+        "sourceWidth": 447,
+        "sourceHeight": 625,
+        "sha256": "4ebfc1d556cbc51475373ed87f01711499feba9d470219734738c9dd37410e9f"
+      }
+    },
+    {
+      "id": "photo4-platinum",
+      "library": "photo",
+      "title": "灰階鉑金印相自畫像",
+      "titleEn": "Self-Portrait",
+      "creator": "Thomas Eakins",
+      "date": "約 1880",
+      "technique": "金屬鹽印相・鉑金灰階",
+      "visual": "灰底略有紋理，人物略俯首，暗外套的折線、白領和面頰之間層次連續；圖像外緣可見一些印相紙。",
+      "method": "The Met 確認是鉑金印相（platinum print）。館方技法說明薄紙感光後的最終成像來自鉑金，而非彩色墨水；這張不是以銳利黑白兩端來塑形。",
+      "why": "用細微灰階與紙質兼顧深衣、灰底與白領。重點是動作與相紙的中間調如何互相補足，不是做出螢幕高反差。",
+      "unknown": "本件曝光、用光、藥水與紙纖維規格未公開；看不到畫面外的場景。",
+      "prompt": "虛構成年工匠坐像的鉑金印相效果，三分之二身、眼神稍低，以連續灰階分開銀灰布景、深色工作服、淺衣領，保留有質感的紙邊，暗部勿全黑、高光不要泛白光。",
+      "promptEn": "Platinum-print look of a fictional seated adult artisan, three-quarter figure with eyes slightly lowered, continuous gray tones separate a silver-gray backdrop, deep workwear and pale collar, keep a restrained tactile paper margin, no crushed blacks or glaring luminous highlights.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.metmuseum.org/art/collection/search/285754",
+        "imageUrl": "https://images.metmuseum.org/CRDImages/ph/original/DP275698.jpg",
+        "publisher": "The Metropolitan Museum of Art",
+        "credit": "Thomas Eakins；The Met，Gilman Collection, Museum Purchase, 2005",
+        "checked": "2026-11-18",
+        "rightsUrl": "https://www.metmuseum.org/art/collection/search/285754"
+      },
+      "license": {
+        "label": "Met Open Access・CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "image": {
+        "src": "assets/photo4-platinum.webp",
+        "alt": "灰階鉑金印相自畫像，Thomas Eakins",
+        "modification": "按來源影像比例縮小並轉成 WebP；未裁切或調色。",
+        "width": 917,
+        "height": 1400,
+        "sourceWidth": 2519,
+        "sourceHeight": 3845,
+        "sha256": "bcd3b70b1d3ae4d2d3f494af1815a10e716748edbf8fa50cfa0256fabdde4c55"
+      }
+    },
+    {
+      "id": "photo4-carbon",
+      "library": "photo",
+      "title": "碳素相紙上的瓦茨肖像",
+      "titleEn": "George Frederick Watts",
+      "creator": "Julia Margaret Cameron",
+      "date": "1864 拍攝；約 1905 印製",
+      "technique": "碳素印相・碳色顏料轉印",
+      "visual": "相片中的老人朝左坐著，厚衣袖與鬚髮的亮褐細節在深杏棕底上浮起；拱形影像邊界和白紙保留了紙本物件感。",
+      "method": "The Met 將這件後期輸出列作 carbon print。歷史碳素印相一般用含顏料的感光明膠轉印；這是印相媒材資訊，不意味 1864 年原始曝光使用碳素底片。",
+      "why": "從顏料層而來的深褐中暗階能區分毛髮、織物和背景，不必依賴誇張輪廓光。與同一攝影者的蛋白相紙案例是不同媒材，不是另一個曝光風格。",
+      "unknown": "本件最終印製者、配方與相機曝光未核實；日期只據館藏標示。",
+      "prompt": "虛構年長製琴師的暖褐碳素印相肖像，三分之二側坐，工作服袖褶和灰鬍由柔光拉出層次，在霧深褐背景保留柔和細節；可見少量白相紙邊，不要仿特定歷史人物。",
+      "promptEn": "Warm-brown carbon-print portrait of an invented elderly instrument maker seated in three-quarter profile, soft light on folded sleeves and gray beard, preserve subtle details against a hazy deep brown backdrop, retain a narrow white paper edge, no historical likeness.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.metmuseum.org/art/collection/search/269431",
+        "imageUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/269431/1292655/main-image",
+        "publisher": "The Metropolitan Museum of Art",
+        "credit": "Julia Margaret Cameron；The Met，Alfred Stieglitz Collection, 1949",
+        "checked": "2026-11-18",
+        "rightsUrl": "https://www.metmuseum.org/art/collection/search/269431"
+      },
+      "license": {
+        "label": "Met Open Access・CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "image": {
+        "src": "assets/photo4-carbon.webp",
+        "alt": "碳素相紙上的瓦茨肖像，Julia Margaret Cameron",
+        "modification": "以來源提供的影像轉為 WebP；未另行縮放、裁切或調色。",
+        "width": 970,
+        "height": 1200,
+        "sourceWidth": 970,
+        "sourceHeight": 1200,
+        "sha256": "fbfd4e1b166eb7768a5428e957b12138499e431865620e5a4507c4db54edde9c"
+      }
+    },
+    {
+      "id": "photo4-highkey",
+      "library": "photo",
+      "title": "白底金屬游標尺",
+      "titleEn": "Dial caliper on a high-key background",
+      "creator": "Lucasbosch",
+      "date": "2018-02-10",
+      "technique": "高調產品攝影・白底保邊界",
+      "visual": "長尺橫跨清白背景，拉絲鋼材呈偏灰的細長帶，黑色表框和黃表盤形成左方重心。",
+      "method": "檔案分類為 High-Key，EXIF 列 180 mm、1/180 秒、f/6.7、ISO 100。此例可練背景比物件更亮，並在金屬測量工具邊保住階調；分類與 EXIF 不等同於知道完整佈光。",
+      "why": "純白背景可讓輪廓浮現，但金屬表面要靠極淺灰反光與暗邊交代體積和讀數。不應拉高整幅直到淺色材質和背景黏合。",
+      "unknown": "燈位、透射罩、反光板、背景白度設定與後製未核實。EXIF 列未打機閃，不能排除外部同步燈。",
+      "prompt": "虛構不鏽鋼精密卡尺的高調電商棚照，長物件橫排置中，白背景近無縫，以偏灰鏡面反射、暗邊和少量暖色表盤保輪廓；無品牌、雜物或硬投影。",
+      "promptEn": "High-key catalog photograph of an invented stainless precision caliper centered horizontally on a near-seamless white background, preserve its silhouette with gray specular bands, restrained dark edges and a small warm dial, no branding, props or harsh cast shadows.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:TESA_CCMA-P_150_mm_0.02_mm_dial_caliper.jpg",
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/TESA_CCMA-P_150_mm_0.02_mm_dial_caliper.jpg/960px-TESA_CCMA-P_150_mm_0.02_mm_dial_caliper.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+        "publisher": "Wikimedia Commons",
+        "credit": "Lucasbosch",
+        "checked": "2026-11-18",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:TESA_CCMA-P_150_mm_0.02_mm_dial_caliper.jpg"
+      },
+      "license": {
+        "label": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "image": {
+        "src": "assets/photo4-highkey.webp",
+        "alt": "白底金屬游標尺，Lucasbosch",
+        "modification": "以來源提供的影像轉為 WebP；未另行縮放、裁切或調色。轉檔沿用相同授權。",
+        "width": 960,
+        "height": 315,
+        "sourceWidth": 960,
+        "sourceHeight": 315,
+        "sha256": "7581276a29b07ec81165d2ab9e0d5d305a96248131eea0d17322ba5c09954a21"
+      }
+    },
+    {
+      "id": "photo4-temporal",
+      "library": "photo",
+      "title": "夜空運動軌跡的最大值堆疊",
+      "titleEn": "Starlink 9, CZ-2C RB and geosats 100mm",
+      "creator": "Martin Bernardi",
+      "date": "2020-08-11",
+      "technique": "時間堆疊・逐像素最大值合成",
+      "visual": "斜向長線互相交叉，較短或暗的線仍可辨。這些不是新增視野拼接的接縫。",
+      "method": "攝影者記錄共 68 幅：一幅 87 秒，以及 67 幅 30 秒；Sony a6100、100 mm、f/5.6、ISO 800。作者用 Siril 校準後做 pixel maximum stacking，再做色調曲線與降噪，非單張曝光。",
+      "why": "這是同一畫面座標的多時刻合成，逐位置保留較亮的瞬時跡線；目標和大片星野馬賽克增加視野寬度不同。注意保留背景黑位以讓稀薄軌跡獨立可讀。",
+      "unknown": "發表只有若干可辨軌跡種類，未逐條標對每條線；35 分鐘約為曝光合計，不能視作逐幀間隔或拍攝總壁鐘時間。",
+      "prompt": "原創夜空攝影練習，同一窄視野在多個時刻的亮點移動累積成兩組微斜且方向不同的極細線，亮度疏密不同，仍保留零星孤立點和近黑暗部，沒有星雲、煙花或註解。",
+      "promptEn": "Original night-sky photography exercise: bright points moving over time within one narrow field accumulate into two delicate trail sets crossing obliquely with unequal spacing and brightness, preserve isolated points and near-black background, no nebulae, fireworks or annotations.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Starlink_9,_CZ-2C_RB_and_geosats_100mm.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Starlink_9%2C_CZ-2C_RB_and_geosats_100mm.jpg",
+        "publisher": "Wikimedia Commons",
+        "credit": "Martin Bernardi",
+        "checked": "2026-11-18",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Starlink_9,_CZ-2C_RB_and_geosats_100mm.jpg"
+      },
+      "license": {
+        "label": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "image": {
+        "src": "assets/photo4-temporal.webp",
+        "alt": "夜空運動軌跡的最大值堆疊，Martin Bernardi",
+        "modification": "按來源影像比例縮小並轉成 WebP；未裁切或調色。 轉檔沿用相同授權。",
+        "width": 1400,
+        "height": 936,
+        "sourceWidth": 4888,
+        "sourceHeight": 3268,
+        "sha256": "7833908fd63dc1a33dc4fe66447b6a771ed29d4099c334d3d20d3faa0163636b"
+      }
+    },
+    {
+      "id": "wc-letterpress-braque",
+      "library": "art",
+      "title": "Braque Letterpress Print｜字母疊印靜物",
+      "creator": "Alan Kitching",
+      "date": "2023",
+      "technique": "排字凸版・重疊大字色塊",
+      "familyId": "letterpress-type-overprint",
+      "visual": "不同尺寸的高彩字母橫縱相疊，套墨交界出現暗色，部分大面保留不均勻印壓造成的斑駁。遠看是幾何靜物，近看仍能讀到字形。",
+      "method": "作者公開的同名原作為 letterpress。另做新海報可先用兩三種字片尺寸搭骨架，分次套印中明度墨，再測試重疊處是否仍保有最重要字形的輪廓。先印試張施工，不由圖猜測原作墨序。",
+      "why": "影印特效只把字邊弄髒；這張的印刷壓痕感、重疊色和字母遮蔽一起決定閱讀。",
+      "unknown": "未核實具體字片材質、批次墨量、油墨顏料和烘乾時間。原圖題名不是 Braque 的署名。",
+      "prompt": "原創字母活版印刷海報，三個虛構字形和一個長弧交疊，朱橙、藏青與橄欖綠，重疊區變暗，適度墨粒，不用現成藝術家姓名或商標。",
+      "promptEn": "Original letterpress study of three invented letterforms and one wide arc, overprinted in vermilion orange, navy and olive green, darker overlaps and restrained ink grain, no existing artist name or logo.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Braque_Letterpress_Print.jpg",
+        "publisher": "Wikimedia Commons",
+        "credit": "Alan Kitching",
+        "checked": "2026-11-18",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Braque_Letterpress_Print.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Braque_Letterpress_Print.jpg"
+      },
+      "license": {
+        "label": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "image": {
+        "src": "assets/wc-letterpress-braque.webp",
+        "width": 1280,
+        "height": 1280,
+        "alt": "不同尺寸的高彩字母橫縱相疊，套墨交界出現暗色，部分大面保留不均勻印壓造成的斑駁。遠看是幾何靜物，近看仍能讀到字形。",
+        "modification": "等比例縮小並轉為 WebP；未裁切或調色。",
+        "sha256": "ffe6c63e86e2cebc8f16f84bb30d2fc08cba5d6a2aa4b543dd8bc0eafa93c152"
+      }
+    },
+    {
+      "id": "met-penicaud-enamel",
+      "library": "art",
+      "title": "The Labors of the Months: Ploughing｜月份勞作：耕田",
+      "creator": "或出自 Jean II Pénicaud 工坊",
+      "date": "16 世紀中葉",
+      "technique": "銅胎畫琺瑯・局部鍍金",
+      "familyId": "painted-enamel-on-copper",
+      "visual": "金屬框裡，拉犁動物的淺色輪廓站在深田景前，丘坡和天空保有不同灰度；本站這張館方影像是黑白，不能拿來重建原件色彩。",
+      "method": "館方分項為銅胎畫琺瑯，局部鍍金。新設計可在小尺寸板面安排有層次的高光和帶節奏的剪影；這不是先用金屬細絲隔開色區的掐絲琺瑯。",
+      "why": "細至田地線仍可讀，多道窄反光給畫面工藝感。用明度確認主次比全板加金光有效。",
+      "unknown": "未核實實際琺瑯配方、窯溫和原件色值。此件的工坊歸屬是館方保留式鑑定。",
+      "prompt": "原創小型銅胎畫琺瑯，虛構果園整枝場景，深地上的薄暖白剪影，暗灰層次給樹影，局部金色只在邊框或連接簷口；不是金屬掐絲分格。",
+      "promptEn": "Original small plaque painted in enamel on copper, fictional orchard pruning scene, thin ivory silhouettes above a deep ground, tonal grays in tree shadows and restrained gilded details only on the rim and a few joints, no cloisonné wire cells.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.metmuseum.org/art/collection/search/197115",
+        "publisher": "The Metropolitan Museum of Art",
+        "credit": "或出自 Jean II Pénicaud 工坊；The Metropolitan Museum of Art，The Friedsam Collection，32.100.259",
+        "checked": "2026-11-18",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/The_Labors_of_the_Months-_Ploughing_%28September%29_MET_88443.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:The_Labors_of_the_Months-_Ploughing_%28September%29_MET_88443.jpg"
+      },
+      "license": {
+        "label": "Met Open Access・CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "image": {
+        "src": "assets/met-penicaud-enamel.webp",
+        "width": 680,
+        "height": 519,
+        "alt": "金屬框裡，拉犁動物的淺色輪廓站在深田景前，丘坡和天空保有不同灰度；本站這張館方影像是黑白，不能拿來重建原件色彩。",
+        "modification": "等比例縮小並轉為 WebP；未裁切或調色。",
+        "sha256": "16063154d22d0acd94204ba6b607d11c0ccb6de498bc75a7c6d425217ca9edfa"
+      }
+    },
+    {
+      "id": "met-poiret-pattern",
+      "library": "art",
+      "title": "Fabric Design with Stripes｜條紋織品圖樣",
+      "creator": "歸於 Paul Poiret",
+      "date": "約 1918–1925",
+      "technique": "織品圖樣・石墨起稿、模板與水粉",
+      "familyId": "textile-pattern-stencil-gouache",
+      "visual": "深藍階梯形沿桃粉色橫條重複，粉藍梳齒和曲鉤穿插上下，留底色的形狀同每個色塊一樣清楚。畫的是布料設計稿，不是成品織物。",
+      "method": "館方標水粉和模板覆於石墨。做另一個可用圖樣時，先以石墨對齊週期，再以模板控制主平塗，橋接點保證留白形態能反覆成形，最後平鋪兩個單元檢查接縫。",
+      "why": "不規則曲鉤與橫條共同提供節奏，底稿格線讓模組仍能對齊。不把平塗邊緣做成印花機像素。",
+      "unknown": "不清楚是否投產，也不知道以何種纖維、染色或手段做布面轉印。作者為館方歸屬，並非確證必為本人。",
+      "prompt": "原創水粉模板織品設計紙稿，淡杏底，海軍藍方格階梯和淡珊瑚色橫帶交互；以圓弧短梳齒連接週期接點，紙本平色填滿但保留間隙，邊界可無縫重複。",
+      "promptEn": "Original gouache-and-stencil textile design on paper, pale apricot ground with navy step-grid and mute coral stripes, short comb-like curves connect the repeat junctions, flat color fills with clean negative-space gaps and tileable edges.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://www.metmuseum.org/art/collection/search/353514",
+        "publisher": "The Metropolitan Museum of Art",
+        "credit": "歸於 Paul Poiret；The Metropolitan Museum of Art，1984.1176.4",
+        "checked": "2026-11-18",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Fabric_Design_with_Stripes_MET_DP807945.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Fabric_Design_with_Stripes_MET_DP807945.jpg"
+      },
+      "license": {
+        "label": "Met Open Access・CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "image": {
+        "src": "assets/met-poiret-pattern.webp",
+        "width": 1022,
+        "height": 1280,
+        "alt": "深藍階梯形沿桃粉色橫條重複，粉藍梳齒和曲鉤穿插上下，留底色的形狀同每個色塊一樣清楚。畫的是布料設計稿，不是成品織物。",
+        "modification": "等比例縮小並轉為 WebP；未裁切或調色。",
+        "sha256": "abcd209a63b70f19bce89489a4a04ba8d20542225de3b1ef4f6a4e93b3db7c21"
+      }
+    },
+    {
+      "id": "wc-gouache-perch",
+      "library": "art",
+      "title": "Perca fluviatilis illustration｜河鱸自然史插畫",
+      "creator": "Polymathie",
+      "date": "2022（公開）",
+      "technique": "自然史插畫・水粉原畫加數位整理",
+      "familyId": "gouache-digital-natural-history",
+      "visual": "側面的魚身以背鰭細刺、條帶和較淺腹部建立辨識，正側面剪影下有簡短的棲境素描。底紙大部分乾淨。",
+      "method": "作者明示為水粉並經數位編輯。練習宜先找形體與識別結構，再分薄底色和較不透明的鰭線；數位階段只調版面、留白和投影，不把不同部位混成均色。",
+      "why": "側面是可比較的標準視角；水粉可以在棕綠底上復加細亮邊，保住背鰭和鰓蓋輪廓。",
+      "unknown": "未公開軟體、圖層、筆刷或顏料品牌；提示詞用虛構魚類，不把插畫作識別證據。",
+      "prompt": "原創水粉自然史側視插畫：一條虛構河魚，灰綠背、米色腹、三至四條可區別的側紋，背鰭細刺和鰓蓋清楚，研究版面留白，數位整理紙邊但保留手繪紋理，不生成名稱。",
+      "promptEn": "Original gouache natural history plate of a fictional river fish in lateral view, cool olive back and warm ivory belly with three or four differentiated bands, clear dorsal spines and gill cover, quiet negative space and digital cleanup limited to margins, preserve hand-painted texture and omit labels.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Perca_fluviatilis_illustration.jpg",
+        "publisher": "Wikimedia Commons",
+        "credit": "Polymathie",
+        "checked": "2026-11-18",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Perca_fluviatilis_illustration.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Perca_fluviatilis_illustration.jpg"
+      },
+      "license": {
+        "label": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "image": {
+        "src": "assets/wc-gouache-perch.webp",
+        "width": 1280,
+        "height": 943,
+        "alt": "側面的魚身以背鰭細刺、條帶和較淺腹部建立辨識，正側面剪影下有簡短的棲境素描。底紙大部分乾淨。",
+        "modification": "等比例縮小並轉為 WebP；未裁切或調色。 轉檔圖像沿用同一授權，不代表作者背書。",
+        "sha256": "0c766b2ae90ea41a5d0949a70e4af1f684514636ce4becb0e5a53a6882bb18a0"
+      }
+    },
+    {
+      "id": "wc-edward-lettering",
+      "library": "art",
+      "title": "Writing & Illuminating & Lettering｜紅首字母與黑墨抄寫版面",
+      "creator": "Edward Johnston",
+      "date": "1906（書籍版本）；圖攝於 2010",
+      "technique": "書籍筆寫體・首字母與行節奏",
+      "familyId": "broad-edge-calligraphy-rubrication",
+      "visual": "紅首字母伸進左邊窄留白；內文黑墨筆勢有粗細轉換，換行不強配到齊右。下方短行收住第二段，書頁的視覺層級由兩色和筆畫節奏控制。",
+      "method": "來源辨認這是 1906 年書中的 Johnston 書法照片。練習先以尺定基線和 x-height，用一致寬筆角度練粗細，再把段首放大、改紅色並對準基線。這不是活字排印的字片疊色。",
+      "why": "首字母夠醒目但不壓過黑行，空白不是遺漏；粗細在單字之間依方向反覆出現，讓不等寬字仍有節奏。",
+      "unknown": "未核實此頁筆尖角度、寬度和紅色顏料，也不確定畫中是否另由書印複製；此照片的著作授權與 1906 年書法分開。",
+      "prompt": "虛構紙冊頁的英文字書寫練習，單一平均寬筆角度形成自然粗細，紅色大型段首，黑墨行的基線連續、右邊空白收束，保留紙紋，文字使用全新自創片段。",
+      "promptEn": "Original broad-pen manuscript study on natural paper, consistent nib angle creating directional thick and thin strokes, one oversized red drop cap, continuous black baseline with a ragged right edge and clean margins; use newly invented words not copied prose.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Edward_Johnston%2C_Writing_and_Illuminating_and_Lettering_%284935595370%29.jpg",
+        "publisher": "Wikimedia Commons",
+        "credit": "Edward Johnston（1906 書法）；Gwenddolen（2010 照片，CC BY 2.0）",
+        "checked": "2026-11-18",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Edward_Johnston%2C_Writing_and_Illuminating_and_Lettering_%284935595370%29.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Edward_Johnston%2C_Writing_and_Illuminating_and_Lettering_%284935595370%29.jpg"
+      },
+      "license": {
+        "label": "CC BY 2.0（照片）",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "image": {
+        "src": "assets/wc-edward-lettering.webp",
+        "width": 850,
+        "height": 1082,
+        "alt": "紅首字母伸進左邊窄留白；內文黑墨筆勢有粗細轉換，換行不強配到齊右。下方短行收住第二段，書頁的視覺層級由兩色和筆畫節奏控制。",
+        "modification": "等比例縮小並轉為 WebP；未裁切或調色。",
+        "sha256": "bc942c7836e4732ea53a17ae6c31e55b52460d250efac0a7f9edf099fd0d1a77"
+      }
+    },
+    {
+      "id": "yale-bartolozzi",
+      "library": "art",
+      "title": "Francis Grose｜點刻凹版人物",
+      "creator": "Francesco Bartolozzi",
+      "date": "1787",
+      "technique": "點刻凹版（stipple engraving）",
+      "familyId": "stipple-intaglio",
+      "visual": "人物外形以很細的灰線結束，袖口和面部的亮面不是留著全白輪廓，更多由小密度逐步轉入褲邊深暗。密點近看可和長流暢的外形線分開。",
+      "method": "館藏檔案列細質奶油色編織紙上的點刻凹版。練習先做淡輪廓，再以點距和點深建明暗；高光疏、接觸暗部密，不把細點改成數碼網版印刷的固定角度網點。",
+      "why": "變動點距能保持柔形的轉折，不像粗排線把柔邊都變成可見的直條。",
+      "unknown": "未核實這一張的點刻工具、入墨壓力和實際腐蝕工序。區別美柔汀磨亮和手繪油彩點描。",
+      "prompt": "虛構十八世紀風格人物凹版全身畫，用墨褐小點的疏密塑造臉及呢布，保持輪廓乾淨和疏亮紙底，陰影密點但不成規律網紋，不仿原肖像身份。",
+      "promptEn": "Original full-length intaglio figure study of a fictional eighteenth-century person, variable density of fine sepia stipple dots models the cheek and cloth, clean contours and bright paper with denser irregular shadows, no commercial halftone screen or recognizable sitter.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Francesco_Bartolozzi_-_Francis_Grose_-_B1978.43.614_-_Yale_Center_for_British_Art.jpg",
+        "publisher": "Yale Center for British Art",
+        "credit": "Francesco Bartolozzi；Yale Center for British Art，B1978.43.614",
+        "checked": "2026-11-18",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Francesco_Bartolozzi_-_Francis_Grose_-_B1978.43.614_-_Yale_Center_for_British_Art.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Francesco_Bartolozzi_-_Francis_Grose_-_B1978.43.614_-_Yale_Center_for_British_Art.jpg"
+      },
+      "license": {
+        "label": "Yale 館藏影像・CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "image": {
+        "src": "assets/yale-bartolozzi.webp",
+        "width": 766,
+        "height": 1280,
+        "alt": "人物外形以很細的灰線結束，袖口和面部的亮面不是留著全白輪廓，更多由小密度逐步轉入褲邊深暗。密點近看可和長流暢的外形線分開。",
+        "modification": "等比例縮小並轉為 WebP；未裁切或調色。",
+        "sha256": "4f8910e1c7282778f99163ff5556ee0795a85b66b592375f07480601dc36a121"
+      }
+    },
+    {
+      "id": "wc-quilling-paper-art",
+      "library": "art",
+      "title": "Paper art 2｜立邊卷紙室內佈景",
+      "creator": "Ajibola Eedris Adekanmbi（Adeedris）",
+      "date": "2021（檔案記錄）",
+      "technique": "卷紙手工・立邊窄條造型",
+      "familyId": "edgewise-paper-quilling",
+      "visual": "窗框、板凳等扁面有清楚階差；下方兩個行李形的內部分別用多個捲紙環和彎曲藍紙條，上方日形放射出短邊。高彩玫紅是底，不是卷紙本身的陰影。",
+      "method": "作者以自己的帳戶將作品列為 quilling（卷紙）。做新作品時可用寬底紙先建立平面，上面用立邊窄紙條繞弧、留空，再綴以不同鬆緊的卷圈，短側光能讓紙高度可見。",
+      "why": "同色的窄條、圈內空間和貼底形成三種亮度；因此卷紙讀起來是有厚度的物件，而不只是畫上螺旋。",
+      "unknown": "紙張厚度、黏著方式、拍攝燈位沒有公開。作者署名對應個人帳戶，公共同意只涵蓋這個檔案所列授權。",
+      "prompt": "原創紙工畫框內的小書房，在橘灰底上有摺起的窗台與書桌，幾疊彩色卷紙弧線立邊形成厚薄，卷圈有不同鬆緊、看得到局部側面和投射短影，不做平面印刷假紋。",
+      "promptEn": "Original quilled-paper miniature study room inside a frame, folded sill and desk against mute orange-gray, colored paper ribbons stand on edge in arcs and coils of different tension, show selected side surfaces and real short cast shadows, no printed imitation texture.",
+      "promptKind": "curator-derived",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Paper_art_2.jpg",
+        "publisher": "Wikimedia Commons",
+        "credit": "Ajibola Eedris Adekanmbi（Adeedris）",
+        "checked": "2026-11-18",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Paper_art_2.jpg",
+        "rightsUrl": "https://commons.wikimedia.org/wiki/File:Paper_art_2.jpg"
+      },
+      "license": {
+        "label": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "image": {
+        "src": "assets/wc-quilling-paper-art.webp",
+        "width": 1280,
+        "height": 1280,
+        "alt": "窗框、板凳等扁面有清楚階差；下方兩個行李形的內部分別用多個捲紙環和彎曲藍紙條，上方日形放射出短邊。高彩玫紅是底，不是卷紙本身的陰影。",
+        "modification": "等比例縮小並轉為 WebP；未裁切或調色。 轉檔圖像沿用同一授權，不代表作者背書。",
+        "sha256": "681de14fbce87f6c879630068d879133f82e136d0b3fad1007dc310d22fa89f9"
+      }
     }
   ]
 }
