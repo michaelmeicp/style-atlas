@@ -1,15 +1,15 @@
 {
-  "galleryImages": 59,
+  "galleryImages": 60,
   "referenceOnly": 51,
   "stats": {
-    "verifiedPairs": 110,
+    "verifiedPairs": 111,
     "byPlatform": {
       "note": 49,
       "linkedin": 1,
       "substack": 1,
       "taste": 6,
       "monigarr": 1,
-      "budgetpixel": 36,
+      "budgetpixel": 37,
       "commons": 6,
       "venustai": 3,
       "pixmind": 2,
@@ -18,9 +18,9 @@
     },
     "rights": {
       "link-only": 51,
-      "displayable": 59
+      "displayable": 60
     },
-    "distinctStyles": 94,
+    "distinctStyles": 95,
     "repeatCreators": [
       "Tatiana Tsiguleva",
       "リンファ (Rinfa)",
@@ -2425,6 +2425,37 @@
       "dimensions": [
         886,
         1182
+      ]
+    },
+    {
+      "id": "budgetpixel-michellemichaels-local-block-glitch",
+      "creator": "@michellemichaels via BudgetPixel AI",
+      "platform": "budgetpixel",
+      "channel": "creator-social",
+      "sourceDate": "2026-11-19",
+      "dateBasis": "posted",
+      "verifiedDate": "2026-11-19",
+      "source": "https://budgetpixel.com/p/109325",
+      "promptLocator": "原帖唯一成圖與主 Prompt 欄，作者明確區分局部數位破碎與傳統像素畫。",
+      "styleLabel": "局部數位破碎：硬方塊與窄幅色偏",
+      "resultObservation": "大小不一的硬邊方塊打斷臉、頭髮和外套部分區域，細窄青紫水平線穿過背景；大片衣料和街景仍保有連續紋理，形成清楚與破碎並存。",
+      "distinctStyleKey": "local-hard-block-discontinuity-narrow-color-offset",
+      "distinctReason": "在照片般連續表面局部插入不連續色塊和短水平色偏；不同於整幅像素格、均勻顆粒，或只加霓虹色調。",
+      "method": "保留主要衣料與環境的連續細節，把方塊限制在部分區域，再加少量短水平色偏，檢查破碎區與完整區是否有明顯對照。",
+      "limitation": "AI 模擬數位故障，不是真實監控畫面、資料損壞或壓縮測試。臉部仍部分可辨，沒有完全被馬賽克遮住；畫面文字不代表真實店名或地點。原檔約 7.35 MB，放大需載入完整圖片。",
+      "model": "SeeDream 5.0 Flash",
+      "rights": "displayable",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0（原帖圖像標示）",
+      "rightsSource": "https://budgetpixel.com/p/109325",
+      "modification": "原始 PNG 位元組未改；副檔名依實際格式，等比例展示。",
+      "credit": "Glitching woman in a black trench coat on a neon street · @michellemichaels via BudgetPixel AI · CC BY 4.0",
+      "copyPolicy": "僅展示授權成圖；完整提示詞請見作者原帖，不轉載全文。",
+      "classification": "photo",
+      "asset": "assets/budgetpixel-michellemichaels-local-block-glitch.png",
+      "dimensions": [
+        1664,
+        2496
       ]
     }
   ]
