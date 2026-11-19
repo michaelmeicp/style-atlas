@@ -1,15 +1,15 @@
 {
-  "galleryImages": 51,
+  "galleryImages": 53,
   "referenceOnly": 51,
   "stats": {
-    "verifiedPairs": 102,
+    "verifiedPairs": 104,
     "byPlatform": {
       "note": 49,
       "linkedin": 1,
       "substack": 1,
       "taste": 6,
       "monigarr": 1,
-      "budgetpixel": 28,
+      "budgetpixel": 30,
       "commons": 6,
       "venustai": 3,
       "pixmind": 2,
@@ -18,9 +18,9 @@
     },
     "rights": {
       "link-only": 51,
-      "displayable": 51
+      "displayable": 53
     },
-    "distinctStyles": 86,
+    "distinctStyles": 88,
     "repeatCreators": [
       "Tatiana Tsiguleva",
       "リンファ (Rinfa)",
@@ -2202,6 +2202,60 @@
       "copyPolicy": "僅展示授權成圖；完整提示詞請見作者原帖，不轉載全文。",
       "classification": "photo",
       "asset": "assets/budgetpixel-justrob-grain-tonal-desert.png"
+    },
+    {
+      "id": "budgetpixel-justrob-gilt-flat-tracery",
+      "creator": "@justrob via BudgetPixel AI",
+      "platform": "budgetpixel",
+      "channel": "creator-social",
+      "sourceDate": "2026-11-18",
+      "dateBasis": "posted",
+      "verifiedDate": "2026-11-19",
+      "source": "https://budgetpixel.com/p/108894",
+      "promptLocator": "原帖第五幅圖下獨立 Prompt 欄（海盜人物），不是第一幅洋裝主提示。",
+      "styleLabel": "仿金飾平面：花枝跨越衣袍與斑駁底色",
+      "resultObservation": "金黃色細枝與花朵沿青綠披風延伸，散點跨入背景；人物衣袍和藍綠斑塊被壓成近似同一裝飾平面，臉部仍保有較寫實的明暗。",
+      "distinctStyleKey": "gold-tracery-across-flat-mottled-ground",
+      "distinctReason": "用連續細金線與花飾串接人物及背景，讓平面斑駁色塊代替場景縱深；不是青銅物件的斜射光，也不是金框包住中心文字。",
+      "method": "把底色壓成少量低對比斑塊，再讓同一細線花飾穿過服裝和背景，以圖案的延續取代寫實空間。",
+      "limitation": "AI 裝飾插畫，沒有真實金箔、漆面或濕畫工藝證據。原提示要求站在舵手後看向遠方，但成圖只有單一人物和抽象底色，沒有可辨舵手或船。臉部仍有體積光影，並非全畫面完全平塗。",
+      "model": "Flux 1.1 Pro",
+      "rights": "displayable",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseLabel": "CC0 1.0（原帖圖像標示）",
+      "rightsSource": "https://budgetpixel.com/p/108894",
+      "modification": "原始 PNG 位元組未改；副檔名依實際格式，等比例展示。",
+      "credit": "Regal woman in a tricorn hat and flowing gold-embroidered teal cloak · @justrob via BudgetPixel AI · CC0 1.0",
+      "copyPolicy": "僅展示授權成圖；完整提示詞請見作者原帖，不轉載全文。",
+      "classification": "art",
+      "asset": "assets/budgetpixel-justrob-gilt-flat-tracery.png"
+    },
+    {
+      "id": "budgetpixel-justrob-cropped-type-distressed-planes",
+      "creator": "@justrob via BudgetPixel AI",
+      "platform": "budgetpixel",
+      "channel": "creator-social",
+      "sourceDate": "2026-11-18",
+      "dateBasis": "posted",
+      "verifiedDate": "2026-11-19",
+      "source": "https://budgetpixel.com/p/108892",
+      "promptLocator": "原帖第一幅圖的主 Prompt 欄，作者說明以文字作背景形狀；不宣稱畫中文字可讀。",
+      "styleLabel": "仿舊海報：裁切大字與人物前後分層",
+      "resultObservation": "超大的紅色殘缺字形在人物後方形成色塊，灰綠斜線和軌道把視線拉向中間；黑色擦痕、滴痕與褪色紙感跨越邊緣，前方人物仍有立體明暗。",
+      "distinctStyleKey": "cropped-type-background-distress-figure-plane",
+      "distinctReason": "把字形當作被裁切的背景塊面，與寫實人物、刮擦覆層建立前後關係；不等同可讀標題框、手寫字流或屋頂漫畫視角。",
+      "method": "先將巨大文字當形狀裁出畫面邊界，再放入清楚的前景人物；用少量紅色與黑色磨損痕把背景層串起來。",
+      "limitation": "這是 AI 仿印刷效果，不是真實網版或紙張老化。大字和小字多為不完整或無意義字串，不能當可直接印刷的標題或品牌字樣；提示未指定軌道，該背景屬這次成圖觀察。",
+      "model": "Flux 1.1 Pro",
+      "rights": "displayable",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseLabel": "CC0 1.0（原帖圖像標示）",
+      "rightsSource": "https://budgetpixel.com/p/108892",
+      "modification": "原始 PNG 位元組未改；副檔名依實際格式，等比例展示。",
+      "credit": "Retro grunge poster of a glamorous woman · @justrob via BudgetPixel AI · CC0 1.0",
+      "copyPolicy": "僅展示授權成圖；完整提示詞請見作者原帖，不轉載全文。",
+      "classification": "art",
+      "asset": "assets/budgetpixel-justrob-cropped-type-distressed-planes.png"
     }
   ]
 }
