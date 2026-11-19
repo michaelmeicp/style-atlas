@@ -1,15 +1,15 @@
 {
-  "galleryImages": 53,
+  "galleryImages": 55,
   "referenceOnly": 51,
   "stats": {
-    "verifiedPairs": 104,
+    "verifiedPairs": 106,
     "byPlatform": {
       "note": 49,
       "linkedin": 1,
       "substack": 1,
       "taste": 6,
       "monigarr": 1,
-      "budgetpixel": 30,
+      "budgetpixel": 32,
       "commons": 6,
       "venustai": 3,
       "pixmind": 2,
@@ -18,9 +18,9 @@
     },
     "rights": {
       "link-only": 51,
-      "displayable": 53
+      "displayable": 55
     },
-    "distinctStyles": 88,
+    "distinctStyles": 90,
     "repeatCreators": [
       "Tatiana Tsiguleva",
       "リンファ (Rinfa)",
@@ -2256,6 +2256,60 @@
       "copyPolicy": "僅展示授權成圖；完整提示詞請見作者原帖，不轉載全文。",
       "classification": "art",
       "asset": "assets/budgetpixel-justrob-cropped-type-distressed-planes.png"
+    },
+    {
+      "id": "budgetpixel-justrob-pen-wash-edge-density",
+      "creator": "@justrob via BudgetPixel AI",
+      "platform": "budgetpixel",
+      "channel": "creator-social",
+      "sourceDate": "2026-10-13",
+      "dateBasis": "posted",
+      "verifiedDate": "2026-11-19",
+      "source": "https://budgetpixel.com/p/93663",
+      "promptLocator": "原帖第三幅貓與高花圖下的獨立 Prompt 欄。",
+      "styleLabel": "鋼筆淡彩：密線主體與鬆散色邊",
+      "resultObservation": "貓毛和細長花莖以深色細線保持清楚，腳下黃綠色塊以不規則柔邊向空白紙面散開；大片奶油色留白把細節集中在下半部。",
+      "distinctStyleKey": "crisp-pen-density-soft-wash-boundary",
+      "distinctReason": "線的密度與色塊邊界分開控制：主體細線清楚、外圍色邊鬆散；不同於全幅密排線版畫或不透明厚塗。",
+      "method": "保留大面積淺底，把細線集中在主體輪廓，再讓透明淡色區越過輪廓並以不規則邊界消散。",
+      "limitation": "AI 仿鋼筆淡彩，不證明真實紙張吸水、顏料沉積或手繪工序。可見不規則色邊與細線，但提示的垂直流痕和濃厚潮痕並不明顯。",
+      "model": "Flux 1.1 Pro",
+      "rights": "displayable",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseLabel": "CC0 1.0（原帖圖像標示）",
+      "rightsSource": "https://budgetpixel.com/p/93663",
+      "modification": "原始 PNG 位元組未改；副檔名依實際格式，等比例展示。",
+      "credit": "Tabby cat gazing up at a tall flower · @justrob via BudgetPixel AI · CC0 1.0",
+      "copyPolicy": "僅展示授權成圖；完整提示詞請見作者原帖，不轉載全文。",
+      "classification": "art",
+      "asset": "assets/budgetpixel-justrob-pen-wash-edge-density.png"
+    },
+    {
+      "id": "budgetpixel-justrob-dimpled-metal-folded-petals",
+      "creator": "@justrob via BudgetPixel AI",
+      "platform": "budgetpixel",
+      "channel": "creator-social",
+      "sourceDate": "2026-11-14",
+      "dateBasis": "posted",
+      "verifiedDate": "2026-11-19",
+      "source": "https://budgetpixel.com/p/107598",
+      "promptLocator": "原帖第三幅綠貓與銅色大花圖下的獨立 Prompt 欄。",
+      "styleLabel": "仿金屬浮雕：凹點表面與摺面亮帶",
+      "resultObservation": "綠色貓身帶有密集凹點，銅色花瓣呈摺面亮暗帶；葉片與花瓣邊緣的暗縫形成分層浮起感，底部仍是白紙般的斑塊背景。",
+      "distinctStyleKey": "dimpled-metal-versus-folded-highlight-relief",
+      "distinctReason": "同一浮雕外觀中對比凹點表面與光滑摺面亮帶，不只替立體物件加金屬色或斜射光。",
+      "method": "細碎凹點留給大面積主體，花瓣以連續摺面亮帶呈現；用窄暗縫區分疊層，避免各區都使用同一紋理。",
+      "limitation": "AI 材質模擬，不是真實鍛銅工藝照片。原提示要求鏤空花絲與多層金屬片，這張主要呈現凹點、亮帶與疊層暗縫，不能確認真正穿孔構造。",
+      "model": "Flux 1.1 Pro",
+      "rights": "displayable",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseLabel": "CC0 1.0（原帖圖像標示）",
+      "rightsSource": "https://budgetpixel.com/p/107598",
+      "modification": "原始 PNG 位元組未改；副檔名依實際格式，等比例展示。",
+      "credit": "Emerald green cat with a copper dahlia · @justrob via BudgetPixel AI · CC0 1.0",
+      "copyPolicy": "僅展示授權成圖；完整提示詞請見作者原帖，不轉載全文。",
+      "classification": "art",
+      "asset": "assets/budgetpixel-justrob-dimpled-metal-folded-petals.png"
     }
   ]
 }
