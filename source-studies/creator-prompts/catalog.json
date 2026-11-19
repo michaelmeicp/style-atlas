@@ -1,15 +1,15 @@
 {
-  "galleryImages": 57,
+  "galleryImages": 59,
   "referenceOnly": 51,
   "stats": {
-    "verifiedPairs": 108,
+    "verifiedPairs": 110,
     "byPlatform": {
       "note": 49,
       "linkedin": 1,
       "substack": 1,
       "taste": 6,
       "monigarr": 1,
-      "budgetpixel": 34,
+      "budgetpixel": 36,
       "commons": 6,
       "venustai": 3,
       "pixmind": 2,
@@ -18,9 +18,9 @@
     },
     "rights": {
       "link-only": 51,
-      "displayable": 57
+      "displayable": 59
     },
-    "distinctStyles": 92,
+    "distinctStyles": 94,
     "repeatCreators": [
       "Tatiana Tsiguleva",
       "リンファ (Rinfa)",
@@ -2364,6 +2364,68 @@
       "copyPolicy": "僅展示授權成圖；完整提示詞請見作者原帖，不轉載全文。",
       "classification": "art",
       "asset": "assets/budgetpixel-justrob-broken-ink-spot-accent.png"
+    },
+    {
+      "id": "budgetpixel-suga2309-cel-contour-depth",
+      "creator": "@suga2309 via BudgetPixel AI",
+      "platform": "budgetpixel",
+      "channel": "creator-social",
+      "sourceDate": "2026-11-08",
+      "dateBasis": "posted",
+      "verifiedDate": "2026-11-19",
+      "source": "https://budgetpixel.com/p/104974",
+      "promptLocator": "原帖唯一成圖與其主 Prompt 欄；沒有採用其他貼文或參考圖片。",
+      "styleLabel": "賽璐璐人像：清楚輪廓與淡化遠景",
+      "resultObservation": "髮束、衣摺及肌膚暗部以清楚輪廓和分段色面構成，前景花紋依然可辨；後方街景的輪廓和細節較弱，粉紅鏡片透出雙眼。",
+      "distinctStyleKey": "cel-contour-shadow-islands-pastel-depth",
+      "distinctReason": "前景以分明線條和陰影色面保持可讀，背景逐步降低邊緣對比；不同於整幅兩色墨塊或只依賴漫畫仰角與標題區。",
+      "method": "先替前景保留乾淨輪廓和少量可分辨陰影形狀，再降低遠景線條對比與細節密度，讓繁複衣料不被背景搶走。",
+      "limitation": "AI 生成的點陣插畫，不是可編輯向量檔。雖然提示要求乾淨向量線條與賽璐璐明暗，成圖仍有柔和漸層及細顆粒；背景並非完全平塗或空白。",
+      "model": "SeeDream 5.0 Pro",
+      "rights": "displayable",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0（原帖圖像標示）",
+      "rightsSource": "https://budgetpixel.com/p/104974",
+      "modification": "原始 PNG 位元組未改；副檔名依實際格式，等比例展示。",
+      "credit": "Smiling woman with pink tinted sunglasses on a coastal street · @suga2309 via BudgetPixel AI · CC BY 4.0",
+      "copyPolicy": "僅展示授權成圖；完整提示詞請見作者原帖，不轉載全文。",
+      "classification": "art",
+      "asset": "assets/budgetpixel-suga2309-cel-contour-depth.png",
+      "dimensions": [
+        864,
+        1152
+      ]
+    },
+    {
+      "id": "budgetpixel-suga2309-veil-selective-occlusion",
+      "creator": "@suga2309 via BudgetPixel AI",
+      "platform": "budgetpixel",
+      "channel": "creator-social",
+      "sourceDate": "2026-11-07",
+      "dateBasis": "posted",
+      "verifiedDate": "2026-11-19",
+      "source": "https://budgetpixel.com/p/104494",
+      "promptLocator": "原帖唯一披紗人物成圖與主 Prompt 欄，非旁邊推薦作品。",
+      "styleLabel": "暗紗遮面：透出局部、藏住其餘",
+      "resultObservation": "鼻子與嘴唇可隔著細紗辨認，較深的折疊處遮住眼部與右側臉；衣袍與背景連成暗面，未被紗遮住的手指和淺色花朵形成視線落點。",
+      "distinctStyleKey": "draped-veil-selective-feature-occlusion",
+      "distinctReason": "靠貼近臉部的薄紗和重疊摺層選擇性露出五官；不同於保持整張臉清楚的濕玻璃前景，也不是一般暗底側光人像。",
+      "method": "指定哪些五官只略微透出、哪些被折疊遮住，再把手和小物留在遮罩之外；用遮與露的差別，而不是把整張圖一起壓暗。",
+      "limitation": "AI 模擬暗調肖像，不是真實紗料或透光率測試。原提示說臉被遮住，但鼻子和嘴唇仍可辨識；這是局部遮蔽，不是完全隱藏。不能由成圖推定鏡頭、照明設備或實際面料。",
+      "model": "Qwen Image 3.0 Pro",
+      "rights": "displayable",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0（原帖圖像標示）",
+      "rightsSource": "https://budgetpixel.com/p/104494",
+      "modification": "原始 PNG 位元組未改；副檔名依實際格式，等比例展示。",
+      "credit": "Veiled figure with thorn crown holding a flower · @suga2309 via BudgetPixel AI · CC BY 4.0",
+      "copyPolicy": "僅展示授權成圖；完整提示詞請見作者原帖，不轉載全文。",
+      "classification": "photo",
+      "asset": "assets/budgetpixel-suga2309-veil-selective-occlusion.png",
+      "dimensions": [
+        886,
+        1182
+      ]
     }
   ]
 }
