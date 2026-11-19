@@ -1,15 +1,15 @@
 {
-  "galleryImages": 49,
+  "galleryImages": 50,
   "referenceOnly": 51,
   "stats": {
-    "verifiedPairs": 100,
+    "verifiedPairs": 101,
     "byPlatform": {
       "note": 49,
       "linkedin": 1,
       "substack": 1,
       "taste": 6,
       "monigarr": 1,
-      "budgetpixel": 26,
+      "budgetpixel": 27,
       "commons": 6,
       "venustai": 3,
       "pixmind": 2,
@@ -18,9 +18,9 @@
     },
     "rights": {
       "link-only": 51,
-      "displayable": 49
+      "displayable": 50
     },
-    "distinctStyles": 84,
+    "distinctStyles": 85,
     "repeatCreators": [
       "Tatiana Tsiguleva",
       "リンファ (Rinfa)",
@@ -2148,6 +2148,33 @@
       "imageAudit": "Native first PNG 1344×1792 decoded and inspected; SHA pinned against source transfer; exact adjacent prompt and whole-post grant checked.",
       "classification": "photo",
       "creatorStyleSource": "https://justrobstyles.com/s/fogged-glass-lacquer"
+    },
+    {
+      "id": "budgetpixel-suga2309-echoed-gesture-emissive-axis",
+      "creator": "@suga2309 via BudgetPixel AI",
+      "platform": "budgetpixel",
+      "channel": "creator-social",
+      "sourceDate": "2026-11-14",
+      "dateBasis": "posted",
+      "verifiedDate": "2026-11-19",
+      "source": "https://budgetpixel.com/p/107485",
+      "promptLocator": "原帖單幅圖下 Prompt 欄；只確認帳號公開發布，不宣稱獨立撰寫。",
+      "styleLabel": "奇幻構圖：手臂與羽翼呼應的發光主軸",
+      "resultObservation": "小人物張開的雙臂呼應上方巨鳥的展翼，火焰把兩者連成中央上升軸；橙色亮部與深藍天空、兩側暗柱形成層次。",
+      "distinctStyleKey": "echoed-gesture-emissive-subject-axis",
+      "distinctReason": "以大小相異的相似姿態建立上下視線階層，並讓主體火焰成為場景內的光源，不只是一般冷暖對照或換一種神獸。",
+      "method": "先指定上下兩個互相呼應的姿態，再用同一亮色軸連接；兩側壓暗讓視線沿中心上移。",
+      "limitation": "這是 AI 奇幻插畫，不是實拍或物理光照驗證。原提示要求垂直構圖，但實際 PNG 為 1365×768 橫幅；只有畫面內的上下主軸成立，不宣稱直幅要求已達成。巨鳥羽翼在上緣被裁切。作者提及另作以龍替換主體，不把該變體另算一種技巧。",
+      "model": "Qwen Image 3.0 Pro",
+      "rights": "displayable",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0（原帖圖像標示）",
+      "rightsSource": "https://budgetpixel.com/p/107485",
+      "modification": "原始 PNG 位元組未改；副檔名依實際格式，等比例展示。",
+      "credit": "Giant fiery phoenix spreads wings above a woman · @suga2309 via BudgetPixel AI · CC BY 4.0",
+      "copyPolicy": "僅展示授權成圖；完整提示詞請見作者原帖，不轉載全文。",
+      "classification": "art",
+      "asset": "assets/budgetpixel-suga2309-echoed-gesture-emissive-axis.png"
     }
   ]
 }
