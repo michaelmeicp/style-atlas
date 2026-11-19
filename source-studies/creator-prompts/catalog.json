@@ -1,15 +1,15 @@
 {
-  "galleryImages": 68,
+  "galleryImages": 69,
   "referenceOnly": 51,
   "stats": {
-    "verifiedPairs": 119,
+    "verifiedPairs": 120,
     "byPlatform": {
       "note": 49,
       "linkedin": 1,
       "substack": 1,
       "taste": 6,
       "monigarr": 1,
-      "budgetpixel": 45,
+      "budgetpixel": 46,
       "commons": 6,
       "venustai": 3,
       "pixmind": 2,
@@ -18,9 +18,9 @@
     },
     "rights": {
       "link-only": 51,
-      "displayable": 68
+      "displayable": 69
     },
-    "distinctStyles": 103,
+    "distinctStyles": 104,
     "repeatCreators": [
       "Tatiana Tsiguleva",
       "リンファ (Rinfa)",
@@ -2704,6 +2704,37 @@
       "dimensions": [
         1792,
         1344
+      ]
+    },
+    {
+      "id": "budgetpixel-justrob-articulated-paint-craquelure",
+      "creator": "@justrob via BudgetPixel AI",
+      "platform": "budgetpixel",
+      "channel": "creator-social",
+      "sourceDate": "2026-11-04",
+      "dateBasis": "posted",
+      "verifiedDate": "2026-11-19",
+      "source": "https://budgetpixel.com/p/103098",
+      "promptLocator": "原帖第三張成圖旁的完整提示詞；作者列出六種模型順序，第三張為 Muse Image 1.0。完整文字請看原帖。",
+      "styleLabel": "仿漆面龜裂：立體臉部的細分岔",
+      "resultObservation": "細小分岔紋跟著玩偶的額頭、臉頰、頸部和手臂延伸。眼睛與嘴唇仍保留光澤，櫥窗上的長線和倒影比臉上的裂紋粗得多。",
+      "distinctStyleKey": "surface-following-branching-craquelure-gloss-contrast",
+      "distinctReason": "細分岔紋依附在立體主體表面，與眼唇光澤及櫥窗長線分開；不同於照片邊界老化或整幅加上相同顆粒。",
+      "method": "把細分岔龜裂集中在帶轉折的仿漆面，讓眼唇維持光澤；環境玻璃的長線和倒影另用較大尺度。",
+      "limitation": "AI 模擬外觀，不能從成圖證明真實漆面、材質或鏡頭。原提示詞要求面向觀者，成圖的頭部轉向畫面右側。只選同帖第三張，不把其他模型版本列為新技法。",
+      "model": "Muse Image 1.0",
+      "rights": "displayable",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseLabel": "CC0 1.0",
+      "rightsSource": "https://budgetpixel.com/p/103098",
+      "modification": "原始 PNG 位元組未改；副檔名依實際格式，等比例展示。",
+      "credit": "Handcrafted blonde girl marionette with a straw hat displayed · third image · @justrob via BudgetPixel AI · CC0 1.0",
+      "copyPolicy": "僅展示授權成圖；完整提示詞請見作者原帖，不轉載全文。",
+      "classification": "art",
+      "asset": "assets/budgetpixel-justrob-articulated-paint-craquelure.png",
+      "dimensions": [
+        1344,
+        1792
       ]
     }
   ]
