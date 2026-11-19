@@ -1,15 +1,15 @@
 {
-  "galleryImages": 65,
+  "galleryImages": 66,
   "referenceOnly": 51,
   "stats": {
-    "verifiedPairs": 116,
+    "verifiedPairs": 117,
     "byPlatform": {
       "note": 49,
       "linkedin": 1,
       "substack": 1,
       "taste": 6,
       "monigarr": 1,
-      "budgetpixel": 42,
+      "budgetpixel": 43,
       "commons": 6,
       "venustai": 3,
       "pixmind": 2,
@@ -18,9 +18,9 @@
     },
     "rights": {
       "link-only": 51,
-      "displayable": 65
+      "displayable": 66
     },
-    "distinctStyles": 100,
+    "distinctStyles": 101,
     "repeatCreators": [
       "Tatiana Tsiguleva",
       "リンファ (Rinfa)",
@@ -2611,6 +2611,37 @@
       "dimensions": [
         1344,
         1792
+      ]
+    },
+    {
+      "id": "budgetpixel-suga2309-foreshortened-dark-recession",
+      "creator": "@suga2309 via BudgetPixel AI",
+      "platform": "budgetpixel",
+      "channel": "creator-social",
+      "sourceDate": "2026-11-06",
+      "dateBasis": "posted",
+      "verifiedDate": "2026-11-19",
+      "source": "https://budgetpixel.com/p/104123",
+      "promptLocator": "原帖唯一成圖的主 Prompt 欄；含近前景魚頭、後方人物及深海暗背景描述。完整提示詞在原帖。",
+      "styleLabel": "近大遠隱：縮短透視與暗部消失",
+      "resultObservation": "張開的魚嘴佔據近前景，魚身與後方人物向右上方收窄、逐漸融入深藍黑暗；左方發亮的誘餌保留一個明確焦點，牙齒和魚頭的局部亮邊維持可讀。",
+      "distinctStyleKey": "foreshortened-near-mass-dark-recession-local-lure",
+      "distinctReason": "以巨大近景與斜向縮小、逐漸消失的後部建立縱深，讓單一局部亮點穩住視線；不同於水底城市的冷暖窗燈或多點燈光排列。",
+      "method": "將主要形體的近端放大，後段沿斜線收窄並壓入低對比暗底；只保留少量前緣亮面和一個孤立亮點，避免背景平均打亮。",
+      "limitation": "AI 奇幻成圖，不是真實海洋攝影、鏡頭或生物發光實驗。原提示寫人物抓魚尾，成圖雙手卻在魚身兩側；無法據此量測景深或光源強度。",
+      "model": "Qwen Image 3.0 Pro",
+      "rights": "displayable",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "rightsSource": "https://budgetpixel.com/p/104123",
+      "modification": "原始 PNG 位元組未改；副檔名依實際格式，等比例展示。",
+      "credit": "Sea witch and foreshortened anglerfish in dark water · @suga2309 via BudgetPixel AI · CC BY 4.0",
+      "copyPolicy": "僅展示授權成圖；完整提示詞請見作者原帖，不轉載全文。",
+      "classification": "art",
+      "asset": "assets/budgetpixel-suga2309-foreshortened-dark-recession.png",
+      "dimensions": [
+        2048,
+        1152
       ]
     }
   ]
