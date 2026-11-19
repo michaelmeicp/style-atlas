@@ -1,15 +1,15 @@
 {
-  "galleryImages": 55,
+  "galleryImages": 57,
   "referenceOnly": 51,
   "stats": {
-    "verifiedPairs": 106,
+    "verifiedPairs": 108,
     "byPlatform": {
       "note": 49,
       "linkedin": 1,
       "substack": 1,
       "taste": 6,
       "monigarr": 1,
-      "budgetpixel": 32,
+      "budgetpixel": 34,
       "commons": 6,
       "venustai": 3,
       "pixmind": 2,
@@ -18,9 +18,9 @@
     },
     "rights": {
       "link-only": 51,
-      "displayable": 55
+      "displayable": 57
     },
-    "distinctStyles": 90,
+    "distinctStyles": 92,
     "repeatCreators": [
       "Tatiana Tsiguleva",
       "リンファ (Rinfa)",
@@ -2310,6 +2310,60 @@
       "copyPolicy": "僅展示授權成圖；完整提示詞請見作者原帖，不轉載全文。",
       "classification": "art",
       "asset": "assets/budgetpixel-justrob-dimpled-metal-folded-petals.png"
+    },
+    {
+      "id": "budgetpixel-justrob-chalk-daylight-shadow",
+      "creator": "@justrob via BudgetPixel AI",
+      "platform": "budgetpixel",
+      "channel": "creator-social",
+      "sourceDate": "2026-11-15",
+      "dateBasis": "posted",
+      "verifiedDate": "2026-11-19",
+      "source": "https://budgetpixel.com/p/107745",
+      "promptLocator": "原帖第二幅側身人物圖下的獨立 Prompt 欄，含靠牆側身及幾何色塊的主體描述。",
+      "styleLabel": "粉牆日光：斜影、暖陰影與淺色塊",
+      "resultObservation": "側身人物站在奶油色和赭黃色牆面前，斜向日光切過矩形色塊；左方另有清楚人物投影，暗處保持暖褐而不是純黑。",
+      "distinctStyleKey": "warm-lifted-cast-shadow-chalk-color-planes",
+      "distinctReason": "以斜向光影跨越直角色塊，並讓人物投影成為第二個平衡形狀；不同於微小紙雕纖維陰影或暗室格窗束光。",
+      "method": "先將背景限制為少量淺色矩形，再以單一斜向明暗帶跨過它們；保留暖色陰影，讓實體與投影共同安排畫面重心。",
+      "limitation": "AI 模擬攝影，不是真實日光或牆面材質測試。原提示要求全身入鏡及一個冷色點綴，成圖下半身被裁切，沒有明顯淡藍重點；部分投影邊緣也比提示的柔邊更清楚。",
+      "model": "Flux 1.1 Pro",
+      "rights": "displayable",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseLabel": "CC0 1.0（原帖圖像標示）",
+      "rightsSource": "https://budgetpixel.com/p/107745",
+      "modification": "原始 PNG 位元組未改；副檔名依實際格式，等比例展示。",
+      "credit": "Woman in cream dress against a sunlit minimalist wall · @justrob via BudgetPixel AI · CC0 1.0",
+      "copyPolicy": "僅展示授權成圖；完整提示詞請見作者原帖，不轉載全文。",
+      "classification": "photo",
+      "asset": "assets/budgetpixel-justrob-chalk-daylight-shadow.png"
+    },
+    {
+      "id": "budgetpixel-justrob-broken-ink-spot-accent",
+      "creator": "@justrob via BudgetPixel AI",
+      "platform": "budgetpixel",
+      "channel": "creator-social",
+      "sourceDate": "2026-11-15",
+      "dateBasis": "posted",
+      "verifiedDate": "2026-11-19",
+      "source": "https://budgetpixel.com/p/107717",
+      "promptLocator": "原帖第四幅揉麵包師圖下的獨立 Prompt 欄，含紅髮、麵粉與揉麵主體描述。",
+      "styleLabel": "破邊墨塊：黑白壓縮與單點橘色",
+      "resultObservation": "圍裙與背景被壓成大片黑色，衣摺和桌面以斷裂白縫保留結構；粗糙邊緣與飛點打散黑塊，橘紅頭髮成為唯一大面積彩色焦點。",
+      "distinctStyleKey": "broken-brush-masses-spot-color-tonal-compression",
+      "distinctReason": "依靠大黑塊、斷裂白縫與飛點維持形體，不是細密交叉排線，也不是規則白樺刻線；局部橘色只負責聚焦。",
+      "method": "先把人物與場景壓成少量黑白區域，再以粗糙缺口和白縫重新交代衣摺與手勢；只保留一個局部彩色焦點。",
+      "limitation": "AI 仿墨畫效果，不是實際木刻或網版印刷。提示要求兩色，但圖中有奶油底、黑色和橘紅色，並非嚴格兩色；臉和手仍有局部細線與灰階紋理。",
+      "model": "Flux 1.1 Pro",
+      "rights": "displayable",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseLabel": "CC0 1.0（原帖圖像標示）",
+      "rightsSource": "https://budgetpixel.com/p/107717",
+      "modification": "原始 PNG 位元組未改；副檔名依實際格式，等比例展示。",
+      "credit": "Gritty ink illustration of a red-haired baker kneading dough · @justrob via BudgetPixel AI · CC0 1.0",
+      "copyPolicy": "僅展示授權成圖；完整提示詞請見作者原帖，不轉載全文。",
+      "classification": "art",
+      "asset": "assets/budgetpixel-justrob-broken-ink-spot-accent.png"
     }
   ]
 }
