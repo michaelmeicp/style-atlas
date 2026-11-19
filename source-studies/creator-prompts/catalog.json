@@ -1,15 +1,15 @@
 {
-  "galleryImages": 50,
+  "galleryImages": 51,
   "referenceOnly": 51,
   "stats": {
-    "verifiedPairs": 101,
+    "verifiedPairs": 102,
     "byPlatform": {
       "note": 49,
       "linkedin": 1,
       "substack": 1,
       "taste": 6,
       "monigarr": 1,
-      "budgetpixel": 27,
+      "budgetpixel": 28,
       "commons": 6,
       "venustai": 3,
       "pixmind": 2,
@@ -18,9 +18,9 @@
     },
     "rights": {
       "link-only": 51,
-      "displayable": 50
+      "displayable": 51
     },
-    "distinctStyles": 85,
+    "distinctStyles": 86,
     "repeatCreators": [
       "Tatiana Tsiguleva",
       "リンファ (Rinfa)",
@@ -2175,6 +2175,33 @@
       "copyPolicy": "僅展示授權成圖；完整提示詞請見作者原帖，不轉載全文。",
       "classification": "art",
       "asset": "assets/budgetpixel-suga2309-echoed-gesture-emissive-axis.png"
+    },
+    {
+      "id": "budgetpixel-justrob-grain-tonal-desert",
+      "creator": "@justrob via BudgetPixel AI",
+      "platform": "budgetpixel",
+      "channel": "creator-social",
+      "sourceDate": "2026-11-02",
+      "dateBasis": "posted",
+      "verifiedDate": "2026-11-19",
+      "source": "https://budgetpixel.com/p/102415",
+      "promptLocator": "原帖第一幅圖的主 Prompt 欄，作者另列六種模型對照；本卡只使用第一幅 SeeDream 5.0 Pro。",
+      "styleLabel": "模擬負片：細顆粒與沙丘冷暖調階",
+      "resultObservation": "細顆粒遍布天空與沙面；奶油色暖亮沙脊對照偏冷藍綠的陰影，寬廣沙丘呈連續柔和調階，四名騎者沿右上方脊線排列。",
+      "distinctStyleKey": "simulated-negative-grain-soft-tonal-planes",
+      "distinctReason": "把細顆粒、柔和亮部和大面積冷暖調階配合，讓明暗分界而非細節密度塑造沙丘；不把不同沙漠主體另算技巧。",
+      "method": "先以大面積明暗曲面安排小比例主體，再指定暖亮部、冷陰影及均勻細顆粒；檢查高光是否保有漸層，不只套用金色濾鏡。",
+      "limitation": "這是 AI 模擬照片，不是實拍 35mm 負片。原提示提到 anamorphic 光學與乳劑反應，成圖不足以驗證真實鏡頭、底片或感光特性；可見顆粒、調階與邊緣柔暗效果，不宣稱具有橢圓散景或拉伸耀光。四匹駱駝位於右上方，但不是極小的遠景。",
+      "model": "SeeDream 5.0 Pro",
+      "rights": "displayable",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseLabel": "CC0 1.0（原帖圖像標示）",
+      "rightsSource": "https://budgetpixel.com/p/102415",
+      "modification": "原始 PNG 位元組未改；副檔名依實際格式，等比例展示。",
+      "credit": "Four camel riders traverse rolling desert sand dunes · @justrob via BudgetPixel AI · CC0 1.0",
+      "copyPolicy": "僅展示授權成圖；完整提示詞請見作者原帖，不轉載全文。",
+      "classification": "photo",
+      "asset": "assets/budgetpixel-justrob-grain-tonal-desert.png"
     }
   ]
 }
