@@ -1,15 +1,15 @@
 {
-  "galleryImages": 60,
+  "galleryImages": 61,
   "referenceOnly": 51,
   "stats": {
-    "verifiedPairs": 111,
+    "verifiedPairs": 112,
     "byPlatform": {
       "note": 49,
       "linkedin": 1,
       "substack": 1,
       "taste": 6,
       "monigarr": 1,
-      "budgetpixel": 37,
+      "budgetpixel": 38,
       "commons": 6,
       "venustai": 3,
       "pixmind": 2,
@@ -18,9 +18,9 @@
     },
     "rights": {
       "link-only": 51,
-      "displayable": 60
+      "displayable": 61
     },
-    "distinctStyles": 95,
+    "distinctStyles": 96,
     "repeatCreators": [
       "Tatiana Tsiguleva",
       "リンファ (Rinfa)",
@@ -2456,6 +2456,37 @@
       "dimensions": [
         1664,
         2496
+      ]
+    },
+    {
+      "id": "budgetpixel-justrob-downward-drip-termination",
+      "creator": "@justrob via BudgetPixel AI",
+      "platform": "budgetpixel",
+      "channel": "creator-social",
+      "sourceDate": "2026-11-15",
+      "dateBasis": "posted",
+      "verifiedDate": "2026-11-19",
+      "source": "https://budgetpixel.com/p/107733",
+      "promptLocator": "原帖第五幅特寫圖下的獨立 Prompt 欄；該段主體寫海盜與舵手，成圖沒有忠實呈現這些元素。",
+      "styleLabel": "垂直流痕：清楚五官與下墜邊界",
+      "resultObservation": "眼鼻嘴保留清楚的立體明暗，左側深色塊和頸部下緣轉成細長垂直流痕；橘色線從額頭穿過臉及淺底，周圍散點沒有取代主要下墜方向。",
+      "distinctStyleKey": "resolved-face-downward-drip-termination",
+      "distinctReason": "以連續細長流痕接替形體下緣，把清楚核心向下拉散；不是外圍柔邊淡彩、整幅黑白墨塊或局部方形數位破碎。",
+      "method": "保留五官核心的清晰度，將頸部及外側暗塊的下緣改成長短不同的垂直細線，讓散點只輔助而不淹沒下墜方向。",
+      "limitation": "AI 仿流痕效果，不是實際濕畫、重力或顏料測試。第五幅提示要求海盜站在舵手後方，但結果只有孤立臉部特寫，沒有可辨帽子、舵手或船；應視為風格特徵出現、主體要求未遵循。",
+      "model": "Flux 1.1 Pro",
+      "rights": "displayable",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseLabel": "CC0 1.0（原帖圖像標示）",
+      "rightsSource": "https://budgetpixel.com/p/107733",
+      "modification": "原始 PNG 位元組未改；副檔名依實際格式，等比例展示。",
+      "credit": "Close-up portrait with orange and black downward drips · @justrob via BudgetPixel AI · CC0 1.0",
+      "copyPolicy": "僅展示授權成圖；完整提示詞請見作者原帖，不轉載全文。",
+      "classification": "art",
+      "asset": "assets/budgetpixel-justrob-downward-drip-termination.png",
+      "dimensions": [
+        864,
+        1152
       ]
     }
   ]
