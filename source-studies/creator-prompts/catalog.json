@@ -1,15 +1,15 @@
 {
-  "galleryImages": 63,
+  "galleryImages": 64,
   "referenceOnly": 51,
   "stats": {
-    "verifiedPairs": 114,
+    "verifiedPairs": 115,
     "byPlatform": {
       "note": 49,
       "linkedin": 1,
       "substack": 1,
       "taste": 6,
       "monigarr": 1,
-      "budgetpixel": 40,
+      "budgetpixel": 41,
       "commons": 6,
       "venustai": 3,
       "pixmind": 2,
@@ -18,9 +18,9 @@
     },
     "rights": {
       "link-only": 51,
-      "displayable": 63
+      "displayable": 64
     },
-    "distinctStyles": 98,
+    "distinctStyles": 99,
     "repeatCreators": [
       "Tatiana Tsiguleva",
       "リンファ (Rinfa)",
@@ -2546,6 +2546,37 @@
       "copyPolicy": "僅展示授權成圖；完整提示詞請見作者原帖，不轉載全文。",
       "classification": "art",
       "asset": "assets/budgetpixel-justrob-form-warped-lattice.png",
+      "dimensions": [
+        1344,
+        1792
+      ]
+    },
+    {
+      "id": "budgetpixel-justrob-luminous-edge-through-texture",
+      "creator": "@justrob via BudgetPixel AI",
+      "platform": "budgetpixel",
+      "channel": "creator-social",
+      "sourceDate": "2026-10-03",
+      "dateBasis": "posted",
+      "verifiedDate": "2026-11-19",
+      "source": "https://budgetpixel.com/p/89397",
+      "promptLocator": "原帖第三幅貓與花成圖下的獨立 Prompt 欄；完整作者提示詞請到原帖閱讀。",
+      "styleLabel": "透紋亮邊：暗底紋理穿過主體",
+      "resultObservation": "貓的耳緣、口鼻與鬍鬚保留柔亮輪廓，暗色斑點從背景延續到身體內部；上方花朵以淺粉與淡青局部著色，其他區域接近黑白。",
+      "distinctStyleKey": "luminous-soft-edge-shared-dark-ground-texture",
+      "distinctReason": "亮邊維持主體可辨，同時讓紙面般暗紋跨過主體和背景；不同於平面藍白剪影或兩個錯位人像疊加。",
+      "method": "保留辨識形體所需的少數亮邊，壓低內部填色，讓背景紋理在主體暗部持續可見；僅在另一個小主體加入淡色。",
+      "limitation": "AI 模擬亮邊與透紋效果，不是實際底片、X 光或暗房實驗。作者提示提到反相與中途曝光，但僅憑成圖不能驗證真正的色調反轉或物理曝光過程。",
+      "model": "Muse Image 1.0",
+      "rights": "displayable",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "rightsSource": "https://budgetpixel.com/p/89397",
+      "modification": "原始 PNG 位元組未改；副檔名依實際格式，等比例展示。",
+      "credit": "Luminous cat and pastel flower on textured dark ground · @justrob via BudgetPixel AI · CC BY 4.0",
+      "copyPolicy": "僅展示授權成圖；完整提示詞請見作者原帖，不轉載全文。",
+      "classification": "art",
+      "asset": "assets/budgetpixel-justrob-luminous-edge-through-texture.png",
       "dimensions": [
         1344,
         1792
