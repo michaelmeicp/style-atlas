@@ -1,15 +1,15 @@
 {
-  "galleryImages": 61,
+  "galleryImages": 62,
   "referenceOnly": 51,
   "stats": {
-    "verifiedPairs": 112,
+    "verifiedPairs": 113,
     "byPlatform": {
       "note": 49,
       "linkedin": 1,
       "substack": 1,
       "taste": 6,
       "monigarr": 1,
-      "budgetpixel": 38,
+      "budgetpixel": 39,
       "commons": 6,
       "venustai": 3,
       "pixmind": 2,
@@ -18,9 +18,9 @@
     },
     "rights": {
       "link-only": 51,
-      "displayable": 61
+      "displayable": 62
     },
-    "distinctStyles": 96,
+    "distinctStyles": 97,
     "repeatCreators": [
       "Tatiana Tsiguleva",
       "リンファ (Rinfa)",
@@ -2487,6 +2487,37 @@
       "dimensions": [
         864,
         1152
+      ]
+    },
+    {
+      "id": "budgetpixel-suga2309-light-geometry-depth",
+      "creator": "@suga2309 via BudgetPixel AI",
+      "platform": "budgetpixel",
+      "channel": "creator-social",
+      "sourceDate": "2026-11-07",
+      "dateBasis": "posted",
+      "verifiedDate": "2026-11-19",
+      "source": "https://budgetpixel.com/p/104527",
+      "promptLocator": "原帖唯一成圖下的 Prompt 欄；完整作者提示詞請到原帖閱讀。",
+      "styleLabel": "光形分層：近景環形、中景引線與遠景放射",
+      "resultObservation": "前景油燈沿彩繪外緣排成橢圓環，中景燈串描出向內收攏的屋簷，遠處煙火向外放射；人物和近地面仍保持暖橘色。",
+      "distinctStyleKey": "elliptical-linear-radial-light-geometry-depth",
+      "distinctReason": "同一發光母題隨景深改變幾何：近環形、中段透視線、遠端放射；不是只把相同小燈點放在三個景別，也不是節慶題材本身。",
+      "method": "讓近景光點沿完整曲線包圍主體，再讓中景光點追隨收攏的邊線，遠景改為放射形狀；避免三層都用同一種燈點排列。",
+      "limitation": "AI 插畫的構圖觀察，不是實景攝影或光學測量。天空有藍紫煙火，但人物仍以暖橘光為主，不能說煙火已照出相應膚色。",
+      "model": "Qwen Image 3.0 Pro",
+      "rights": "displayable",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "rightsSource": "https://budgetpixel.com/p/104527",
+      "modification": "原始 PNG 位元組未改；副檔名依實際格式，等比例展示。",
+      "credit": "Diwali courtyard with rangoli, lamps and fireworks · @suga2309 via BudgetPixel AI · CC BY 4.0",
+      "copyPolicy": "僅展示授權成圖；完整提示詞請見作者原帖，不轉載全文。",
+      "classification": "art",
+      "asset": "assets/budgetpixel-suga2309-light-geometry-depth.png",
+      "dimensions": [
+        1365,
+        768
       ]
     }
   ]
