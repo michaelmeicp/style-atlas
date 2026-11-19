@@ -1,15 +1,15 @@
 {
-  "galleryImages": 66,
+  "galleryImages": 67,
   "referenceOnly": 51,
   "stats": {
-    "verifiedPairs": 117,
+    "verifiedPairs": 118,
     "byPlatform": {
       "note": 49,
       "linkedin": 1,
       "substack": 1,
       "taste": 6,
       "monigarr": 1,
-      "budgetpixel": 43,
+      "budgetpixel": 44,
       "commons": 6,
       "venustai": 3,
       "pixmind": 2,
@@ -18,9 +18,9 @@
     },
     "rights": {
       "link-only": 51,
-      "displayable": 66
+      "displayable": 67
     },
-    "distinctStyles": 101,
+    "distinctStyles": 102,
     "repeatCreators": [
       "Tatiana Tsiguleva",
       "リンファ (Rinfa)",
@@ -2642,6 +2642,37 @@
       "dimensions": [
         2048,
         1152
+      ]
+    },
+    {
+      "id": "budgetpixel-michellemichaels-screen-silhouette-in-scene",
+      "creator": "@michellemichaels via BudgetPixel AI",
+      "platform": "budgetpixel",
+      "channel": "creator-social",
+      "sourceDate": "2026-11-15",
+      "dateBasis": "posted",
+      "verifiedDate": "2026-11-19",
+      "source": "https://budgetpixel.com/p/107677",
+      "promptLocator": "原帖唯一成圖的主 Prompt 欄；作者描述窗簾上兩人剪影、鄉間小屋與月夜。完整提示詞在原帖。",
+      "styleLabel": "框中剪影：亮窗平面與立體夜景",
+      "resultObservation": "明亮窗簾內的兩人側臉簡化成深色輪廓，外面的屋瓦、石牆和小徑仍保有立體明暗與紋理；窗框將兩種描繪方式分開，暖亮矩形成為夜景中的敘事焦點。",
+      "distinctStyleKey": "framed-flat-silhouette-screen-in-dimensional-scene",
+      "distinctReason": "把簡化剪影局限於場景中的亮窗平面，與周圍有材質和體積的房屋對照；不同於全畫面平塗剪影或只使用冷暖夜燈。",
+      "method": "先保留外部建築和道路的體積，再以一塊有清楚邊框的亮面承載人物輪廓；讓內外的細節密度不同，而不是把整幅都做成剪影。",
+      "limitation": "AI 模擬場景，不是真實住家或人物影像。人物下半部延伸到亮窗簾以下，無法確認全部是符合物理的投影；不把輪廓間的空隙宣稱為完美心形。原圖約 6.7 MB，放大載入完整檔。",
+      "model": "SeeDream 5.0 Flash",
+      "rights": "displayable",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "rightsSource": "https://budgetpixel.com/p/107677",
+      "modification": "原始 PNG 位元組未改；副檔名依實際格式，等比例展示。",
+      "credit": "Cottage at night with two silhouettes on a window shade · @michellemichaels via BudgetPixel AI · CC BY 4.0",
+      "copyPolicy": "僅展示授權成圖；完整提示詞請見作者原帖，不轉載全文。",
+      "classification": "art",
+      "asset": "assets/budgetpixel-michellemichaels-screen-silhouette-in-scene.png",
+      "dimensions": [
+        1776,
+        2368
       ]
     }
   ]
