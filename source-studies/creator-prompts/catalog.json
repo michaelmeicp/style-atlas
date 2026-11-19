@@ -1,15 +1,15 @@
 {
-  "galleryImages": 64,
+  "galleryImages": 65,
   "referenceOnly": 51,
   "stats": {
-    "verifiedPairs": 115,
+    "verifiedPairs": 116,
     "byPlatform": {
       "note": 49,
       "linkedin": 1,
       "substack": 1,
       "taste": 6,
       "monigarr": 1,
-      "budgetpixel": 41,
+      "budgetpixel": 42,
       "commons": 6,
       "venustai": 3,
       "pixmind": 2,
@@ -18,9 +18,9 @@
     },
     "rights": {
       "link-only": 51,
-      "displayable": 64
+      "displayable": 65
     },
-    "distinctStyles": 99,
+    "distinctStyles": 100,
     "repeatCreators": [
       "Tatiana Tsiguleva",
       "リンファ (Rinfa)",
@@ -2577,6 +2577,37 @@
       "copyPolicy": "僅展示授權成圖；完整提示詞請見作者原帖，不轉載全文。",
       "classification": "art",
       "asset": "assets/budgetpixel-justrob-luminous-edge-through-texture.png",
+      "dimensions": [
+        1344,
+        1792
+      ]
+    },
+    {
+      "id": "budgetpixel-justrob-pierced-shadowbox-depth",
+      "creator": "@justrob via BudgetPixel AI",
+      "platform": "budgetpixel",
+      "channel": "creator-social",
+      "sourceDate": "2026-10-03",
+      "dateBasis": "posted",
+      "verifiedDate": "2026-11-19",
+      "source": "https://budgetpixel.com/p/89421",
+      "promptLocator": "原帖第三幅貓與花成圖下的獨立 Prompt 欄；完整作者提示詞請到原帖閱讀。",
+      "styleLabel": "鏤空影盒：層間空隙與背光",
+      "resultObservation": "外框內的多重紙片般邊框、波紋與枝條前後遮疊，側邊橫條及層間陰影交代深度；鏤空孔洞延伸進貓身和葉片，暖色背光從空隙透出。",
+      "distinctStyleKey": "pierced-connected-forms-stepped-shadowbox-depth",
+      "distinctReason": "用框內前後分離的鏤空面、遮擋及透光空隙建立深度，不同於只強調紙口纖維與側光投影的疊紙山脊。",
+      "method": "先安排數層可互相遮擋的框和枝葉，保留可透光的孔洞，讓鏤空紋樣進入主體內部；用層間暗影分開前後。",
+      "limitation": "這是 AI 生成的紙雕視覺，不是實物施工示範。貓和花仍有圓潤體積，並非全部平面剪影；無法由成圖確認每個形狀都連在同一張紙上，或能依此實際切製。",
+      "model": "Muse Image 1.0",
+      "rights": "displayable",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "rightsSource": "https://budgetpixel.com/p/89421",
+      "modification": "原始 PNG 位元組未改；副檔名依實際格式，等比例展示。",
+      "credit": "Layered perforated cat and flower shadow box · @justrob via BudgetPixel AI · CC BY 4.0",
+      "copyPolicy": "僅展示授權成圖；完整提示詞請見作者原帖，不轉載全文。",
+      "classification": "art",
+      "asset": "assets/budgetpixel-justrob-pierced-shadowbox-depth.png",
       "dimensions": [
         1344,
         1792
