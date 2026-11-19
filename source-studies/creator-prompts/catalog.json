@@ -1,15 +1,15 @@
 {
-  "galleryImages": 62,
+  "galleryImages": 63,
   "referenceOnly": 51,
   "stats": {
-    "verifiedPairs": 113,
+    "verifiedPairs": 114,
     "byPlatform": {
       "note": 49,
       "linkedin": 1,
       "substack": 1,
       "taste": 6,
       "monigarr": 1,
-      "budgetpixel": 39,
+      "budgetpixel": 40,
       "commons": 6,
       "venustai": 3,
       "pixmind": 2,
@@ -18,9 +18,9 @@
     },
     "rights": {
       "link-only": 51,
-      "displayable": 62
+      "displayable": 63
     },
-    "distinctStyles": 97,
+    "distinctStyles": 98,
     "repeatCreators": [
       "Tatiana Tsiguleva",
       "リンファ (Rinfa)",
@@ -2518,6 +2518,37 @@
       "dimensions": [
         1365,
         768
+      ]
+    },
+    {
+      "id": "budgetpixel-justrob-form-warped-lattice",
+      "creator": "@justrob via BudgetPixel AI",
+      "platform": "budgetpixel",
+      "channel": "creator-social",
+      "sourceDate": "2026-10-03",
+      "dateBasis": "posted",
+      "verifiedDate": "2026-11-19",
+      "source": "https://budgetpixel.com/p/89378",
+      "promptLocator": "原帖第三幅貓與花成圖的獨立 Prompt 與授權欄；完整作者提示詞請到原帖閱讀。",
+      "styleLabel": "曲格塑形：網格跨過主體與背景",
+      "resultObservation": "白色曲格同時跨過黑底、貓頭與前爪，在耳旁和輪廓附近壓密或彎曲；右上的粉紅花朵從密格中分離，成為視線錨點。",
+      "distinctStyleKey": "shared-curved-lattice-form-compression",
+      "distinctReason": "讓網格本身彎曲和壓密來提示形體，而非用直線工程格疊在人像上，也不是獨立同心色環。",
+      "method": "先保留主體輪廓，再使格線接近邊緣時變密、跨過凸面時張開；讓背景共用線條，並用小面積單一色系標出視線錨點。",
+      "limitation": "AI 模擬曲格塑形，不是測量過的錯視或實際凸起。原提示要求不分階的平塗，但耳、口鼻和前爪仍有灰階明暗，花瓣也有多層粉色；不能稱完全靠網格、完全無陰影。",
+      "model": "Muse Image 1.0",
+      "rights": "displayable",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "rightsSource": "https://budgetpixel.com/p/89378",
+      "modification": "原始 PNG 位元組未改；副檔名依實際格式，等比例展示。",
+      "credit": "Warped-grid cat with pink lotus · @justrob via BudgetPixel AI · CC BY 4.0",
+      "copyPolicy": "僅展示授權成圖；完整提示詞請見作者原帖，不轉載全文。",
+      "classification": "art",
+      "asset": "assets/budgetpixel-justrob-form-warped-lattice.png",
+      "dimensions": [
+        1344,
+        1792
       ]
     }
   ]
