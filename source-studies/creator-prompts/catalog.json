@@ -1,15 +1,15 @@
 {
-  "galleryImages": 70,
+  "galleryImages": 71,
   "referenceOnly": 51,
   "stats": {
-    "verifiedPairs": 121,
+    "verifiedPairs": 122,
     "byPlatform": {
       "note": 49,
       "linkedin": 1,
       "substack": 1,
       "taste": 6,
       "monigarr": 1,
-      "budgetpixel": 47,
+      "budgetpixel": 48,
       "commons": 6,
       "venustai": 3,
       "pixmind": 2,
@@ -18,9 +18,9 @@
     },
     "rights": {
       "link-only": 51,
-      "displayable": 70
+      "displayable": 71
     },
-    "distinctStyles": 105,
+    "distinctStyles": 106,
     "repeatCreators": [
       "Tatiana Tsiguleva",
       "リンファ (Rinfa)",
@@ -2766,6 +2766,37 @@
       "dimensions": [
         800,
         1424
+      ]
+    },
+    {
+      "id": "budgetpixel-michelle-mirror-bounded-counterimage",
+      "creator": "@michellemichaels via BudgetPixel AI",
+      "platform": "budgetpixel",
+      "channel": "creator-social",
+      "sourceDate": "2026-10-30",
+      "dateBasis": "posted",
+      "verifiedDate": "2026-11-19",
+      "source": "https://budgetpixel.com/p/101316",
+      "promptLocator": "原帖唯一成圖下的 Prompt（不同於 About this image 說明），同段標明 SeeDream 5.0 Flash。完整提示詞請看原帖。",
+      "styleLabel": "鏡框內換臉：同場並置兩種面孔",
+      "resultObservation": "女子在鏡外拿著口紅，旁邊橢圓鏡框內是一張神情和特徵不同、皺紋鮮明的灰暗面孔。框內圖像沒有越過金屬邊緣，兩張面孔在同一畫面都清楚可辨。",
+      "distinctStyleKey": "frame-bounded-counterimage-narrative-composite",
+      "distinctReason": "把不一致的第二張面孔限制在鏡框內，同場保留鏡外人物；不是把同場景簡化成窗內剪影，也不是在整幅畫面疊兩張人像。",
+      "method": "保留可辨的鏡外人物，把第二張面孔完整限制於鏡框內，讓差異成為敘事線索。",
+      "limitation": "這是生成的敘事構圖，不是物理反射、真實變老或真人身分的證據；不要求兩張面孔的姿勢或視線一致。",
+      "model": "SeeDream 5.0 Flash",
+      "rights": "displayable",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0（圖像）",
+      "rightsSource": "https://budgetpixel.com/p/101316",
+      "modification": "原始 PNG 位元組未改；副檔名依實際格式，等比例展示。",
+      "credit": "Shocked blonde woman stares at an ornate hand mirror showing an old hag reflection · @michellemichaels via BudgetPixel AI · CC BY 4.0",
+      "copyPolicy": "僅展示授權成圖；完整提示詞請見作者原帖，不轉載全文。",
+      "classification": "art",
+      "asset": "assets/budgetpixel-michelle-mirror-bounded-counterimage.png",
+      "dimensions": [
+        1152,
+        864
       ]
     }
   ]
