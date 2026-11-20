@@ -1,15 +1,15 @@
 {
-  "galleryImages": 71,
+  "galleryImages": 72,
   "referenceOnly": 51,
   "stats": {
-    "verifiedPairs": 122,
+    "verifiedPairs": 123,
     "byPlatform": {
       "note": 49,
       "linkedin": 1,
       "substack": 1,
       "taste": 6,
       "monigarr": 1,
-      "budgetpixel": 48,
+      "budgetpixel": 49,
       "commons": 6,
       "venustai": 3,
       "pixmind": 2,
@@ -18,9 +18,9 @@
     },
     "rights": {
       "link-only": 51,
-      "displayable": 71
+      "displayable": 72
     },
-    "distinctStyles": 106,
+    "distinctStyles": 107,
     "repeatCreators": [
       "Tatiana Tsiguleva",
       "リンファ (Rinfa)",
@@ -2797,6 +2797,37 @@
       "dimensions": [
         1152,
         864
+      ]
+    },
+    {
+      "id": "budgetpixel-justrob-crisp-mask-interior-gradient",
+      "creator": "@justrob via BudgetPixel AI",
+      "platform": "budgetpixel",
+      "channel": "creator-social",
+      "sourceDate": "2026-10-04",
+      "dateBasis": "posted",
+      "verifiedDate": "2026-11-19",
+      "source": "https://budgetpixel.com/p/89493",
+      "promptLocator": "原帖第三張貓和大花旁的完整 Prompt 對應這幅成圖，模型標示 GPT-Image-2。完整提示詞請看原帖。",
+      "styleLabel": "仿遮罩噴筆：花瓣內漸層，交疊處硬收邊",
+      "resultObservation": "上方大片花瓣由珊瑚紅連續過渡到橙黃，但相疊花瓣之間、花瓣與暗藍背景之間保留銳利邊界；細黃葉緣也沿著清楚的葉形收邊。",
+      "distinctStyleKey": "hard-mask-boundary-continuous-interior-gradient",
+      "distinctReason": "連續漸層只限於形內，交疊處靠硬邊分隔；不同於二值模板的純色面，亦非賽璐璐形內清楚分塊的硬影。",
+      "method": "先把相疊花瓣分成各自形狀，形內保留漸層，但不讓漸層跨過輪廓，以花瓣交疊處檢查。",
+      "limitation": "僅是生成的仿噴筆效果，不證實實際使用噴筆或實體遮罩；部分花瓣仍有條紋，貓毛不屬於此對照。",
+      "model": "GPT-Image-2",
+      "rights": "displayable",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseLabel": "CC0 1.0",
+      "rightsSource": "https://budgetpixel.com/p/89493",
+      "modification": "原始 PNG 位元組未改；副檔名依實際格式，等比例展示。",
+      "credit": "Fluffy tabby kitten gazes up at a giant peach flower on a futuristic alien terrace at twilight · third image · @justrob via BudgetPixel AI · CC0 1.0",
+      "copyPolicy": "僅展示授權成圖；完整提示詞請見作者原帖，不轉載全文。",
+      "classification": "art",
+      "asset": "assets/budgetpixel-justrob-crisp-mask-interior-gradient.png",
+      "dimensions": [
+        768,
+        1024
       ]
     }
   ]
