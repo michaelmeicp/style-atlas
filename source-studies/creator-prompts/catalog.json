@@ -1,15 +1,15 @@
 {
-  "galleryImages": 69,
+  "galleryImages": 70,
   "referenceOnly": 51,
   "stats": {
-    "verifiedPairs": 120,
+    "verifiedPairs": 121,
     "byPlatform": {
       "note": 49,
       "linkedin": 1,
       "substack": 1,
       "taste": 6,
       "monigarr": 1,
-      "budgetpixel": 46,
+      "budgetpixel": 47,
       "commons": 6,
       "venustai": 3,
       "pixmind": 2,
@@ -18,9 +18,9 @@
     },
     "rights": {
       "link-only": 51,
-      "displayable": 69
+      "displayable": 70
     },
-    "distinctStyles": 104,
+    "distinctStyles": 105,
     "repeatCreators": [
       "Tatiana Tsiguleva",
       "リンファ (Rinfa)",
@@ -2735,6 +2735,37 @@
       "dimensions": [
         1344,
         1792
+      ]
+    },
+    {
+      "id": "budgetpixel-michelle-impasto-stroke-scale",
+      "creator": "@michellemichaels via BudgetPixel AI",
+      "platform": "budgetpixel",
+      "channel": "creator-social",
+      "sourceDate": "2026-11-14",
+      "dateBasis": "posted",
+      "verifiedDate": "2026-11-19",
+      "source": "https://budgetpixel.com/p/107229",
+      "promptLocator": "原帖唯一成圖下的 Prompt（不同於 About this image 說明），同段標明 SeeDream 5.0 Flash。完整提示詞請看原帖。",
+      "styleLabel": "仿厚塗：人物細筆與背景大筆痕",
+      "resultObservation": "眼、唇與衣縫用細筆痕，前臂和肩膀有中等長度、隨輪廓走向的亮筆痕；背景則用大面積鈷藍、赭黃和白色的拖抹筆痕。",
+      "distinctStyleKey": "three-scale-directional-impasto-mark-hierarchy",
+      "distinctReason": "以三種筆痕尺度和走向維持人物輪廓與背景的層次，不是以鋼筆線密度控制主體、以淡彩鬆散邊界。",
+      "method": "讓眼唇和衣縫保留小筆痕，手臂以稍長、順形的亮筆痕呈現，背景以寬筆痕分開；這是成圖可見的畫面安排。",
+      "limitation": "AI 模擬繪畫外觀，不能證實實際油彩、刮刀、厚度或作畫順序；不從成圖推斷未公開的生成設定。",
+      "model": "SeeDream 5.0 Flash",
+      "rights": "displayable",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0（圖像）",
+      "rightsSource": "https://budgetpixel.com/p/107229",
+      "modification": "原始 PNG 位元組未改；副檔名依實際格式，等比例展示。",
+      "credit": "Vibrant impasto oil portrait of a smiling woman in denim overalls · @michellemichaels via BudgetPixel AI · CC BY 4.0",
+      "copyPolicy": "僅展示授權成圖；完整提示詞請見作者原帖，不轉載全文。",
+      "classification": "art",
+      "asset": "assets/budgetpixel-michelle-impasto-stroke-scale.png",
+      "dimensions": [
+        800,
+        1424
       ]
     }
   ]
